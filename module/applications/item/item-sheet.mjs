@@ -14,8 +14,8 @@ export default class SW5eItemSheet extends HandlebarsApplicationMixin(ItemSheetV
   static PARTS = {
     header: { template: "systems/sw5e/templates/item/parts/header.hbs" },
     tabs: { template: "templates/generic/tab-navigation.hbs" },
-    details: { template: "systems/sw5e/templates/item/parts/details.hbs" },
-    description: { template: "systems/sw5e/templates/item/parts/description.hbs" }
+    details: { template: "systems/sw5e/templates/item/parts/details.hbs", scrollable: [""] },
+    description: { template: "systems/sw5e/templates/item/parts/description.hbs", scrollable: [""] }
   };
 
   tabGroups = { primary: "details" };

@@ -27,7 +27,7 @@ export default class SW5eNpcSheet extends HandlebarsApplicationMixin(ActorSheetV
     main: { template: "systems/sw5e/templates/actor/parts/npc-main.hbs", scrollable: [""] },
     inventory: { template: "systems/sw5e/templates/actor/parts/character-inventory.hbs", scrollable: [""] },
     features: { template: "systems/sw5e/templates/actor/parts/npc-features.hbs", scrollable: [""] },
-    biography: { template: "systems/sw5e/templates/actor/parts/biography.hbs" }
+    biography: { template: "systems/sw5e/templates/actor/parts/biography.hbs", scrollable: [""] }
   };
 
   tabGroups = { primary: "main" };

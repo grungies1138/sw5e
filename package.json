@@ -1,6 +1,6 @@
 {
   "name": "sw5e",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Star Wars 5e game system for Foundry Virtual Tabletop",
   "type": "module",
   "private": true,
