@@ -108,7 +108,12 @@ export default class SW5eCharacterWizard extends HandlebarsApplicationMixin(Appl
     this.actor = actor;
     const abilities = {};
     for (const key of Object.keys(SW5E.abilities)) abilities[key] = actor.system.abilities[key]?.value ?? 10;
-    this.state = {
+    // Named `wizardState`, not `state` -- ApplicationV2 already defines a
+    // getter-only `state` property for its own render lifecycle, and
+    // assigning `this.state` here throws ("Cannot set property state of
+    // #<ApplicationV2> which has only a getter"), which silently broke
+    // opening the wizard at all (the constructor never completed).
+    this.wizardState = {
       abilityMethod: "manual",
       abilities,
       standardArray: { str: "", dex: "", con: "", int: "", wis: "", cha: "" },
@@ -165,7 +170,7 @@ export default class SW5eCharacterWizard extends HandlebarsApplicationMixin(Appl
   async _prepareContext(options) {
     const context = await super._prepareContext(options);
     const actor = this.actor;
-    const state = this.state;
+    const state = this.wizardState;
     context.actor = actor;
     context.state = state;
     context.config = SW5E;
@@ -346,7 +351,7 @@ export default class SW5eCharacterWizard extends HandlebarsApplicationMixin(Appl
   /* -------------------------------------------- */
 
   static async #onFormChange(event, form, formData) {
-    foundry.utils.mergeObject(this.state, formData.object, { insertKeys: true, insertValues: true });
+    foundry.utils.mergeObject(this.wizardState, formData.object, { insertKeys: true, insertValues: true });
     this.render();
   }
 
@@ -357,7 +362,7 @@ export default class SW5eCharacterWizard extends HandlebarsApplicationMixin(Appl
   static async #onApply(event, target) {
     const errors = [];
     const actor = this.actor;
-    const state = this.state;
+    const state = this.wizardState;
     const context = await this._prepareContext({});
 
     // ---- Resolve final ability scores ----
