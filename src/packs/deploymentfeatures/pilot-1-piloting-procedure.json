@@ -1,0 +1,22 @@
+{
+  "_id": "bnOTFdUjxbf0uf1t",
+  "name": "Piloting Procedure",
+  "type": "deploymentFeature",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn two Tactics of your choice from the Pilot's shared list (see the Tactics power-die options), each of which costs one power die drawn from the ship's Engines pool (or central storage) to activate. You learn an additional Tactic at each Pilot rank thereafter, to a maximum of five known Tactics at 5th rank, and can swap one known Tactic for another whenever you gain a rank in this deployment. Only one Tactic may be used per turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Pilot",
+    "deployment": "pilot",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

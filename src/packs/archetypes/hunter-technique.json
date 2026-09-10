@@ -1,0 +1,22 @@
+{
+  "_id": "Zuz3MM8WccWSZHtT",
+  "_key": "!items!Zuz3MM8WccWSZHtT",
+  "name": "Hunter Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Where some scouts specialize in stealth or support, followers of the Hunter Technique dedicate themselves to raw martial mastery, turning weapon drills into an arsenal of combat tricks built for the galaxy's deadliest threats. Whether the enemy is a single armored juggernaut or a tide of infantry, a Hunter has trained a countermeasure for it.</p><p>Their discipline comes from studying both the biggest game and the largest crowds, honing reflexes to punish overwhelming odds and outlast punishing blows. Every fight sharpens their instincts further, letting them choose in the moment whether to overwhelm a single foe or hold the line against many.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

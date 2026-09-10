@@ -1,0 +1,44 @@
+{
+  "_id": "qb3eKitJPBCpli7j",
+  "name": "Guardian",
+  "type": "class",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Guardian is a Force half-caster who wades into melee behind a blade and a wall of conviction, protecting the weak and standing against the dark (or, for those who walk a darker path themselves, imposing their own will by force). Equal parts front-line combatant and battlefield protector, the Guardian supplements martial prowess with Force powers that shield allies, smite enemies, and bind a fight to their terms.</p><p>As a Guardian's connection to the Force deepens, they radiate protective and empowering Auras that reinforce everyone fighting at their side, turning a lone knight into the anchor an entire squad rallies around.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d10",
+    "casterProgression": "half",
+    "castingAbility": "wis",
+    "primaryAbility": [
+      "str",
+      "cha"
+    ],
+    "savingThrows": [
+      "wis",
+      "cha"
+    ],
+    "skillChoices": {
+      "number": 2,
+      "options": [
+        "ath",
+        "ins",
+        "itm",
+        "lor",
+        "med",
+        "per"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

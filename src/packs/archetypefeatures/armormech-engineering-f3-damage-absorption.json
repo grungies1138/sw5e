@@ -1,0 +1,24 @@
+{
+  "_id": "XKxtsMVHit8brEaW",
+  "_key": "!items!XKxtsMVHit8brEaW",
+  "name": "Damage Absorption",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When an attack damages you, you can spend your reaction and one use of your Potent Aptitude to soften the blow: subtract the number rolled on your Potent Aptitude die plus your Intelligence modifier (at least +1) from the damage. This only works while you have your modified armor on or your modified shield in hand.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armormech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

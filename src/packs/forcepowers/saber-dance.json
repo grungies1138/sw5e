@@ -1,0 +1,50 @@
+{
+  "_id": "E0TeG7OIiWjOpBiM",
+  "_key": "!items!E0TeG7OIiWjOpBiM",
+  "name": "Saber Dance",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A light- or vibroweapon you're wielding or carrying whirls into motion around you, circling your body in a 10-foot radius for the duration; your movement speed is halved while it spins with you.</p><p>Any creature entering the affected area for the first time on a turn, or starting its turn there, must succeed on a Dexterity save or take 4d10 damage of the weapon's damage type, taking half as much on a success.</p><p>When the power ends, the weapon flies back into your hand.</p><p><em>Force Potency.</em> Cast with a force slot of 5th level or higher, the radius expands to 15 feet, and the damage increases by 1d10 for each slot level above 4th.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d10",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

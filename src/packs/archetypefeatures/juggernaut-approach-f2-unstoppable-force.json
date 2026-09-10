@@ -1,0 +1,24 @@
+{
+  "_id": "OJ9nlJSFBDltp6y5",
+  "_key": "!items!OJ9nlJSFBDltp6y5",
+  "name": "Unstoppable Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, you can barrel straight through a hostile creature's space no matter its size, contesting the passage with a Strength (Athletics) check against the creature's own Strength (Athletics) check. If you've moved at least 10 feet before reaching that space and the creature is your size or smaller, it makes its check with disadvantage. Succeed, and the space costs you no extra movement, the creature is shoved 5 feet in a direction you choose, and it can't make an opportunity attack against you for the rest of your turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Juggernaut Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

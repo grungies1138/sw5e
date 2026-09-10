@@ -1,0 +1,45 @@
+{
+  "_id": "qS0MqTvkm4Q2Gj2C",
+  "_key": "!items!qS0MqTvkm4Q2Gj2C",
+  "name": "Kolto Infusion",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A wave of concentrated kolto washes over one creature you can see within range, restoring 70 hit points to it and curing any blindness, deafness, or disease currently affecting it. Droids and constructs are unaffected.</p><p><em>Overcharge Tech.</em> Cast using a tech slot of 7th level or higher, the healing increases by 10 for each slot level beyond 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

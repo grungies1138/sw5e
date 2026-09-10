@@ -1,0 +1,32 @@
+{
+  "_id": "YQKooZIPGqSgOiIz",
+  "_key": "!items!YQKooZIPGqSgOiIz",
+  "name": "Actor",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have honed a talent for impressions and disguise. Increase your Charisma score by 1, to a maximum of 20.</p><p>You gain advantage on Charisma (Deception) and Charisma (Performance) checks made while impersonating another individual. You can also imitate the voice of a person or the sound made by a creature, provided you have listened to it for at least a minute; a listener can see through the impression only by succeeding on a Wisdom (Insight) check opposed by your Charisma (Deception) check.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

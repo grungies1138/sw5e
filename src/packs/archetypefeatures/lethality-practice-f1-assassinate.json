@@ -1,0 +1,24 @@
+{
+  "_id": "jg8B6Sn9P9bqR1mO",
+  "_key": "!items!jg8B6Sn9P9bqR1mO",
+  "name": "Assassinate",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you land a weapon attack against a creature you're hidden from, you can turn that hit into a critical hit. If the strike drops the target to 0 hit points, other nearby enemies don't automatically notice you: contest a Dexterity (Stealth) check against each one's Wisdom (Perception), and you stay hidden from any who lose. If the attack would already let you roll a Stealth check to remain hidden, you instead gain advantage on that check.</p><p>You can use this feature once, gaining an additional use at 9th level and again at 17th level. All uses return after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Lethality Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

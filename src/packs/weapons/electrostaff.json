@@ -1,0 +1,57 @@
+{
+  "_id": "isFVfHfkLXxpHTfj",
+  "name": "Electrostaff",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A long staff tipped at both ends with crackling energy nodes designed specifically to counter lightsaber blades, favored by elite guards and enforcers.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 450,
+      "denomination": "credits"
+    },
+    "weight": 6,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "vibroweapon",
+    "proficiencyTier": "martial",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "kinetic"
+        }
+      ],
+      "versatile": "1d10"
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed",
+      "double",
+      "versatile"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "iLHtopV4uEIkAhoh",
+  "name": "Adaptive Camouflage Cloak",
+  "type": "gear",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> This cloak is woven with a mesh of photoreactive threads that sample and mimic the wearer's surroundings. While attuned and worn, you have advantage on Dexterity (Stealth) checks made to hide, so long as you remain stationary or move no more than half your speed on your turn.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 3500,
+      "denomination": "credits"
+    },
+    "weight": 2,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "advanced",
+    "attuned": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

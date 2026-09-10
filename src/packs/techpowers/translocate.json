@@ -1,0 +1,45 @@
+{
+  "_id": "E01mTaHOxd4p1lnR",
+  "_key": "!items!E01mTaHOxd4p1lnR",
+  "name": "Translocate",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your form flickers into a holographic afterimage and vanishes, reappearing in an unoccupied space you can see within 30 feet.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

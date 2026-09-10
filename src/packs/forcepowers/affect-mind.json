@@ -1,0 +1,45 @@
+{
+  "_id": "6NKzQWm87G6Ox8Gc",
+  "_key": "!items!6NKzQWm87G6Ox8Gc",
+  "name": "Affect Mind",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reach into the mind of a non-hostile creature within range, subtly nudging its feelings toward you. The target must succeed on a Wisdom saving throw or become swayed for the power's duration, granting you advantage on Charisma checks made against it.</p><p>If the target succeeds, it doesn't realize you attempted to influence it, but it can't be affected by this power again for 24 hours. Droids and constructs are unaffected entirely.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

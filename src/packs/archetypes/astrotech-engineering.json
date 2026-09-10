@@ -1,0 +1,22 @@
+{
+  "_id": "Z9dPtInREbP487oE",
+  "_key": "!items!Z9dPtInREbP487oE",
+  "name": "Astrotech Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Astrotech engineers turn their fascination with droids inside out, learning every circuit and protocol well enough to break them. What began as a hobby in tinkering with astromechs becomes a battlefield discipline built around scrambling signals, overloading systems, and picking apart constructs from the inside.</p><p>Carrying a cobbled-together warfare platform wherever they go, they project fields of jamming static and ionizing current that leave droids twitching and allies steadier under fire. Against anything built rather than born, they are the most dangerous engineer in the squad.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

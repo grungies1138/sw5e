@@ -1,0 +1,24 @@
+{
+  "_id": "tdkBBl82mH3NEpgQ",
+  "_key": "!items!tdkBBl82mH3NEpgQ",
+  "name": "Returning Attacks",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Any weapon you throw can be commanded to boomerang back to your grip. Whenever you make a thrown weapon attack, you may have it snap back into your hand the instant the attack resolves.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Bloodstorm Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "RtVltLf2sMt6lJt0",
+  "_key": "!items!RtVltLf2sMt6lJt0",
+  "name": "Saber Assault",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>The first time you take the Attack action on your turn, you may cast this power alongside it, weaving the Force into your melee strikes. Each successful melee weapon hit before the power ends forces a Dexterity save on the target, applying a new effect until the end of its next turn if the save fails. The power ends automatically once you've landed three weapon attacks.</p><p><strong>First hit:</strong> on a failed save, the target gains 1 slowed level.<br><strong>Second hit:</strong> on a failed save, the target takes 1d6 kinetic damage and cannot take reactions until after its next turn ends.<br><strong>Third hit:</strong> on a failed save, the target takes 2d6 kinetic damage and cannot take bonus actions during its next turn.</p><p><em>Force Potency.</em> Cast with a force slot of 3rd level or higher, the damage of the second and third hits each increase by 1d6 for every two slot levels above 1st.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "8rsiouRtPluk3ISm",
+  "_key": "!items!8rsiouRtPluk3ISm",
+  "name": "Bloodstorm Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Legend traces the Bloodstorm Approach back to the wookiee Hroufrasnooohn clan, warriors who performed impossible aerial feats with their vibroaxes through a blend of unorthodox training and sheer belief in their own skill. Their name, roughly translated, means exactly what their fighting style looks like: a storm of blood.</p><p>A berserker who inherits this tradition hurls their weapons with such precision and force that the distinction between melee and ranged combat all but disappears — every throw lands like a blow struck at arm's length.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

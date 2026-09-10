@@ -1,0 +1,22 @@
+{
+  "_id": "btoQdwD525k5wMya",
+  "_key": "!items!btoQdwD525k5wMya",
+  "name": "Vonil/Ishu Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Vonil and Ishu are built for two, not one — a form meant to be practiced with an ally rather than alone. Guardians who follow this path move, strike, and defend in careful concert with a chosen partner, turning two separate fighters into a single coordinated unit.</p><p>Trust replaces individual flash as the core skill: a Vonil/Ishu duelist reads their partner's openings as readily as their own, setting up each other's attacks and covering each other's blind spots until neither can be caught alone.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "dgeN1GsuC8wVUj0i",
+  "_key": "!items!dgeN1GsuC8wVUj0i",
+  "name": "Circle of Shelter",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn to blunt attacks meant for you or those nearby. When you or a creature within 5 feet of you that you can see is struck by an attack, you may use your reaction to protect it, provided you're wielding a melee weapon or a shield: roll 1d8 and add the result to the target's AC against that attack. If the attack still connects, the target resists the damage dealt.</p><p>You have three uses of this feature, gaining an additional use at 9th, 13th, and 17th level, and you regain all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Soresu Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

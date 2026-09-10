@@ -1,0 +1,24 @@
+{
+  "_id": "ySLDyKahRr8xEQNb",
+  "_key": "!items!ySLDyKahRr8xEQNb",
+  "name": "Open Opportunity",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once on your turn, if you take the Attack action and hit a creature without applying Sneak Attack damage, you can give up your Sneak Attack for the rest of the turn and spend a bonus action to knock that creature off balance. The next ally to hit it before the start of your next turn can add your full Sneak Attack dice to their damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Bolstering Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

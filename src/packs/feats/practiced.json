@@ -1,0 +1,37 @@
+{
+  "_id": "K3d0Q8NCWekB60Tq",
+  "_key": "!items!K3d0Q8NCWekB60Tq",
+  "name": "Practiced",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Experience has broadened your capabilities. Increase one ability score of your choice by 1, to a maximum of 20, and gain proficiency in any two skills or tools of your choice, in any combination.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

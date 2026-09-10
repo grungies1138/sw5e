@@ -1,0 +1,50 @@
+{
+  "_id": "DeCvIDm9jDSgN084",
+  "_key": "!items!DeCvIDm9jDSgN084",
+  "name": "Improved Kinetite",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A crackling 20-foot-radius sphere of stormcharged energy erupts at a point you select within range and persists for the power's duration. Any creature caught inside the sphere when it forms, or that ends its turn there, must make a Strength saving throw or suffer 2d6 kinetic damage; the sphere's interior counts as difficult terrain.</p><p>While the power lasts, you may spend a bonus action on your turn to hurl a bolt from the sphere's core at a creature within 60 feet of its center. Resolve this as a ranged force attack, gaining advantage if the target is inside the sphere; a hit deals 4d6 lightning damage.</p><p>The crash of the storm imposes disadvantage on Wisdom (Perception) checks that rely on hearing for any creature within 30 feet of the sphere.</p><p>Cast with a 5th-level slot or higher, every damage roll produced by this power increases by 1d6 per slot level beyond 4th.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Dark Side Powers, Level 4",
+    "school": "darkside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

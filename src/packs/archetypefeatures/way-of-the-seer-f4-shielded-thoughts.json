@@ -1,0 +1,24 @@
+{
+  "_id": "DphQhg3wajXEVRNR",
+  "_key": "!items!DphQhg3wajXEVRNR",
+  "name": "Shielded Thoughts",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>No telepathy or similar method can read your thoughts without your consent. You also gain resistance to psychic damage, and any creature that deals psychic damage to you suffers that same amount of damage in return.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of the Seer",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

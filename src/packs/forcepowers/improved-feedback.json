@@ -1,0 +1,50 @@
+{
+  "_id": "EsZ3l0y7J3e9psVR",
+  "_key": "!items!EsZ3l0y7J3e9psVR",
+  "name": "Improved Feedback",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lash out with a bolt of psychic force at a target within range. If the target can hear you, it must succeed on an Intelligence saving throw or take 3d6 psychic damage and use its reaction, if it has one, to flee as far as its speed allows away from you (never into obvious danger such as fire or a pit). A success halves the damage and the target need not flee. A deafened creature automatically succeeds.</p><p>Cast with a 2nd-level slot or higher, the damage increases by 1d6 for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 1",
+    "school": "darkside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d6",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

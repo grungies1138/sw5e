@@ -1,0 +1,45 @@
+{
+  "_id": "OKWpM4AIJODnaXB0",
+  "_key": "!items!OKWpM4AIJODnaXB0",
+  "name": "Battle Command",
+  "type": "power",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>You bark a single sharp thought into an ally's mind, spurring them to act. Choose one ally you can see within range; it may immediately use its reaction to make one weapon attack.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

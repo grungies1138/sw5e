@@ -1,0 +1,45 @@
+{
+  "_id": "zf5GLe8QYKTLiz1q",
+  "_key": "!items!zf5GLe8QYKTLiz1q",
+  "name": "Force Reflect",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>When an attack would strike you from range, you snap up a Force-born ward to turn the blow aside. The triggering attack's damage against you is reduced by 1d10.</p><p>If that reduction brings the damage to 0 and the attack dealt energy, force, ion, kinetic, lightning, necrotic, or sonic damage, you may redirect it: as part of the same reaction, make a ranged force attack (normal range 30 feet, long range 90 feet) against a target you can see. On a hit, that target suffers the original attack's damage.</p><p>Cast with a 2nd-level slot or higher, the damage reduction improves by an additional 1d10 for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

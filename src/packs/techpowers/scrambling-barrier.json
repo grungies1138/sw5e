@@ -1,0 +1,45 @@
+{
+  "_id": "lGzkfHRaEHfECVdg",
+  "_key": "!items!lGzkfHRaEHfECVdg",
+  "name": "Scrambling Barrier",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A shimmering, immobile barrier forms in a 10-foot radius around you and lasts for the duration. A tech power of 5th level or lower cast from outside the barrier cannot affect anything within it, even from a higher-level slot; such a power can still target things inside the barrier, but produces no effect on them, and areas of effect from such powers are excluded from the barrier's interior.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 7th level or higher, the barrier blocks powers of one level higher for each slot level above 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "q90FicQ56y6ObLgp",
+  "_key": "!items!q90FicQ56y6ObLgp",
+  "name": "Structural Knowledge",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending an hour studying a structure from every angle you can access, and cross-referencing it against your own data, reveals its underlying blueprint: total hit points, common construction materials, whether it's occupied or abandoned, its floor count and each floor's likely purpose, every non-secret entrance (doors, windows, vents, pipes) and its location, a basic floor-by-floor and ventilation map, its probable builders and age, and any structural weak points.</p><p>Additionally, while carrying constructor's implements, an Investigation check you make to find hidden structural features (like secret doors or passages) in that structure treats a d20 roll of 9 or lower as a 10.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Construction Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

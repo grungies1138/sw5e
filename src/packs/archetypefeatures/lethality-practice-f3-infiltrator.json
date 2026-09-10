@@ -1,0 +1,24 @@
+{
+  "_id": "zYciu65G3ugR1wpX",
+  "_key": "!items!zYciu65G3ugR1wpX",
+  "name": "Infiltrator",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you or an ally within 5 feet of you fails a Dexterity (Stealth) check, you can spend your reaction to let that creature try again, taking the second result even if it's worse.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Lethality Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

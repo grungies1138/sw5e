@@ -1,0 +1,56 @@
+{
+  "_id": "UjYEckXbxiZ0BlrM",
+  "name": "Disruptor Rifle",
+  "type": "weapon",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>Banned across much of the galaxy for what it does to a body, this exotic energy rifle unravels matter at the molecular level, sometimes leaving nothing behind at all.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 4000,
+      "denomination": "credits"
+    },
+    "weight": 10,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "martial",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d12",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 120,
+      "long": 480,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed",
+      "heavy"
+    ],
+    "ammo": {
+      "type": "power cell",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

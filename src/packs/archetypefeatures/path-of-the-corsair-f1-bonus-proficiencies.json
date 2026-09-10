@@ -1,0 +1,24 @@
+{
+  "_id": "5W9lbym7kNLw6zIR",
+  "_key": "!items!5W9lbym7kNLw6zIR",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with demolitions kits, along with proficiency in three blasters of your choosing.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of the Corsair",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

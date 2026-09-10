@@ -1,0 +1,25 @@
+{
+  "_id": "gaJLLQqr5EemVE47",
+  "name": "Expose Weakness",
+  "type": "shipmaneuver",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your ship's weapon attack hits, you may expend a Power Die from the Weapons pool and roll it, dealing that much additional damage. This bonus damage ignores Damage Reduction, resistance, and shields.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Gunner Gambits",
+    "deployment": "gunner",
+    "rankRequired": 1,
+    "activation": "special",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

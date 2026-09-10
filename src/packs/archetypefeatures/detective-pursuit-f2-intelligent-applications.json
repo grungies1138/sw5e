@@ -1,0 +1,24 @@
+{
+  "_id": "qVBPnDB9pRYrCu2L",
+  "_key": "!items!qVBPnDB9pRYrCu2L",
+  "name": "Intelligent Applications",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once you've analyzed a hostile creature with Critical Analysis, you may use your Critical Analysis ability modifier in place of the usual one for any weapon lacking the heavy or special properties.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Detective Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "7YH5hlUdmDTsMVgQ",
+  "_key": "!items!7YH5hlUdmDTsMVgQ",
+  "name": "Remote Healer",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to administer treatment without closing distance. Any maneuver you use on an ally who is the target of your Critical Analysis reaches out to 30 feet, regardless of its normal range.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Physician Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

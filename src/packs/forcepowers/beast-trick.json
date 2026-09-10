@@ -1,0 +1,45 @@
+{
+  "_id": "HU7wNzNvyzSOTl4D",
+  "_key": "!items!HU7wNzNvyzSOTl4D",
+  "name": "Beast Trick",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You single out a beast you can see within range and bend its instincts to your will. If the beast has an Intelligence of 4 or higher, the power has no effect. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the duration; the power ends immediately if you or an ally harms the target.</p><p>Cast with a slot of 2nd level or higher, you can affect one additional beast for every slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

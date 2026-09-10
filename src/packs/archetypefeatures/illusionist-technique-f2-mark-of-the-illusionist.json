@@ -1,0 +1,24 @@
+{
+  "_id": "6bOrPmjob8Ptk0FB",
+  "_key": "!items!6bOrPmjob8Ptk0FB",
+  "name": "Mark of the Illusionist",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The creature marked by your Ranger's Quarry has disadvantage on any check made to see through your illusions. Additionally, when that creature is reduced to 0 hit points, you can use your reaction to have an active illusion, or your Holographic Decoy, instantly reshape itself into that creature's form, provided its dimensions fit within the power's size limits.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Illusionist Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

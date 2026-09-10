@@ -1,0 +1,24 @@
+{
+  "_id": "33v8Z1JpYoVYgQi9",
+  "_key": "!items!33v8Z1JpYoVYgQi9",
+  "name": "Slicer Discoveries",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>This pursuit unlocks discoveries reflecting your grasp of techcasting. Each time you gain a new discovery, you may take one of the following instead, listed alphabetically.</p><p><strong>Administrator's Log.</strong> Spending at least 10 minutes on a computer or terminal reveals every user who accessed it in the last 24 hours. Given a full long rest afterward, you can forge credentials good enough to pass yourself off as one of those users when accessing systems.</p><p><strong>Backdoor Egress.</strong> If you're caught inside the area of your own saving-throw tech power, you can use your reaction to move up to half your speed without provoking opportunity attacks; ending that move clear of the affected area lets you skip the saving throw entirely.</p><p><strong>Intelligence Core Override</strong> (9th level required). Once between long rests, you can cast override interface at 5th level without spending tech points.</p><p><strong>Resource Appropriation</strong> (11th level required). If you drop your Critical Analysis target to 0 hit points while it still has tech points remaining, you may claim those points for yourself, up to your own tech point maximum. You must finish a short or long rest before using this again.</p><p><strong>Skillful Casting.</strong> A hit from an at-will tech power requiring an attack roll can be treated as a weapon attack for the purpose of triggering your maneuvers.</p><p><strong>Sleeper Program.</strong> Casting a tech power with a 1-action casting time, you may choose to delay its activation for up to a minute — casting it normally but holding its energy in reserve, which requires concentration for as long as the delay lasts. If concentration breaks first, the power fizzles with no effect; otherwise you can trigger it at any moment using your reaction.</p><p>You can use this feature twice, gaining one more use at 5th, 9th, 13th, and 17th level, regaining all spent uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Slicer Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

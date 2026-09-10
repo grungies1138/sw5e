@@ -1,0 +1,45 @@
+{
+  "_id": "yCJFDQmOXApL1viN",
+  "_key": "!items!yCJFDQmOXApL1viN",
+  "name": "Darkness",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You snuff out the light around a point you choose within range, filling a 15-foot-radius sphere with magical darkness for the duration; the darkness bends around corners, resists darkvision, and cannot be lit by non-magical light sources. If you center the darkness on an object you hold or one that is unattended, the darkness travels with the object and can be blocked by fully enclosing the object in something opaque. Casting this power dispels any light created by a power of 2nd level or lower that overlaps its area.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

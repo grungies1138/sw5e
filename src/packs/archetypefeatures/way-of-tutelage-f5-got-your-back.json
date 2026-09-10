@@ -1,0 +1,24 @@
+{
+  "_id": "mY2My4A9IeI1HcqC",
+  "_key": "!items!mY2My4A9IeI1HcqC",
+  "name": "Got Your Back",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, when your companion is within 10 feet of you (60 feet at 17th level) and you're both forced to save against the same effect, either of you can accept disadvantage on your own save so the other gains advantage on theirs. This choice can be made before or after the rolls, but must be declared before the GM reveals success or failure.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Tutelage",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

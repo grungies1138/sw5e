@@ -1,0 +1,50 @@
+{
+  "_id": "kr03NSn5cki3xDJB",
+  "_key": "!items!kr03NSn5cki3xDJB",
+  "name": "Barrage",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You fire a spray of 4d6 tiny projectiles, divided as you choose among up to four creatures you can see within range. Each target makes a Dexterity saving throw, taking 1 kinetic damage per projectile aimed at it, or half as much on a success.</p><p>Cast with a tech slot of 2nd level or higher, you fire an additional 1d6 projectiles and can target one additional creature for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

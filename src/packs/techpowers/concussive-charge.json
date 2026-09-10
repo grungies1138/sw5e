@@ -1,0 +1,50 @@
+{
+  "_id": "Ei7ZVPmzWkbpom2o",
+  "_key": "!items!Ei7ZVPmzWkbpom2o",
+  "name": "Concussive Charge",
+  "type": "power",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lob a small explosive charge at a point within range. Each creature within 10 feet of the point must make a Dexterity saving throw, taking 3d8 kinetic damage on a failed save, or half as much on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

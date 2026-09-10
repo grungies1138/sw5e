@@ -1,0 +1,24 @@
+{
+  "_id": "2d3HSIh7St4YdVLc",
+  "_key": "!items!2d3HSIh7St4YdVLc",
+  "name": "Sharpen the Blade",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can imbue a weapon with your focus. As a bonus action, spend up to 3 focus points to give one Echani weapon you touch a bonus to its attack and damage rolls equal to the points spent; this bonus lasts 1 minute or until you use this feature again. It has no effect on an enhanced weapon that already carries an attack/damage bonus.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Echani Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

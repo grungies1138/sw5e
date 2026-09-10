@@ -1,0 +1,22 @@
+{
+  "_id": "EhCsfrFrpmO2RDD2",
+  "name": "Rapid Repairman",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Patch action, you can spend an additional Hull Die (if your ship has one available) to restore additional Hull Points in the same action, rolling both dice and adding your ship's Constitution modifier to each.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

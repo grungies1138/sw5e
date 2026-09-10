@@ -1,0 +1,24 @@
+{
+  "_id": "SyXBzaDcX7IlYOkZ",
+  "_key": "!items!SyXBzaDcX7IlYOkZ",
+  "name": "High Voltage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your familiarity with electronics has sharpened their bite while dulling their danger to you: you gain resistance to ion and lightning damage.</p><p>Additionally, whenever you deal ion damage to a creature, you may spend a tech point to force a Constitution saving throw; on a failure, the creature is stunned until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mechanist Technique (Companion)",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

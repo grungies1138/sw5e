@@ -1,0 +1,45 @@
+{
+  "_id": "Jq9ttiwK9ZaLkfeT",
+  "_key": "!items!Jq9ttiwK9ZaLkfeT",
+  "name": "Mind Trick",
+  "type": "power",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>You brush against a creature's thoughts and plant a single, simple suggestion. Choose one creature within range that can hear you and speak a short statement of 25 words or fewer. The target must succeed on a Wisdom saving throw or believe the statement to be true and act accordingly to the best of its ability, so long as the suggested course of action isn't obviously self-destructive.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

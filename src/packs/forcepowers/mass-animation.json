@@ -1,0 +1,45 @@
+{
+  "_id": "G8YBNwqLLZzUhKKr",
+  "_key": "!items!G8YBNwqLLZzUhKKr",
+  "name": "Mass Animation",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You seize a collection of loose objects with the Force and set them spinning around you as animate combatants. Choose up to ten unattended, unenhanced objects within range, where a Medium object counts as two, a Large object as four, and a Huge object as eight (nothing larger than Huge can be affected). Each object rises and hovers near you, staying within 100 feet for the duration, acting as a construct with AC, hit points, and attacks scaled to its size, and flying at 30 feet.</p><p>As a bonus action, you can direct any or all of the animated objects at once, choosing their actions and destinations; they act at the end of your turn. An object ordered to attack makes one slam attack against a creature within 5 feet of it, with an attack bonus and kinetic damage keyed to its size: Tiny (+6 to hit, 1d4+3), Small (+6 to hit, 1d8+2), Medium (+5 to hit, 2d6+1), Large (+6 to hit, 2d10+2), or Huge (+8 to hit, 2d12+4).</p><p>Cast with a slot of 6th level or higher, you can animate two additional objects per slot level beyond 5th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

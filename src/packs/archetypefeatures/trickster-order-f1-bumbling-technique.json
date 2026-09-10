@@ -1,0 +1,24 @@
+{
+  "_id": "N0J98Uxqgwv2BHiZ",
+  "_key": "!items!N0J98Uxqgwv2BHiZ",
+  "name": "Bumbling Technique",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in Performance. Additionally, whenever you use a bonus action to make an unarmed strike, any creature you hit can't make an opportunity attack against you, and your speed increases by 10 feet until the end of the turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Trickster Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

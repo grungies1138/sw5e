@@ -1,0 +1,45 @@
+{
+  "_id": "EoawAdAu2KrtjA42",
+  "_key": "!items!EoawAdAu2KrtjA42",
+  "name": "Revitalize",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a creature that has been dead no more than 10 minutes and restore it to life, provided its spirit is willing and free to return; it revives with 1 hit point. Droids and constructs cannot be affected.</p><p>The power also cures any disease and neutralizes any poison the creature suffered from at the moment of death, and it seals all mortal wounds, though it cannot regrow missing limbs or organs — if a body part vital to survival is missing, such as the head, the power simply fails.</p><p>Returning from death takes its toll: the revived creature suffers a -4 penalty to attack rolls, saving throws, and ability checks, a penalty that lessens by 1 each time it completes a long rest, until it fades entirely.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 5",
+    "school": "lightside",
+    "level": 5,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

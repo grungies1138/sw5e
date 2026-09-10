@@ -1,0 +1,24 @@
+{
+  "_id": "oEqZ5bYE5Oop4QJQ",
+  "_key": "!items!oEqZ5bYE5Oop4QJQ",
+  "name": "Presence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following features: Precise Reflection if you chose Shien, or Brutal Strikes if you chose Djem So.</p><p><strong>Precise Reflection.</strong> When an attack made through the saber reflect power hits, you may spend force points to add extra damage of the same type as the weapon's damage. Each point spent adds 1d8 of extra damage, up to the maximum shown in the Focused Strikes column of the guardian table.</p><p><strong>Brutal Strikes.</strong> The Force lends you tremendous physical power: your Force-Empowered Strikes and Improved Force-Empowered Strikes damage rolls now have a minimum roll threshold, as described in Chapter 7. In addition, whenever you spend force points on your Force-Empowered Strikes feature, you gain temporary hit points equal to twice the number of points spent.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shien/Djem So Form",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

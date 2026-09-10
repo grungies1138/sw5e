@@ -1,0 +1,24 @@
+{
+  "_id": "uS7LUOhGKBWovfY7",
+  "_key": "!items!uS7LUOhGKBWovfY7",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with artificer's implements and with the lightsaber, a simple lightweapon. Crafting with artificer's implements now takes half the normal time.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artificer Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

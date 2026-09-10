@@ -1,0 +1,24 @@
+{
+  "_id": "PmKEqWObWEkMwZBn",
+  "_key": "!items!PmKEqWObWEkMwZBn",
+  "name": "Freedom Through Slavery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While you're raging, riding the high of a substance, or both, you have advantage on saving throws against being forced to act against your will, being frightened, or being stopped from attacking a creature. When both conditions apply at once — raging and high together — you become outright immune to effects that would force you to act against your will or keep you from attacking.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Addicted Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

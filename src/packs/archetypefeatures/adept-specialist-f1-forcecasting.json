@@ -1,0 +1,24 @@
+{
+  "_id": "sJ7AB6uIgnGhgcpQ",
+  "_key": "!items!sJ7AB6uIgnGhgcpQ",
+  "name": "Forcecasting",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Fragments of Force knowledge have taken root in you as force powers, sustained by an inner ability. General forcecasting rules and the force powers list appear elsewhere in the rules.</p><p><strong>Force Powers Known.</strong> You begin knowing 4 force powers of your choice, learning more as you advance per the Force Powers Known column of the Adept Specialist Forcecasting table. You can't learn a power above your current Max Power Level, though you may learn a power in the same moment you learn its prerequisite.</p><p><strong>Force Points.</strong> Your force point pool equals your fighter level (per the Force Points column of the table) plus your Wisdom or Charisma modifier, whichever you prefer. These points fuel your force powers, and a long rest restores all of them.</p><p><strong>Max Power Level.</strong> Many force powers can be overpowered by spending extra force points for a stronger effect; the ceiling for this rises with your fighter level, per the Max Power Level column of the table. You may cast a 4th-level force power only once before needing a long rest to do so again.</p><p><strong>Forcecasting Ability.</strong> Which ability governs your forcecasting depends on the power's alignment: Wisdom for light side powers, Charisma for dark side powers, and either (your choice) for universal powers. Use this ability whenever a power calls for your forcecasting ability, and use its modifier both to set the DC of a force power you cast and to make an attack roll with one.</p><p><strong>Force save DC</strong> = 8 + your proficiency bonus + your forcecasting ability modifier</p><p><strong>Force attack modifier</strong> = your proficiency bonus + your forcecasting ability modifier</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Adept Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

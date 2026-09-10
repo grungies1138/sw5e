@@ -1,0 +1,24 @@
+{
+  "_id": "nG8sWiNDJslrYjah",
+  "_key": "!items!nG8sWiNDJslrYjah",
+  "name": "At-Will Barrier",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Casting one of your at-will universal powers now trickles a bit of strength into your Force Barrier, restoring 1 hit point to it each time. This trickle-charge can only bring the barrier up to half of its maximum hit points, never higher.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Balance",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

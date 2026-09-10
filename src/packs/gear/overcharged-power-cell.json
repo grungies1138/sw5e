@@ -1,0 +1,29 @@
+{
+  "_id": "SABJKJVmnFKOCwpF",
+  "name": "Overcharged Power Cell",
+  "type": "gear",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> This modified power cell feeds a blaster far more energy per shot than it was built to handle. While loaded in a blaster, its damage die increases by one step (a 1d6 becomes 1d8, and so on). Whenever you roll the maximum result on that die, the cell overheats: the weapon deals no damage on your next attack while its vents cool.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 350,
+      "denomination": "credits"
+    },
+    "weight": 0.5,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "prototype",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

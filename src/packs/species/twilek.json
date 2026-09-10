@@ -1,0 +1,57 @@
+{
+  "_id": "VbMXc2Vlz2IHpMPG",
+  "name": "Twi'lek",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Twi'leks are a humanoid species distinguished by their pair of long, tapering head-tails, called lekku, which serve both as sensory organs and as a secondary means of nonverbal communication. Native to the arid world of Ryloth, Twi'leks have spread throughout the galaxy in vast numbers, prized &mdash; and too often exploited &mdash; for their striking appearance and adaptability.</p><p>Despite a history of hardship under slavers and occupying powers, Twi'lek culture is resilient and diverse, producing everything from shrewd merchants and dancers to soldiers, senators, and Jedi.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "cha",
+        "value": 2
+      },
+      {
+        "ability": "dex",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Twi'leki"
+    ],
+    "traits": [
+      {
+        "name": "Lekku Sense",
+        "description": "Your lekku pick up subtle air currents and vibrations. You have advantage on Wisdom (Perception) checks that rely on hearing or touch."
+      },
+      {
+        "name": "Cultural Adaptability",
+        "description": "You gain proficiency in one skill of your choice, reflecting a lifetime navigating diverse and often hostile galactic cultures."
+      },
+      {
+        "name": "Desert Hardiness",
+        "description": "You have advantage on Constitution saving throws made to resist the effects of extreme heat and exhaustion from lack of water."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

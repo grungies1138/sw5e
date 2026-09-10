@@ -1,0 +1,24 @@
+{
+  "_id": "qKTDuMJlkZmBADYe",
+  "_key": "!items!qKTDuMJlkZmBADYe",
+  "name": "Ichor Conjuring",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn to call the spirits of beasts into a form of shimmering ichor. Once per turn, when you deal necrotic damage to a creature with a force power, you may conjure a familiar within 5 feet of it at no action cost. Appearing as a humanoid or beast wreathed in glowing green smoke, the familiar persists for 1 minute, until dismissed as a bonus action, until you conjure another, or until you are incapacitated or die.</p><p>The familiar has an AC equal to your universal force save DC, 1 hit point, immunity to every condition, and uses your saving throw bonus for any save it must make. It occupies its own space at your size regardless of its shape, and on your turn you may mentally direct it to move up to 30 feet in any direction at no action cost; if it ever ends your turn more than 30 feet from you, it's destroyed. While the familiar exists, you gain the following:</p><ul><li>As a bonus action, you may spend 15 feet of your movement to swap places with your familiar through Force magic, no matter the distance between you.</li><li>When you take the Attack action, each attack you make may originate from either your own space or your familiar's space, chosen individually for each attack.</li><li>When a creature you can see moves at least 5 feet away from within 5 feet of your familiar, you may use your reaction to make an opportunity attack against it as though you occupied the familiar's space.</li></ul><p>Starting at 11th level, you may summon your familiar upon dealing damage with any force power, not only necrotic damage, and also when you use a Force-Empowered Self option on your turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Witchcraft",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

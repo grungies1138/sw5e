@@ -1,0 +1,22 @@
+{
+  "_id": "b0Lleb5Zb9zqXYCS",
+  "_key": "!items!b0Lleb5Zb9zqXYCS",
+  "name": "Aegis",
+  "type": "archetype",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Aegis archetype is the purest expression of the Guardian's protective calling, a warrior who treats every ally at their side as something worth dying to defend. Where other Guardians balance offense and defense, the Aegis leans hard into the latter, using the Force to intercept attacks meant for others and to punish anyone foolish enough to strike at the people under their protection.</p><p>An Aegis can extend a Force-born barrier over nearby allies, magically redirect blows toward themselves, and shrug off punishment that would drop a lesser combatant, making them the unshakeable center any endangered group naturally forms around.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

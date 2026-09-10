@@ -1,0 +1,22 @@
+{
+  "_id": "3Vw24aHwBtrZqPco",
+  "_key": "!items!3Vw24aHwBtrZqPco",
+  "name": "Mounted Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whether astride a war-bred varactyl or piloting a screaming speeder bike, the Mounted Specialist turns motion itself into a weapon. Years in the saddle have taught them to fight as fluidly on the move as any duelist fights standing still.</p><p>Even dismounted, this instinct for controlling ground and tempo never fades &mdash; they charge down fleeing enemies, lock down chokepoints, and race to wherever the battle needs them most. A Mounted Specialist is, above all, a master of momentum, using speed and positioning to dictate every fight they enter.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

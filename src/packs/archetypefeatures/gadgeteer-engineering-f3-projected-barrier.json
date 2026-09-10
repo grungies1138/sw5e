@@ -1,0 +1,24 @@
+{
+  "_id": "Bk9Iv7JXABZMXtRb",
+  "_key": "!items!Bk9Iv7JXABZMXtRb",
+  "name": "Projected Barrier",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action while wearing your harness, you can spend one use of your Potent Aptitude to throw up a barrier around a friendly creature you can see within 30 feet; a creature can only have one of your barriers active at once.</p><p><strong>Environmental Barrier.</strong> This barrier lasts until the end of your next short or long rest and has hit points equal to your Potent Aptitude die roll plus your engineer level. When the protected creature takes damage of a type you chose upon activation — acid, cold, fire, force, lightning, necrotic, poison, psychic, or sonic — the barrier absorbs it instead, and only once its hit points hit 0 does any remaining damage reach the creature.</p><p><strong>Physical Barrier.</strong> This barrier lasts until the end of your next short or long rest and has hit points equal to your Potent Aptitude die roll plus half your engineer level. When the protected creature takes damage of a type you chose upon activation — energy, ion, or kinetic — the barrier absorbs it instead, and only once its hit points hit 0 does any remaining damage reach the creature.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gadgeteer Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

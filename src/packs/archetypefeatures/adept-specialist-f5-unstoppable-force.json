@@ -1,0 +1,24 @@
+{
+  "_id": "lpQkbCI8Dd232W7u",
+  "_key": "!items!lpQkbCI8Dd232W7u",
+  "name": "Unstoppable Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending a use of Indomitable lets you gain the effect of the <em>freedom of movement</em> force power, lasting until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Adept Specialist",
+    "className": "Fighter",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

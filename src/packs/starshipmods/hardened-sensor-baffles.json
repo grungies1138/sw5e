@@ -1,0 +1,30 @@
+{
+  "_id": "eUDOjGZA7nkH4J3o",
+  "name": "Hardened Sensor Baffles",
+  "type": "starshipmod",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>Shielded housings around the ship's sensor emitters that resist ionizing feedback, preventing an ion hit from also blinding the sensor suite.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 2800,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

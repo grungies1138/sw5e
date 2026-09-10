@@ -1,0 +1,24 @@
+{
+  "_id": "LfZCo8TdyLlWsrgq",
+  "_key": "!items!LfZCo8TdyLlWsrgq",
+  "name": "Powerful Mind",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, target one creature you can see within 60 feet and force a Wisdom saving throw against your universal force save DC. A success means you can't target that creature with this feature again until you finish a long rest. On a failure, you can read its surface thoughts, its immediate emotions and active thinking, whenever it's within 60 feet of you, for up to 1 minute.</p><p>At any point during that minute, you can spend your action to end the effect and cast coerce mind at its base level on the creature at no force point cost, and the target automatically fails its saving throw against that casting.</p><p>You can use this feature three times, gaining an additional use at 9th, 13th, and 17th level, with all uses restored on a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of the Seer",
+    "className": "Consular",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

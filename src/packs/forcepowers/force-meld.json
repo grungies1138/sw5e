@@ -1,0 +1,45 @@
+{
+  "_id": "G4EQW91MaYTlXiju",
+  "_key": "!items!G4EQW91MaYTlXiju",
+  "name": "Force Meld",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You knit together a telepathic bond among as many as eight willing creatures you choose within range, connecting each to all the others for the duration. Droids, constructs, and creatures with an Intelligence score of 2 or lower are unaffected.</p><p>While linked, the targets may communicate with one another telepathically regardless of shared language, across any distance so long as all parties remain on the same planet.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

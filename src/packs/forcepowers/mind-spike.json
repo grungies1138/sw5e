@@ -1,0 +1,50 @@
+{
+  "_id": "3wUkb37FweSStQDg",
+  "_key": "!items!3wUkb37FweSStQDg",
+  "name": "Mind Spike",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You single out one creature you can see and lance its mind with psychic force. It must succeed on a Wisdom saving throw or take 3d8 psychic damage (half as much on a success), and on a failed save you become aware of its exact location for as long as you both remain on the same planet — it cannot hide from you, and gains no benefit from invisibility against you. This power has no effect on droids or constructs.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d8",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

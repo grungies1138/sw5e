@@ -1,0 +1,30 @@
+{
+  "_id": "GEORWe58txk0JW60",
+  "_key": "!items!GEORWe58txk0JW60",
+  "name": "Resilient",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose one ability score. That score increases by 1, to a maximum of 20, and you gain proficiency in saving throws made with that ability.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

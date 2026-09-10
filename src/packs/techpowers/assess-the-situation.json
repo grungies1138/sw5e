@@ -1,0 +1,45 @@
+{
+  "_id": "Iyqv9o6k8ZzozXjk",
+  "_key": "!items!Iyqv9o6k8ZzozXjk",
+  "name": "Assess the Situation",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You study a target within range, spotting a weakness in its defenses. You gain advantage on the next attack roll you make against that target before the end of your next turn.</p><p>At 5th level you can apply this benefit to your next two attacks against the target, three attacks at 11th level, and four attacks at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

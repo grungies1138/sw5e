@@ -1,0 +1,47 @@
+{
+  "_id": "6nd59Fe4Da6aDGTd",
+  "_key": "!items!6nd59Fe4Da6aDGTd",
+  "name": "Imperial Knight",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You serve as an Imperial Knight, a Force-wielding protector whose order blends Jedi-style discipline with unwavering loyalty to the Empire it serves. Your order treats the Force as a tool of duty rather than philosophy, rejecting the dark side's temptations without adopting the Jedi's teachings either.</p><p>Your uniform armor and lightsaber mark you at a glance as one of the Emperor's own, and even citizens who've never heard of your order extend you the deference that comes with it.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "itm",
+        "prc",
+        "pil"
+      ]
+    },
+    "toolProficiencies": [
+      "Armormech's implements and artificer's implements"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Threatening",
+        "Perceptive",
+        "Ace Pilot",
+        "Crafter",
+        "Force-Sensitive",
+        "Armor Expert",
+        "Weapon Expert"
+      ]
+    },
+    "equipment": "An Imperial insignia, a black hooded cape, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

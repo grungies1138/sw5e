@@ -1,0 +1,24 @@
+{
+  "_id": "cBIyVKMmgsj3T5Q3",
+  "_key": "!items!cBIyVKMmgsj3T5Q3",
+  "name": "Master Duelist",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you miss with an attack roll, you can immediately roll it again with advantage. Once you do, you can't use this feature again until you finish a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ruffian Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

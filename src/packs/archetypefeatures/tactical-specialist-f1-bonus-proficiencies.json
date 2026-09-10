@@ -1,0 +1,24 @@
+{
+  "_id": "ajcsPwfuOmGHbWRA",
+  "_key": "!items!ajcsPwfuOmGHbWRA",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose one type of artisan's implements; you gain proficiency with it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactical Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

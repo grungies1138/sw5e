@@ -1,0 +1,45 @@
+{
+  "_id": "kZ3FZiU3ZzmuwlLV",
+  "_key": "!items!kZ3FZiU3ZzmuwlLV",
+  "name": "Force Barrier",
+  "type": "power",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>You raise a shimmering, immobile wall of Force energy up to 10 feet long, 10 feet high, and 1 foot thick, anywhere within range on a surface you can see. The barrier has AC 5 and 30 hit points, blocks movement and line of sight through it, and vanishes when it is destroyed or when the duration ends.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 2",
+    "school": "lightside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minutes"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

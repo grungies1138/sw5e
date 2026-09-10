@@ -1,0 +1,47 @@
+{
+  "_id": "1Fpm2AJ0o9hQkQCl",
+  "_key": "!items!1Fpm2AJ0o9hQkQCl",
+  "name": "Crime Lord",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You climbed to the top of an organized crime network through vision, ruthlessness, or sheer intimidation &mdash; and then spent every day since fighting to stay there. Building an empire in the underworld is one thing; keeping it, and staying alive while you do, is another entirely.</p><p>Whatever drives you now &mdash; profit, respect, or an old grudge you haven't let go of &mdash; you still command a network of contacts who can move a message or a favor across the galaxy for you.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "itm",
+        "per"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Threatening",
+        "Charmer",
+        "Competitor",
+        "Linguist",
+        "Inspiring Leader",
+        "Observant"
+      ]
+    },
+    "equipment": "A fine set of clothes, a gaming set of your choice, and a purse containing 250 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "iuqLmmITupITn1xz",
+  "_key": "!items!iuqLmmITupITn1xz",
+  "name": "Borrowed Luck",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to bend probability to suit your needs. Once per round, immediately after you or any creature you can see makes an attack roll, saving throw, or ability check, you can swap the number showing on its d20 for a 7. The original number that was replaced is banked as your borrowed luck roll.</p><p>While you're holding a borrowed luck roll, you can spend it to substitute its stored value for the d20 result of any ability check, attack roll, or saving throw made by you or any creature you can see. You can bank only one borrowed luck roll at a time, and any unspent one is lost when you finish a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gambler Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

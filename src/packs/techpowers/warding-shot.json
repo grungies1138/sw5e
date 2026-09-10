@@ -1,0 +1,45 @@
+{
+  "_id": "2OWBRkE6LIIdH0Z9",
+  "_key": "!items!2OWBRkE6LIIdH0Z9",
+  "name": "Warding Shot",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action used to cast this power, you must make a ranged weapon attack against a creature within your weapon's range, or the power fails. On a hit, the attack deals its normal damage, and a faint barrier surrounds the target; the first time it would take damage before the start of your next turn, that damage is reduced by 1d6.</p><p>This reduction increases to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

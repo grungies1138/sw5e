@@ -1,0 +1,27 @@
+{
+  "_id": "JNpv1pzBpGPDju6m",
+  "name": "Hub & Spoke Power Coupling",
+  "type": "starshipequipment",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>A hybrid coupling with a small central reservoir (<strong>2 Power Dice</strong>, usable by any system) and a small dedicated reservoir for each of the five systems (<strong>1 Power Die</strong> each, 7 total). Balances flexibility with redundancy.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 5600,
+      "denomination": "credits"
+    },
+    "kind": "coupling",
+    "configKey": "hubSpoke",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

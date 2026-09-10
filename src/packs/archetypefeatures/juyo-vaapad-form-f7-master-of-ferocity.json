@@ -1,0 +1,24 @@
+{
+  "_id": "idwj6XDugRTYuMGc",
+  "_key": "!items!idwj6XDugRTYuMGc",
+  "name": "Master of Ferocity",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You embody extraordinary martial prowess. Your Strength and Dexterity scores each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist all damage.</li><li>Whenever you take the Attack action on your turn, you may make one additional attack as part of that action.</li><li>Your weapon critical hit range widens by 1.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Juyo/Vaapad Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

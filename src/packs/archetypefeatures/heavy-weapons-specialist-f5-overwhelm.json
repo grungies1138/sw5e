@@ -1,0 +1,24 @@
+{
+  "_id": "wWFzA9M4rs0MMUsP",
+  "_key": "!items!wWFzA9M4rs0MMUsP",
+  "name": "Overwhelm",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you use Second Wind while wielding a weapon with the heavy or strength property, the first attack roll you make before the end of your next turn is treated as a critical hit if it hits, or if a target fails its save against your weapon's burst or rapid property.</p><p>If that first attack instead misses, or a target succeeds on the save against the burst or rapid property, you deal the weapon's normal damage instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Heavy Weapons Specialist",
+    "className": "Fighter",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

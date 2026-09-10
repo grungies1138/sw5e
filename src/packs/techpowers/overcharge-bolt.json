@@ -1,0 +1,50 @@
+{
+  "_id": "lKgmmKmrXOddU153",
+  "_key": "!items!lKgmmKmrXOddU153",
+  "name": "Overcharge Bolt",
+  "type": "power",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your focus discharges a stabilized bolt of energy at a target. The target must make a Dexterity saving throw, taking 1d10 energy damage on a failed save, or half as much damage on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

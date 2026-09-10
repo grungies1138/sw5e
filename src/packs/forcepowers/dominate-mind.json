@@ -1,0 +1,45 @@
+{
+  "_id": "vVfcMAlb3lW5761T",
+  "_key": "!items!vVfcMAlb3lW5761T",
+  "name": "Dominate Mind",
+  "type": "power",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>You seize control of a creature's will through the dark side. The target must succeed on a Wisdom saving throw or be charmed by you for the duration. While charmed, the target regards you as a trusted friend and follows your spoken commands to the best of its ability, though it won't harm itself. The target can repeat the save whenever it takes damage, ending the effect on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 5",
+    "school": "darkside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "8",
+      "units": "hours"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

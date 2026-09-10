@@ -1,0 +1,24 @@
+{
+  "_id": "YGPy7VROu7YDPQzF",
+  "_key": "!items!YGPy7VROu7YDPQzF",
+  "name": "Vengeance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following features: Devastating Critical if you chose Juyo, or Their Power, My Strength if you chose Vaapad.</p><p><strong>Devastating Critical.</strong> Whenever you score a critical hit with a melee weapon attack, you add a bonus to that weapon's damage roll equal to your guardian level.</p><p><strong>Their Power, My Strength.</strong> Whenever a force power deals damage to you, you may reduce that damage by an amount equal to your guardian level, with no action required.</p><p>You have five uses of this feature, gaining one more at 17th level, and you regain all uses on finishing a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Juyo/Vaapad Form",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

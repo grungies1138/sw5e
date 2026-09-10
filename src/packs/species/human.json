@@ -1,0 +1,72 @@
+{
+  "_id": "yPkO96cm45tP4UFF",
+  "name": "Human",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Humans are among the most widespread and populous species in the galaxy, found on countless worlds from the Core to the farthest reaches of the Outer Rim. Lacking the specialized adaptations of many alien species, humans instead thrive through sheer adaptability, ambition, and cultural diversity &mdash; there is no single \"human\" way of life, only the endless variety of the worlds they have settled.</p><p>Humans dominate the ranks of the Republic, the Empire, the Hutt Cartels, and virtually every other major galactic power, for better or worse.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "str",
+        "value": 1
+      },
+      {
+        "ability": "dex",
+        "value": 1
+      },
+      {
+        "ability": "con",
+        "value": 1
+      },
+      {
+        "ability": "int",
+        "value": 1
+      },
+      {
+        "ability": "wis",
+        "value": 1
+      },
+      {
+        "ability": "cha",
+        "value": 1
+      }
+    ],
+    "darkvision": 0,
+    "languages": [
+      "Galactic Basic"
+    ],
+    "traits": [
+      {
+        "name": "Skilled",
+        "description": "You gain proficiency in one skill of your choice, reflecting the sheer breadth of human experience and training."
+      },
+      {
+        "name": "Adaptable",
+        "description": "You gain proficiency with one additional weapon, tool, or vehicle of your choice, representing training humans pick up navigating a galaxy dominated by other species' technologies."
+      },
+      {
+        "name": "Ambitious",
+        "description": "Humans rose to galactic prominence through drive and initiative rather than any single innate gift. You have advantage on one ability check of your choice per long rest, chosen when you make the roll."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

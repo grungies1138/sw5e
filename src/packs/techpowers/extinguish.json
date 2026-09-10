@@ -1,0 +1,50 @@
+{
+  "_id": "khabV7IrN4QgWCUh",
+  "_key": "!items!khabV7IrN4QgWCUh",
+  "name": "Extinguish",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You discharge a spray of fire-suppressing foam into a 5-foot cube at a point within range. Any flames there are instantly snuffed out, and objects in the area resist ignition for at least a minute. Each creature in the area must succeed on a Constitution saving throw or take 1d4 cold damage.</p><p>At 5th level, you can instead target a 10-foot cube; the area increases further at 11th level (15-foot cube) and 17th level (20-foot cube).</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "cold"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

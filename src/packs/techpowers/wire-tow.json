@@ -1,0 +1,50 @@
+{
+  "_id": "XnZiKBDzuljvF4EF",
+  "_key": "!items!XnZiKBDzuljvF4EF",
+  "name": "Wire Tow",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You fire a length of wire at a foe within 30 feet, making a ranged tech attack against it. On a hit, the target takes 2d10 kinetic damage, and you can pull it up to 25 feet toward you. A critical hit also knocks the target prone. If the target ends this movement within 5 feet of you and is no more than one size larger than you, it becomes grappled by you for the duration.</p><p>A creature you grapple this way must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against your tech save DC to escape using its action. The power ends if the attack misses or the grapple ends.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 3rd level or higher, the kinetic damage increases by 1d10 for each slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d10",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

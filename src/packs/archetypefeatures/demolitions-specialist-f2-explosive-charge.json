@@ -1,0 +1,24 @@
+{
+  "_id": "n80LUVkb0usDHzaU",
+  "_key": "!items!n80LUVkb0usDHzaU",
+  "name": "Explosive Charge",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can craft small explosives called charges. During a short or long rest, you produce a number of them equal to your Intelligence modifier, provided you have a demolitions kit on hand. Only you can use your own charges, and any you haven't used lose their potency at the end of your next short or long rest.</p><p>Once per turn, in place of a ranged weapon attack, you may hurl one of your charges at a point you can see within range &mdash; 30 feet plus five times your Strength modifier. Every creature within 5 feet of that point must succeed on a Dexterity saving throw (DC = 8 + your proficiency bonus + your Intelligence modifier) or take 2d4 + your Intelligence modifier kinetic damage, taking half as much on a success.</p><p>This damage rises to 3d4 at 7th level and 4d4 at 15th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Demolitions Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

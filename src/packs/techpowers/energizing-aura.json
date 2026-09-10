@@ -1,0 +1,45 @@
+{
+  "_id": "JvefP1hyqQp5mOmJ",
+  "_key": "!items!JvefP1hyqQp5mOmJ",
+  "name": "Energizing Aura",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You radiate invigorating light in a 30-foot radius. Creatures you choose within that radius when you cast this power gain advantage on all saving throws until the power ends, and attacks against them are made with disadvantage for the same duration.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 8",
+    "school": "tech",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

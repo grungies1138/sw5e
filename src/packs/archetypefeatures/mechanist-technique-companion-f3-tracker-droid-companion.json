@@ -1,0 +1,24 @@
+{
+  "_id": "VTCzPAoftAHxQsoz",
+  "_key": "!items!VTCzPAoftAHxQsoz",
+  "name": "Tracker Droid Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You put your accumulated expertise to work building and customizing your own tracker droid companion, created following the rules for companions in the Customization Options document for Expanded Content. You must have astrotech's implements to build it.</p><p>Beyond its usual traits and features, your bonded droid gains two extra traits, plus one more at 11th level; each trait beyond your proficiency bonus lowers your tech point maximum by 1. During a long rest, you may install, swap, or remove a number of traits equal to half your Intelligence modifier (minimum 1).</p><p>Additionally, while your droid is bonded and within 10 feet of you, you can use your action to detect any droid or construct, tech focus, tech power, or enhanced item within 60 feet of you or your droid, so long as it isn't behind total cover; sensing a tech power this way also reveals what power it is. At 11th level this detection range extends to 30 feet of you or your target, and to 60 feet at 17th level. You can use this feature twice, gaining an additional use at 5th, 9th, 13th, and 17th level, and regain all uses on completing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mechanist Technique (Companion)",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "0ozi1NxA0wPbdBA4",
+  "_key": "!items!0ozi1NxA0wPbdBA4",
+  "name": "Sustained Lightning",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lash a creature within range with continuous jolts of Force lightning, making a ranged force attack. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration you can use your action to automatically deal it another 1d12 lightning damage. The power ends early if you take any other action, if the target leaves the power's range, or if it gains total cover from you.</p><p>When cast using a force slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 1",
+    "school": "darkside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d12",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

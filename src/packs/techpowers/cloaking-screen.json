@@ -1,0 +1,45 @@
+{
+  "_id": "9Zf80z6drNQzWdYO",
+  "_key": "!items!9Zf80z6drNQzWdYO",
+  "name": "Cloaking Screen",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You or a creature you touch turns invisible for the duration, along with anything worn or carried, as long as it remains on that creature's person.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

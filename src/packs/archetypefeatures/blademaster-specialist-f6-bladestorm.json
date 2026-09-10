@@ -1,0 +1,24 @@
+{
+  "_id": "kpr7p5gRs5p5q4gs",
+  "_key": "!items!kpr7p5gRs5p5q4gs",
+  "name": "Bladestorm",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending your action, you can lash out with one melee weapon attack against every creature within your reach, rolling a separate attack roll for each target. The first attack rolled carries a +1 bonus, and every subsequent attack's bonus climbs by another +1, stacking up to a cap of +6.</p><p>If you're wielding two light or vibro-weapons, or a single double-property weapon, that same escalating bonus also applies to your damage rolls, and you may use your bonus action to make use of Double- or Two-Weapon Fighting.</p><p>Once used, this feature can't be used again until you finish a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Blademaster Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

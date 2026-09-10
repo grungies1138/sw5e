@@ -1,0 +1,33 @@
+{
+  "_id": "Q5sJygHSrg2C21O4",
+  "_key": "!items!Q5sJygHSrg2C21O4",
+  "name": "Healer",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have a knack for battlefield medicine. Increase your Intelligence or Wisdom score by 1, to a maximum of 20.</p><p>When you use a traumakit to stabilize a dying creature, that creature also regains 1 hit point. Additionally, as an action you can expend one use of a traumakit to treat a creature, restoring 1d6 + 4 hit points to it plus a number of additional hit points equal to the creature's maximum number of Hit Dice. A creature can't benefit from this treatment again until it finishes a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "int",
+        "wis"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

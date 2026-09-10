@@ -1,0 +1,25 @@
+{
+  "_id": "MxFOLXSrmkskJ6UL",
+  "name": "Powerful Patch",
+  "type": "shipmaneuver",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, expend a Power Die from the Shields pool and roll it. Your ship makes a Patch action as normal, expending a Hull Die; if the Patch succeeds, it restores additional Hull Points equal to the result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Technician Stratagems",
+    "deployment": "technician",
+    "rankRequired": 1,
+    "activation": "action",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

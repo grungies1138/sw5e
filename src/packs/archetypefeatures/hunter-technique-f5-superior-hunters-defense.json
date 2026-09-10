@@ -1,0 +1,24 @@
+{
+  "_id": "79wJ7Y1uJ1vnhpye",
+  "_key": "!items!79wJ7Y1uJ1vnhpye",
+  "name": "Superior Hunter's Defense",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following options of your choice.</p><p><strong>Evasion.</strong> When an effect lets you make a Dexterity saving throw for half damage, you instead take no damage on a success and only half damage on a failure.</p><p><strong>Stand Against the Tide.</strong> When a hostile creature's melee attack against you misses, you can use your reaction to redirect that same attack against another creature of your choice (not itself).</p><p><strong>Uncanny Dodge.</strong> When an attacker you can see hits you, you can use your reaction to cut the attack's damage against you in half.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Hunter Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

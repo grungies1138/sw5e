@@ -1,0 +1,22 @@
+{
+  "_id": "fyvxA2hmwNCyiPCH",
+  "_key": "!items!fyvxA2hmwNCyiPCH",
+  "name": "Archaeologist Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Archaeologists dig through the wreckage of empires long since fallen, reconstructing the beliefs, rituals, and secrets of civilizations that history has otherwise erased. Those who choose this pursuit go further than most, finding in these ruins a thread that ties them back to the Force itself.</p><p>What starts as academic curiosity becomes a genuine spiritual awakening. Handling relics soaked in ancient devotion, the Archaeologist channels borrowed echoes of the Force, wielding powers first discovered by peoples who vanished long ago.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

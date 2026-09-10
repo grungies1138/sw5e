@@ -1,0 +1,24 @@
+{
+  "_id": "ghPPM0AWF14Sml0O",
+  "_key": "!items!ghPPM0AWF14Sml0O",
+  "name": "Distracting Countenance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can veil yourself in the Force for up to a minute, or until you're incapacitated. While the veil holds, the first time each turn a creature tries to target you with an attack, it must succeed on a Charisma save (DC = 8 + your proficiency bonus + your Charisma modifier). On a failure, the attack fizzles, and the attacker must redirect at a different target or lose the attack entirely. On a success, the attack proceeds, but that creature has disadvantage on any save it makes against your powers on your next turn.</p><p>You must finish a short or long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Beguiler Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

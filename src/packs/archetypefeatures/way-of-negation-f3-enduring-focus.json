@@ -1,0 +1,24 @@
+{
+  "_id": "iMcGQcQPLPi4IYcl",
+  "_key": "!items!iMcGQcQPLPi4IYcl",
+  "name": "Enduring Focus",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While you are concentrating on a force power, you gain a +2 bonus to your AC and to all saving throws.</p><p>You can also extend your Force Deflection feature to a creature within 5 feet of you when it fails a saving throw, granting it that same bonus to the roll.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Negation",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

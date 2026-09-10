@@ -1,0 +1,45 @@
+{
+  "_id": "Zbx8nTWm6bRuT2XS",
+  "_key": "!items!Zbx8nTWm6bRuT2XS",
+  "name": "Combustive Shot",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action used to cast this power, you must make a ranged weapon attack against a creature within your weapon's range, or the power fails. On a hit, the target suffers the attack's normal effects and becomes ignited, taking damage equal to your techcasting ability modifier at the start of each of its turns until the start of your next turn.</p><p>At 5th level, the ranged attack deals an extra 1d6 fire damage and the ignited damage becomes 1d4 plus your techcasting ability modifier; both bonuses increase again by 1d6 and 1d4 respectively at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

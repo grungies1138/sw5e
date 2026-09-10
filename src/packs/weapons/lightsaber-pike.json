@@ -1,0 +1,56 @@
+{
+  "_id": "8sN1wdVi90tHUKu5",
+  "name": "Lightsaber Pike",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A lightsaber hilt fitted to a long insulated haft, giving the wielder extended reach at the cost of the maneuverability a shorter blade allows.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 3500,
+      "denomination": "credits"
+    },
+    "weight": 5,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "lightweapon",
+    "proficiencyTier": "martial",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 10,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed",
+      "reach"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

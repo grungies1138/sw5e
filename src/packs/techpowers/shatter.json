@@ -1,0 +1,50 @@
+{
+  "_id": "FQvG2Te8bvMnX1dc",
+  "_key": "!items!FQvG2Te8bvMnX1dc",
+  "name": "Shatter",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A piercing, deafening ring erupts from a point you choose within range. Every creature in a 10-foot-radius sphere centered there must succeed on a Constitution saving throw or take 3d8 sonic damage, halved on a success; a creature made of stone, crystal, metal, or similar inorganic material has disadvantage on this save. An unattended, unenhanced object in the area takes the damage as well.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 3rd level or higher, the damage increases by 1d8 for each slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d8",
+          "type": "sonic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

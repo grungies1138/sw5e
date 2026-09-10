@@ -1,0 +1,22 @@
+{
+  "_id": "rYocHKPEn1RfTrKd",
+  "_key": "!items!rYocHKPEn1RfTrKd",
+  "name": "Audiotech Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Audiotech engineers wire a favorite instrument into a weapon of morale and misery, believing that the right chord can do as much work on a battlefield as a well-aimed blaster. They study acoustics and electronics side by side, chasing the note that heals a friend or rattles an enemy's nerve.</p><p>When the song starts, so does the fight: encouragement rides on every riff toward allies, discord needles at every foe within earshot, and by the final crescendo the whole engagement can turn on the strength of one performance.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "X97NDNNmaGyaDcl5",
+  "_key": "!items!X97NDNNmaGyaDcl5",
+  "name": "Destroy Tech",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You make a ranged tech attack against a creature within range. On a hit, the target takes 4d8 ion damage. If the target has tech points, it must also succeed on an Intelligence saving throw or lose 5 tech points, as if it had expended a tech slot.</p><p>Cast with a tech slot of 4th level or higher, the ion damage increases by 1d8 and the tech points lost increase by 1 for each slot level above 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d8",
+          "type": "ion"
+        }
+      ]
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

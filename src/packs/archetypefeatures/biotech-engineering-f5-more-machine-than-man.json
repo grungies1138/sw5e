@@ -1,0 +1,24 @@
+{
+  "_id": "yfeRugH8tMLEKJd5",
+  "_key": "!items!yfeRugH8tMLEKJd5",
+  "name": "More Machine Than Man",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While you have any temporary hit points, an effect that would let you save for half damage instead deals you no damage at all if you succeed, and only half if you fail.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biotech Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

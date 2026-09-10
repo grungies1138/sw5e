@@ -1,0 +1,24 @@
+{
+  "_id": "NffYeoh6mGTtySR9",
+  "_key": "!items!NffYeoh6mGTtySR9",
+  "name": "Powerful Presence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you let out a battle cry charged with Force energy, affecting up to ten other creatures within 60 feet who can hear you. Friendly creatures among them gain advantage on attack rolls and saving throws until the start of your next turn, while hostile creatures suffer disadvantage on theirs until the end of your next turn. Once you've cried out this way, you must finish a long rest before doing so again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Marauder Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

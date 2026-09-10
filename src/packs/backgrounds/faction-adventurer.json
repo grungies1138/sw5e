@@ -1,0 +1,47 @@
+{
+  "_id": "pChJuOZuqDXNgsS1",
+  "_key": "!items!pChJuOZuqDXNgsS1",
+  "name": "Faction Adventurer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You grew up around a chartered adventuring faction, whether working a support role for its heroes or riding alongside them until a disagreement or tragedy split you off. Either way, the front lines aren't new to you.</p><p>You're still a member in good standing, at least as long as your dues are paid, and that membership still opens doors: job postings, political cover, and the occasional favor from people who owe your faction more than they owe you.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "inv",
+        "nat",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "Your choice demolitions kit, security kit, or slicer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Investigator",
+        "Naturalist",
+        "Survivalist",
+        "Specialist",
+        "Linguist",
+        "Alert",
+        "Athlete"
+      ]
+    },
+    "equipment": "50 feet of rope, a small knife, a trophy, a set of traveler's clothes, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

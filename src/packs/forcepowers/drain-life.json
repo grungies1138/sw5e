@@ -1,0 +1,50 @@
+{
+  "_id": "2eIaM44xV6CdYPka",
+  "_key": "!items!2eIaM44xV6CdYPka",
+  "name": "Drain Life",
+  "type": "power",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>You siphon vitality from a creature into yourself through the dark side. The target must make a Constitution saving throw, taking 3d10 necrotic damage on a failed save, or half as much on a successful one. You regain hit points equal to half the damage the target takes.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d10",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

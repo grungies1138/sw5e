@@ -1,0 +1,24 @@
+{
+  "_id": "YMy9lnmL01Tmtmsk",
+  "_key": "!items!YMy9lnmL01Tmtmsk",
+  "name": "Overclock Body",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When casting a tech power, you may pay up to half its tech point cost using your own hit points instead. Any hit points spent this way also come off your hit point maximum until you complete a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biotech Engineering",
+    "className": "Engineer",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

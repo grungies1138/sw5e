@@ -1,0 +1,26 @@
+{
+  "_id": "M0MN6B95EVaYHuRI",
+  "_key": "!items!M0MN6B95EVaYHuRI",
+  "name": "Tech Savant",
+  "type": "feat",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have an intuitive grasp of technology that goes beyond formal training. You gain proficiency in the Technology skill, and if you are already proficient, you add double your proficiency bonus to Intelligence (Technology) checks instead of your normal proficiency bonus.</p><p>You also gain proficiency with one type of artisan's tools of your choice, related to technology or mechanical repair.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

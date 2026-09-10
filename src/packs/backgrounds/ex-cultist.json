@@ -1,0 +1,47 @@
+{
+  "_id": "1p8RdqB7Wpk78Pa5",
+  "_key": "!items!1p8RdqB7Wpk78Pa5",
+  "name": "Ex-Cultist",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You once served a hidden circle devoted to a dark power, performing its rites alongside fellow neophytes and believing every word of its teachings. Something broke that faith &mdash; a rite you couldn't stomach, a betrayal you barely escaped, or simply a doubt that wouldn't go away &mdash; and you left, willingly or not.</p><p>You still know the secret signs and symbols of your former order, and you can still recognize them wherever they turn up, even years and systems away from the circle you left behind.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "itm",
+        "inv",
+        "lor"
+      ]
+    },
+    "toolProficiencies": [
+      "Poisoner's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Threatening",
+        "Investigator",
+        "Loremaster",
+        "Specialist",
+        "Linguist",
+        "Galvanizing Presence",
+        "Force-Sensitive"
+      ]
+    },
+    "equipment": "A set of common clothes including a robe, a symbol of your former devotion, a curved ritual knife, and a belt pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

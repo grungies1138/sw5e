@@ -1,0 +1,24 @@
+{
+  "_id": "qtj71OZSqf4z3DnN",
+  "_key": "!items!qtj71OZSqf4z3DnN",
+  "name": "Indomitable",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Force anchors you against being shoved or dragged about. You gain advantage on ability checks and saving throws made to resist being grappled or forcibly moved, and if such a check or save still fails, you may spend 1 force point to reroll it once, keeping the new result.</p><p>Allies within 5 feet of you who are benefiting from your <em>saber ward</em> force power gain this same protection.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Tenacity",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

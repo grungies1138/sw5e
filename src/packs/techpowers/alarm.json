@@ -1,0 +1,45 @@
+{
+  "_id": "Psl01Ib9Bx46IKuO",
+  "_key": "!items!Psl01Ib9Bx46IKuO",
+  "name": "Alarm",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You ward a door, a window, or an area no larger than a 20-foot cube against intrusion. Until the power ends, you are alerted whenever a Tiny or larger creature touches or enters the warded area, unless you designated that creature as exempt when you cast the power.</p><p>You choose whether the alert is mental or audible. A mental alert pings your mind, waking you if asleep, as long as you remain within 1 mile of the area. An audible alert rings like a hand bell, audible within 60 feet, for 10 seconds. The ward lasts until the end of your next short or long rest, whichever comes first.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

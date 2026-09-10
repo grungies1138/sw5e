@@ -1,0 +1,24 @@
+{
+  "_id": "lcQ4Kdw6s8sLpPe4",
+  "_key": "!items!lcQ4Kdw6s8sLpPe4",
+  "name": "Unstable Volley",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While wielding your tinkercannon, you can spend a bonus action and one use of your Potent Aptitude to fire a charge of unstable energy at a surface within 30 feet that you can see. It clings there for up to a minute before detonating on its own, though you can trigger the blast early with that same bonus action or with a bonus action on a later turn. Every creature within 5 feet of the detonation must succeed on a Dexterity save against your tech save DC or take 1d6 lightning damage (half on a success).</p><p>The volley's range extends to 60 feet at 9th level and 120 feet at 17th level. Its damage grows to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Unstable Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

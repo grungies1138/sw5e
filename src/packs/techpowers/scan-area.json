@@ -1,0 +1,45 @@
+{
+  "_id": "1dD66Ptewkr9VZPc",
+  "_key": "!items!1dD66Ptewkr9VZPc",
+  "name": "Scan Area",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You link a creature or object you know well to your tech focus, which sweeps for it with a sonar pulse, locating a path to it anywhere within 1,000 feet and, if it is moving, showing its direction of travel. You may instead search for the nearest creature or object of a type you specify, provided you have observed one of that type up close, within 30 feet, at least once. The link persists for as long as you concentrate, up to 10 minutes.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

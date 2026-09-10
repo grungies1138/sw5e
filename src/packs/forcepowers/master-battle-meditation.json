@@ -1,0 +1,45 @@
+{
+  "_id": "dlPKBvA97fZfkI2r",
+  "_key": "!items!dlPKBvA97fZfkI2r",
+  "name": "Master Battle Meditation",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You radiate an aura of resolve out to 30 feet, bolstering your side's fighting spirit while unraveling your foes'. Whenever you or a friendly creature within the aura makes an attack roll or saving throw, that creature may roll a d8 and add the result.</p><p>Whenever a hostile creature enters the aura or begins its turn there, it must succeed on a Charisma saving throw or roll a d8 and subtract the result from each attack roll and saving throw it makes until the end of your next turn; a successful save instead grants it immunity to this power for 24 hours.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 9",
+    "school": "universal",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "cha",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

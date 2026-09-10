@@ -1,0 +1,45 @@
+{
+  "_id": "0BxDNg0m8vp1lSXN",
+  "_key": "!items!0BxDNg0m8vp1lSXN",
+  "name": "Vent Coolant",
+  "type": "power",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>You trigger a burst of pressurized coolant vapor from your gear. A cloud of fog fills a 10-foot-radius sphere centered on you, lightly obscuring the area until the end of your next turn or until a strong wind disperses it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

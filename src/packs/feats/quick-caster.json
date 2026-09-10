@@ -1,0 +1,30 @@
+{
+  "_id": "JuGKOF01UnNyi3JI",
+  "_key": "!items!JuGKOF01UnNyi3JI",
+  "name": "Quick Caster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've refined your ability to chain powers together in rapid succession.</p><p>When you cast a power that normally has a bonus action casting time, you may instead spend your action to cast a different power whose level is no higher than half your proficiency bonus (rounded down).</p><p>Once per long rest, when casting a power with a bonus action casting time, you can cast it without spending force or tech points, provided its level doesn't exceed your proficiency bonus.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level, ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

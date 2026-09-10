@@ -1,0 +1,47 @@
+{
+  "_id": "zFR4HjOBrlvtixMx",
+  "_key": "!items!zFR4HjOBrlvtixMx",
+  "name": "Servant",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You spent much of your life in service to someone with wealth or power &mdash; a noble, a merchant, a lord you may or may not have ever felt close to. Whatever they asked, you did, and you learned to read a room of powerful people from the periphery of it.</p><p>That upbringing taught you exactly how to carry yourself around the elite, whether you were treated well or poorly for it, and you can still pass as belonging in rooms most people never get invited into.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "lor",
+        "prf",
+        "per"
+      ]
+    },
+    "toolProficiencies": [
+      "One of your choice"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Loremaster",
+        "Performer",
+        "Charmer",
+        "Crafter",
+        "Entertainer",
+        "Specialist",
+        "Linguist"
+      ]
+    },
+    "equipment": "A symbol representing your former employer, a set of artisan's implements of your choice, a set of nice clothes, a set of common clothes, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

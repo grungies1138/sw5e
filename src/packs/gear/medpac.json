@@ -1,0 +1,29 @@
+{
+  "_id": "OMi2K6Ez9FtEWhrJ",
+  "name": "Medpac",
+  "type": "gear",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p>A self-contained field treatment kit of kolto gel, bacta-soaked bandages, and auto-injectors. Using a medpac on a creature restores 2d4 + 2 hit points.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 40,
+      "denomination": "credits"
+    },
+    "weight": 0.5,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

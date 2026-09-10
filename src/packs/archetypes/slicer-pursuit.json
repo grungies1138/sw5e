@@ -1,0 +1,22 @@
+{
+  "_id": "WTzCnSpIxUar4mGq",
+  "_key": "!items!WTzCnSpIxUar4mGq",
+  "name": "Slicer Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Behind every anonymous handle and stolen credential is a mind that has made the galaxy's networks its personal laboratory. The Slicer channels raw intellect into code and circuitry, treating firewalls and encrypted systems as puzzles meant to be cracked wide open, whatever the reason.</p><p>That same fluency with technology becomes a battlefield weapon, letting a Slicer twist droids and enemy hardware against their owners and unravel tech-based threats before they fully take hold.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

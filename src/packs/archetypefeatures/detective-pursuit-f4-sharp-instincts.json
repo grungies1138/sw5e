@@ -1,0 +1,24 @@
+{
+  "_id": "qXDUXz4NM9X1FrlU",
+  "_key": "!items!qXDUXz4NM9X1FrlU",
+  "name": "Sharp Instincts",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, when you land a melee weapon attack on your Critical Analysis target, you can make a Wisdom (Insight) check opposed by the target's Charisma (Deception). Winning the contest deals an extra 1d8 damage of the weapon's damage type. This die grows to d10 at 13th level and d12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Detective Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

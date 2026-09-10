@@ -1,0 +1,24 @@
+{
+  "_id": "2AKp2yt5MSzVrO6R",
+  "_key": "!items!2AKp2yt5MSzVrO6R",
+  "name": "Beast Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your accumulated knowledge lets you forge a genuine bond with a beast companion, built following the Companions section of the Customization Options document for Expanded Content. Bonded to you, it gains extra benefits beyond its normal traits and features:</p><ul><li>It gains two extra traits, plus one more at 11th level. For each trait it holds beyond your proficiency bonus, the number of Hit Dice you have available to restore hit points drops by 1.</li><li>While within 10 feet of you, it gains a bonus to ability checks, AC, attack rolls, damage rolls, and saving throws equal to half your Critical Analysis ability modifier (minimum +1). That range extends to 30 feet at 11th level and 60 feet at 17th level.</li></ul>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Zoologist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "upDOLgTM9Khk1S0V",
+  "_key": "!items!upDOLgTM9Khk1S0V",
+  "name": "Quick-Witted",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You think fastest when it matters most, always keeping at least the outline of a plan in mind. Increase your Intelligence score by 1, to a maximum of 20.</p><p>You may use your Intelligence modifier in place of your Dexterity modifier for initiative checks, and you may make an Intelligence saving throw in place of a Dexterity saving throw. You can use this substitution a number of times equal to your proficiency bonus, regaining all spent uses when you finish a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "int"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

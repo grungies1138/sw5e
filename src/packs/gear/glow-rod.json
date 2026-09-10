@@ -1,0 +1,29 @@
+{
+  "_id": "ORTng6mLb0zEfYXz",
+  "name": "Glow Rod",
+  "type": "gear",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>A simple handheld light source with a wide beam and long-lasting power cell, standard equipment for anyone exploring caves, wrecks, or unlit corridors.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 10,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

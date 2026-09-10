@@ -1,0 +1,45 @@
+{
+  "_id": "YXSFIfLXuoYld5dJ",
+  "_key": "!items!YXSFIfLXuoYld5dJ",
+  "name": "Programmed Illusion",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You plant an illusion of an object, creature, or other visible phenomenon within range, set to trigger on a condition you specify. The illusion, invisible until triggered, must fit within a 30-foot cube, and you determine in advance how it behaves and what sounds it produces; the resulting performance can last up to 5 minutes.</p><p>When the trigger condition occurs, the illusion appears and performs as scripted, then vanishes and lies dormant for 10 minutes before it can trigger again. The trigger can be as broad or specific as you like, so long as it depends on something seen or heard within 30 feet of the illusion's area.</p><p>Physical contact reveals the illusion's nature, since objects pass through it; a creature that spends its action examining the image can identify it as an illusion with a successful Intelligence (Investigation) check against your tech save DC, after which it can see through the image and hears its sounds as hollow.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

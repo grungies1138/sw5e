@@ -1,0 +1,26 @@
+{
+  "_id": "yn8e0P3WP47nTFca",
+  "_key": "!items!yn8e0P3WP47nTFca",
+  "name": "Force Warning",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have developed a subtle, reflexive attunement to danger through the Force, even without formal training. When a creature you can see makes an attack roll against you, you can use your reaction to impose disadvantage on that roll, as a fleeting premonition causes you to shift just enough to spoil their aim.</p><p>Once you use this feat's benefit, you can't do so again until you finish a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

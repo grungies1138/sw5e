@@ -1,0 +1,49 @@
+{
+  "_id": "aIb4ByeCYjMBJ1og",
+  "name": "Laser Cannon",
+  "type": "starshipweapon",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>The standard low-yield rapid-fire energy weapon found on nearly every starfighter and light freighter in the galaxy. Cheap, reliable, and easy to maintain, but prone to overheating under sustained fire.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 800,
+      "denomination": "credits"
+    },
+    "category": "primary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 1000,
+      "long": 4000,
+      "units": "ft"
+    },
+    "properties": [
+      "ovh"
+    ],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "knkC7CjR0xqYbZMf",
+  "_key": "!items!knkC7CjR0xqYbZMf",
+  "name": "Friendly Fire",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Centered on a point within range, a 30-foot-radius pulse scrambles the targeting systems of every droid or construct caught in it. Each must attempt an Intelligence saving throw; a Piloted construct with a conscious pilot adds that pilot's Intelligence modifier to the roll. On a failure, the target can no longer tell friend from foe and treats every creature it can see as a threat until the power ends, though it may retry the save whenever it takes damage.</p><p>While affected, the creature must choose its targets at random among those it can see, and it is compelled to make any opportunity attack it is able to make.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

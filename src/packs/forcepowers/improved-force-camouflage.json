@@ -1,0 +1,45 @@
+{
+  "_id": "Axg05ty7KXA82kFp",
+  "_key": "!items!Axg05ty7KXA82kFp",
+  "name": "Improved Force Camouflage",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature, rendering it invisible for the duration, along with anything it wears or carries so long as it stays on its person.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

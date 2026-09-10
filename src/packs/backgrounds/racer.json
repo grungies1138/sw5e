@@ -1,0 +1,47 @@
+{
+  "_id": "SulaayNNmsmhjgJ7",
+  "_key": "!items!SulaayNNmsmhjgJ7",
+  "name": "Racer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You live for speed, whether behind the controls of a swoop bike, a pod racer, or something with even fewer safety features. The rush of a photo-finish and the taste of a hard-won victory are what get you out of bed.</p><p>You've read more stretches of dangerous terrain at speed than most pilots read at a crawl, and you know how to shave a shortcut out of a route everyone else considers impassable.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ani",
+        "nat",
+        "pil",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set or mechanic's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Animal Handler",
+        "Naturalist",
+        "Ace Pilot",
+        "Techie",
+        "Competitor",
+        "Specialist",
+        "Linguist",
+        "Observant"
+      ]
+    },
+    "equipment": "A set of common clothes, a trophy or ribbon from your first win, a gaming set of your choice, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

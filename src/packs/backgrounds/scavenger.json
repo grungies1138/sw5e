@@ -1,0 +1,47 @@
+{
+  "_id": "YmV6I6JVUndUEAlj",
+  "_key": "!items!YmV6I6JVUndUEAlj",
+  "name": "Scavenger",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have made your living picking through the wrecks of starships, the husks of decommissioned droids, and the refuse heaps of civilizations that came before, finding value in what everyone else discarded. Whether you worked a junkyard, salvaged battlefields, or picked apart abandoned outposts, you have a trained eye for what's still useful and what's just scrap.</p><p>Your hands are quick, your tools are well-worn, and you know that today's garbage is tomorrow's payday &mdash; if you can get to it before someone else does.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "per",
+        "slt",
+        "sur",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "Your choice of archaeologist kit, jeweler's implements, mechanic's kit, or scavenging kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Loremaster",
+        "Quick-Fingered",
+        "Techie",
+        "Specialist",
+        "Crafter",
+        "Linguist",
+        "Tech Dabbler"
+      ]
+    },
+    "equipment": "A salvaged toolkit, a set of common clothes with many pockets, a handful of spare parts of uncertain function, a satchel, and 10 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

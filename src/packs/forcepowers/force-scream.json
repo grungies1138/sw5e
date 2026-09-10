@@ -1,0 +1,54 @@
+{
+  "_id": "aXnUoQb5iDX1CYVX",
+  "_key": "!items!aXnUoQb5iDX1CYVX",
+  "name": "Force Scream",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You loose a piercing cry charged with dark power. Each creature you designate within 15 feet must succeed on a Constitution saving throw or take 4d6 psychic damage and 4d6 sonic damage, and be deafened until the end of its next turn. A successful save halves the damage and prevents the deafness.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 3",
+    "school": "darkside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d6",
+          "type": "psychic"
+        },
+        {
+          "formula": "4d6",
+          "type": "sonic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

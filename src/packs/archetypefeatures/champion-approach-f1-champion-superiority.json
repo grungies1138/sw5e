@@ -1,0 +1,24 @@
+{
+  "_id": "U9xsWg0c6udapF9m",
+  "_key": "!items!U9xsWg0c6udapF9m",
+  "name": "Champion Superiority",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn combat maneuvers powered by special superiority dice (see chapter 13 for the maneuvers list).</p><p><strong>Maneuvers Known.</strong> You start knowing two maneuvers of your choice, learning more as you level up, per the Maneuvers Known column of the Champion Superiority table. Most maneuvers augment an attack; you can only apply one maneuver per attack, and never the same maneuver twice in one turn. Whenever you learn new maneuvers, you may also swap out one maneuver you already know for a different one.</p><p><strong>Superiority Dice.</strong> You start with two superiority dice, each a d4, gaining more as shown in the Superiority Dice Quantity column of the Champion Superiority table; the die's size also increases with level, per the Superiority Dice Size column. A die is used up once spent, and you recover every expended die after a short or long rest.</p><p><strong>Maneuver Ability.</strong> Your maneuver ability depends on the maneuver's type: Strength, Dexterity, or Constitution (your choice) for physical maneuvers; Intelligence, Wisdom, or Charisma (your choice) for mental maneuvers; and any ability you choose for general maneuvers. This is the ability used whenever a maneuver calls for your maneuver ability, including setting its save DC.</p><p><strong>Maneuver save DC</strong> = 8 + your proficiency bonus + your maneuver ability modifier</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Champion Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

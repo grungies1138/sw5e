@@ -1,0 +1,50 @@
+{
+  "_id": "ZK8eP7qmwvfW4Jq3",
+  "_key": "!items!ZK8eP7qmwvfW4Jq3",
+  "name": "Greater Sabotage Charges",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure six medium sabotage charges that last for the duration. When cast, and again as a bonus action on later turns, you may hurl up to two charges at points within 120 feet; each detonates on impact with a creature or solid surface. Every creature within 10 feet of a blast makes a Dexterity saving throw, taking 4d6 fire damage on a failure or half as much on a success.</p><p><strong>Overcharge Tech.</strong> Casting with a slot above 7th level creates two additional charges per slot level beyond 7th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 7",
+    "school": "tech",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

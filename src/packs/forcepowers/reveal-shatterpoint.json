@@ -1,0 +1,45 @@
+{
+  "_id": "nPyE95VZHeif1AQ7",
+  "_key": "!items!nPyE95VZHeif1AQ7",
+  "name": "Reveal Shatterpoint",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You study a creature you can see within range, and the Force reveals a weakness in its defenses. The target must succeed on a Charisma save. On a failure, you gain advantage on all your attack rolls against it while it suffers disadvantage on its attacks against you for the duration. On a success, you instead gain advantage only on your next attack against it, and it suffers disadvantage only on its next attack against you — the power ends once both of those attacks have been made.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "cha",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

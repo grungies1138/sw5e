@@ -1,0 +1,45 @@
+{
+  "_id": "X5oFkFcdKMAEvPJ7",
+  "_key": "!items!X5oFkFcdKMAEvPJ7",
+  "name": "Disperse Force",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Reflexively you channel Force energy through your body to blunt an incoming blow. Until the start of your next turn you have resistance to the type of damage that triggered this reaction (cold, energy, fire, ion, lightning, or sonic), and you gain 5 temporary hit points that last until the start of your next turn.</p><p>When cast with a force slot of 2nd level or higher, the temporary hit points granted increase by 5 for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

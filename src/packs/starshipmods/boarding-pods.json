@@ -1,0 +1,30 @@
+{
+  "_id": "H1bVsEnsmGih83r3",
+  "name": "Boarding Pods",
+  "type": "starshipmod",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>A rack of self-propelled breaching pods, each capable of ferrying a small boarding party across open space to clamp onto and burn through an enemy hull, bypassing the need to physically dock.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 5000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 2,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

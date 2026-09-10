@@ -1,0 +1,22 @@
+{
+  "_id": "l7vDKw3cRUDMiObm",
+  "_key": "!items!l7vDKw3cRUDMiObm",
+  "name": "Fireteam Specialist (Companion)",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some fighters lead a squad; others forge their bond with a single trusted partner. This variant of the Fireteam Specialist channels the same tactical instincts into a tight, unbreakable partnership with one companion, training and fighting as though they were two halves of a single warrior.</p><p>Where the standard Fireteam Specialist rallies a crowd, this one perfects a duet: shared reflexes, shared endurance, and a battlefield understanding so deep that harm to one partner is answered instantly by the other. Together, the pair becomes far more dangerous than either could ever be alone.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

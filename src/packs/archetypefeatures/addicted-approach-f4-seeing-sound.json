@@ -1,0 +1,24 @@
+{
+  "_id": "NmTpNnsVnjDjbIsb",
+  "_key": "!items!NmTpNnsVnjDjbIsb",
+  "name": "Seeing Sound",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, high, or both, you gain blindsight out to 10 feet — extending to 30 feet if both conditions apply together. If you already possess blindsight from another source, this instead adds 5 feet to its range, or 15 feet when both raging and high.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Addicted Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

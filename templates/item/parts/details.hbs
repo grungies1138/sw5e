@@ -1,0 +1,267 @@
+<section class="tab details {{#if tabs.details.active}}active{{/if}}" data-tab="details" data-group="primary">
+
+  {{#if (sw5eEq item.type "weapon")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Category'}}
+      <select name="system.category">{{#each config.weaponCategories as |label key|}}<option value="{{key}}" {{#if (sw5eEq key ../system.category)}}selected{{/if}}>{{sw5eLabel label}}</option>{{/each}}</select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.ProficiencyTier'}}
+      <select name="system.proficiencyTier">{{#each config.weaponProficiencyTiers as |label key|}}<option value="{{key}}" {{#if (sw5eEq key ../system.proficiencyTier)}}selected{{/if}}>{{sw5eLabel label}}</option>{{/each}}</select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.ActionType'}}
+      <select name="system.actionType"><option value="mwak" {{#if (sw5eEq system.actionType "mwak")}}selected{{/if}}>{{sw5eLabel 'SW5E.MeleeAttack'}}</option><option value="rwak" {{#if (sw5eEq system.actionType "rwak")}}selected{{/if}}>{{sw5eLabel 'SW5E.RangedAttack'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.AttackBonus'}} <input type="number" name="system.attackBonus" value="{{system.attackBonus}}"></label>
+    <label>{{sw5eLabel 'SW5E.Damage'}} <input type="text" name="system.damage.parts.0.formula" value="{{lookup (lookup system.damage.parts 0) 'formula'}}" placeholder="1d8"></label>
+    <label>{{sw5eLabel 'SW5E.DamageType'}} <input type="text" name="system.damage.parts.0.type" value="{{lookup (lookup system.damage.parts 0) 'type'}}" placeholder="energy"></label>
+    <label>{{sw5eLabel 'SW5E.Range'}} <input type="number" name="system.range.value" value="{{system.range.value}}"> / <input type="number" name="system.range.long" value="{{system.range.long}}"></label>
+    <label><input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}}> {{sw5eLabel 'SW5E.Equipped'}}</label>
+    <label><input type="checkbox" name="system.proficient" {{#if system.proficient}}checked{{/if}}> {{sw5eLabel 'SW5E.Proficient'}}</label>
+    <label>{{sw5eLabel 'SW5E.Properties'}} <span>{{sw5eJoin system.properties}}</span></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "armor")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Type'}}
+      <select name="system.type">{{#each config.armorTypes as |label key|}}<option value="{{key}}" {{#if (sw5eEq key ../system.type)}}selected{{/if}}>{{sw5eLabel label}}</option>{{/each}}</select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.ArmorClass'}} <input type="number" name="system.armor.value" value="{{system.armor.value}}"></label>
+    <label>{{sw5eLabel 'SW5E.DexCap'}} <input type="number" name="system.armor.dex" value="{{system.armor.dex}}"></label>
+    <label>{{sw5eLabel 'SW5E.StrengthRequirement'}} <input type="number" name="system.strength" value="{{system.strength}}"></label>
+    <label><input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}}> {{sw5eLabel 'SW5E.Equipped'}}</label>
+    <label><input type="checkbox" name="system.stealthDisadvantage" {{#if system.stealthDisadvantage}}checked{{/if}}> {{sw5eLabel 'SW5E.StealthDisadvantage'}}</label>
+    <label><input type="checkbox" name="system.bulky" {{#if system.bulky}}checked{{/if}}> {{sw5eLabel 'SW5E.Bulky'}}</label>
+    <label>{{sw5eLabel 'SW5E.Properties'}} <span>{{sw5eJoin system.properties}}</span></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "shield")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Tier'}}
+      <select name="system.tier"><option value="light" {{#if (sw5eEq system.tier "light")}}selected{{/if}}>{{sw5eLabel 'SW5E.ShieldLight'}}</option><option value="medium" {{#if (sw5eEq system.tier "medium")}}selected{{/if}}>{{sw5eLabel 'SW5E.ShieldMedium'}}</option><option value="heavy" {{#if (sw5eEq system.tier "heavy")}}selected{{/if}}>{{sw5eLabel 'SW5E.ShieldHeavy'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Variant'}}
+      <select name="system.variant"><option value="physical" {{#if (sw5eEq system.variant "physical")}}selected{{/if}}>{{sw5eLabel 'SW5E.ShieldPhysical'}}</option><option value="generator" {{#if (sw5eEq system.variant "generator")}}selected{{/if}}>{{sw5eLabel 'SW5E.ShieldGenerator'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.ArmorClass'}} <input type="number" name="system.acBonus" value="{{system.acBonus}}"></label>
+    <label>{{sw5eLabel 'SW5E.StrengthRequirement'}} <input type="number" name="system.strength" value="{{system.strength}}"></label>
+    <label><input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}}> {{sw5eLabel 'SW5E.Equipped'}}</label>
+    <label><input type="checkbox" name="system.requiresFreeHand" {{#if system.requiresFreeHand}}checked{{/if}}> {{sw5eLabel 'SW5E.RequiresFreeHand'}}</label>
+    <label><input type="checkbox" name="system.obtrusive" {{#if system.obtrusive}}checked{{/if}}> {{sw5eLabel 'SW5E.Obtrusive'}}</label>
+    <label>{{sw5eLabel 'SW5E.Properties'}} <span>{{sw5eJoin system.properties}}</span></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "power")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.PowerLevel'}} <input type="number" name="system.level" value="{{system.level}}" min="0" max="9"></label>
+    <label>{{sw5eLabel 'SW5E.School'}}
+      <select name="system.school">{{#each config.powerSchools as |label key|}}<option value="{{key}}" {{#if (sw5eEq key ../system.school)}}selected{{/if}}>{{sw5eLabel label}}</option>{{/each}}</select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.CastingTime'}}
+      <select name="system.activation.type"><option value="action" {{#if (sw5eEq system.activation.type "action")}}selected{{/if}}>{{sw5eLabel 'SW5E.Action'}}</option><option value="bonus" {{#if (sw5eEq system.activation.type "bonus")}}selected{{/if}}>{{sw5eLabel 'SW5E.BonusAction'}}</option><option value="reaction" {{#if (sw5eEq system.activation.type "reaction")}}selected{{/if}}>{{sw5eLabel 'SW5E.Reaction'}}</option><option value="special" {{#if (sw5eEq system.activation.type "special")}}selected{{/if}}>{{sw5eLabel 'SW5E.Special'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Range'}} <input type="number" name="system.range.value" value="{{system.range.value}}"></label>
+    <label>{{sw5eLabel 'SW5E.Duration'}} <input type="text" name="system.duration.value" value="{{system.duration.value}}"> <input type="text" name="system.duration.units" value="{{system.duration.units}}"></label>
+    <label><input type="checkbox" name="system.concentration" {{#if system.concentration}}checked{{/if}}> {{sw5eLabel 'SW5E.Concentration'}}</label>
+    <label><input type="checkbox" name="system.requiresFocus" {{#if system.requiresFocus}}checked{{/if}}> {{sw5eLabel 'SW5E.RequiresTechFocus'}}</label>
+    <label>{{sw5eLabel 'SW5E.Damage'}} <input type="text" name="system.damage.parts.0.formula" value="{{lookup (lookup system.damage.parts 0) 'formula'}}"></label>
+    <label>{{sw5eLabel 'SW5E.PointCost'}} <span>{{system.pointCost}}</span></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "shipmaneuver")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Deployment'}}
+      <select name="system.deployment">{{#each config.deployments as |cfg key|}}<option value="{{key}}" {{#if (sw5eEq key ../system.deployment)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>{{/each}}</select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.RankRequired'}} <input type="number" name="system.rankRequired" value="{{system.rankRequired}}" min="1" max="5"></label>
+    <label>{{sw5eLabel 'SW5E.Formula'}} <input type="text" name="system.formula" value="{{system.formula}}" placeholder="@powerDie"></label>
+    <label><input type="checkbox" name="system.expendsPowerDie" {{#if system.expendsPowerDie}}checked{{/if}}> {{sw5eLabel 'SW5E.ExpendsPowerDie'}}</label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "starshipweapon")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Category'}}
+      <select name="system.category">{{#each config.starshipWeaponCategories as |cfg key|}}<option value="{{key}}" {{#if (sw5eEq key ../system.category)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>{{/each}}</select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Hardpoint'}}
+      <select name="system.hardpoint"><option value="fixed" {{#if (sw5eEq system.hardpoint "fixed")}}selected{{/if}}>{{sw5eLabel 'SW5E.HardpointFixed'}}</option><option value="turret" {{#if (sw5eEq system.hardpoint "turret")}}selected{{/if}}>{{sw5eLabel 'SW5E.HardpointTurret'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Role'}}
+      <select name="system.role"><option value="standalone" {{#if (sw5eEq system.role "standalone")}}selected{{/if}}>{{sw5eLabel 'SW5E.RoleStandalone'}}</option><option value="launcher" {{#if (sw5eEq system.role "launcher")}}selected{{/if}}>{{sw5eLabel 'SW5E.RoleLauncher'}}</option><option value="ammo" {{#if (sw5eEq system.role "ammo")}}selected{{/if}}>{{sw5eLabel 'SW5E.RoleAmmo'}}</option></select>
+    </label>
+    <label><input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}}> {{sw5eLabel 'SW5E.Equipped'}}</label>
+    <label>{{sw5eLabel 'SW5E.AttackBonus'}} <input type="number" name="system.attackBonus" value="{{system.attackBonus}}"></label>
+    <label>{{sw5eLabel 'SW5E.Damage'}} <input type="text" name="system.damage.parts.0.formula" value="{{lookup (lookup system.damage.parts 0) 'formula'}}"></label>
+    <label>{{sw5eLabel 'SW5E.DamageType'}} <input type="text" name="system.damage.parts.0.type" value="{{lookup (lookup system.damage.parts 0) 'type'}}"></label>
+    {{#if (sw5eEq system.role "ammo")}}
+    <label>{{sw5eLabel 'SW5E.HugeShipDamage'}} <input type="text" name="system.damageHuge.parts.0.formula" value="{{lookup (lookup system.damageHuge.parts 0) 'formula'}}"></label>
+    <label>{{sw5eLabel 'SW5E.DamageType'}} <input type="text" name="system.damageHuge.parts.0.type" value="{{lookup (lookup system.damageHuge.parts 0) 'type'}}"></label>
+    {{/if}}
+    <label>{{sw5eLabel 'SW5E.Range'}} <input type="number" name="system.range.value" value="{{system.range.value}}"> / <input type="number" name="system.range.long" value="{{system.range.long}}"></label>
+    <label>{{sw5eLabel 'SW5E.ConstitutionRequirement'}} <input type="number" name="system.constitution" value="{{system.constitution}}"></label>
+    <label>{{sw5eLabel 'SW5E.AmmoRemaining'}} <input type="number" name="system.ammo.value" value="{{system.ammo.value}}"></label>
+    <label>{{sw5eLabel 'SW5E.AmmoCapacity'}} <input type="number" name="system.ammo.max" value="{{system.ammo.max}}"></label>
+    {{#if (sw5eEq system.role "launcher")}}
+    <label>{{sw5eLabel 'SW5E.AmmoFamily'}} <input type="text" name="system.ammoFamily" value="{{system.ammoFamily}}" placeholder="Torpedo Launcher"></label>
+    <label>{{sw5eLabel 'SW5E.LoadedAmmo'}} <input type="text" name="system.loadedAmmo" value="{{system.loadedAmmo}}"></label>
+    {{/if}}
+    {{#if (sw5eEq system.role "ammo")}}
+    <label>{{sw5eLabel 'SW5E.AmmoFamily'}} <input type="text" name="system.ammoFamily" value="{{system.ammoFamily}}" placeholder="Torpedo Launcher"></label>
+    {{/if}}
+    <label>{{sw5eLabel 'SW5E.Properties'}} <span>{{sw5eJoin system.properties}}</span></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "starshipmod")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Category'}}
+      <select name="system.category">{{#each config.modificationCategories as |cfg key|}}<option value="{{key}}" {{#if (sw5eEq key ../system.category)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>{{/each}}</select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Grade'}} <input type="number" name="system.grade" value="{{system.grade}}" min="0" max="5"></label>
+    <label>{{sw5eLabel 'SW5E.Slots'}} <input type="number" name="system.slots" value="{{system.slots}}" min="1"></label>
+    <label><input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}}> {{sw5eLabel 'SW5E.Equipped'}}</label>
+    <label>{{sw5eLabel 'SW5E.Prerequisite'}} <input type="text" name="system.prerequisite" value="{{system.prerequisite}}"></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "maneuver")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Type'}}
+      <select name="system.type"><option value="physical" {{#if (sw5eEq system.type "physical")}}selected{{/if}}>{{sw5eLabel 'SW5E.ManeuverTypePhysical'}}</option><option value="mental" {{#if (sw5eEq system.type "mental")}}selected{{/if}}>{{sw5eLabel 'SW5E.ManeuverTypeMental'}}</option><option value="general" {{#if (sw5eEq system.type "general")}}selected{{/if}}>{{sw5eLabel 'SW5E.ManeuverTypeGeneral'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.ActivationType'}}
+      <select name="system.activation.type"><option value="action" {{#if (sw5eEq system.activation.type "action")}}selected{{/if}}>{{sw5eLabel 'SW5E.Action'}}</option><option value="bonus" {{#if (sw5eEq system.activation.type "bonus")}}selected{{/if}}>{{sw5eLabel 'SW5E.BonusAction'}}</option><option value="reaction" {{#if (sw5eEq system.activation.type "reaction")}}selected{{/if}}>{{sw5eLabel 'SW5E.Reaction'}}</option><option value="special" {{#if (sw5eEq system.activation.type "special")}}selected{{/if}}>{{sw5eLabel 'SW5E.Special'}}</option><option value="none" {{#if (sw5eEq system.activation.type "none")}}selected{{/if}}>{{sw5eLabel 'SW5E.None'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Cost'}} <input type="number" name="system.activation.cost" value="{{system.activation.cost}}" min="0"></label>
+    <label>{{sw5eLabel 'SW5E.SavingThrow'}}
+      <select name="system.savingThrow"><option value="" {{#if (sw5eEq system.savingThrow "")}}selected{{/if}}>{{sw5eLabel 'SW5E.None'}}</option><option value="str" {{#if (sw5eEq system.savingThrow "str")}}selected{{/if}}>{{sw5eLabel 'SW5E.AbilityStr'}}</option><option value="dex" {{#if (sw5eEq system.savingThrow "dex")}}selected{{/if}}>{{sw5eLabel 'SW5E.AbilityDex'}}</option><option value="con" {{#if (sw5eEq system.savingThrow "con")}}selected{{/if}}>{{sw5eLabel 'SW5E.AbilityCon'}}</option><option value="int" {{#if (sw5eEq system.savingThrow "int")}}selected{{/if}}>{{sw5eLabel 'SW5E.AbilityInt'}}</option><option value="wis" {{#if (sw5eEq system.savingThrow "wis")}}selected{{/if}}>{{sw5eLabel 'SW5E.AbilityWis'}}</option><option value="cha" {{#if (sw5eEq system.savingThrow "cha")}}selected{{/if}}>{{sw5eLabel 'SW5E.AbilityCha'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Prerequisite'}} <input type="text" name="system.prerequisite" value="{{system.prerequisite}}"></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "starshipequipment")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Kind'}}
+      <select name="system.kind"><option value="reactor" {{#if (sw5eEq system.kind "reactor")}}selected{{/if}}>{{sw5eLabel 'SW5E.Reactor'}}</option><option value="coupling" {{#if (sw5eEq system.kind "coupling")}}selected{{/if}}>{{sw5eLabel 'SW5E.PowerCoupling'}}</option><option value="hyperdrive" {{#if (sw5eEq system.kind "hyperdrive")}}selected{{/if}}>{{sw5eLabel 'SW5E.Hyperdrive'}}</option><option value="armor" {{#if (sw5eEq system.kind "armor")}}selected{{/if}}>{{sw5eLabel 'SW5E.Armor'}}</option><option value="shieldGenerator" {{#if (sw5eEq system.kind "shieldGenerator")}}selected{{/if}}>{{sw5eLabel 'SW5E.Shields'}}</option></select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.ConfigKey'}} <input type="text" name="system.configKey" value="{{system.configKey}}"></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "class")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Levels'}} <input type="number" name="system.levels" value="{{system.levels}}" min="1" max="20"></label>
+    <label>{{sw5eLabel 'SW5E.HitDice'}} <input type="text" name="system.hitDice" value="{{system.hitDice}}"></label>
+    <label>{{sw5eLabel 'SW5E.CasterProgression'}} <input type="text" name="system.casterProgression" value="{{system.casterProgression}}"></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "archetype")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.ClassName'}} <input type="text" name="system.className" value="{{system.className}}"></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "archetypeFeature")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.ArchetypeName'}} <input type="text" name="system.archetypeName" value="{{system.archetypeName}}"></label>
+    <label>{{sw5eLabel 'SW5E.ClassName'}} <input type="text" name="system.className" value="{{system.className}}"></label>
+    <label>{{sw5eLabel 'SW5E.LevelGained'}} <input type="number" name="system.level" value="{{system.level}}" min="1" max="20"></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "species")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Size'}} <input type="text" name="system.size" value="{{system.size}}"></label>
+    <label>{{sw5eLabel 'SW5E.Speed'}} <input type="number" name="system.speed.walk" value="{{system.speed.walk}}"></label>
+    <label>{{sw5eLabel 'SW5E.Darkvision'}} <input type="number" name="system.darkvision" value="{{system.darkvision}}"></label>
+    {{#if system.abilityBonuses.length}}
+    <label>{{sw5eLabel 'SW5E.AbilityBonuses'}} <span>{{sw5eAbilityBonuses system.abilityBonuses}}</span></label>
+    {{/if}}
+    {{#if system.languages.length}}
+    <label>{{sw5eLabel 'SW5E.Languages'}} <span>{{sw5eJoin system.languages}}</span></label>
+    {{/if}}
+    <label><input type="checkbox" name="system.isDroid" {{#if system.isDroid}}checked{{/if}}> {{sw5eLabel 'SW5E.IsDroid'}}</label>
+    <label class="restricted-toggle" title="{{sw5eLabel 'SW5E.RestrictedHint'}}">
+      <input type="checkbox" name="system.restricted" {{#if system.restricted}}checked{{/if}} {{#unless isGM}}disabled{{/unless}}>
+      {{sw5eLabel 'SW5E.Restricted'}}
+    </label>
+  </div>
+  {{#if system.traits.length}}
+  <div class="species-traits">
+    <h3>{{sw5eLabel 'SW5E.SpeciesTraits'}}</h3>
+    <ul class="item-list">
+      {{#each system.traits as |trait|}}
+      <li><strong>{{trait.name}}</strong>: {{trait.description}}</li>
+      {{/each}}
+    </ul>
+  </div>
+  {{/if}}
+  {{/if}}
+
+  {{#if (sw5eEq item.type "deploymentFeature")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Deployment'}}
+      <select name="system.deployment">{{#each config.deployments as |cfg key|}}<option value="{{key}}" {{#if (sw5eEq key ../system.deployment)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>{{/each}}</select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Rank'}} <input type="number" name="system.rank" value="{{system.rank}}" min="1" max="5"></label>
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "feat")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Requirements'}} <input type="text" name="system.requirements" value="{{system.requirements}}"></label>
+    {{#if system.abilityScoreIncrease.options.length}}
+    <label>{{sw5eLabel 'SW5E.AbilityScoreIncrease'}}
+      <span>{{sw5eLabel 'SW5E.ChooseNOf'}} {{system.abilityScoreIncrease.number}}: {{sw5eAbilityNames system.abilityScoreIncrease.options}}</span>
+    </label>
+    {{/if}}
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "customizationOption")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.Category'}}
+      <select name="system.category">
+        <option value="fightingStyle" {{#if (sw5eEq system.category "fightingStyle")}}selected{{/if}}>Fighting Style</option>
+        <option value="fightingMastery" {{#if (sw5eEq system.category "fightingMastery")}}selected{{/if}}>Fighting Mastery</option>
+        <option value="lightsaberForm" {{#if (sw5eEq system.category "lightsaberForm")}}selected{{/if}}>Lightsaber Form</option>
+        <option value="weaponFocus" {{#if (sw5eEq system.category "weaponFocus")}}selected{{/if}}>Weapon Focus</option>
+        <option value="weaponSupremacy" {{#if (sw5eEq system.category "weaponSupremacy")}}selected{{/if}}>Weapon Supremacy</option>
+        <option value="classImprovement" {{#if (sw5eEq system.category "classImprovement")}}selected{{/if}}>Class Improvement</option>
+        <option value="multiclassImprovement" {{#if (sw5eEq system.category "multiclassImprovement")}}selected{{/if}}>Multiclass Improvement</option>
+        <option value="splashclassImprovement" {{#if (sw5eEq system.category "splashclassImprovement")}}selected{{/if}}>Splashclass Improvement</option>
+      </select>
+    </label>
+    <label>{{sw5eLabel 'SW5E.Requirements'}} <input type="text" name="system.requirements" value="{{system.requirements}}"></label>
+    {{#if system.className}}
+    <label>{{sw5eLabel 'SW5E.ClassName'}} <input type="text" name="system.className" value="{{system.className}}"></label>
+    {{/if}}
+  </div>
+  {{/if}}
+
+  {{#if (sw5eEq item.type "background")}}
+  <div class="grid-2">
+    <label>{{sw5eLabel 'SW5E.SkillProficiencies'}}
+      <span>{{sw5eLabel 'SW5E.ChooseNOf'}} {{system.skillProficiencies.number}}: {{sw5eSkillNames system.skillProficiencies.options}}</span>
+    </label>
+    <label>{{sw5eLabel 'SW5E.GrantedFeat'}}
+      <span>{{sw5eLabel 'SW5E.ChooseNOf'}} {{system.grantedFeat.number}}: {{sw5eJoin system.grantedFeat.options}}</span>
+    </label>
+    {{#if system.toolProficiencies.length}}
+    <label>{{sw5eLabel 'SW5E.ToolProficiencies'}} <span>{{sw5eJoin system.toolProficiencies}}</span></label>
+    {{/if}}
+    <label>{{sw5eLabel 'SW5E.Equipment'}} <span>{{system.equipment}}</span></label>
+  </div>
+  {{/if}}
+
+  <div class="grid-2 common">
+    <label>{{sw5eLabel 'SW5E.Source'}} <input type="text" name="system.source" value="{{system.source}}"></label>
+    {{#if system.price}}<label>{{sw5eLabel 'SW5E.Price'}} <input type="number" name="system.price.value" value="{{system.price.value}}"></label>{{/if}}
+  </div>
+</section>

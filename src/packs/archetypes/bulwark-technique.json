@@ -1,0 +1,22 @@
+{
+  "_id": "Nk2kba795LShI0Sh",
+  "_key": "!items!Nk2kba795LShI0Sh",
+  "name": "Bulwark Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every scout's mission takes them into the wilds to hunt or infiltrate. Some take up post as living shields, standing between danger and those who cannot fight back. Practitioners of the Bulwark Technique pair scout training with salvaged deflector technology, wrapping themselves in a personal energy barrier that turns their body into a wall no enemy can easily breach.</p><p>Where other scouts strike from range, a Bulwark specialist plants themselves in the thick of the fight, daring foes to come closer. Their barrier soaks up blaster fire and blade alike, feeding on the tech powers they cast to renew itself, and in time they learn to project that same protective energy outward, sheltering allies, punishing attackers, and reshaping the field of battle around their unbreakable stand.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

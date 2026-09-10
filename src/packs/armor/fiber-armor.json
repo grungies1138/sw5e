@@ -1,0 +1,35 @@
+{
+  "_id": "6CYgc4ctVsWuclV7",
+  "name": "Fiber Armor",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Layers of ballistic fiber weave beneath an unassuming outer garment, offering meaningfully better protection than a combat suit without sacrificing mobility.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 350,
+      "denomination": "credits"
+    },
+    "weight": 10,
+    "equipped": false,
+    "proficient": true,
+    "type": "light",
+    "armor": {
+      "value": 12,
+      "dex": null
+    },
+    "strength": null,
+    "stealthDisadvantage": false,
+    "bulky": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

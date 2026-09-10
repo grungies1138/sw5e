@@ -1,0 +1,51 @@
+<section class="tab features {{#if tabs.features.active}}active{{/if}}" data-tab="features" data-group="primary">
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.Classes'}}</legend>
+    <ul class="item-list">
+      {{#each items.classes as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><span class="levels">{{sw5eLabel 'SW5E.Level'}} {{i.system.levels}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+    <ul class="item-list">
+      {{#each items.archetypes as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.Species'}}</legend>
+    <ul class="item-list">
+      {{#each items.species as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span>{{#if i.system.restricted}}<span class="species-restricted" title="{{sw5eLabel 'SW5E.RestrictedHint'}}">{{sw5eLabel 'SW5E.Restricted'}}</span>{{/if}}<a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.Backgrounds'}}</legend>
+    <ul class="item-list">
+      {{#each items.backgrounds as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.Feats'}}
+      <a data-action="itemCreate" data-type="feat"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.feats as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.CustomizationOptions'}}
+      <a data-action="itemCreate" data-type="customizationOption"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.customizationOptions as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><span class="category">{{i.system.category}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+</section>

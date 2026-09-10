@@ -1,0 +1,57 @@
+{
+  "_id": "TD8E0iL0drY8lhur",
+  "name": "Nautolan",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Nautolans are an amphibious, head-tentacled humanoid species from the ocean world of Glee Anselm, adapted for life in the deep waters of their homeworld's seas. Their fleshy head-tentacles, called montrals in some traditions and simply tentacles in others, allow Nautolans to sense the emotional and pheromonal state of those around them with startling accuracy.</p><p>Naturally strong swimmers with an intuitive grasp of body language, Nautolans often serve as bounty hunters, guards, and Jedi, their heightened senses making them difficult to surprise or deceive.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 30,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "wis",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Nautila"
+    ],
+    "traits": [
+      {
+        "name": "Amphibious",
+        "description": "You can breathe both air and water, and you have a swimming speed of 30 feet."
+      },
+      {
+        "name": "Pheromone Sense",
+        "description": "Your head-tentacles detect subtle chemical and emotional cues in those around you. You have advantage on Wisdom (Insight) checks, and you can't be surprised while conscious."
+      },
+      {
+        "name": "Strong Swimmer",
+        "description": "You have advantage on Strength (Athletics) checks made while swimming."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

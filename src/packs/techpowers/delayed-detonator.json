@@ -1,0 +1,54 @@
+{
+  "_id": "Co0lel0Ou5gpzTWW",
+  "_key": "!items!Co0lel0Ou5gpzTWW",
+  "name": "Delayed Detonator",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You hurl a small explosive charge to a point you can see within range. It remains in place until the start of your next turn, when it detonates and the power ends; you may also use your reaction beforehand to trigger it early. When it explodes, each creature within 5 feet of the point must succeed on a Dexterity saving throw or take 1d8 fire damage and 1d8 kinetic damage, taking half as much on a success.</p><p>Cast with a 2nd-level slot or higher, you can hurl one additional charge, all detonating together, for each slot level above 1st; a creature caught by more than one charge is affected only once.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "fire"
+        },
+        {
+          "formula": "1d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

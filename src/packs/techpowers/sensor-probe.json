@@ -1,0 +1,45 @@
+{
+  "_id": "VMALJ4PZRpyK075V",
+  "_key": "!items!VMALJ4PZRpyK075V",
+  "name": "Sensor Probe",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure a tiny, invisible sensor that hovers in place for the duration, relaying visual information to your mind, including darkvision out to 30 feet, and able to look in any direction. As an action, you can direct it up to 30 feet in any direction with no limit on how far it may travel from you; a solid barrier stops its movement, though it can slip through any opening at least 1 inch across.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "guYibp7g94OdC9Gl",
+  "_key": "!items!guYibp7g94OdC9Gl",
+  "name": "Automated Turret",
+  "type": "power",
+  "img": "icons/svg/pistol.svg",
+  "system": {
+    "description": {
+      "value": "<p>You deploy a folding turret that anchors itself to the nearest surface. At the end of each of your turns for the duration, the turret fires at a hostile creature of your choice within 60 feet of it, dealing 2d6 energy damage on a hit against AC 13.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "QDDnnLjN9YsmWH7A",
+  "name": "Coordinating Leadership",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn two Collaborations of your choice from the Coordinator's shared list, each of which costs one power die drawn from the ship's Comms pool (or central storage) to activate. You learn an additional Collaboration at each Coordinator rank thereafter, to a maximum of five known Collaborations at 5th rank, and can swap one known Collaboration for another whenever you gain a rank in this deployment. Only one Collaboration may be used per turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

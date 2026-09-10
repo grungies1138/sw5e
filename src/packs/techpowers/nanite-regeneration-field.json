@@ -1,0 +1,45 @@
+{
+  "_id": "ARHVi27TcKMSTOxe",
+  "_key": "!items!ARHVi27TcKMSTOxe",
+  "name": "Nanite Regeneration Field",
+  "type": "power",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p>You release a cloud of medical nanites that saturate the area around you. Each ally within 20 feet of you regains 6d8 hit points and is cured of one disease or the poisoned condition.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

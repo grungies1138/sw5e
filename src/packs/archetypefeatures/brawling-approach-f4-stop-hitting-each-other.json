@@ -1,0 +1,24 @@
+{
+  "_id": "Vk7YGfMQ9DoE4d39",
+  "_key": "!items!Vk7YGfMQ9DoE4d39",
+  "name": "Stop Hitting Each Other",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can now grapple creatures up to two sizes larger than yourself, rather than just one. You're also able to wield a creature you've grappled — provided it's at least one size smaller than you — as an improvised weapon; hitting with it deals the wielded creature damage equal to your Strength modifier. While raging, this extends to creatures your own size or smaller.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Brawling Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

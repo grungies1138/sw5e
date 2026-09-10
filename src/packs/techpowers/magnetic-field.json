@@ -1,0 +1,45 @@
+{
+  "_id": "x0HPYnrmy9j5XidK",
+  "_key": "!items!x0HPYnrmy9j5XidK",
+  "name": "Magnetic Field",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You surround yourself with a powerful magnetic field in a 10-foot radius that moves with you for the duration. Within the field, the ground counts as difficult terrain for everyone but you, ranged weapon attacks dealing kinetic, energy, or ion damage that cross into or out of the field are made with disadvantage, and communications devices cannot transmit signals through it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

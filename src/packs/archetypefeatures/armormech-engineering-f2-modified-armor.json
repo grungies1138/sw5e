@@ -1,0 +1,24 @@
+{
+  "_id": "qO6HF1U1rD8cq7Ik",
+  "_key": "!items!qO6HF1U1rD8cq7Ik",
+  "name": "Modified Armor",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Given a long rest and access to armormech's implements, you can rebuild one suit of armor or one shield you don't already have enhanced, turning it into your personal masterwork. The item becomes an enhanced item that only you can use, demands attunement, and serves as a tech focus for your tech powers whenever you're attuned to it. It starts with 4 modification slots and gains further slots as you advance, per the Modification Slots column of the engineer table. Installing more modifications than your proficiency bonus allows drains your tech point maximum by 1 for each excess modification. During a long rest you may install, swap, or pull out a number of modifications up to your Intelligence modifier, to a minimum of one. Whenever a modification calls for a saving throw, its DC is your tech save DC.</p><p>Starting at 9th level, you can keep both a modified suit of armor and a modified shield active at once, each carrying its own modification slots as listed on the engineer table.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armormech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

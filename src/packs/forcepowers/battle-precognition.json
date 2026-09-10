@@ -1,0 +1,45 @@
+{
+  "_id": "SJbmsfBbTOpafN8R",
+  "_key": "!items!SJbmsfBbTOpafN8R",
+  "name": "Battle Precognition",
+  "type": "power",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Force shows you the next few seconds before they occur. For the duration, you gain a +2 bonus to Armor Class and advantage on Dexterity saving throws.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 2",
+    "school": "lightside",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "03QWK4X9AyVzIGjM",
+  "_key": "!items!03QWK4X9AyVzIGjM",
+  "name": "Pyrotechnics",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target an unenhanced flame within a 5-foot cube that you can see and within range, snuffing it out, and choose one of the following effects.</p><p><em>Fireworks.</em> The extinguished flame erupts into a blinding burst of color. Every creature within 10 feet must succeed on a Constitution saving throw or be blinded until the end of your next turn.</p><p><em>Smoke.</em> Dense black smoke billows outward in a 20-foot radius, curling around corners and heavily obscuring the area. The cloud persists for up to 1 minute or until scattered by a strong wind.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

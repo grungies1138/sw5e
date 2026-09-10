@@ -1,0 +1,47 @@
+{
+  "_id": "Vr3QPoPNlH488dWW",
+  "_key": "!items!Vr3QPoPNlH488dWW",
+  "name": "Bounty Hunter",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You make your living tracking down fugitives, debtors, and marked targets for pay, operating in the gray space between lawman and criminal that the galaxy's underworld depends on. Whether you work the Guild circuit with a license and a code of conduct, or hunt independently for whoever meets your price, you have learned to read a target's habits, follow a cold trail, and close in without hesitation.</p><p>You've likely crossed paths with crime lords, corrupt officials, and rival hunters alike, and you know that a bounty brought in alive is worth more than one delivered as a corpse &mdash; assuming the client cares either way.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "per",
+        "ste"
+      ]
+    },
+    "toolProficiencies": [
+      "Your choice of demolitions kit, security kit, or slicer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Charmer",
+        "Stealthy",
+        "Specialist",
+        "Linguist",
+        "Alert",
+        "Athlete"
+      ]
+    },
+    "equipment": "A set of binders or a stun cuff, a hunter's tracking fob, a set of common clothes, a hip flask, and a pouch containing 10 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

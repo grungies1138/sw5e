@@ -1,0 +1,50 @@
+{
+  "_id": "nXqAKEc6lG2hlsLd",
+  "_key": "!items!nXqAKEc6lG2hlsLd",
+  "name": "Flame Projector",
+  "type": "power",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>You trigger a wrist-mounted igniter, spraying flammable gel in a 15-foot cone. Each creature in the area must make a Dexterity saving throw, taking 2d6 fire damage on a failed save, or half as much on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

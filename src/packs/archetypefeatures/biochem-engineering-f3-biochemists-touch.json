@@ -1,0 +1,24 @@
+{
+  "_id": "bnJes2gkGXSVnI30",
+  "_key": "!items!bnJes2gkGXSVnI30",
+  "name": "Biochemist's Touch",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you grant temporary hit points, or deal acid or poison damage, through a tech power or class feature, you may spend one use of your Potent Aptitude to intensify the effect — the temporary hit points or damage increases by the amount rolled on the die, keeping the same damage type.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biochem Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

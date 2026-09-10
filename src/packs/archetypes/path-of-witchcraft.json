@@ -1,0 +1,22 @@
+{
+  "_id": "AyiV3oeVYBMUdhpV",
+  "_key": "!items!AyiV3oeVYBMUdhpV",
+  "name": "Path of Witchcraft",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>All living things are threads in the same weave of the Force, and those sentinels who follow the Path of Witchcraft have learned to pull on those threads. Blending old rites with raw elemental power, they call on beasts of spirit and storms of lightning alike to answer their will.</p><p>Equal parts hedge-mage and stormbringer, these sentinels draw the wilds themselves into the fight, summoning ghostly companions and unleashing torrents of energy that leave both flesh and machine reeling.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Sentinel"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

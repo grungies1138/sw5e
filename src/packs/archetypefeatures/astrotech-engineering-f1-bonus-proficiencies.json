@@ -1,0 +1,24 @@
+{
+  "_id": "oVcnUYqatl6DT2vS",
+  "_key": "!items!oVcnUYqatl6DT2vS",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with astrotech's implements, and crafting with them now takes half the normal time.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

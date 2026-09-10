@@ -1,0 +1,37 @@
+{
+  "_id": "ELBFVJmkoHCHyy12",
+  "_key": "!items!ELBFVJmkoHCHyy12",
+  "name": "Class Improvement",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You expand your class's capabilities in a new direction. Increase an ability score of your choice by 1, to a maximum of 20, and choose one of the class improvement options described later in this chapter.</p><p>You can take this feat multiple times.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

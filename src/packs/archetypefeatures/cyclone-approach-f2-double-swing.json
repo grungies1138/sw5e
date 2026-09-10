@@ -1,0 +1,24 @@
+{
+  "_id": "8lNHpOkc7Zo7LWk6",
+  "_key": "!items!8lNHpOkc7Zo7LWk6",
+  "name": "Double Swing",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once on each of your turns while raging, if an attack of yours misses, you can immediately follow up with a melee attack using a weapon held in your other hand.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Cyclone Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

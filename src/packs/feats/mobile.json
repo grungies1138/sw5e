@@ -1,0 +1,30 @@
+{
+  "_id": "om4q6V9Tzb8VcBMK",
+  "_key": "!items!om4q6V9Tzb8VcBMK",
+  "name": "Mobile",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You move with exceptional speed and grace. Your walking speed increases by 10 feet.</p><p>Difficult terrain no longer costs you extra movement while you Dash. Additionally, whenever you make a melee attack against a creature, whether you hit or miss, that creature can't make opportunity attacks against you for the remainder of the turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

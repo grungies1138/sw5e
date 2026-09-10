@@ -1,0 +1,45 @@
+{
+  "_id": "cIpl2OYLWTcw1pKE",
+  "_key": "!items!cIpl2OYLWTcw1pKE",
+  "name": "Kill",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You focus the Force's lethal potential on one creature you can see within range, willing it to die on the spot. If the target has 100 hit points or fewer, it dies instantly; otherwise the power has no effect whatsoever.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 9",
+    "school": "darkside",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "4BcvZu8oNGLmycje",
+  "_key": "!items!4BcvZu8oNGLmycje",
+  "name": "Skill Protocol",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch one willing droid or construct and refine its subroutines, granting it expertise in a tool or skill of your choice in which it is already proficient and which is not already benefiting from a similar doubling effect, for the duration.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

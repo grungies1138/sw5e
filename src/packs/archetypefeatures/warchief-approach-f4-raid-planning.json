@@ -1,0 +1,24 @@
+{
+  "_id": "nTqV7etQvR5AW1vt",
+  "_key": "!items!nTqV7etQvR5AW1vt",
+  "name": "Raid Planning",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>During a long rest you can spend the time telling sagas, singing battle songs, and delivering rousing speeches. At the rest's end, choose up to five creatures who heard and understood you (yourself included): each adds your Charisma modifier (minimum +1) to their next Initiative check and gains a 10-foot bonus to speed on their first turn of the next combat.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Warchief Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

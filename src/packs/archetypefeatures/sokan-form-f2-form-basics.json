@@ -1,0 +1,24 @@
+{
+  "_id": "cFSbIJ7iVV6SCfvk",
+  "_key": "!items!cFSbIJ7iVV6SCfvk",
+  "name": "Form Basics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn the Sokan lightsaber form (see Chapter 6 of the Player's Handbook). If you already know it, choose a different lightsaber form instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sokan Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

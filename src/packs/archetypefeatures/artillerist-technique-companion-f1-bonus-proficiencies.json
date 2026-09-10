@@ -1,0 +1,24 @@
+{
+  "_id": "ex2QkuQPDC23zxgV",
+  "_key": "!items!ex2QkuQPDC23zxgV",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with artillerist's implements.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique (Companion)",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

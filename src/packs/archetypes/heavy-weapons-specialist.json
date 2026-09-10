@@ -1,0 +1,22 @@
+{
+  "_id": "X1IoDaCrbm6wq7ob",
+  "_key": "!items!X1IoDaCrbm6wq7ob",
+  "name": "Heavy Weapons Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some weapons are simply too much for an ordinary soldier to wield effectively &mdash; too heavy, too unwieldy, too punishing in their recoil. The Heavy Weapons Specialist trains their body specifically to master these instruments of overwhelming force, treating raw bulk as an asset rather than a burden.</p><p>Where others struggle just to keep such armaments level, a Heavy Weapons Specialist plants their feet and unleashes devastating power with practiced ease. On the battlefield, they become a singular, unstoppable point of destruction that few enemies can withstand for long.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

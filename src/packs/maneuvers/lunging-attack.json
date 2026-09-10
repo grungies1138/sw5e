@@ -1,0 +1,25 @@
+{
+  "_id": "TSfXnFgvu0wZAKgI",
+  "name": "Lunging Attack",
+  "type": "maneuver",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "special",
+      "cost": 0
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

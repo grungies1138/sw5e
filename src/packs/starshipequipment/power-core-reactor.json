@@ -1,0 +1,27 @@
+{
+  "_id": "yAdZ5ozRTeEW687H",
+  "name": "Power Core Reactor",
+  "type": "starshipequipment",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>A fuel-hungry but powerful reactor, consuming fuel at 1.5&times; the normal rate. In exchange, it regenerates <strong>1d2</strong> Power Dice (1 or 2) at the start of your ship's turn &mdash; a higher average output than a Fuel Cell Reactor, at the cost of fuel efficiency.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 5750,
+      "denomination": "credits"
+    },
+    "kind": "reactor",
+    "configKey": "powerCore",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

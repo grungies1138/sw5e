@@ -1,0 +1,22 @@
+{
+  "_id": "AakMSsRwDf3prBtm",
+  "_key": "!items!AakMSsRwDf3prBtm",
+  "name": "Ataru Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Ataru turns a duel into a blur, trading measured footing for constant, acrobatic motion. Its practitioners vault, tumble, and dash across the battlefield, using speed and unpredictability to keep opponents perpetually off-balance and unable to pin them down.</p><p>A guardian trained in Ataru rarely stands still long enough to be hit, closing distance in a single spring and vanishing again before a counterattack can land, turning raw kinetic energy into an advantage no static fighter can match.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "98ED80POR6klaXZI",
+  "_key": "!items!98ED80POR6klaXZI",
+  "name": "Voodoo Doll",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending an hour — which can overlap with a short rest — you can craft an effigy of a specific creature, provided you've at least heard of or seen it and it currently shares your star system. At the end of that hour, the target must attempt a Wisdom saving throw against your maneuver save DC, modified by how well you know it and what you used to build the connection:</p><ul><li>Knowledge — secondhand (only heard of it): +5; firsthand (you've met it): +0; familiar (you know it well): −5.</li><li>Physical link — a likeness or picture: −2; connection through Curse of Objurgation: −3; a possession or garment: −4; a body part, hair, or nail clipping: −10.</li></ul><p>A success leaves the target unaffected, and you can't try this ritual against it again for 24 hours. A failure creates a Tiny doll linked to the target for 24 hours, or for 10 minutes after you first use it, whichever ends the link first — after which the doll disintegrates. While linked, you can see and hear through the doll as though you were standing within 5 feet of the target.</p><p>Additionally, while you hold the doll, you may spend an action and a Hit Die to inflict one of the following torments, each requiring the target to save or suffer:</p><ul><li><strong>Burn.</strong> Wisdom save; on a failure the target believes it's on fire, suffering disadvantage on Strength- or Dexterity-based attack rolls for 1 hour.</li><li><strong>Pain.</strong> Constitution save; on a failure the target is wracked with pain for 1 hour, taking an extra 1d4 psychic damage whenever it takes any damage.</li><li><strong>Stab.</strong> Dexterity save; on a failure the target gains 2 slowed levels and falls prone, the slowed levels lasting 1 hour.</li></ul><p>Only one torment can affect the target at a time; invoking a new one ends whichever was active. Maintaining any active torment requires concentration, as though concentrating on a power. You can use this ritual twice, regaining all spent uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Occultist Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "3Phpu53K3G76NLZt",
+  "_key": "!items!3Phpu53K3G76NLZt",
+  "name": "Feigned Confidence",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've bluffed your way through more situations than you'd like to admit. Increase your Charisma score by 1, to a maximum of 20.</p><p>When making an ability check with a skill or tool to which your proficiency bonus would not normally apply, you may first attempt a DC 15 Charisma (Deception) check; success lets you add your proficiency bonus to the original check after all. You can use this a number of times equal to your proficiency bonus, regaining all uses after a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

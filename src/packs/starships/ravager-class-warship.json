@@ -1,0 +1,167 @@
+{
+  "_id": "EcmgfB0a1DbSkurb",
+  "name": "Ravager-Class Warship",
+  "type": "starship",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 18,
+        "proficient": 0
+      },
+      "dex": {
+        "value": 8,
+        "proficient": 0
+      },
+      "con": {
+        "value": 18,
+        "proficient": 0
+      },
+      "int": {
+        "value": 12,
+        "proficient": 0
+      },
+      "wis": {
+        "value": 10,
+        "proficient": 0
+      },
+      "cha": {
+        "value": 10,
+        "proficient": 0
+      }
+    },
+    "details": {
+      "biography": {
+        "value": "<p>A line-breaking dreadnought bristling with heavy batteries and armor plating thick enough to shrug off all but the most concentrated fire, purpose-built to anchor a battle fleet's firepower. Its turning speed far exceeds its flying speed, so it relies on escorts and the Hard Turn action to reposition.</p>",
+        "public": ""
+      },
+      "size": "gargantuan",
+      "tier": 0,
+      "role": "Warship",
+      "roleSpecialization": "",
+      "roleMastery": "",
+      "isSpaceStation": false,
+      "source": "SotG Ch.3 Starship Sizes — Gargantuan"
+    },
+    "hull": {
+      "value": 174,
+      "temp": 0,
+      "bonuses": {
+        "max": 0
+      },
+      "dice": {
+        "spent": 0
+      }
+    },
+    "shield": {
+      "equipped": true,
+      "type": "fortress",
+      "value": 261,
+      "bonuses": {
+        "max": 0
+      },
+      "dice": {
+        "spent": 0
+      },
+      "depleted": false
+    },
+    "attributes": {
+      "speed": {
+        "fly": 200,
+        "turn": 500,
+        "temp": 0
+      },
+      "ac": {
+        "armor": "reinforced",
+        "bonus": 0
+      },
+      "hardpoints": {
+        "used": 4
+      },
+      "modSlots": {
+        "bonus": 0
+      }
+    },
+    "power": {
+      "reactor": "powerCore",
+      "coupling": "direct",
+      "central": {
+        "value": 3
+      },
+      "systems": {
+        "engines": {
+          "value": 0
+        },
+        "shields": {
+          "value": 0
+        },
+        "weapons": {
+          "value": 0
+        },
+        "sensors": {
+          "value": 0
+        },
+        "comms": {
+          "value": 0
+        }
+      },
+      "reroute": {
+        "active": false,
+        "target": "",
+        "efficient": false
+      }
+    },
+    "techDie": {
+      "size": 4,
+      "volatility": 0
+    },
+    "hyperdrive": {
+      "class": "3",
+      "backupClass": "",
+      "equations": 10
+    },
+    "cargo": {
+      "capacity": 200000,
+      "value": 50000
+    },
+    "fuel": {
+      "capacity": 1800,
+      "value": 1800
+    },
+    "suites": [],
+    "crew": [],
+    "crewMinOverride": null,
+    "conditions": {
+      "systemDamage": 0,
+      "slowed": 0,
+      "disabled": false,
+      "destroyed": false
+    },
+    "destructionSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "combat": {
+      "boostCount": {
+        "engines": 0,
+        "shields": 0,
+        "weapons": 0
+      },
+      "firedThisRound": 0,
+      "regenShieldsUsed": false,
+      "helmUsedThisRound": false,
+      "evasive": false
+    },
+    "currency": {
+      "credits": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "items": []
+}

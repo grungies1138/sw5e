@@ -1,0 +1,24 @@
+{
+  "_id": "2QiM8CqZBqNaAMMg",
+  "_key": "!items!2QiM8CqZBqNaAMMg",
+  "name": "Genesplicer's Methods",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with geneticist's implements and, your choice, either Medicine or Survival; checks made with either proficiency are never rolled at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Geneticist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

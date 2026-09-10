@@ -1,0 +1,24 @@
+{
+  "_id": "H550doP8G2KeXUbq",
+  "_key": "!items!H550doP8G2KeXUbq",
+  "name": "Brutish Durability",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once each round, you may roll a d8 and add the result to one saving throw you make. Should that bonus push a death saving throw's total to 20 or above, treat it as though you rolled a natural 20 on the d20.</p><p>The die you roll for this improves to a d10 at 13th level and a d12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Assault Specialist",
+    "className": "Fighter",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "QC5dLKWzIP6fIMGJ",
+  "_key": "!items!QC5dLKWzIP6fIMGJ",
+  "name": "Improved Force-Empowered Shots",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your familiarity with blasters has deepened. Once on each of your turns, drawing or stowing a blaster no longer uses your object interaction, and you no longer need a free hand to reload.</p><p>At 11th level, once per turn when you hit a creature with a ranged weapon attack, it also takes an extra 1d8 damage of the same type as the weapon's damage; if you also apply Force-Empowered Shots to that same attack, add this damage to that feature's extra damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ysannanite Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "j6zDUvOVLpas6Up3",
+  "_key": "!items!j6zDUvOVLpas6Up3",
+  "name": "Jury-Rig",
+  "type": "power",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You make a quick, improvised repair with parts on hand. You touch one damaged object, vehicle system, or construct; it regains a small measure of function, granting advantage on the next ability check made to operate or repair it within the next hour.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 5,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

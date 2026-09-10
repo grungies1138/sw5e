@@ -1,0 +1,24 @@
+{
+  "_id": "UXPbJuelnOJziwrv",
+  "_key": "!items!UXPbJuelnOJziwrv",
+  "name": "Mark of the Hunter",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The first time each turn you land a tech or weapon attack against the creature marked by your Ranger's Quarry, roll your Ranger's Quarry die and add the result to the attack roll.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Hunter Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

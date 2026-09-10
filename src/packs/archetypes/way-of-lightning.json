@@ -1,0 +1,22 @@
+{
+  "_id": "ip7uKHBcSxoeETho",
+  "_key": "!items!ip7uKHBcSxoeETho",
+  "name": "Way of Lightning",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Fear and awe follow those who walk the Way of Lightning, consulars who channel the Force's raw violence into crackling bursts of energy. Where subtler paths whisper, this one thunders, punishing distant foes with arcs of searing current that leave the survivors reeling.</p><p>Practitioners learn to reshape their other powers into lightning at will, sharpening every bolt with practiced fury, and eventually to unleash devastating overcharged strikes at real personal risk. It is a path of escalation: the longer the fight drags on, the more terrible the storm becomes.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

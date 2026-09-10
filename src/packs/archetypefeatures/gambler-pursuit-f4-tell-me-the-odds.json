@@ -1,0 +1,24 @@
+{
+  "_id": "QglW74cxPQj6H6B9",
+  "_key": "!items!QglW74cxPQj6H6B9",
+  "name": "Tell Me the Odds",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When the creature you've marked with Critical Analysis lands a weapon attack against you, you can spend your reaction to roll a d8. On a 4 or better, that attack roll is retroactively treated as if made with disadvantage. If it was already being rolled with disadvantage, the attacker must instead reroll one of its two d20s once, your choice of which.</p><p>This die becomes a d10 at 13th level and a d12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gambler Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

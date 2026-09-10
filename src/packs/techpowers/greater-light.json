@@ -1,0 +1,45 @@
+{
+  "_id": "EjN5tltARctfkma1",
+  "_key": "!items!EjN5tltARctfkma1",
+  "name": "Greater Light",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A point you choose within range becomes the center of a 60-foot-radius sphere of bright light, with dim light extending 60 feet beyond that. Choosing an object you hold or one that is unattended causes the light to move with it; wrapping the object in something opaque blocks the glow entirely.</p><p>Any area of enhanced darkness created by a power of 3rd level or lower that overlaps this light is dispelled.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

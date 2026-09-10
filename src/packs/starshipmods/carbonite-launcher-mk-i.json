@@ -1,0 +1,30 @@
+{
+  "_id": "VA0Wwmm5vPg6Qh8g",
+  "name": "Carbonite Launcher Mk I",
+  "type": "starshipmod",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>A compact launcher that flash-freezes a target in a sheet of quick-hardening carbonite foam on impact, the lightest and least reliable model in the Carbonite Launcher product line.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 2500,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "Fixed Hardpoint",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

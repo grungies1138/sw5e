@@ -1,0 +1,24 @@
+{
+  "_id": "SRL29PtWhufmixkF",
+  "_key": "!items!SRL29PtWhufmixkF",
+  "name": "Studious Excavator",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with archaeologist's kits and in the Lore skill; checks made with either are never rolled at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Archaeologist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "rKJSWHPPZIbGJ2EP",
+  "_key": "!items!rKJSWHPPZIbGJ2EP",
+  "name": "Fuel the Rampage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you're both raging and high at the same time, dropping to 0 hit points no longer renders you unconscious — you keep fighting, still rolling death saving throws and suffering the usual consequences of further damage at 0 hit points. If failed death saves would normally kill you, death is delayed until your rage ends, and even then claims you only if you're still at 0 hit points when it does.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Addicted Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

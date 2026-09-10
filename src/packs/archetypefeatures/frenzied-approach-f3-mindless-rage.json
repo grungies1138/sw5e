@@ -1,0 +1,24 @@
+{
+  "_id": "7fcnoKJ5ZuIZocZQ",
+  "_key": "!items!7fcnoKJ5ZuIZocZQ",
+  "name": "Mindless Rage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can't be charmed or frightened while raging, and if either condition already afflicts you when you enter your rage, it's simply suspended until the rage ends.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Frenzied Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

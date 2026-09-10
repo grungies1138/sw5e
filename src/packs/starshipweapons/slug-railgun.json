@@ -1,0 +1,47 @@
+{
+  "_id": "S3blEVtf5Um0MeY0",
+  "name": "Slug Railgun",
+  "type": "starshipweapon",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>An electromagnetic mass-driver weapon that hurls a dense metal slug at extreme velocity. It carries no ammunition dependency beyond a hopper of raw slugs, and the sheer kinetic force punches through armor with brutal efficiency.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 3200,
+      "denomination": "credits"
+    },
+    "category": "secondary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d12",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "range": {
+      "value": 1500,
+      "long": 5000,
+      "units": "ft"
+    },
+    "properties": [],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

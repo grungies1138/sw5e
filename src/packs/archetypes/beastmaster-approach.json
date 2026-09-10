@@ -1,0 +1,22 @@
+{
+  "_id": "x4zZYNRfmt96wi7X",
+  "_key": "!items!x4zZYNRfmt96wi7X",
+  "name": "Beastmaster Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Many berserkers feel nature stirring somewhere beneath their fury. For those who follow the Beastmaster Approach, that primal current surfaces as bestial marks and instinctive gifts — sharper senses, a hunter's patience, and a body that begins to answer more to instinct than reason.</p><p>These warriors fight like the predators they emulate: marking prey, striking in coordination with an unseen pack, and drawing strength from every kill.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

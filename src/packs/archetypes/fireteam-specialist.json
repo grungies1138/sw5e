@@ -1,0 +1,22 @@
+{
+  "_id": "gkNCX7bFCibyvOsQ",
+  "_key": "!items!gkNCX7bFCibyvOsQ",
+  "name": "Fireteam Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>No fighter wins a war alone, and the Fireteam Specialist knows it better than most. They build their tactics around the squad rather than the self, weaving maneuvers and encouragement together so that every ally around them fights just a little bit better.</p><p>In the chaos of battle, a Fireteam Specialist becomes the glue holding a unit together &mdash; sharing knowledge, covering blind spots, and refusing to let a single soldier fall behind. Command, for them, is proven not through rank but through the trust their comrades place in them.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

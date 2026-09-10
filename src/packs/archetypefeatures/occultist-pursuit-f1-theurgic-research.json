@@ -1,0 +1,24 @@
+{
+  "_id": "Hcutl3HsNEbB4Wv8",
+  "_key": "!items!Hcutl3HsNEbB4Wv8",
+  "name": "Theurgic Research",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in the Lore and Nature skills; checks made with either are never rolled at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Occultist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

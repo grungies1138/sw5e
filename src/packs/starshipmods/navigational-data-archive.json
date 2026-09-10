@@ -1,0 +1,30 @@
+{
+  "_id": "4qIJZQhrhEDqWNn5",
+  "name": "Navigational Data Archive",
+  "type": "starshipmod",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>An expanded and regularly updated hyperspace route database, granting advantage on Intelligence (Astrogation) checks made for routes the archive has on file.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 3500,
+      "denomination": "credits"
+    },
+    "category": "universal",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

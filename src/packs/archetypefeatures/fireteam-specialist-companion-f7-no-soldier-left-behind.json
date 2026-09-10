@@ -1,0 +1,24 @@
+{
+  "_id": "wbvc471FTi0vhLpG",
+  "_key": "!items!wbvc471FTi0vhLpG",
+  "name": "No Soldier Left Behind",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While On Your Six is active, if you or your companion would drop to 0 hit points, you can end On Your Six to have that creature drop to 1 hit point instead. Doing so lets On Your Six's benefits continue until the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Fireteam Specialist (Companion)",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

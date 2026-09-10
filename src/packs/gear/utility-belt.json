@@ -1,0 +1,29 @@
+{
+  "_id": "0cZB1DoJfucCLKGF",
+  "name": "Utility Belt",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>A rugged belt lined with pouches, clips, and a retractable line, built to keep a dozen small tools within easy reach without slowing the wearer down.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 50,
+      "denomination": "credits"
+    },
+    "weight": 2,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

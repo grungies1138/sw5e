@@ -1,0 +1,24 @@
+{
+  "_id": "qMzdgJLULOnkJpE8",
+  "_key": "!items!qMzdgJLULOnkJpE8",
+  "name": "Droid Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You build and bond with a droid companion, following the companion-creation rules in the Customization Options document, using astrotech's implements to assemble it. While bonded, your droid gains extra benefits: it becomes a valid target for the <em>tracker droid interface</em> tech power, and it gains two bonus traits (a third at 11th level). Each trait beyond your proficiency bonus lowers your tech point maximum by 1, and during a long rest you may install, swap, or remove traits up to half your Intelligence modifier (minimum one).</p><p>While your droid is bonded and within 10 feet of you, you can have it cast a 1st-level tech power in place of you spending your own action — you still pay the tech points and maintain concentration if required, but the droid uses its own action, tech attack modifier, and tech save DC. This power level cap rises with your own level: 2nd-level powers at 5th level, 3rd-level at 9th, 4th-level at 13th, and 5th-level at 17th. Each casting this way costs a number of uses of this feature equal to the power's level. At 11th level the droid can be up to 30 feet away to use this benefit, and at 17th level up to 60 feet away.</p><p>You have four uses of this feature, gaining more at higher levels per the Modification Slots column of the engineer table. Each use beyond your proficiency bonus lowers your tech point maximum by 1 until you complete a long rest, and all uses return after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering (Companion)",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

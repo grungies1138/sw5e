@@ -1,0 +1,24 @@
+{
+  "_id": "aFQWSUN6sFQr5MYM",
+  "_key": "!items!aFQWSUN6sFQr5MYM",
+  "name": "Battlefield Survey",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending 10 minutes studying an area within 120 feet of you — or consulting a detailed map of it — lets you designate a number of creatures up to your Critical Analysis ability modifier. You and each of those chosen allies ignore unenhanced difficult terrain and gain advantage on Dexterity (Stealth) checks while within that surveyed area.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactician Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

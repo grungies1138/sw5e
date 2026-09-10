@@ -1,0 +1,30 @@
+{
+  "_id": "5Hq2SZ1KJUO6oLoF",
+  "name": "Medical Bay",
+  "type": "starshipmod",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p>A suite of bacta tanks, surgical tables, and diagnostic scanners capable of treating serious injuries without needing to make port.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 9000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 2,
+    "slots": 3,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

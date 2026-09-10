@@ -1,0 +1,24 @@
+{
+  "_id": "xwVYMfwY8ro10Zpo",
+  "_key": "!items!xwVYMfwY8ro10Zpo",
+  "name": "Double Up",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you damage a creature with a weapon or tech power, your turret gains advantage on its next attack against that creature, or the creature gains disadvantage on the first save it makes before the start of your next turn against an effect your turret controls, your choice. Likewise, when your turret damages a creature, you gain advantage on your next attack against it, or it gains disadvantage on the first save it makes before the start of your next turn against an effect you control.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique (Companion)",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

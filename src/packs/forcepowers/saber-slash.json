@@ -1,0 +1,50 @@
+{
+  "_id": "nniA1o8dCKpcHPgF",
+  "_key": "!items!nniA1o8dCKpcHPgF",
+  "name": "Saber Slash",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You explode into motion to land a killing strike. You must be wielding a melee weapon you're proficient with, or the power fails. As part of the action used to cast it, you dash in a straight line to an unoccupied space within range and attack a creature within your weapon's reach; any opportunity attacks provoked by the movement are made with disadvantage. The target must succeed on a Dexterity save or take damage equal to three rolls of your weapon's damage dice plus 4d4 force damage, halved on a successful save.</p><p><em>Force Potency.</em> Cast with a force slot of 4th level or higher, the force damage increases by 1d4 for each slot level above 3rd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d4",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

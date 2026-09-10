@@ -1,0 +1,50 @@
+{
+  "_id": "eYkkgfN1t9gLBhFq",
+  "_key": "!items!eYkkgfN1t9gLBhFq",
+  "name": "Phasestrike",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>For the duration, your footwork keeps you clear of retaliation — you don't provoke opportunity attacks while moving.</p><p>Once before the power ends, you may grant yourself advantage on a single weapon attack roll on your turn; that attack deals an extra 1d8 force damage if it connects. Whether the attack hits or misses, your walking speed jumps by 30 feet until that turn ends.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

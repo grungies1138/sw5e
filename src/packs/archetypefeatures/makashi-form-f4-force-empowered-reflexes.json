@@ -1,0 +1,24 @@
+{
+  "_id": "VdneL64edApglhev",
+  "_key": "!items!VdneL64edApglhev",
+  "name": "Force-Empowered Reflexes",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You may take an extra reaction each round.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Makashi Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

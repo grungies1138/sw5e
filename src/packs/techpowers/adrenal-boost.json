@@ -1,0 +1,45 @@
+{
+  "_id": "gZPK3LEomjKqEz36",
+  "_key": "!items!gZPK3LEomjKqEz36",
+  "name": "Adrenal Boost",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You trigger an injector of combat stimulants in a willing creature's bloodstream. Until the end of its next turn, the target's speed increases by 10 feet and it has advantage on the next Strength or Dexterity check it makes.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

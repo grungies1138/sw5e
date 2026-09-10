@@ -1,0 +1,45 @@
+{
+  "_id": "0UYYZTD8lSXshxXh",
+  "name": "Scout",
+  "type": "class",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Scout is a Tech half-caster equally at home tracking prey across a wilderness moon or a target across a starport, marrying frontier survival skill with a light but versatile application of Tech powers. A baseline Hunter's Mark-style technique lets a Scout single out a target and bring focused, sustained pressure to bear on it turn after turn.</p><p>Scouts round out their kit with personal Scout Routines — practiced sequences of reconnaissance, tracking, and battlefield preparation — that let them operate for extended periods far from support, making them the go-to choice for exploration, bounty work, and irregular warfare alike.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d8",
+    "casterProgression": "half",
+    "castingAbility": "int",
+    "primaryAbility": [
+      "dex",
+      "wis"
+    ],
+    "savingThrows": [
+      "str",
+      "dex"
+    ],
+    "skillChoices": {
+      "number": 3,
+      "options": [
+        "ani",
+        "ath",
+        "inv",
+        "nat",
+        "prc",
+        "ste",
+        "sur"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

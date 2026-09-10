@@ -1,0 +1,45 @@
+{
+  "_id": "eSYPSGV5xpfRVMKU",
+  "_key": "!items!eSYPSGV5xpfRVMKU",
+  "name": "Hold Droid",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You fire a paralyzing dart at a droid or construct you can see within range. It must succeed on a Constitution saving throw or be paralyzed for the duration, repeating the save at the end of each of its turns to end the effect early on a success.</p><p><strong>Overcharge Tech.</strong> Casting with a slot of 3rd level or higher lets you target one additional droid or construct—each within 30 feet of the others—for every slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

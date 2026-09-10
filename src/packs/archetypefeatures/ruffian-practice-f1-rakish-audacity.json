@@ -1,0 +1,24 @@
+{
+  "_id": "LPs728o48lOlgxY2",
+  "_key": "!items!LPs728o48lOlgxY2",
+  "name": "Rakish Audacity",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Add your Charisma modifier to initiative rolls. You also don't need advantage on the attack roll to apply Sneak Attack as long as no creature besides your target is within 5 feet of you and your target itself is within 5 feet of you; every other rule for Sneak Attack still applies. Finally, once you make a melee attack against a creature on your turn, that creature can't make opportunity attacks against you for the remainder of the turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ruffian Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

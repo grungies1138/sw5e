@@ -1,0 +1,50 @@
+{
+  "_id": "qTHQsNLksIwp0RDV",
+  "_key": "!items!qTHQsNLksIwp0RDV",
+  "name": "Burst of Flame",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You unleash a line of fire 30 feet long and 5 feet wide, originating from you. Each creature in the line makes a Dexterity saving throw, taking 3d8 fire damage on a failure or half as much on a success.</p><p>Cast with a tech slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d8",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "IQgRJ8aBOrUjhzFW",
+  "_key": "!items!IQgRJ8aBOrUjhzFW",
+  "name": "Nightsister Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Followers of the Nightsister Order draw on an inborn sensitivity to the Force that lets them speak with death itself. Their rites siphon vitality from the fallen to feed their own. Male initiates who take up this path are known as Nightbrothers.</p><p>What begins as morbid curiosity becomes a weapon: these monks turn their communion with dying flesh into lethal, life-draining strikes that leave them stronger even as their foes are extinguished.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

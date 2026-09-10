@@ -1,0 +1,25 @@
+{
+  "_id": "FD3gkEKvBpiY3xmH",
+  "name": "Distracting Strike",
+  "type": "maneuver",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you hit a creature with a weapon attack, you can expend one superiority die to distract it from everything but the immediate threat you pose. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if that attack is made before the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "special",
+      "cost": 0
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

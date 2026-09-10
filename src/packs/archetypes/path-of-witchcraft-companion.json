@@ -1,0 +1,22 @@
+{
+  "_id": "s0vfKg5H7aJx4H9K",
+  "_key": "!items!s0vfKg5H7aJx4H9K",
+  "name": "Path of Witchcraft (Companion)",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>All living things are threads in the same weave of the Force, and those sentinels who follow the Path of Witchcraft have learned to pull on those threads. Rather than conjuring spectral familiars, these adepts forge an enduring bond with a living beast companion, letting instinct and Force-born insight merge into a single partnership.</p><p>Equal parts hedge-mage and stormbringer, these sentinels stand shoulder to shoulder with their animal ally, sharing senses and strength, while still commanding the elements to answer their will when the fight turns desperate.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Sentinel"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

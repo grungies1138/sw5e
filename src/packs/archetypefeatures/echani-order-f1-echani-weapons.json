@@ -1,0 +1,24 @@
+{
+  "_id": "n4QBaUGHtXNrNEaw",
+  "_key": "!items!n4QBaUGHtXNrNEaw",
+  "name": "Echani Weapons",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your training centers on a small set of favored arms. Choose two weapon types to become your Echani weapons—one vibroweapon and one blaster, each any simple or martial weapon that lacks the special property. You gain proficiency with both if you lack it, and each becomes a monk weapon for you; many of your later techniques function only with these weapons. You may designate an additional Echani weapon type, following the same rules, upon reaching 6th, 11th, and 17th level.</p><p><strong>Agile Parry.</strong> If you make an unarmed strike as part of your Attack action while holding a melee Echani weapon, you can use that weapon to shield yourself, gaining a +2 bonus to AC until the start of your next turn as long as it stays in your hand and you remain capable of acting.</p><p><strong>Echani's Shot.</strong> Using a bonus action, you can sharpen your ranged strikes with an Echani weapon for the rest of the turn: any creature you hit with a ranged attack from that weapon before the turn ends takes an extra 1d4 damage of the weapon's damage type.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Echani Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

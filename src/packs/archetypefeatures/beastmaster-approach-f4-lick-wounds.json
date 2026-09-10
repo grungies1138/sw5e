@@ -1,0 +1,24 @@
+{
+  "_id": "ZzAupjAnlEXwcaZj",
+  "_key": "!items!ZzAupjAnlEXwcaZj",
+  "name": "Lick Wounds",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you drop a creature to 0 hit points while raging, you gain temporary hit points equal to your berserker level, lasting for the remainder of your rage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Beastmaster Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "DF65uRDffHE6zIVe",
+  "_key": "!items!DF65uRDffHE6zIVe",
+  "name": "Lead By Example",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, when an ally who can see or hear you attacks a creature you can also see, you may spend a superiority die to apply one of your known maneuvers to that attack.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Fireteam Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

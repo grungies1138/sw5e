@@ -1,0 +1,32 @@
+{
+  "_id": "aaISyX3cmE6GUEBK",
+  "_key": "!items!aaISyX3cmE6GUEBK",
+  "name": "Techie",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've mastered the fundamentals of technology, both academic and hands-on. Increase your Intelligence score by 1, to a maximum of 20.</p><p>You gain proficiency in Technology, or expertise in it if already proficient. You also learn the repair droid tech power, which you can cast once using scavenged materials, without a wristpad and without spending tech points; you regain this use after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "int"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

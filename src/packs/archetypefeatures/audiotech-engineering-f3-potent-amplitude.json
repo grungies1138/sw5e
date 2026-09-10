@@ -1,0 +1,24 @@
+{
+  "_id": "vsvnFu1vykf2I6ki",
+  "_key": "!items!vsvnFu1vykf2I6ki",
+  "name": "Potent Amplitude",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action while wielding your modified instrument, you can strike up an enhanced song lasting up to 1 minute, ending it early whenever you like with no action required. While playing, you gain a new use for your Potent Aptitude determined by the song (below).</p><p>Taking damage while performing forces a Constitution save to keep playing, with a DC of 10 or half the damage taken, whichever is higher; damage from separate sources each demand their own save. While playing, a damage-dealing tech power you cast that would normally call for an attack roll or a saving throw can instead be made to deal sonic damage — if you do, it requires a Constitution save in place of its usual attack roll or save. Your song also ends early if you're incapacitated, die, or stop holding the instrument.</p><p>You can strike up an enhanced song twice, regaining all uses after a short or long rest.</p><p><strong>Song of Battle.</strong> When an ally within 60 feet who can hear you deals damage to a creature, you can use your reaction and one use of your Potent Aptitude to add the die's result to that damage.</p><p><strong>Song of Support.</strong> When an ally within 60 feet who can hear you makes a saving throw against a harmful effect, you can use your reaction and one use of your Potent Aptitude to add the die's result to that save.</p><p><strong>Song of Disruption.</strong> When an enemy within 60 feet who can hear you makes a saving throw, you can use your reaction and one use of your Potent Aptitude to subtract the die's result from that save.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Audiotech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

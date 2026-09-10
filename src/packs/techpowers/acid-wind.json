@@ -1,0 +1,50 @@
+{
+  "_id": "Bq8bixYXkbD0WxEQ",
+  "_key": "!items!Bq8bixYXkbD0WxEQ",
+  "name": "Acid Wind",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You expel a corrosive breeze filling a 15-foot cube extending from you. Each creature in the area must make a Constitution saving throw, taking 2d4 acid damage and being blinded until the end of your next turn on a failure, or taking half as much damage with no blindness on a success.</p><p>Cast with a tech slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d4",
+          "type": "acid"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

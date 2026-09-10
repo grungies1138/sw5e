@@ -1,0 +1,22 @@
+{
+  "_id": "WRi0Ux2l8BpP65Jj",
+  "_key": "!items!WRi0Ux2l8BpP65Jj",
+  "name": "Illusionist Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Across the galaxy, infiltrators and covert agents have long relied on holographic projectors to slip into, and back out of, dangerous places unseen. Followers of the Illusionist Technique adapt that same technology for the battlefield, weaving illusory duplicates of themselves to confuse, mislead, and outmaneuver their enemies.</p><p>A perfect holographic double can draw fire, mask a killing blow, or step in to take a hit meant for its creator. As their mastery grows, Illusionists learn to multiply their decoys, charge them with lethal feedback, and even swap places with them in an instant, turning a simple projection trick into a survival art.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

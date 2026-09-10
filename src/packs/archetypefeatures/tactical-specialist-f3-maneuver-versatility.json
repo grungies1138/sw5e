@@ -1,0 +1,24 @@
+{
+  "_id": "GyGSQCApvDXEFgdK",
+  "_key": "!items!GyGSQCApvDXEFgdK",
+  "name": "Maneuver Versatility",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You may now use any single maneuver twice per turn, rather than only once.</p><p>Additionally, select two maneuvers you know; for you, they count as general maneuvers. You designate one more maneuver this way at 5th, 9th, 13th, and 17th level, and whenever you gain a fighter level you may swap one of these designated maneuvers for another you know.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactical Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

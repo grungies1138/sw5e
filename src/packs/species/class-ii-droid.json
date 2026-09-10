@@ -1,0 +1,57 @@
+{
+  "_id": "1wDz4WpDZAGRCTLX",
+  "name": "Class II Droid",
+  "type": "species",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Class II droids are technical specialists, built compact and low to the ground for easy transport and equipped with an array of built-in tools for repairing, maintaining, and interfacing with starships and machinery. Astromech units are the most famous example of the class, prized by pilots for their ability to plug directly into a vessel's systems and make repairs mid-flight.</p><p>Class II units communicate primarily through a range of beeps, whistles, and binary transmissions, and many develop distinct, almost stubborn personalities over years of service alongside the same crew.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "sm",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "int",
+        "value": 2
+      },
+      {
+        "ability": "dex",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Binary"
+    ],
+    "traits": [
+      {
+        "name": "Droid Nature",
+        "description": "You do not need to eat, drink, sleep, or breathe. You are immune to disease and to poison damage, and you cannot gain exhaustion from lack of food, water, or rest."
+      },
+      {
+        "name": "Tool Interface",
+        "description": "You are proficient with tinker's tools and mechanic's tools, and you have advantage on checks made using them to repair a vehicle or piece of technology."
+      },
+      {
+        "name": "System Interface Arm",
+        "description": "You have a built-in interface arm that lets you plug directly into compatible technology, such as a starship's systems or a computer terminal, without need for a separate cable or tool, granting advantage on Intelligence checks made to access such a system."
+      }
+    ],
+    "isDroid": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

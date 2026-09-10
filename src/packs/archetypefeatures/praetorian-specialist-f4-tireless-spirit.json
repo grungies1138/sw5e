@@ -1,0 +1,24 @@
+{
+  "_id": "SjxjzfS5wkEJ7s2a",
+  "_key": "!items!SjxjzfS5wkEJ7s2a",
+  "name": "Tireless Spirit",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If you roll initiative with no uses of Fighting Spirit left, you immediately regain one use.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Praetorian Specialist",
+    "className": "Fighter",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

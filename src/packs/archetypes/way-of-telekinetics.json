@@ -1,0 +1,22 @@
+{
+  "_id": "GR9cmDMxvOdiB1wK",
+  "_key": "!items!GR9cmDMxvOdiB1wK",
+  "name": "Way of Telekinetics",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Wind given purpose, the Way of Telekinetics turns the Force's raw kinetic potential into a weapon of pure momentum. These consulars don't merely lift objects, they hurl, batter, and displace, treating the battlefield itself as something to be rearranged at will.</p><p>What begins as a knack for shoving nearby foes off balance grows into command over titanic masses, and their blasts of force eventually knock even the mightiest combatants from their feet, punishing anyone foolish enough to strike them at close range.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

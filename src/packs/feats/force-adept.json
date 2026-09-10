@@ -1,0 +1,26 @@
+{
+  "_id": "TKL9Vf0F4rrK3rjZ",
+  "_key": "!items!TKL9Vf0F4rrK3rjZ",
+  "name": "Force Adept",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have learned to channel a single, simple use of the Force, taught to you outside any formal tradition. Choose one at-will Force power of 1st level or lower from the shared Force powers list; you can cast it once, without expending a power point or requiring a Force-casting class feature, using Wisdom or Charisma (your choice, fixed when you take this feat) as your Force-casting ability.</p><p>You regain the ability to cast the chosen power when you finish a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "action",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "4dZRWVHGSDGbL6HS",
+  "_key": "!items!4dZRWVHGSDGbL6HS",
+  "name": "Wartorn",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You came of age in the middle of a war &mdash; a civil conflict, an invasion, an occupation &mdash; and the experience left its mark on you long before you ever chose a path for yourself. Whether you fled as a refugee, fought as an irregular, or simply endured, you learned early that safety is fragile and that survival often depends on people you can trust at your back.</p><p>The war may be over, or it may still be raging somewhere behind you, but its lessons in resilience, loss, and improvisation remain part of who you are.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "med",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Toughness"
+      ]
+    },
+    "equipment": "A keepsake from a home you can no longer return to, a set of traveler's clothes, a makeshift medical kit, and 5 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

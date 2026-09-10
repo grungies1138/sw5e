@@ -1,0 +1,45 @@
+{
+  "_id": "gYYh3cZNFHKKviL3",
+  "_key": "!items!gYYh3cZNFHKKviL3",
+  "name": "Sending",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You transmit a message of no more than twenty-five words to a creature you know well that carries a commlink, across any distance, even between planets. The recipient hears the message, knows it came from you if it recognizes you, and can reply at once in kind. If sender and recipient are on different planets, there is a 5 percent chance the message never arrives.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

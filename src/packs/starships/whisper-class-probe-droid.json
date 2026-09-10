@@ -1,0 +1,167 @@
+{
+  "_id": "tyUIL8idoP2gU3Bk",
+  "name": "Whisper-Class Probe Droid",
+  "type": "starship",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 10,
+        "proficient": 0
+      },
+      "dex": {
+        "value": 14,
+        "proficient": 0
+      },
+      "con": {
+        "value": 12,
+        "proficient": 0
+      },
+      "int": {
+        "value": 14,
+        "proficient": 0
+      },
+      "wis": {
+        "value": 10,
+        "proficient": 0
+      },
+      "cha": {
+        "value": 8,
+        "proficient": 0
+      }
+    },
+    "details": {
+      "biography": {
+        "value": "<p>An unmanned reconnaissance droid ship dispatched ahead of a fleet or into hostile systems, the Whisper relies on stealth and sensor reach rather than armament or crew to complete its mission.</p>",
+        "public": ""
+      },
+      "size": "tiny",
+      "tier": 0,
+      "role": "Probe",
+      "roleSpecialization": "",
+      "roleMastery": "",
+      "isSpaceStation": false,
+      "source": "SotG Ch.3 Starship Sizes — Tiny"
+    },
+    "hull": {
+      "value": 5,
+      "temp": 0,
+      "bonuses": {
+        "max": 0
+      },
+      "dice": {
+        "spent": 0
+      }
+    },
+    "shield": {
+      "equipped": false,
+      "type": "directional",
+      "value": 0,
+      "bonuses": {
+        "max": 0
+      },
+      "dice": {
+        "spent": 0
+      },
+      "depleted": false
+    },
+    "attributes": {
+      "speed": {
+        "fly": 500,
+        "turn": 50,
+        "temp": 0
+      },
+      "ac": {
+        "armor": "lightweight",
+        "bonus": 0
+      },
+      "hardpoints": {
+        "used": 0
+      },
+      "modSlots": {
+        "bonus": 0
+      }
+    },
+    "power": {
+      "reactor": "fuelCell",
+      "coupling": "direct",
+      "central": {
+        "value": 0
+      },
+      "systems": {
+        "engines": {
+          "value": 0
+        },
+        "shields": {
+          "value": 0
+        },
+        "weapons": {
+          "value": 0
+        },
+        "sensors": {
+          "value": 0
+        },
+        "comms": {
+          "value": 0
+        }
+      },
+      "reroute": {
+        "active": false,
+        "target": "",
+        "efficient": false
+      }
+    },
+    "techDie": {
+      "size": 4,
+      "volatility": 0
+    },
+    "hyperdrive": {
+      "class": "",
+      "backupClass": "",
+      "equations": 10
+    },
+    "cargo": {
+      "capacity": 0,
+      "value": 0
+    },
+    "fuel": {
+      "capacity": 5,
+      "value": 5
+    },
+    "suites": [],
+    "crew": [],
+    "crewMinOverride": null,
+    "conditions": {
+      "systemDamage": 0,
+      "slowed": 0,
+      "disabled": false,
+      "destroyed": false
+    },
+    "destructionSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "combat": {
+      "boostCount": {
+        "engines": 0,
+        "shields": 0,
+        "weapons": 0
+      },
+      "firedThisRound": 0,
+      "regenShieldsUsed": false,
+      "helmUsedThisRound": false,
+      "evasive": false
+    },
+    "currency": {
+      "credits": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "items": []
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "CrHP400gs3kEpyqs",
+  "_key": "!items!CrHP400gs3kEpyqs",
+  "name": "Force Barrier, Greater",
+  "type": "power",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>You erect a dome or wall of Force energy up to 20 feet in radius, or up to 30 feet long, 20 feet high, and 1 foot thick, anywhere within range on a surface you can see. The barrier has AC 5 and 100 hit points, blocks movement and line of sight through it, and vanishes when it is destroyed or when the duration ends.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 5",
+    "school": "lightside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minutes"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

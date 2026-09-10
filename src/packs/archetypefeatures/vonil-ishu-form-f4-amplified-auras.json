@@ -1,0 +1,24 @@
+{
+  "_id": "wpqlMhLT03LleFYw",
+  "_key": "!items!wpqlMhLT03LleFYw",
+  "name": "Amplified Auras",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once on each of your turns, you may designate an ally within 10 feet of you. While that ally remains within 10 feet of you, your auras radiate from the ally's position as though you stood there instead; a creature within more than one instance of your auras is still affected only once. At 11th level, the chosen ally need only be within 30 feet of you, and at 17th level, within 60 feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Vonil/Ishu Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

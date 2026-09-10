@@ -1,0 +1,30 @@
+{
+  "_id": "M6hd00tkTGuG2tMv",
+  "_key": "!items!M6hd00tkTGuG2tMv",
+  "name": "Exalted Awareness",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your wisdom rivals that of history's greatest Force adepts, granting you several profound benefits.</p><p>You become proficient in Wisdom saving throws; if you already had that proficiency, you gain expertise in it instead.</p><p>Your keen perception makes you difficult to sneak up on: any creature within 60 feet of you has disadvantage on Dexterity (Stealth) checks made to hide from you.</p><p>As an action, provided you can see and hear, you can sense whether an illusion or other sense-deceiving effect is present within 30 feet of you, though not its nature or location. You can use this feature once, regaining the ability to do so after finishing a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "12th level, Wisdom 20.",
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

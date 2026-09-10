@@ -1,0 +1,22 @@
+{
+  "name": "Fighter",
+  "type": "class",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": { "value": "<p>A versatile ranged and melee combatant skilled with a wide array of weapons and baseline combat maneuvers.</p>", "chat": "" },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d10",
+    "casterProgression": "none",
+    "castingAbility": "",
+    "primaryAbility": ["str", "dex"],
+    "savingThrows": ["str", "con"],
+    "skillChoices": { "number": 2, "options": ["acr", "ath", "ins", "prc", "sur"] },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": { "default": 0 },
+  "flags": {}
+}

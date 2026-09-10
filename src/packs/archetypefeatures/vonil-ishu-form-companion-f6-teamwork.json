@@ -1,0 +1,24 @@
+{
+  "_id": "VXk2V9Oqzbh7gNDF",
+  "_key": "!items!VXk2V9Oqzbh7gNDF",
+  "name": "Teamwork",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following features: Takedown if you chose Vonil, or Rebuttal if you chose Ishu.</p><p><strong>Takedown.</strong> Whenever your companion takes the Help action to assist you, you gain advantage on the next two ability checks or attack rolls you make before the start of your next turn, instead of just one. Likewise, when you take the Help action to assist your companion, it gains advantage on its next two ability checks or attack rolls before the start of its next turn, instead of just one.</p><p><strong>Rebuttal.</strong> Whenever your companion takes the Help action to assist you, you gain temporary hit points equal to your guardian level, lasting until the start of your next turn. Likewise, when you take the Help action to assist your companion, it gains temporary hit points equal to your guardian level, lasting until the start of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Vonil/Ishu Form (Companion)",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "VPacUJnFNfFURUJQ",
+  "name": "Light Blaster Cannon",
+  "type": "starshipweapon",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>A stripped-down, low-cost energy cannon favored by budget-conscious operators and pirate crews. It runs cooler than a standard laser cannon at the cost of a lighter punch.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 450,
+      "denomination": "credits"
+    },
+    "category": "primary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 1000,
+      "long": 4000,
+      "units": "ft"
+    },
+    "properties": [],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

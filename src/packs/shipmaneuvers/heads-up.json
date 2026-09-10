@@ -1,0 +1,25 @@
+{
+  "_id": "dm2ntGtP1jsv4DRM",
+  "name": "Head's Up",
+  "type": "shipmaneuver",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Before your ship rolls initiative, expend a Power Die from the Comms pool and roll it, adding the result to the ship's initiative roll.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Coordinator Collaborations",
+    "deployment": "coordinator",
+    "rankRequired": 1,
+    "activation": "special",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

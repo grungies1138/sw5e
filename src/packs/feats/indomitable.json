@@ -1,0 +1,26 @@
+{
+  "_id": "LSFQbUePmhysMnLn",
+  "_key": "!items!LSFQbUePmhysMnLn",
+  "name": "Indomitable",
+  "type": "feat",
+  "img": "icons/svg/statue.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your force of will lets you shrug off effects that would break a lesser being's resolve. Once per long rest, when you fail a saving throw against being charmed, frightened, or stunned, you can choose to succeed instead.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

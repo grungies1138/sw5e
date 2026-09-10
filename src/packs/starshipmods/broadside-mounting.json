@@ -1,0 +1,30 @@
+{
+  "_id": "yeHRoUf2R2TedUIX",
+  "name": "Broadside Mounting",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Links two adjacent hardpoints along one flank of the hull so their weapons fire together as a single coordinated volley, at the cost of the flexibility either mount would have on its own.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 4000,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 1,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "2 Fixed Hardpoints",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

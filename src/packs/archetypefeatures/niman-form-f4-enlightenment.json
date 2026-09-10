@@ -1,0 +1,24 @@
+{
+  "_id": "RklextdxitCwgRz5",
+  "_key": "!items!RklextdxitCwgRz5",
+  "name": "Enlightenment",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a force power you cast drops a hostile creature to 0 hit points, or restores hit points to an ally at 0 hit points, you gain temporary force points equal to your Wisdom or Charisma modifier (your choice, minimum 1). You must complete a short or long rest before this can happen again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Niman Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

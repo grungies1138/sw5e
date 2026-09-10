@@ -1,0 +1,57 @@
+{
+  "_id": "I3Fv3ixvtBHMOiFb",
+  "name": "Trandoshan",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Trandoshans are a reptilian, scaled humanoid species from the jungle world of Trandosha, sworn enemies of the Wookiees of neighboring Kashyyyk. Trandoshan religion venerates the Scorekeeper, a mythic figure said to tally the worth of every kill and capture made in life, driving many Trandoshans toward careers as hunters, bounty hunters, and mercenaries.</p><p>A Trandoshan's scaled hide regenerates readily from injury, and even severed limbs can regrow over time &mdash; a resilience that serves them well in their dangerous trade.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "str",
+        "value": 2
+      },
+      {
+        "ability": "wis",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Dosh"
+    ],
+    "traits": [
+      {
+        "name": "Claws",
+        "description": "Your claws are natural weapons. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      {
+        "name": "Regenerative Vigor",
+        "description": "When you finish a short rest and spend at least one Hit Die to regain hit points, you regain additional hit points equal to your proficiency bonus."
+      },
+      {
+        "name": "Hunter's Instinct",
+        "description": "You have advantage on Wisdom (Survival) checks made to track a creature that is below its hit point maximum."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

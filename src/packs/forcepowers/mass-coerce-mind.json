@@ -1,0 +1,45 @@
+{
+  "_id": "schHsCwfjQolWVj6",
+  "_key": "!items!schHsCwfjQolWVj6",
+  "name": "Mass Coerce Mind",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You plant a simple, reasonable-sounding suggestion (a sentence or two) in the minds of as many as twelve creatures you choose within range that can see you and understand your words; creatures immune to being charmed are unaffected. A suggestion that would obviously harm the listener fails automatically.</p><p>Each target must succeed on a Wisdom saving throw or spend the power's duration pursuing the suggested course of action to the best of its ability; the power ends early if the task is completed sooner. You may attach a triggering condition to the suggestion (for example, giving coin to the first beggar encountered); if the condition never arises, the activity simply never happens. Should you or an ally harm an affected creature, the power ends for it immediately. Droids and constructs are unaffected.</p><p>Cast with a 7th-level slot, the duration becomes 10 days; with an 8th-level slot, 30 days; and with a 9th-level slot, a year and a day.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 6",
+    "school": "universal",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

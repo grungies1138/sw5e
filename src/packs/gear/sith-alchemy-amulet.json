@@ -1,0 +1,29 @@
+{
+  "_id": "F2IqSi3eT8NTSH4Q",
+  "name": "Sith Alchemy Amulet",
+  "type": "gear",
+  "img": "icons/svg/skull.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> A blood-red talisman shaped by an ancient alchemical rite, its surface etched with Sith runes that writhe faintly when worn. While attuned, you gain a +2 bonus to the save DC of your dark side Force powers, but at the end of each long rest you must succeed on a DC 15 Wisdom saving throw or gain one level of exhaustion as the amulet feeds on your resolve.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 40000,
+      "denomination": "credits"
+    },
+    "weight": 0.5,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "artifact",
+    "attuned": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "j428VcIiiwsLc49P",
+  "_key": "!items!j428VcIiiwsLc49P",
+  "name": "Quickdraw",
+  "type": "feat",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your reflexes when reaching for a weapon are exceptional. You gain a +2 bonus to initiative rolls, and when you roll initiative, you can draw or stow one weapon or piece of equipment as part of that same roll, without using your action, bonus action, or reaction.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

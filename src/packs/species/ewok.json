@@ -1,0 +1,57 @@
+{
+  "_id": "FDuT4LCFsa0z1ai7",
+  "name": "Ewok",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Ewoks are a diminutive, furred species native to the forest moon of Endor, living in tight-knit tribal communities built high in the trees of their world's dense woodlands. Though primitive by galactic standards, Ewoks are resourceful, brave, and deeply attuned to their forest home, capable of felling war machines many times their size with traps, spears, and sheer cunning.</p><p>Ewoks who leave their homeworld often retain a fierce tribal loyalty and an instinct for improvised, clever solutions to problems technology alone cannot solve.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "sm",
+    "speed": {
+      "walk": 25,
+      "fly": 0,
+      "swim": 0,
+      "climb": 25
+    },
+    "abilityBonuses": [
+      {
+        "ability": "dex",
+        "value": 2
+      },
+      {
+        "ability": "wis",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Ewokese"
+    ],
+    "traits": [
+      {
+        "name": "Primitive Cunning",
+        "description": "You have advantage on Intelligence or Wisdom checks made to construct, identify, or disarm traps and snares."
+      },
+      {
+        "name": "Woodland Camouflage",
+        "description": "You have advantage on Dexterity (Stealth) checks made to hide in natural terrain, such as forests, undergrowth, and heavy foliage."
+      },
+      {
+        "name": "Climber",
+        "description": "You are adept at moving through the forest canopy. You have a climbing speed equal to your walking speed."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

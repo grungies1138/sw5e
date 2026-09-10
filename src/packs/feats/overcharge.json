@@ -1,0 +1,26 @@
+{
+  "_id": "pGLnV1z5UEKu3G94",
+  "_key": "!items!pGLnV1z5UEKu3G94",
+  "name": "Overcharge",
+  "type": "feat",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You know how to push tech equipment past its safety limits for a burst of extra performance. As a bonus action, you can overcharge one piece of technological equipment you are holding or wearing, granting it a temporary +2 bonus to its effect (such as a weapon's damage roll, or a tool's check) the next time it is used before the end of your next turn.</p><p>Rolling a 1 on the relevant damage or check when overcharged causes the item to malfunction, becoming unusable until you spend ten minutes repairing it. You can use this feat's benefit once per short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "sEPjGAMXvFtT6gn2",
+  "_key": "!items!sEPjGAMXvFtT6gn2",
+  "name": "Guidance",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch one willing creature. At any point before the power ends, that creature may roll a d4 and add the result to one ability check of its choice, after which the power ends.</p><p>The bonus die improves to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, At-Will",
+    "school": "lightside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "N1Z4GyvFiXiQk8p7",
+  "_key": "!items!N1Z4GyvFiXiQk8p7",
+  "name": "Field Advantage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can quickly relay what you've learned about the terrain to your allies mid-fight. While moving through your Surveyed Area, you and any friendly creatures you designate ignore unenhanced difficult terrain, and opportunity attacks against them suffer disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Explorer Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

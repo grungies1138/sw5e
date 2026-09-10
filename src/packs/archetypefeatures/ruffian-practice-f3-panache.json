@@ -1,0 +1,24 @@
+{
+  "_id": "N3kjvNwl0D1HZgkD",
+  "_key": "!items!N3kjvNwl0D1HZgkD",
+  "name": "Panache",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight), provided it can hear you and shares a language with you. If you win against a hostile creature, it has disadvantage on attack rolls against anyone but you and can't make opportunity attacks against anyone but you, for 1 minute or until a companion of yours attacks or affects it with a power, or until you and it are more than 60 feet apart.</p><p>If you win against a creature that isn't hostile, it becomes charmed by you for 1 minute, treating you as a friendly acquaintance, an effect that ends immediately if you or your allies do anything to harm it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ruffian Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

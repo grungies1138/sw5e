@@ -1,0 +1,24 @@
+{
+  "_id": "ZBX2Yemf6qh01qG6",
+  "_key": "!items!ZBX2Yemf6qh01qG6",
+  "name": "Adrenaline Rush",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you use Action Surge, you gain an extra bonus action in addition to the extra action it grants.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Blademaster Specialist",
+    "className": "Fighter",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "BLu3oyvWZdAiafnN",
+  "_key": "!items!BLu3oyvWZdAiafnN",
+  "name": "Sense Shatterpoint",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reach through the Force for a flash of insight into a creature's weaknesses. Choose a creature you can see within range; until the end of your next turn, you gain advantage on your next two attack rolls against it.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

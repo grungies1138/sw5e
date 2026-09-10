@@ -1,0 +1,50 @@
+{
+  "_id": "wtYxjWgBlbAtLyF9",
+  "_key": "!items!wtYxjWgBlbAtLyF9",
+  "name": "Whirlwind",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A howling whirlwind descends on a point you can see within range, forming a 10-foot-radius, 30-foot-high cylinder centered there. Until the power ends, you can use your action to move the whirlwind up to 30 feet in any direction along the ground; it sweeps up unsecured Medium or smaller objects not worn or carried.</p><p>The first time on a turn that a creature enters the whirlwind's space, or the whirlwind enters its space (including when it first appears), the creature must make a Dexterity saving throw, taking 10d6 kinetic damage on a failure or half as much on a success. A Large or smaller creature that fails also must succeed on a Strength saving throw or become restrained by the whirlwind until the power ends, being pulled 5 feet higher within it at the start of each of its turns unless already at the top; a restrained creature moves with the whirlwind and falls when it ends, unless it has another way to stay aloft.</p><p>A restrained creature can use its action to make a Strength or Dexterity check against your force save DC, escaping and being flung 3d6 x 10 feet away in a random direction on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 7",
+    "school": "universal",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 300,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "10d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

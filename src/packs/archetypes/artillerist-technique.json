@@ -1,0 +1,22 @@
+{
+  "_id": "5xHGBxwyvck1DnFV",
+  "_key": "!items!5xHGBxwyvck1DnFV",
+  "name": "Artillerist Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some scouts prefer to slip past an enemy's defenses; followers of the Artillerist Technique would rather smash straight through them. They've learned to hold a tech power's energy in check, unleashing it a heartbeat later than expected and layering in devastating side effects that catch even prepared foes off guard.</p><p>Precise timing is their signature. Powers detonate exactly where they intend, punishing anyone careless enough to still be standing in the blast radius, and their marked prey becomes a target no cover can fully protect. What they lack in subtlety, they make up for with overwhelming, calculated firepower.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

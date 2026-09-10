@@ -1,0 +1,54 @@
+{
+  "_id": "qcBKauvkQhHh6M9d",
+  "_key": "!items!qcBKauvkQhHh6M9d",
+  "name": "Cryogenic Blast",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You hurl a splinter of cryogenic energy at a creature within range. Make a ranged tech attack; on a hit, the target takes 1d10 kinetic damage. Whether the attack hits or misses, the splinter then detonates, and the target along with each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 cold damage.</p><p>Cast with a tech slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "kinetic"
+        },
+        {
+          "formula": "2d6",
+          "type": "cold"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

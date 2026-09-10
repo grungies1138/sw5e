@@ -1,0 +1,24 @@
+{
+  "_id": "RbKc7GPKHwB08c7w",
+  "_key": "!items!RbKc7GPKHwB08c7w",
+  "name": "Bushmaster",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You roll initiative with advantage. The first creature you hit during the opening round of combat is left exposed: every attack roll made against it has advantage until the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Lethality Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

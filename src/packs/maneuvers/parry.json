@@ -1,0 +1,25 @@
+{
+  "_id": "wr4WhcinF3bWghJU",
+  "name": "Parry",
+  "type": "maneuver",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on the die plus your Dexterity modifier.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

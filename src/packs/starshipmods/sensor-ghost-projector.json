@@ -1,0 +1,30 @@
+{
+  "_id": "znpT4PSfMctTZF6M",
+  "name": "Sensor Ghost Projector",
+  "type": "starshipmod",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>A one-shot decoy emitter that projects a false sensor return of the ship at a nearby point in space, usable once per encounter to grant advantage on the ship's next Dexterity (Hide) check.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 4200,
+      "denomination": "credits"
+    },
+    "category": "operation",
+    "grade": 2,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

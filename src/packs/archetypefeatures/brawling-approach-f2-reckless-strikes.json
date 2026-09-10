@@ -1,0 +1,24 @@
+{
+  "_id": "4b97SPxP6MUYHC1d",
+  "_key": "!items!4b97SPxP6MUYHC1d",
+  "name": "Reckless Strikes",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While you're raging, unarmored by anything heavier than what you started with (no heavy armor, no shield), a hit with an unarmed strike or improvised weapon can become something more: you may give up your rage damage bonus on that hit to instead trigger a reckless strike, choosing one of the options below.</p><p>Some reckless strikes force a saving throw, using the following DC:</p><p><strong>Reckless Strike save DC</strong> = 8 + your proficiency bonus + your Strength modifier</p><p>You can use these options together a number of times equal to your proficiency bonus (per the berserker table), regaining all uses after a short or long rest.</p><p><strong>Bracing Strike.</strong> You gain temporary hit points equal to your rage damage bonus — doubled if the target was already grappled by you.</p><p><strong>Punishing Strike.</strong> The target must succeed on a Constitution save or be deafened until the start of its next turn; if it was grappled by you, it's incapacitated for that same duration instead.</p><p><strong>Staggering Strike.</strong> The target chooses to make a Strength or Dexterity save; on a failure it's pushed back 5 feet, or knocked prone instead if it was grappled by you.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Brawling Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

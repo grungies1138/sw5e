@@ -1,0 +1,48 @@
+<section class="tab actions {{#if tabs.actions.active}}active{{/if}}" data-tab="actions" data-group="primary">
+  <div class="action-grid">
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.ActionBoost'}}</legend>
+      <button type="button" data-action="boost" data-system="engines">{{sw5eLabel 'SW5E.PowerSystemEngines'}}</button>
+      <button type="button" data-action="boost" data-system="shields">{{sw5eLabel 'SW5E.PowerSystemShields'}}</button>
+      <button type="button" data-action="boost" data-system="weapons">{{sw5eLabel 'SW5E.PowerSystemWeapons'}}</button>
+      <p class="hint">{{sw5eLabel 'SW5E.BoostHint'}}</p>
+    </fieldset>
+
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.ActionDetect'}}</legend>
+      <button type="button" data-action="detect" data-probe="false">{{sw5eLabel 'SW5E.ShipSkillScan'}}</button>
+      <button type="button" data-action="detect" data-probe="true">{{sw5eLabel 'SW5E.ShipSkillProbe'}}</button>
+    </fieldset>
+
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.ActionPatch'}}</legend>
+      <button type="button" data-action="patch">{{sw5eLabel 'SW5E.ActionPatch'}}</button>
+      <p class="hint">{{sw5eLabel 'SW5E.PatchHint'}}</p>
+    </fieldset>
+
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.ActionRegenShields'}}</legend>
+      <button type="button" data-action="regenShields" {{#if system.combat.regenShieldsUsed}}disabled{{/if}}>{{sw5eLabel 'SW5E.ActionRegenShields'}}</button>
+      {{#if system.combat.regenShieldsUsed}}<p class="hint">{{sw5eLabel 'SW5E.UsedThisTurn'}}</p>{{/if}}
+    </fieldset>
+
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.ActionInterfere'}}</legend>
+      <button type="button" data-action="interfere">{{sw5eLabel 'SW5E.ActionInterfere'}}</button>
+    </fieldset>
+
+    <fieldset class="helm-actions">
+      <legend>{{sw5eLabel 'SW5E.ActionHelm'}} {{#if system.combat.helmUsedThisRound}}({{sw5eLabel 'SW5E.UsedThisTurn'}}){{/if}}</legend>
+      {{#each config.helmActions as |label key|}}
+      <button type="button" data-action="helm" data-sub="{{key}}" {{#if ../system.combat.helmUsedThisRound}}disabled{{/if}}>{{sw5eLabel label}}</button>
+      {{/each}}
+    </fieldset>
+
+    <fieldset class="fire-actions">
+      <legend>{{sw5eLabel 'SW5E.ActionFire'}} ({{system.combat.firedThisRound}}/{{system.attributes.maxFireActions}})</legend>
+      {{#each weapons as |w|}}
+      <button type="button" data-action="fire" data-item-id="{{w.id}}" {{#if (sw5eGte ../system.combat.firedThisRound ../system.attributes.maxFireActions)}}disabled{{/if}}>{{w.name}}</button>
+      {{/each}}
+    </fieldset>
+  </div>
+</section>

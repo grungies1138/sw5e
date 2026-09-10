@@ -1,0 +1,24 @@
+{
+  "_id": "UwnM7dlcaO5CtBCc",
+  "_key": "!items!UwnM7dlcaO5CtBCc",
+  "name": "Comic Frenzy",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you use Flurry of Blows, you can make up to three additional attacks with it (for a total of up to five), provided each attack targets a different creature that turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Trickster Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

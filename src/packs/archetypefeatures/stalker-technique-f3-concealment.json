@@ -1,0 +1,24 @@
+{
+  "_id": "zi3Y8s055hu5XNkH",
+  "_key": "!items!zi3Y8s055hu5XNkH",
+  "name": "Concealment",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn to slip past creatures that see through darkvision. While in darkness, any creature relying on darkvision cannot see you there.</p><p>Additionally, when you hit a creature with a ranged weapon attack while hidden, you can force it to make a Dexterity saving throw against your tech save DC; on a failure, its speed drops to 0 until the end of your next turn. You can use this three times, gaining one more use at 9th, 13th, and 17th level, and you regain all uses on finishing a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Stalker Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

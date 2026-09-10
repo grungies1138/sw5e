@@ -1,0 +1,24 @@
+{
+  "_id": "XGN7KsnrvpvqDEpj",
+  "_key": "!items!XGN7KsnrvpvqDEpj",
+  "name": "Hawk-Bat Swoop",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can move along vertical surfaces without falling during that movement, though if you end your turn airborne, you immediately drop to the ground.</p><p>You also no longer take falling damage from a fall no longer than your walking speed.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ataru Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

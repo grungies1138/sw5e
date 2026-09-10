@@ -1,0 +1,50 @@
+{
+  "_id": "uItLvu4vPtNP1nr8",
+  "_key": "!items!uItLvu4vPtNP1nr8",
+  "name": "Delayed Explosion",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You plant a delayed charge at a point within range. The charge detonates when the power ends, whether by your choice or by your concentration breaking, unleashing an explosion that fills a 20-foot-radius sphere centered on that point. Each creature there must make a Dexterity saving throw, taking fire damage equal to the accumulated total on a failure or half as much on a success.</p><p>The charge starts at 12d6 damage, increasing by 1d6 for every full turn it remains undetonated. If someone touches the charge before it goes off, that creature must succeed on a Dexterity saving throw or the power ends immediately, triggering the explosion. The blast spreads around corners and ignites unattended flammable objects in the area.</p><p>Cast with a tech slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 7",
+    "school": "tech",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "12d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

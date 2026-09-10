@@ -1,0 +1,24 @@
+{
+  "_id": "szc0RCHO7ENPfuI6",
+  "_key": "!items!szc0RCHO7ENPfuI6",
+  "name": "Assuming Direct Control",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>A creature that fails its save against your Invasive Presence feature also becomes charmed by you for the duration that Invasive Presence remains active on it.</p><p>While it is charmed and within 100 feet of you, you and your spirit share a telepathic link with it, and, requiring no action while you remain conscious, may issue it simple general commands — such as attacking a specific foe, moving somewhere, or retrieving an object — which it does its best to carry out. Left without further orders after completing a command, it acts to defend and preserve itself as best it can.</p><p>You may also spend your action to seize total, precise control: until the end of your next turn, the creature performs only the actions you dictate and takes no action you haven't sanctioned. You may even have it use a reaction during this time, though doing so costs you your own reaction as well.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Communion",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "ij2ngHwTCZZ7GaBj",
+  "name": "Watch Out",
+  "type": "shipmaneuver",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Reaction,</strong> taken when an allied ship within 500 feet makes a saving throw. Expend a Power Die from the Comms pool and roll it, adding the result to the save. This can retroactively turn a failure into a success.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Coordinator Collaborations",
+    "deployment": "coordinator",
+    "rankRequired": 1,
+    "activation": "reaction",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

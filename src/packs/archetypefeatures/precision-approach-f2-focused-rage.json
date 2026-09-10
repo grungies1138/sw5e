@@ -1,0 +1,24 @@
+{
+  "_id": "xK1n5WC6ePXS9KPt",
+  "_key": "!items!xK1n5WC6ePXS9KPt",
+  "name": "Focused Rage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, a melee weapon attack you make using your Dexterity adds your rage damage to its damage roll, and you may invoke Reckless Attack to gain advantage on Dexterity-based melee attacks during your turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Precision Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

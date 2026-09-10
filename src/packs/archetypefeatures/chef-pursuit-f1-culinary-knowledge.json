@@ -1,0 +1,24 @@
+{
+  "_id": "HKt5P5ka3m6OD6Ak",
+  "_key": "!items!HKt5P5ka3m6OD6Ak",
+  "name": "Culinary Knowledge",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with chef's kits and, your choice, either the Nature or Survival skill; checks made with either proficiency are never rolled at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Chef Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

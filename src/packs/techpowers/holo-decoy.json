@@ -1,0 +1,45 @@
+{
+  "_id": "LkF7ozrZZ4gPZjFC",
+  "_key": "!items!LkF7ozrZZ4gPZjFC",
+  "name": "Holo-Decoy",
+  "type": "power",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your focus projects a flickering holographic duplicate of yourself in your space. Until the end of your next turn, the first attack roll made against you has disadvantage, as the attacker must guess which image is real.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

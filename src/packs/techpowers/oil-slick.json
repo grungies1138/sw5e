@@ -1,0 +1,50 @@
+{
+  "_id": "X3qNOWB2m0zELD3S",
+  "_key": "!items!X3qNOWB2m0zELD3S",
+  "name": "Oil Slick",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You douse a 10-foot square within range in slick oil, which becomes difficult terrain for the duration. Any creature standing in the area when the oil appears must succeed on a Dexterity saving throw or fall prone, and a creature that enters the area or ends its turn there must make the same save.</p><p>The oil is flammable: any 5-foot section exposed to fire burns away within a round. A creature that enters the burning oil or starts its turn there must make a Dexterity saving throw, taking 3d6 fire damage on a failure or half as much on a success. The flames can spread to catch nearby unattended flammable objects alight.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "xEqSqd17qAb56YRn",
+  "_key": "!items!xEqSqd17qAb56YRn",
+  "name": "Master Revitalize",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a creature that died no more than a day ago and call it back to life, provided its spirit is both willing and able to return; it awakens with all its hit points restored. This power has no effect on droids or constructs.</p><p>The revival seals every wound, purges poison and disease, lifts any curse present at the moment of death, and regenerates missing organs or limbs.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 9",
+    "school": "lightside",
+    "level": 9,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

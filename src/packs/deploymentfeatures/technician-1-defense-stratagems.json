@@ -1,0 +1,22 @@
+{
+  "_id": "p4e8nrLIOjTSVR7Q",
+  "name": "Defense Stratagems",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn two Stratagems of your choice from the Technician's shared list, each of which costs one power die drawn from the ship's Shields pool (or central storage) to activate. You learn an additional Stratagem at each Technician rank thereafter, to a maximum of five known Stratagems at 5th rank, and can swap one known Stratagem for another whenever you gain a rank in this deployment. Only one Stratagem may be used per turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

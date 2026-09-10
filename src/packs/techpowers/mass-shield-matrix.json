@@ -1,0 +1,45 @@
+{
+  "_id": "SBxhZCTDgN0HpeT1",
+  "_key": "!items!SBxhZCTDgN0HpeT1",
+  "name": "Mass Shield Matrix",
+  "type": "power",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>You link the personal deflectors of your allies into a single reinforced network. Each ally within 30 feet of you gains a +2 bonus to Armor Class and 20 temporary hit points for the duration.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minutes"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

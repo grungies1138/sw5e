@@ -1,0 +1,30 @@
+{
+  "_id": "QMmS5j8eyi9YjpLk",
+  "name": "Redundant Power Relays",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>A secondary set of conduits wired in parallel to the primary power grid, so that damage to one relay doesn't immediately cut power to the system it feeds.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 3000,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

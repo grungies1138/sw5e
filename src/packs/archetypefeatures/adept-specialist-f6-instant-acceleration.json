@@ -1,0 +1,24 @@
+{
+  "_id": "kqlxAZjUV0kr0lND",
+  "_key": "!items!kqlxAZjUV0kr0lND",
+  "name": "Instant Acceleration",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you use Action Surge, you may teleport up to 30 feet to an unoccupied space you can see, either before or after taking the extra action it grants.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Adept Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

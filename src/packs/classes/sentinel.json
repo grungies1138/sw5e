@@ -1,0 +1,44 @@
+{
+  "_id": "UV9PNVqr6TeFAkYx",
+  "name": "Sentinel",
+  "type": "class",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Sentinel occupies the middle ground between the Guardian and the Consular, wielding a unique two-thirds Force casting progression that lets them blend blade work and Force power more evenly than either of their counterparts. Sentinels are watchers and problem-solvers: investigators, wardens, and quiet enforcers who use the Force to see what others miss and to end a threat before it escalates.</p><p>A Sentinel's guiding Sentinel Ideals — the personal code that shapes their approach to duty — determine whether they lean toward stealthy interdiction, relentless pursuit, or unshakeable vigilance, but every Sentinel shares the same core versatility: enough martial skill to win a fight and enough Force power to make sure it never needed to happen.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d8",
+    "casterProgression": "twothirds",
+    "castingAbility": "wis",
+    "primaryAbility": [
+      "wis",
+      "dex"
+    ],
+    "savingThrows": [
+      "wis",
+      "cha"
+    ],
+    "skillChoices": {
+      "number": 3,
+      "options": [
+        "acr",
+        "ins",
+        "inv",
+        "prc",
+        "ste",
+        "per"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

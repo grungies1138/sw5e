@@ -1,0 +1,32 @@
+{
+  "_id": "KG4KFhdgaZcwfXKX",
+  "_key": "!items!KG4KFhdgaZcwfXKX",
+  "name": "Promising Commander",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've trained to lead allies through the chaos of combat. Increase your Charisma score by 1, to a maximum of 20.</p><p>As an action, you focus your tactical awareness for one minute. Once per turn during that time, you can call out a command or warning to an ally within 30 feet whom you can see, provided that ally can hear and understand you; that ally adds a d4 to one attack roll or saving throw. A creature can only hold the benefit of one such die at a time. You must finish a short or long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

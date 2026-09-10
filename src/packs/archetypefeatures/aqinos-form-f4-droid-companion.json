@@ -1,0 +1,24 @@
+{
+  "_id": "LSRUIeeUDUrKSMjY",
+  "_key": "!items!LSRUIeeUDUrKSMjY",
+  "name": "Droid Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You put your accumulated expertise to work building, tuning, and bonding with a droid of your own.</p><p>Build your droid companion following the rules in the Companions section of the Expanded Content Customization Options document; you need astrotech's implements to construct it.</p><p>If your companion is destroyed beyond repair, or you simply want a new one, you must first sever your bond with your current companion. Forming a bond with a new one takes 8 hours in a suitable location, and you can maintain only one companion bond at a time.</p><p>Beyond its usual traits and features, your companion gains the following while bonded to you:</p><ul><li>It becomes a valid target for the tracker droid interface tech power.</li><li>It gains two extra traits, plus one more once you reach 11th level. For every trait it has beyond your proficiency bonus, your force point maximum drops by 2. During a long rest, you may swap out or remove a number of its traits equal to half your Intelligence modifier (minimum 1).</li></ul><p>Finally, while bonded and within 10 feet of you, your companion can cast tech powers you know without spending tech points. An at-will power cast this way scales on a delayed schedule — a benefit that would normally kick in at 5th level instead arrives at 11th, and one that would arrive at 11th instead arrives at 17th. Casting a power of 2nd level or higher this way consumes a number of uses of this feature equal to that power's level.</p><p>At 11th level your companion must stay within 30 feet of you to use this benefit, and at 17th level within 60 feet. You have two uses of this feature, gaining one more at 5th, 9th, 13th, and 17th level, and you regain all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Aqinos Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

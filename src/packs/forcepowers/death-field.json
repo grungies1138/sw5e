@@ -1,0 +1,50 @@
+{
+  "_id": "qRF3q7uVXnsw79O9",
+  "_key": "!items!qRF3q7uVXnsw79O9",
+  "name": "Death Field",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You draw the life from every creature within a 30-foot cube centered on a point you choose within range. Each creature in the area must succeed on a Constitution saving throw or take 10d8 necrotic damage, half as much on a success. If a hostile creature is reduced to 0 hit points by this damage, you gain temporary hit points equal to half the damage you dealt it. This power has no effect on droids or constructs.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 8",
+    "school": "darkside",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "10d8",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

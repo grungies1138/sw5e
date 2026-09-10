@@ -1,0 +1,24 @@
+{
+  "_id": "aoWw3thylZ88UfoV",
+  "_key": "!items!aoWw3thylZ88UfoV",
+  "name": "Mystical Erudition",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Years spent among the order's archives leave their mark: you learn one language of your choice and gain proficiency in Lore, Medicine, Nature, or Technology (your choice). At 11th level you gain another language and another skill proficiency from that same list.</p><p>You also learn to read an opponent's body through a well-placed strike. Whenever you hit a creature with an unarmed strike, you may ask the GM whether it possesses one characteristic of your choice from the following list: condition immunities, damage vulnerabilities, damage resistances, or damage immunities.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Jal Shey Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

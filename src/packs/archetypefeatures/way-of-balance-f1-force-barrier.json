@@ -1,0 +1,24 @@
+{
+  "_id": "jHiQVJLwHih0WdO4",
+  "_key": "!items!jHiQVJLwHih0WdO4",
+  "name": "Force Barrier",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>By channeling the Force alongside a universal power of 1st level or higher, you can wrap yourself in a protective shroud that persists until your next long rest. This shroud carries hit points equal to twice your consular level plus your Wisdom or Charisma modifier (your choice), and it can never hold more than that amount.</p><p>Any damage you take is absorbed by the shroud first; only damage exceeding its remaining hit points reaches you. Even after it is depleted to 0 hit points, the shroud's underlying protection lingers: each time you cast a universal power of 1st level or higher, it recovers hit points equal to twice that power's level, though it cannot absorb damage while sitting at 0.</p><p>You can form this shroud only once between long rests; once created, you must finish a long rest before creating it again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Balance",
+    "className": "Consular",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

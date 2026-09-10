@@ -1,0 +1,24 @@
+{
+  "_id": "j6WaZIiTbDoIEtTk",
+  "_key": "!items!j6WaZIiTbDoIEtTk",
+  "name": "Stalker's Flurry",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If you have advantage on a weapon attack against a target on your turn, you can give up that advantage to immediately make one more weapon attack against the same target as a bonus action.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Stalker Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

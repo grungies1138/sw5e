@@ -1,0 +1,22 @@
+{
+  "_id": "HxpHLmbE3Qv5pbAs",
+  "name": "Paragon Pilot",
+  "type": "deploymentFeature",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, you can use a d4 instead of expending a power die to activate a Tactic. This does not reduce the ship's stored power dice.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Pilot",
+    "deployment": "pilot",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

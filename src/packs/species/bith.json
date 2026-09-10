@@ -1,0 +1,57 @@
+{
+  "_id": "R5WsRpDgVrykIAuY",
+  "name": "Bith",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Bith are a species of large-headed, huge-eyed humanoids from the planet Clak'dor VII, renowned throughout the galaxy for their musical talent, scientific acumen, and steady, methodical minds. Having evolved as pack hunters who relied on cooperative planning rather than physical strength, Bith are naturally analytical and possess an almost eerie ability to focus on a single task for hours at a time.</p><p>Bith are common sights in cantina bands, laboratories, and bureaucratic offices alike, prized for their precision and their unflappable calm under pressure.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "int",
+        "value": 2
+      },
+      {
+        "ability": "wis",
+        "value": 1
+      }
+    ],
+    "darkvision": 0,
+    "languages": [
+      "Galactic Basic",
+      "Bith"
+    ],
+    "traits": [
+      {
+        "name": "Keen Mind",
+        "description": "Your large brain processes information with unusual speed and clarity. You have advantage on Intelligence (Investigation) checks made to recall lore, and you always know which way is north while underground or in an unfamiliar structure."
+      },
+      {
+        "name": "Perfect Pitch",
+        "description": "Your acute hearing lets you distinguish subtle variations in sound. You have advantage on Wisdom (Perception) checks that rely on hearing, and on Charisma (Performance) checks involving music."
+      },
+      {
+        "name": "Steady Hands",
+        "description": "Years of fine manipulation of scientific and musical instruments have left your hands remarkably steady. You are proficient with one type of artisan's tools or musical instrument of your choice."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

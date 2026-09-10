@@ -1,0 +1,57 @@
+{
+  "_id": "pAUfx2iUwzexl5td",
+  "name": "Ithorian",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Ithorians, sometimes called \"Hammerheads\" by other species for their distinctive elongated skulls, are a peaceful, nature-revering species from the lush world of Ithor. Ithorian culture holds all life sacred, and most Ithorians are horrified by violence, preferring diplomacy, trade, and stewardship of the natural world.</p><p>An Ithorian's throat contains a second mouth capable of producing a devastating sonic bellow, a defense mechanism evolved to ward off predators &mdash; a stark contrast to their otherwise gentle nature.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "wis",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 0,
+    "languages": [
+      "Galactic Basic",
+      "Ithorese"
+    ],
+    "traits": [
+      {
+        "name": "Bellow",
+        "description": "As an action, you can unleash a thunderous bellow from your second mouth. Each creature within 15 feet of you must succeed on a Constitution saving throw (DC 8 + your proficiency bonus + your Constitution modifier) or take 2d6 thunder damage and be deafened until the end of its next turn. You can use this trait once per long rest."
+      },
+      {
+        "name": "Natural Empathy",
+        "description": "You have advantage on Wisdom (Nature) checks, and on Wisdom (Animal Handling) checks made to interact with beasts."
+      },
+      {
+        "name": "Reverence for Life",
+        "description": "You have advantage on saving throws against being charmed or frightened while you have not taken a hostile action against a living creature in the last minute."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

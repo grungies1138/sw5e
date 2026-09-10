@@ -1,0 +1,30 @@
+{
+  "_id": "BihXRewCQb3NLoOu",
+  "_key": "!items!BihXRewCQb3NLoOu",
+  "name": "Spiritual Techcaster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your relationship with technology has taken on a transcendent quality. Choose Wisdom or Charisma.</p><p>Increase the chosen ability score by 1, to a maximum of 20.</p><p>You use the chosen ability instead of Intelligence as your techcasting ability, including when determining your maximum tech points.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "Ability to cast tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

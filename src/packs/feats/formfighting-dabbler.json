@@ -1,0 +1,37 @@
+{
+  "_id": "CkXGLSjp6HKjGcaN",
+  "_key": "!items!CkXGLSjp6HKjGcaN",
+  "name": "Formfighting Dabbler",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have picked up the fundamentals of several lightsaber combat forms. Increase one ability score of your choice by 1, to a maximum of 20.</p><p>You learn one new lightsaber form. If you already knew at least one form before taking this feat, you instead learn three new forms; if you already knew at least three, you instead learn seven new forms; and if you already knew at least ten, you learn every form you don't yet know.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Ability to cast force powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

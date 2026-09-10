@@ -1,0 +1,45 @@
+{
+  "_id": "7vxduifhfNmElBUn",
+  "_key": "!items!7vxduifhfNmElBUn",
+  "name": "Tapas",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You draw on the Force to inure your body against the elements. For the duration, you are treated as acclimated to both extreme heat and extreme cold.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

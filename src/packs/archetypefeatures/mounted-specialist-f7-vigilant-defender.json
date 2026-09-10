@@ -1,0 +1,24 @@
+{
+  "_id": "A59gWhOEo3DEql76",
+  "_key": "!items!A59gWhOEo3DEql76",
+  "name": "Vigilant Defender",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>In combat, you gain a special reaction usable once on every other creature's turn (never your own), reserved exclusively for making an opportunity attack. You can't use this special reaction on a turn where you've also used your ordinary reaction.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mounted Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

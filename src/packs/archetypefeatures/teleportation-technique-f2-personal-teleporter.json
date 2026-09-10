@@ -1,0 +1,24 @@
+{
+  "_id": "5fTawD18r2SPQ4Bm",
+  "_key": "!items!5fTawD18r2SPQ4Bm",
+  "name": "Personal Teleporter",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can activate portable teleporters as a bonus action rather than an action.</p><p>Additionally, while wielding a tech focus, you can spend a bonus action to open a linked pair of portals: one within 5 feet of you, the other in an unoccupied space you can see up to 30 feet away. They last until the start of your next turn and are large enough for Medium or smaller creatures and objects to pass through; each looks like an elongated, shimmering mirror, letting anyone peer through one as though looking through a window into the other. Anything that passes fully through one portal emerges within 5 feet of its linked partner. You can end the portals early with your reaction.</p><p>If a creature is only partway through a portal, it's shunted back to its prior space and must succeed on a Dexterity saving throw against your tech save DC or take energy damage equal to your scout level plus your Intelligence modifier.</p><p>You can use this feature twice, gaining an additional use at 5th, 9th, 13th, and 17th level, and regain all uses on finishing a short or long rest. At the start of each turn a pair of portals remains active, you may spend a use (no action required) to keep them open until the start of your next turn.</p><p>The maximum distance between the portals grows at higher levels: 60 feet at 5th level, 90 feet at 9th level, 150 feet at 13th level, 300 feet at 17th level, and 1,000 feet at 20th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teleportation Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

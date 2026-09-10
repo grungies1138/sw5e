@@ -1,0 +1,22 @@
+{
+  "_id": "gPwCNTjAm5dMONeF",
+  "_key": "!items!gPwCNTjAm5dMONeF",
+  "name": "Trakata Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Trakata exploits a lightweapon's power switch as readily as its blade, toggling the weapon on and off mid-fight to bewilder and mislead an opponent. Practitioners turn every exchange into a piece of theater, using flourish and misdirection to make their next strike impossible to predict.</p><p>Deception is the true weapon here: a Trakata duelist wins as much through confusion and false openings as through the blade itself, leaving enemies unsure whether the next flash of light is a feint or a killing blow.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

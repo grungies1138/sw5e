@@ -1,0 +1,50 @@
+{
+  "_id": "xQMNdze5yzWx6pbp",
+  "_key": "!items!xQMNdze5yzWx6pbp",
+  "name": "Orbital Strike Designation",
+  "type": "power",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>You paint a target with a designator beam and relay the coordinates to a waiting weapons platform. A precision strike falls on the target, which must make a Dexterity saving throw, taking 6d8 energy damage on a failed save, or half as much on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 300,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "6d8",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

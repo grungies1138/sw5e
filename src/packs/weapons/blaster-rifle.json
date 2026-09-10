@@ -1,0 +1,55 @@
+{
+  "_id": "PwhV87gSLyQz1QCr",
+  "name": "Blaster Rifle",
+  "type": "weapon",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>The standard-issue longarm of armies across the galaxy, this two-handed blaster balances range, stopping power, and reliability for sustained firefights.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 900,
+      "denomination": "credits"
+    },
+    "weight": 6,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "martial",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 100,
+      "long": 400,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed"
+    ],
+    "ammo": {
+      "type": "power cell",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

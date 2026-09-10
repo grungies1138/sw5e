@@ -1,0 +1,24 @@
+{
+  "_id": "Q7ooY4wBiqCiFQnR",
+  "_key": "!items!Q7ooY4wBiqCiFQnR",
+  "name": "On the Hunt",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you activate Predator's Resolve, up to a number of friendly creatures equal to your Intelligence modifier, chosen from those within 30 feet you can see, gain the same benefits.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Predator Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,57 @@
+{
+  "_id": "kM8812OfGbUuIVEi",
+  "name": "Gungan",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Gungans are an amphibious humanoid species native to the swamps and seas of Naboo, having built vast underwater cities long before their surface-dwelling human neighbors knew they existed. Gungans possess long, prehensile ears, wide mouths, and eyes on stalks that grant them near-360-degree vision, all adaptations to a life spent both above and below the waterline.</p><p>Gungan culture blends primitive-seeming customs with genuinely advanced hydrostatic technology, and Gungans who venture into the wider galaxy often surprise those who underestimate them.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 30,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "dex",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Gungan"
+    ],
+    "traits": [
+      {
+        "name": "Amphibious",
+        "description": "You can breathe both air and water."
+      },
+      {
+        "name": "Bombad Reflexes",
+        "description": "Your eye-stalks grant you nearly all-around vision. You have advantage on Wisdom (Perception) checks made to notice a creature attempting to sneak up on you from outside your normal field of vision."
+      },
+      {
+        "name": "Swimmer",
+        "description": "You have a swimming speed of 30 feet."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

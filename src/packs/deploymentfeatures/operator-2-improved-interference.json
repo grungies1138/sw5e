@@ -1,0 +1,22 @@
+{
+  "_id": "SqrVbwpihs8UcnSq",
+  "name": "Improved Interference",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you use the Interfere action and succeed, the target has disadvantage on its next check or attack roll made before the start of your next turn, rather than only its very next roll, and you may use the Interfere action more than once per round (subject to the normal action economy).</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

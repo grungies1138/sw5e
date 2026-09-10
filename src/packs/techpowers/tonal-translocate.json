@@ -1,0 +1,50 @@
+{
+  "_id": "R1nPUTSMnfzLo4V5",
+  "_key": "!items!R1nPUTSMnfzLo4V5",
+  "name": "Tonal Translocate",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You teleport to an unoccupied space you can see within 90 feet. As you vanish, a thunderous boom erupts, and every creature within 10 feet of the space you left must make a Constitution saving throw, taking 3d10 sonic damage on a failure or half as much on a success. The blast is audible up to 300 feet away.</p><p>You may bring along objects up to your carrying capacity, and you can also bring one willing creature of your size or smaller, along with its gear, if it is within 5 feet of you when you cast this power and an unoccupied space exists within 5 feet of your destination; otherwise, that creature is left behind.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 4th level or higher, the sonic damage increases by 1d10 for each slot level beyond 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d10",
+          "type": "sonic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

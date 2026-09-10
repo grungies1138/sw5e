@@ -1,0 +1,30 @@
+{
+  "_id": "0dcPp0WitqoJAsNS",
+  "name": "Auxiliary Thrusters",
+  "type": "starshipmod",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>A set of secondary maneuvering thrusters wired to fire automatically if the main drive is disabled, granting the ship a limited crawling speed even with its engines offline.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 4000,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 2,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

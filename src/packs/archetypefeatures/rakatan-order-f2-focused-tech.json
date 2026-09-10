@@ -1,0 +1,24 @@
+{
+  "_id": "HkS38644dyrWZ8rB",
+  "_key": "!items!HkS38644dyrWZ8rB",
+  "name": "Focused Tech",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can now fuel your tech powers with focus points, lowering your maximum focus points by 1 until your next long rest whenever you do so.</p><p>In addition, using a Focus feature can trigger one of the following tech enhancements, each costing 1 tech point:</p><p><strong>Flurry of Blows.</strong> A hit scored during your Flurry of Blows deals an extra 1d8 damage of the same type.</p><p><strong>Patient Defense.</strong> While Patient Defense is active, being hit by an attack lets you use your reaction to roll your Martial Arts die and add it to your AC against that attack.</p><p><strong>Step of the Wind.</strong> While Step of the Wind is active, you become immune to the shocked condition, and each slowed level you suffer reduces your speed by only 5 feet instead of the normal amount, unless doing so would bring it to 0.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Rakatan Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

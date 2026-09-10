@@ -1,0 +1,35 @@
+{
+  "_id": "gFeBYlr85mwLLX3x",
+  "name": "Composite Armor",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Rigid composite plates strapped over a padded undersuit, offering the best protection short of true heavy armor, at the cost of noisy, cumbersome bulk.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 1300,
+      "denomination": "credits"
+    },
+    "weight": 22,
+    "equipped": false,
+    "proficient": true,
+    "type": "medium",
+    "armor": {
+      "value": 15,
+      "dex": 2
+    },
+    "strength": null,
+    "stealthDisadvantage": true,
+    "bulky": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

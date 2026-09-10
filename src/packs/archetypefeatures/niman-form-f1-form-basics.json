@@ -1,0 +1,24 @@
+{
+  "_id": "HDu2VBCwGFWggbUb",
+  "_key": "!items!HDu2VBCwGFWggbUb",
+  "name": "Form Basics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn the Niman lightsaber form (see Chapter 6). If you already know it, choose a different lightsaber form instead.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Niman Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

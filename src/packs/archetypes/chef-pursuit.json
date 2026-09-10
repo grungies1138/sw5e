@@ -1,0 +1,22 @@
+{
+  "_id": "L4JATmJLD6TuXEnZ",
+  "_key": "!items!L4JATmJLD6TuXEnZ",
+  "name": "Chef Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Cuisine has toppled governments and fed rebellions alike, and the Chef understands better than anyone that a meal can be as potent a tool as any blaster. Those drawn to this pursuit study the chemistry of flavor and nutrition the way others study starship engines, turning the kitchen into a laboratory.</p><p>In the field, a Chef's cooking becomes something closer to alchemy, capable of fortifying a squad, curing the sick, or quietly undoing an enemy from the inside. What arrives on the plate is never simply food.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

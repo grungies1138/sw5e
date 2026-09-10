@@ -1,0 +1,24 @@
+{
+  "_id": "vWGNAZyExwe1NI58",
+  "_key": "!items!vWGNAZyExwe1NI58",
+  "name": "Totem Creation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to craft potent Force-infused talismans called totems &mdash; whether painted directly onto your gear or attached as adornments is up to you. Only you benefit from a totem you've made.</p><p>You know two totems of your choice, detailed below, and may trade one known totem for another whenever you finish a long rest.</p><p>Also on finishing a long rest, you may touch a number of weapons, armor pieces, or shields equal to the number of totems you know, affixing a different totem to each. A totem stays affixed until your next long rest, an object can bear only one totem at a time, and you must be wielding or wearing the object to gain its benefit. Each totem can be invoked once for its effect; after invoking one, you must finish a short or long rest before invoking that totem again.</p><p>The totems, alphabetically, are below. Where a totem calls for a saving throw, its DC = 8 + your proficiency bonus + your Wisdom or Charisma modifier (your choice).</p><p><strong>Totem of the Acklay.</strong> This totem grants advantage on Intelligence (Nature) and Charisma (Intimidation) checks. As a bonus action you can invoke it: for the next 10 minutes, your carrying and lift/drag/push capacity doubles and your Strength score rises by 2, even past 20.</p><p><strong>Totem of the Hawk.</strong> This totem grants advantage on Intelligence (Investigation) checks and darkvision to 60 feet (or +30 feet if you already have darkvision). When a creature you can see ends its turn within 30 feet of you, you can use your reaction to invoke the totem, emitting a piercing sound that forces a Constitution save; on a failure the creature is charmed and dazed for 1 minute, its speed becomes 0, and it's incapacitated. This ends early if the creature takes damage or another creature spends an action to rouse it. A deaf creature automatically succeeds. Once invoked, you must finish a short or long rest before invoking it again.</p><p><strong>Totem of the Loth-wolf.</strong> This totem grants advantage on Dexterity (Sleight of Hand) and Charisma (Deception) checks. When you or a creature you can see within 30 feet of you is hit by an attack roll, you can use your reaction to invoke the totem and redirect that same roll to strike a different creature within 30 feet of you (other than the attacker) that you can see &mdash; regardless of the attack's normal range.</p><p><strong>Totem of the Rancor.</strong> This totem grants advantage on saving throws against poison and resistance to poison damage. As a bonus action you can invoke it to gain resistance to energy and kinetic damage for 1 minute.</p><p><strong>Totem of the Sarlacc.</strong> This totem grants expertise with one tool you're already proficient in. When you hit a creature with a weapon attack, you can invoke the totem to conjure grasping tentacles: the target must succeed on a Strength saving throw or be restrained for 1 minute, taking 2d6 acid damage at the start of each of its turns while restrained. It may repeat the save at the end of each of its turns, breaking free on a success.</p><p><strong>Totem of the Vornskr.</strong> This totem grants advantage on Wisdom (Survival) checks and immunity to being surprised while you aren't incapacitated. As a bonus action you can invoke it to enter a heightened state of awareness for 1 minute or until incapacitated; while it lasts, whenever you or another creature you can see within 60 feet makes an attack roll, saving throw, or ability check, you may use your reaction to grant that roll advantage or disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Totem Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

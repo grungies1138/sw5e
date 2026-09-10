@@ -1,0 +1,24 @@
+{
+  "_id": "RJGbu19e14rfq4VH",
+  "_key": "!items!RJGbu19e14rfq4VH",
+  "name": "Creative Destruction",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can add your governing ability modifier (at least +1) to damage dealt by any tech power or class feature that doesn't already add it; if the effect would hit several creatures, only one of them takes this bonus damage. Choosing to add it gives your GM the option to have you roll on the Unstable Engineering Surge table.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Unstable Engineering",
+    "className": "Engineer",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

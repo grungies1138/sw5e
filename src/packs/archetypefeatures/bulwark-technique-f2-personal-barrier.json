@@ -1,0 +1,24 @@
+{
+  "_id": "qMBVpmaVbKUcffZH",
+  "_key": "!items!qMBVpmaVbKUcffZH",
+  "name": "Personal Barrier",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>At the end of a short or long rest, you generate a protective energy barrier around yourself. It lasts until your next short or long rest and has hit points equal to twice your scout level plus your Intelligence modifier; its hit point maximum is capped at that same total.</p><p>Any damage you take is absorbed by the barrier first. Once the barrier's hit points reach 0, further damage carries through to you.</p><p>A depleted barrier can no longer absorb damage, but it isn't gone; casting a tech power of 1st level or higher restores hit points to it equal to the tech points you spent.</p><p>As long as the barrier still has hit points remaining, you also gain the following benefits:</p><ul><li>You count as proficient in Constitution saving throws when maintaining concentration on tech powers.</li><li>Any hostile creature that hits you with a melee attack suffers energy damage equal to your Intelligence modifier (minimum 1).</li></ul>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Bulwark Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

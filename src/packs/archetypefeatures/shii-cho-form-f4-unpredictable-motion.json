@@ -1,0 +1,24 @@
+{
+  "_id": "RGFbzeNHxEfLLzLV",
+  "_key": "!items!RGFbzeNHxEfLLzLV",
+  "name": "Unpredictable Motion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While wielding a light or vibro weapon, opportunity attacks against you are made with disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Shii-Cho Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "oxHf2tp6T5cY7r0e",
+  "_key": "!items!oxHf2tp6T5cY7r0e",
+  "name": "Way of the Seer",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Force does not stay silent about what is to come, and consulars of the Way of the Seer have learned to listen. Fragments of possible futures drift into their waking minds, and with practice they learn to seize the clearest of these glimpses and bend the present to match them.</p><p>Beyond foresight, these consulars turn their gift inward and outward alike, reading the surface thoughts of the unwary, drawing lingering echoes of the past from objects and places, and shielding their own minds so thoroughly that intrusion becomes an act of self-harm for the intruder.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

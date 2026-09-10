@@ -1,0 +1,24 @@
+{
+  "_id": "zXdseGTUegukA9Hd",
+  "_key": "!items!zXdseGTUegukA9Hd",
+  "name": "Force Carving",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your finer control over the Force lets you spare chosen targets from its effects. When you cast a force power that affects multiple creatures you can see, you may designate a number of them equal to 1 plus the power's level; those designated creatures automatically succeed on their saving throw, and take no damage even if a success would normally still deal half.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Archaeologist Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

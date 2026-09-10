@@ -1,0 +1,24 @@
+{
+  "_id": "g9JFgDnztzBkEVSi",
+  "_key": "!items!g9JFgDnztzBkEVSi",
+  "name": "Nature's Vigor",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to sync your senses with the natural world. Spending at least 1 minute meditating somewhere natural grants you the following for the next hour:</p><ul><li>You disregard difficult terrain that nature itself creates.</li><li>You can understand plants within 30 feet of you, which may telepathically share simple thoughts or memories from the past day.</li><li>You can direct plants within 30 feet to create difficult terrain or perform other GM-approved tasks, with no action required.</li></ul><p>You must complete a short or long rest before you can use this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Witchcraft",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

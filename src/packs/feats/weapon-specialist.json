@@ -1,0 +1,26 @@
+{
+  "_id": "VTNC9O8f4kmJtURK",
+  "_key": "!items!VTNC9O8f4kmJtURK",
+  "name": "Weapon Specialist",
+  "type": "feat",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose one type of weapon with which you are proficient. You gain a +1 bonus to attack rolls you make with that weapon, and once per turn when you hit a target with it, you can deal an extra 1d4 damage of the weapon's type.</p><p>You can take this feat multiple times, choosing a different weapon type each time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Proficiency with at least one weapon.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

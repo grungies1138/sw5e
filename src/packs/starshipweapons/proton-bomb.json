@@ -1,0 +1,49 @@
+{
+  "_id": "sKJ0hU5JzpObDk6A",
+  "name": "Proton Bomb",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A gravity-dropped or chute-launched bomb intended for bombardment runs against stationary or slow-moving targets, detonating in a wide blast that forces a DC 15 Dexterity saving throw for half damage. Standard-yield version suited to Tiny through Large hulls.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 2600,
+      "denomination": "credits"
+    },
+    "category": "quaternary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d10",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 500,
+      "long": 1000,
+      "units": "ft"
+    },
+    "properties": [
+      "exp"
+    ],
+    "ammo": {
+      "value": 6,
+      "max": 6
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "nYysErPzkezCnThD",
+  "_key": "!items!nYysErPzkezCnThD",
+  "name": "Shoot First",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned that striking before the enemy is often what keeps you alive. When you make a ranged weapon attack against a creature that hasn't yet acted in your first turn of combat, and you have advantage on that roll, you may reroll one of the two dice once. On a hit, you also deal an extra 1d8 damage matching the weapon's type, which grows to 1d10 at 13th level and 1d12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Deadeye Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

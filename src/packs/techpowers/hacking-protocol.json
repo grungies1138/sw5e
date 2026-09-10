@@ -1,0 +1,45 @@
+{
+  "_id": "TrjmBn1sSLRJANAO",
+  "_key": "!items!TrjmBn1sSLRJANAO",
+  "name": "Hacking Protocol",
+  "type": "power",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You beam a corrupted data packet into a construct or electronic system within range. The target must succeed on an Intelligence saving throw or be disabled, unable to take actions or reactions, for the duration. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

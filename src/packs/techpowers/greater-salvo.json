@@ -1,0 +1,54 @@
+{
+  "_id": "HgySHWCQJVUnOdRe",
+  "_key": "!items!HgySHWCQJVUnOdRe",
+  "name": "Greater Salvo",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You loose four projectiles at points you can see within range, each detonating in a 20-foot-radius sphere. Every creature caught in a blast makes a Dexterity saving throw, taking 15d6 fire damage and 15d6 kinetic damage on a failure, or half of each on a success; a creature within multiple blast radii is affected only once.</p><p>The blasts damage objects in the area and ignite unattended flammable material.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 9",
+    "school": "tech",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "15d6",
+          "type": "fire"
+        },
+        {
+          "formula": "15d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

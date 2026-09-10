@@ -1,0 +1,24 @@
+{
+  "_id": "e46d5MWvSsVwDP1p",
+  "_key": "!items!e46d5MWvSsVwDP1p",
+  "name": "Enhanced Shot",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Any unenhanced shot you fire from a blaster can now be treated as enhanced, letting it overcome resistance and immunity to unenhanced attacks and damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Enhancement Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

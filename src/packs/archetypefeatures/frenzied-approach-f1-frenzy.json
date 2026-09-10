@@ -1,0 +1,24 @@
+{
+  "_id": "BRlhfKY6foS0E2z9",
+  "_key": "!items!BRlhfKY6foS0E2z9",
+  "name": "Frenzy",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Entering your rage, you may choose to enter a frenzy alongside it: for the rest of the rage, you can make one extra melee weapon attack as a bonus action on every turn after the one you entered it. The first time you frenzy this way costs you nothing, but each further frenzy before your next long rest leaves you with one level of exhaustion once the rage ends.</p><p>A long rest clears two levels of your exhaustion instead of the usual one, and any other effect that removes exhaustion now removes one extra level on top of what it normally would.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Frenzied Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

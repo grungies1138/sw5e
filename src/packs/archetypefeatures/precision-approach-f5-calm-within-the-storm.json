@@ -1,0 +1,24 @@
+{
+  "_id": "SRgdZHjk0i2PTBUw",
+  "_key": "!items!SRgdZHjk0i2PTBUw",
+  "name": "Calm Within the Storm",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you invoke Reckless Attack, you can make a number of opportunity attacks equal to your proficiency bonus without spending your reaction on them, and whenever a creature within 5 feet misses you with an attack, you may use your reaction to strike back with a Dexterity-based melee weapon attack.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Precision Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

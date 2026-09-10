@@ -1,0 +1,30 @@
+{
+  "_id": "lmF4tXpU4JcTnQzL",
+  "name": "Workshop",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>A cramped but well-stocked bay of tools, spare parts, and a small fabrication bench, granting advantage on checks made to craft or repair equipment while docked.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 4000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 1,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

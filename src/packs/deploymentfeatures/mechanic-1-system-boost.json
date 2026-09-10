@@ -1,0 +1,22 @@
+{
+  "_id": "Gmv7DGS3KHENVwba",
+  "name": "System Boost",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn two Techniques of your choice from the Mechanic's shared list, each of which is fueled by rolling your Tech Die rather than expending a power die. Your Tech Die is a d4 at 1st rank, increasing to a d6 at 2nd rank, a d8 at 3rd rank, a d10 at 4th rank, and a d12 at 5th rank. You learn an additional Technique at each Mechanic rank thereafter, to a maximum of five known Techniques at 5th rank. Whenever you roll a 1 on your Tech Die, it shrinks by one size until the end of your next turn; whenever you roll its maximum value, it grows by one size (to a maximum of d12) and you may roll an extra Tech Die and choose the result, both until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

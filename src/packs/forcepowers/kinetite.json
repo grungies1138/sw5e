@@ -1,0 +1,50 @@
+{
+  "_id": "va4K2VKzJS7nfsKa",
+  "_key": "!items!va4K2VKzJS7nfsKa",
+  "name": "Kinetite",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A compact, 5-foot sphere of crackling energy materializes in an unoccupied space within range and persists for the duration. Any creature ending its turn within 5 feet of the sphere must succeed on a Dexterity saving throw or take 2d6 lightning damage, half as much on a success.</p><p>As a bonus action, you can shift the sphere up to 30 feet; if you drive it into a creature, that creature must make a Dexterity save, taking 2d6 kinetic damage on a failure or half on a success, and the sphere halts for the rest of the turn. The sphere can be guided over obstacles up to 5 feet tall and across gaps up to 10 feet wide, ignites unattended flammable material it touches, and casts bright light for 20 feet and dim light for another 20 feet.</p><p>Cast with a slot of 3rd level or higher, both the lightning and kinetic damage increase by 1d6 per slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

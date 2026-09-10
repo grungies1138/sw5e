@@ -1,0 +1,45 @@
+{
+  "_id": "QwCF6f3YTmxioZa6",
+  "_key": "!items!QwCF6f3YTmxioZa6",
+  "name": "Execute Command",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You issue a one-word command to a droid or construct you can see within range. It must succeed on an Intelligence saving throw or carry out that command on its next turn; a piloted construct with a conscious, unincapacitated pilot adds the pilot's Intelligence modifier to the save.</p><p>Typical commands include Approach, Deactivate, Drop, Flee, and Halt, each producing an intuitive effect described by the power; if the target cannot comply, the power ends.</p><p>Cast with a tech slot of 2nd level or higher, you can affect one additional droid or construct within 30 feet of the others for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

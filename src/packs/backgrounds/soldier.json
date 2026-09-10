@@ -1,0 +1,47 @@
+{
+  "_id": "qzWesmYYG98txvjC",
+  "_key": "!items!qzWesmYYG98txvjC",
+  "name": "Soldier",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You served in an organized military force, whether the standing army of a planetary government, a mercenary company, or an insurgent militia, and the discipline of that service shaped who you are. You know how to follow orders, how to give them, and how to keep your head when blaster fire starts flying.</p><p>Whether you fought in a galaxy-spanning war or a single, brutal border skirmish, you carry both the training and the scars of a life spent in uniform.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "itm",
+        "per",
+        "pil"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Threatening",
+        "Charmer",
+        "Ace Pilot",
+        "Competitor",
+        "Linguist",
+        "Weapon Expert",
+        "Healer"
+      ]
+    },
+    "equipment": "An insignia of rank from your former unit, a trophy taken from a fallen enemy, a set of bone dice or cards, a set of common clothes, and 10 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

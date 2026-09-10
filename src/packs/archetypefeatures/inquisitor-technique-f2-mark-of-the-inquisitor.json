@@ -1,0 +1,24 @@
+{
+  "_id": "atPHA19GmjQwYAPE",
+  "_key": "!items!atPHA19GmjQwYAPE",
+  "name": "Mark of the Inquisitor",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While the creature marked by your Ranger's Quarry is within 15 feet of you, it suffers the following:</p><ul><li>Whenever it casts a force power, it must first succeed on a Constitution saving throw against your tech save DC to maintain concentration; on a failure, the casting is disrupted, the power fails, and its force points are wasted.</li><li>Whenever it starts its turn concentrating on a force power, it must make that same Constitution save or lose concentration.</li></ul><p>This feature's radius grows to 30 feet at 11th level and 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Inquisitor Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

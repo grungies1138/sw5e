@@ -1,0 +1,22 @@
+{
+  "_id": "jGAuqkXslczUDq1z",
+  "name": "Improved Critical",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your attacks with the ship's primary and secondary weapons score a critical hit on a roll of 19 or 20. In addition, when a creature makes a saving throw against one of the ship's tertiary or quaternary weapons you are firing and rolls a natural 1, that weapon instead deals its maximum possible damage to them.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

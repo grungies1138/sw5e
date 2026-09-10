@@ -1,0 +1,24 @@
+{
+  "_id": "bgEuWhqeKs0YC9yN",
+  "_key": "!items!bgEuWhqeKs0YC9yN",
+  "name": "Assume the Position",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can apply Sneak Attack without needing advantage on the attack roll, provided your target is more than 30 feet away and no enemy is within 5 feet of you. Standing up from prone now costs only 5 feet of movement instead of half your speed, and you gain proficiency with two martial blasters of your choice.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Sharpshooter Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

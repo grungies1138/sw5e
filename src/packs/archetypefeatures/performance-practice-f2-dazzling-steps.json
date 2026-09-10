@@ -1,0 +1,24 @@
+{
+  "_id": "clnlck6aRaTiuDp7",
+  "_key": "!items!clnlck6aRaTiuDp7",
+  "name": "Dazzling Steps",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As long as you wear no medium or heavy armor and carry no medium or heavy shield, taking the Attack action and striking with a light or finesse weapon increases your walking speed by 10 feet until the end of the turn. If that attack deals Sneak Attack damage, you can give up two of those dice to perform a dazzling step instead. The save DC for these is 8 plus your proficiency bonus plus your Charisma modifier.</p><p><strong>Defensive Step.</strong> Roll two Sneak Attack dice; you gain that many temporary hit points, lasting until the start of your next turn.</p><p><strong>Mobile Step.</strong> The target attempts a Strength save (a Huge or larger creature automatically succeeds). On a failure, it's pushed back 5 feet and you can immediately step into the space it vacated without provoking opportunity attacks.</p><p><strong>Offensive Step.</strong> Choose another creature you can see within your reach; it attempts a Dexterity save. On a failure, roll two Sneak Attack dice and deal that much damage to it, of the same type as your weapon.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Performance Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

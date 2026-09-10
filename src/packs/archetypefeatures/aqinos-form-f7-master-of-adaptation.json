@@ -1,0 +1,24 @@
+{
+  "_id": "lCbpwT3txUIoZrYk",
+  "_key": "!items!lCbpwT3txUIoZrYk",
+  "name": "Master of Adaptation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've struck a perfect balance between the Force and technology. Your Constitution score and your Wisdom or Charisma score (your choice) each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist ion damage, and your saving throws against ion or lightning damage can never suffer disadvantage.</li><li>Attack rolls you make as part of casting a tech power can never suffer disadvantage, and enemies can never gain advantage on saves against your tech powers.</li><li>Any damage or healing from a tech power you cast that doesn't already add your governing ability modifier now adds it (minimum +1).</li></ul><p>While you remain conscious and your droid is conscious and within 60 feet of you, it shares in these benefits as well.</p><p>This effect ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Aqinos Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

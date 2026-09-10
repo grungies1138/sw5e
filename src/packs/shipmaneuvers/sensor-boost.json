@@ -1,0 +1,25 @@
+{
+  "_id": "xxU41dkSxc0ItFNN",
+  "name": "Sensor Boost",
+  "type": "shipmaneuver",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, roll your Tech Die. Until the start of your next turn, your ship gains a bonus equal to the result on Wisdom (Scan) and Intelligence (Probe) checks.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Mechanic Techniques",
+    "deployment": "mechanic",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": false,
+    "formula": "@techDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

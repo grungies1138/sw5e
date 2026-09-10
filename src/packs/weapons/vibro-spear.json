@@ -1,0 +1,57 @@
+{
+  "_id": "kr109UMHgxQHme9J",
+  "name": "Vibro-Spear",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A vibro-edged spearhead mounted on a long haft, equally at home thrust into a charging beast or hurled across a clearing at a fleeing target.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 100,
+      "denomination": "credits"
+    },
+    "weight": 4,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "vibroweapon",
+    "proficiencyTier": "simple",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "kinetic"
+        }
+      ],
+      "versatile": "1d8"
+    },
+    "range": {
+      "value": 20,
+      "long": 60,
+      "units": "ft"
+    },
+    "properties": [
+      "thrown",
+      "reach",
+      "versatile"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

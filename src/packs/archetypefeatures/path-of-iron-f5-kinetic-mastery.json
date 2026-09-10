@@ -1,0 +1,24 @@
+{
+  "_id": "jD7Suhxn1u92plAw",
+  "_key": "!items!jD7Suhxn1u92plAw",
+  "name": "Kinetic Mastery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Pick one lightsaber form you know. Once per turn, you may activate that form without spending your bonus action. You can do this six times, regaining all uses after a long rest, and even after exhausting them you may still activate the form this way by paying 1 force point instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Iron",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

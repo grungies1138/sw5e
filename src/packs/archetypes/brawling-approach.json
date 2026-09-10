@@ -1,0 +1,22 @@
+{
+  "_id": "HBMT4NDmpElTJrdt",
+  "_key": "!items!HBMT4NDmpElTJrdt",
+  "name": "Brawling Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Weapons are optional for most warriors — for followers of the Brawling Approach, they're beside the point. These berserkers have trained their fists, elbows, and whatever's lying around into instruments as lethal as any blade.</p><p>Stripped of armor and shields, they fight with pure, reckless abandon, turning grapples, throws, and bare-knuckle strikes into a brutal art form all their own.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "8hIuY2RtPvNfePQR",
+  "_key": "!items!8hIuY2RtPvNfePQR",
+  "name": "Fury",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following features: Relentless if you chose Juyo, or Punishing Charge if you chose Vaapad.</p><p><strong>Relentless.</strong> You have advantage on initiative checks, and you gain a 10-foot bonus to your speed on your first turn of combat.</p><p><strong>Punishing Charge.</strong> When a hostile creature you can see or hear within 30 feet of you casts a force power, you can use your reaction to move up to half your speed, ending that movement closer to the creature than where you started. If you end within 5 feet of it and the triggering power required a ranged attack roll, that roll suffers disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Juyo/Vaapad Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

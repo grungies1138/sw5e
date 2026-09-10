@@ -1,0 +1,24 @@
+{
+  "_id": "6JP9fiqxcNRfb20F",
+  "_key": "!items!6JP9fiqxcNRfb20F",
+  "name": "Mutagenic Analysis",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While you are your own Critical Analysis target, any saving throw you make that doesn't already use that ability modifier gains a bonus equal to half of it (minimum 1).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Geneticist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

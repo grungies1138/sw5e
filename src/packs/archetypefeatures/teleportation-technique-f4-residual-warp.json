@@ -1,0 +1,24 @@
+{
+  "_id": "euQ8JiKgfcUBqDpo",
+  "_key": "!items!euQ8JiKgfcUBqDpo",
+  "name": "Residual Warp",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When using Personal Teleporter, you can anchor a portal to a location you've visited within the last 10 minutes and can clearly recall, instead of one you can currently see, as long as it's still within your teleporter's range.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teleportation Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

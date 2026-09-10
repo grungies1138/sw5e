@@ -1,0 +1,22 @@
+{
+  "_id": "gUWHjrDGdMVC7wIs",
+  "name": "Masterful Interference",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can target up to two creatures at once with a single use of the Interfere action, and treat a roll of 9 or lower on your Interfere check as a 10.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

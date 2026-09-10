@@ -1,0 +1,45 @@
+{
+  "_id": "84TC35dTIzC9eJyY",
+  "_key": "!items!84TC35dTIzC9eJyY",
+  "name": "Flash",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>At a point within range, you trigger a blinding flash and deafening blast. Roll 6d10 to determine a pool of hit points. Starting with the creature (within 20 feet of that point) currently at the lowest hit points and working upward, each creature is blinded until the end of your next turn, and its hit point total is subtracted from the pool; a creature is affected only if its hit points do not exceed what remains in the pool. Unconscious creatures are ignored.</p><p><strong>Overcharge Tech.</strong> Using a slot of 2nd level or higher adds 2d10 to the pool for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

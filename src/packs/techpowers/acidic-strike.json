@@ -1,0 +1,50 @@
+{
+  "_id": "Fq6KX2ves5S4grgv",
+  "_key": "!items!Fq6KX2ves5S4grgv",
+  "name": "Acidic Strike",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action used to cast this power, you must make a melee weapon attack against a creature within your reach, or the power fails. On a hit, the target suffers the attack's normal effects and becomes coated in acidic slime until the start of your next turn. While coated, if the target is grappled, or grapples or maintains a grapple, the slime presses in and it immediately takes 1d8 acid damage.</p><p>At 5th level, the melee attack deals an extra 1d8 acid damage and the grapple damage increases to 2d8; both totals increase by another 1d8 at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "acid"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

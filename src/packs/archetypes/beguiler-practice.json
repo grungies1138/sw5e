@@ -1,0 +1,22 @@
+{
+  "_id": "XoaFQ9oqQ0oF5LOh",
+  "_key": "!items!XoaFQ9oqQ0oF5LOh",
+  "name": "Beguiler Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Where some operatives rely purely on blade and blaster, Beguiler Practice adepts weaponize charisma itself, drawing on a faint current of the Force to color perception and plant suggestion. They talk their way past guards who never saw a reason to stop them, and turn a target's own confidence against it.</p><p>These operatives thrive on misdirection: a warm smile, a convincing lie, a flicker of Force-born suggestion, all deployed in the instant before the killing blow lands. Their gift is making people believe exactly what serves the mission, right up until it's too late.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

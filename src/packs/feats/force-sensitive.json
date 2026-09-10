@@ -1,0 +1,30 @@
+{
+  "_id": "u4g7l0EQA8q5WoKk",
+  "_key": "!items!u4g7l0EQA8q5WoKk",
+  "name": "Force-Sensitive",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You awaken to the Force, learning two at-will force powers immediately. At 3rd level you learn one 1st-level force power, usable once per long rest; at 5th level you learn one 2nd-level force power, also usable once per long rest. Your forcecasting ability is Wisdom or Charisma, depending on the alignment of the power. Taking this feat also removes the Force-Insensitive trait, if you had it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Humanoid type.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

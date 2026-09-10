@@ -1,0 +1,37 @@
+{
+  "_id": "fHwcakjMyvJecByL",
+  "_key": "!items!fHwcakjMyvJecByL",
+  "name": "Crafter",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your craftsmanship is unusually efficient and refined. Choose one type of artisan's tools. Increase one ability score of your choice by 1, to a maximum of 20.</p><p>You gain proficiency with the chosen tool, or expertise if already proficient. When crafting with that tool, the market value of goods you can produce per day rises by 50 credits (or 100 credits if you have expertise). Using this tool to ply a trade during downtime lets you maintain a lifestyle one step above what you would normally afford.</p><p>This feat can be taken multiple times, choosing a different set of artisan's tools each time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

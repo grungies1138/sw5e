@@ -1,0 +1,24 @@
+{
+  "_id": "qVbBUCqMpDIZenxs",
+  "_key": "!items!qVbBUCqMpDIZenxs",
+  "name": "Ionized Weave",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When casting a damage-dealing force power that requires a force attack or a saving throw, you can spend force points equal to half the power's level (rounded down, minimum 1) to make it deal ion damage instead. Doing so converts any non-Dexterity saving throw the power calls for into a Dexterity saving throw.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Technology",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

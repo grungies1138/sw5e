@@ -1,0 +1,49 @@
+{
+  "_id": "x00GaXx4FtOFarKA",
+  "name": "Ion Cannon",
+  "type": "starshipweapon",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>Fires a concentrated burst of ionizing energy engineered to overload shields and fry electronics rather than tear through armor plate. Ion damage cannot outright destroy a target ship &mdash; only disable it.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 1800,
+      "denomination": "credits"
+    },
+    "category": "primary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d4",
+          "type": "ion"
+        }
+      ]
+    },
+    "range": {
+      "value": 1000,
+      "long": 4000,
+      "units": "ft"
+    },
+    "properties": [
+      "ion"
+    ],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

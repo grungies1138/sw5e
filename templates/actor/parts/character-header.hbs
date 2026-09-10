@@ -1,0 +1,36 @@
+<header class="sheet-header character-header">
+  <img class="profile-img" src="{{actor.img}}" data-action="editImage" data-edit="img" alt="{{actor.name}}">
+  <div class="header-fields">
+    <input class="name-input" name="name" type="text" value="{{actor.name}}">
+    <div class="header-row">
+      <button type="button" data-action="openWizard"><i class="fas fa-hat-wizard"></i> {{sw5eLabel 'SW5E.WizardTitle'}}</button>
+    </div>
+    <div class="header-row">
+      <label>{{sw5eLabel 'SW5E.Level'}} <input type="number" name="system.details.level" value="{{system.details.level}}" style="width:3em"></label>
+      <label>{{sw5eLabel 'SW5E.Species'}} <input type="text" name="system.details.species" value="{{system.details.species}}"></label>
+      <label>{{sw5eLabel 'SW5E.Background'}} <input type="text" name="system.details.background" value="{{system.details.background}}"></label>
+    </div>
+    <div class="header-row bars-row">
+      <div class="resource hp">
+        <label>{{sw5eLabel 'SW5E.HitPoints'}}</label>
+        <div class="bar-wrap">
+          <div class="bar-fill" style="width:{{sw5ePercent system.attributes.hp.value system.attributes.hp.max}}%"></div>
+          <input type="number" name="system.attributes.hp.value" value="{{system.attributes.hp.value}}">
+          <span>/ <input type="number" name="system.attributes.hp.max" value="{{system.attributes.hp.max}}" style="width:3em"></span>
+        </div>
+      </div>
+      <div class="resource ac"><label>{{sw5eLabel 'SW5E.ArmorClass'}}</label><div class="ac-value">{{system.attributes.ac.value}}</div></div>
+      <div class="resource init"><label>{{sw5eLabel 'SW5E.Initiative'}}</label><div class="ac-value">{{sw5eSigned system.attributes.init.total}}</div></div>
+      <div class="resource prof"><label>{{sw5eLabel 'SW5E.ProficiencyBonus'}}</label><div class="ac-value">{{sw5eSigned system.attributes.prof}}</div></div>
+      <div class="resource force"><label>{{sw5eLabel 'SW5E.ForcePoints'}}</label><div class="ac-value">{{system.resources.force.value}}/{{system.resources.force.max}}</div></div>
+      <div class="resource tech"><label>{{sw5eLabel 'SW5E.TechPoints'}}</label><div class="ac-value">{{system.resources.tech.value}}/{{system.resources.tech.max}}</div></div>
+    </div>
+    <div class="header-row death-row">
+      <button type="button" data-action="rollDeathSave">{{sw5eLabel 'SW5E.DeathSave'}}</button>
+      <span>{{sw5eLabel 'SW5E.Successes'}}: {{system.attributes.death.success}}/3</span>
+      <span>{{sw5eLabel 'SW5E.Failures'}}: {{system.attributes.death.failure}}/3</span>
+      <button type="button" data-action="shortRest">{{sw5eLabel 'SW5E.ShortRest'}}</button>
+      <button type="button" data-action="longRest">{{sw5eLabel 'SW5E.LongRest'}}</button>
+    </div>
+  </div>
+</header>

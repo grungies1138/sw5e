@@ -1,0 +1,24 @@
+{
+  "_id": "C9J9tnycJvTiUFs2",
+  "_key": "!items!C9J9tnycJvTiUFs2",
+  "name": "Suit Reliability",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your suit has become an extension of your body. While wearing your modified armor or wielding your modified shield, any Strength, Dexterity, or Constitution ability check or saving throw you make benefits from the minimum roll threshold rule described in chapter 7.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armormech Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

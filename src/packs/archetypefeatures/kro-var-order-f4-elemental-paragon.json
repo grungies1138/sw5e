@@ -1,0 +1,24 @@
+{
+  "_id": "roee1SSYyqr4CUFE",
+  "_key": "!items!roee1SSYyqr4CUFE",
+  "name": "Elemental Paragon",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following techniques. Once used, you must complete a long rest before using it again; while you have no use remaining, you may instead spend 4 focus points to use it, lowering your focus point maximum by 4 until your next long rest.</p><p><strong>Archetype of Air</strong> (requires Ride the Wind). As an action, a whirlwind wraps around you until the start of your next turn: ranged attacks against you have disadvantage, and you gain a 60-foot flying speed (falling if still aloft when the effect ends, unless prevented). As an action, you may also blast a 15-foot cube of wind centered on a point within 60 feet; each creature there must succeed on a Constitution save or take 2d10 kinetic damage (half on a success), and a Large or smaller creature that fails is also pushed up to 10 feet from the cube's center. As a bonus action at the start of each of your turns, you may extend the whole effect to the start of your next turn, up to a total of 1 minute; being incapacitated or dying ends it immediately.</p><p><strong>Figure of Flame</strong> (requires River of Hungry Flame). As an action, flames wreathe your body until the start of your next turn: you gain resistance to fire damage, shed bright light 30 feet and dim light for another 30, and deal 1d10 fire damage to any creature that first enters within 5 feet of you on a turn or ends its turn there. As an action, you may also loose a 15-foot-long, 5-foot-wide line of fire; each creature in it must succeed on a Dexterity save or take 4d8 fire damage (half on a success). As a bonus action at the start of each of your turns, you may extend the whole effect to the start of your next turn, up to a total of 1 minute; being incapacitated or dying ends it immediately.</p><p><strong>Icon of Ice</strong> (requires Shape the Flowing River). As an action, frost spreads around you until the start of your next turn: you gain resistance to cold damage, move across ice or snow without extra cost, and turn the ground in a 10-foot radius around you (which moves with you) into difficult terrain for others. As an action, you may also loose a 15-foot cone of freezing ice; each creature in it must succeed on a Constitution save or take 4d6 cold damage and gain 1 slowed level until the start of your next turn (half damage and no slow on a success). As a bonus action at the start of each of your turns, you may extend the whole effect to the start of your next turn, up to a total of 1 minute; being incapacitated or dying ends it immediately.</p><p><strong>Embodiment of Earth</strong> (requires Earth Reaches for Sky). As an action, stone envelops you until the start of your next turn: you gain resistance to kinetic and energy damage, move across earthen or stone difficult terrain freely, and can pass through solid earth or stone as though it were air (though you can't end your turn inside it—doing so shunts you to the nearest unoccupied space and deals force damage equal to twice the distance moved). As an action, you may also trigger a small quake in a 15-foot radius centered on you, forcing other creatures on the ground there to succeed on a Dexterity save or fall prone. As a bonus action at the start of each of your turns, you may extend the whole effect to the start of your next turn, up to a total of 1 minute; being incapacitated or dying ends it immediately.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kro Var Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

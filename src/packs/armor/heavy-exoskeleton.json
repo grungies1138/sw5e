@@ -1,0 +1,35 @@
+{
+  "_id": "FvdEJ4B5lqYK0MjU",
+  "name": "Heavy Exoskeleton",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A powered exoframe encasing the wearer from neck to boot, the pinnacle of personal armor and nearly impervious to small-arms fire, at the cost of tremendous mass.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 8000,
+      "denomination": "credits"
+    },
+    "weight": 60,
+    "equipped": false,
+    "proficient": true,
+    "type": "heavy",
+    "armor": {
+      "value": 18,
+      "dex": 0
+    },
+    "strength": 17,
+    "stealthDisadvantage": true,
+    "bulky": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

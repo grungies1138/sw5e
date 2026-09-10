@@ -1,0 +1,50 @@
+{
+  "_id": "aXsMOKNvJ3Cxisz0",
+  "_key": "!items!aXsMOKNvJ3Cxisz0",
+  "name": "Flaming Shots",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You infuse a blaster weapon you're wielding with tech energy. For up to 1 hour, as long as you maintain concentration, the next twelve times the weapon strikes a target it deals an additional 1d6 fire damage, after which the power ends.</p><p><strong>Overcharge Tech.</strong> Using a slot of 4th level or higher grants two additional shots for each slot level beyond 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

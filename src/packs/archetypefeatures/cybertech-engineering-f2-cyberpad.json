@@ -1,0 +1,24 @@
+{
+  "_id": "tPYCJrkHDBq0Rws9",
+  "_key": "!items!tPYCJrkHDBq0Rws9",
+  "name": "Cyberpad",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Over a long rest, using cybertech's implements, you modify your wristpad. It requires attunement, can only be used by you, and serves as a tech focus for your tech powers while attuned. It starts with 4 modification slots, gaining more at higher levels per the engineer class table's Modification Slots column. Each modification beyond your proficiency bonus reduces your tech point maximum by 1. During a long rest you may replace or remove modifications up to your Intelligence modifier (minimum one), and any effect requiring a save uses your tech save DC.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Cybertech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

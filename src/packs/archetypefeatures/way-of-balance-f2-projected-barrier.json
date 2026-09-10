@@ -1,0 +1,24 @@
+{
+  "_id": "In0sWCFzsieRQ49h",
+  "_key": "!items!In0sWCFzsieRQ49h",
+  "name": "Projected Barrier",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you see a creature within 30 feet take damage, you can spend your reaction to have your Force Barrier soak up that damage on their behalf. Should this exhaust the barrier's remaining hit points, the protected creature suffers whatever damage is left over.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Balance",
+    "className": "Consular",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

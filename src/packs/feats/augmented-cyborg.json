@@ -1,0 +1,37 @@
+{
+  "_id": "uK3IGhWNOHWmgpRy",
+  "_key": "!items!uK3IGhWNOHWmgpRy",
+  "name": "Augmented Cyborg",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Cybernetic experimentation has changed you. Increase one ability score of your choice by 1, to a maximum of 20.</p><p>Select and install one standard-rarity cybernetic augmentation from Appendix A. This augmentation does not count toward the number of augmentations you can normally support, though it still counts toward your total for purposes of the Cybernetic Augmentation Side Effects table in Chapter 7.</p>",
+      "chat": ""
+    },
+    "source": "Wretched Hive Feats",
+    "requirements": "Beast or humanoid type.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

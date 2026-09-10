@@ -1,0 +1,24 @@
+{
+  "_id": "a0YukNrInnfCOqEi",
+  "_key": "!items!a0YukNrInnfCOqEi",
+  "name": "Panacea",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've perfected a formula for a genuine miracle cure. Spending 10 minutes and 1,000 credits of rare medical supplies, you can brew a single dose into a syringe; it keeps its potency for 24 hours. A creature can inject itself as a bonus action, or use an action to administer it to another creature within 5 feet.</p><p>The recipient loses one level of exhaustion and regains all of its hit points, and any disease, poison, paralysis, or stun condition afflicting it ends immediately. You can't produce another dose until you finish a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Physician Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

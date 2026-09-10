@@ -1,0 +1,50 @@
+{
+  "_id": "QDr10zimlC3sl04I",
+  "_key": "!items!QDr10zimlC3sl04I",
+  "name": "Voltaic Shielding",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Crackling energy wraps around you and your gear, granting you 5 temporary hit points for the duration. While you have these hit points, any creature that hits you with a melee attack takes 5 lightning damage.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 2nd level or higher, both the temporary hit points and the lightning damage increase by 5 for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

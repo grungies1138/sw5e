@@ -1,0 +1,47 @@
+{
+  "_id": "yhQuaDmMb6sOmRFO",
+  "_key": "!items!yhQuaDmMb6sOmRFO",
+  "name": "Survivor",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lived through something you still can't fully put into words &mdash; a horror, a loss, an event that has followed you long after it ended. You've tried outrunning it and burying it, and neither has worked, but you've kept moving anyway.</p><p>Whatever look people see in your eyes when they meet you, it tells them you've faced something and come out the other side, and that carries its own quiet weight wherever you go.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "inv",
+        "lor",
+        "sur",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "Your choice of artist's implements, biotech's implements, or brewer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Investigator",
+        "Loremaster",
+        "Survivalist",
+        "Techie",
+        "Crafter",
+        "Specialist",
+        "Linguist",
+        "Total Reconstruction"
+      ]
+    },
+    "equipment": "A set of common clothes, one tool with which you are proficient, a tattered journal, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

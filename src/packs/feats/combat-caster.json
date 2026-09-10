@@ -1,0 +1,30 @@
+{
+  "_id": "Nw9WS8gYB7Ekg3ja",
+  "_key": "!items!Nw9WS8gYB7Ekg3ja",
+  "name": "Combat Caster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've refined your powers to punish those who barely dodge them.</p><p>When a creature rolls a natural 1 on a saving throw against a damaging power you cast, it instead takes the maximum possible result on the damage die.</p><p>You learn one at-will power that requires a saving throw; your casting ability for it is Wisdom or Charisma (matching the power's alignment) for a force power, or Intelligence for a tech power.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level, the ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

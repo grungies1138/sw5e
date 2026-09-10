@@ -1,0 +1,36 @@
+{
+  "_id": "9xU9OkxbBWyfd4kT",
+  "_key": "!items!9xU9OkxbBWyfd4kT",
+  "name": "Outlander",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You spent your early life far from settled society, whether wandering the wilderness of an untamed world, traveling with a nomadic people, or living hand-to-mouth on the move. You know how to survive without the comforts of civilization, read weather and terrain, and find food and shelter where others would see only wasteland.</p><p>Now that you walk among city-dwellers and starfarers, you bring a hardiness and a keen eye for danger that your more sheltered companions often lack.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Survivalist"
+      ]
+    },
+    "equipment": "A staff or walking stick, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and 10 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "YpxYDGh9Kvirwz4u",
+  "_key": "!items!YpxYDGh9Kvirwz4u",
+  "name": "Element of Surprise",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a reaction to being damaged by a creature you can see within 60 feet, you hurl a small sabotage charge back at your attacker. The creature must succeed on a Dexterity saving throw or take 2d10 fire damage, taking half as much on a success.</p><p>Cast with a tech slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d10",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

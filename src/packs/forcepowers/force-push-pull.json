@@ -1,0 +1,50 @@
+{
+  "_id": "cGLuqtgbgt2XmXht",
+  "_key": "!items!cGLuqtgbgt2XmXht",
+  "name": "Force Push/Pull",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reach out with the Force to nudge the world around you. With careful control you can perform a simple manipulation at range — opening a latch, retrieving something from a container, or pouring out a liquid — without touching it.</p><p>Alternatively, you can violently shove or yank a Medium or smaller creature or object that isn't being worn or carried, provided you can see it. The target makes a Strength saving throw (an object automatically fails). On a failure, it is flung a distance based on its size: 20 feet for a Tiny target, 10 feet for a Small one, or 5 feet for a Medium one. If it collides with another creature or object at the end of that movement, both must succeed on a Dexterity saving throw (an object automatically fails) or take 1d4 kinetic damage.</p><p>At 5th level the distances increase to 30/20/10 feet and the collision damage rises to 2d4; at 11th level the Small and Medium distances become 30 and 20 feet and the damage becomes 3d4; at 17th level a Medium target can be thrown the full 30 feet and the damage becomes 4d4.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

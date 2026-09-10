@@ -1,0 +1,24 @@
+{
+  "_id": "rLXlKsXGyPuwgFOT",
+  "_key": "!items!rLXlKsXGyPuwgFOT",
+  "name": "Intercept",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with thrown vibroweapons, which become monk weapons for you, and any improvised weapon you throw is treated as one you're proficient with, dealing damage based on your Martial Arts die instead of the usual 1d4.</p><p>You also learn to knock aside incoming attacks with a well-timed throw. While wielding a weapon you're proficient with, if a creature within that weapon's normal thrown range is struck by a ranged attack, you can use your reaction to hurl your weapon into the projectile's path, reducing the damage the creature takes by 1d10 plus your Dexterity modifier plus your monk level. If your thrown weapon has the returning property, it flies back to your hand afterward.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kyuzo Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

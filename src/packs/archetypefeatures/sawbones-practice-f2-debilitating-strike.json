@@ -1,0 +1,24 @@
+{
+  "_id": "zZZrpxWjOYZaffUC",
+  "_key": "!items!zZZrpxWjOYZaffUC",
+  "name": "Debilitating Strike",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you deal Sneak Attack damage to a creature with anatomy you can exploit, you can give up two of those dice to inflict a debilitating strike instead. The save DC for these is 8 plus your proficiency bonus plus your Intelligence modifier.</p><p><strong>Bleeding Wound.</strong> The target attempts a Constitution save. On a failure, for up to a minute it takes true damage equal to one Sneak Attack die at the start of each of its turns, repeating the save each time and ending the effect on a success.</p><p><strong>Crippling Pain.</strong> The target attempts a Constitution save or has disadvantage on attack rolls until the end of your next turn.</p><p><strong>Hampering Shot.</strong> The target attempts a Constitution save. On a failure, it gains one level of slowed and makes Dexterity saves with disadvantage until the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sawbones Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

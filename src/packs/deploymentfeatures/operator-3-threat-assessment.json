@@ -1,0 +1,22 @@
+{
+  "_id": "IUmwkfepBPaczSJY",
+  "name": "Threat Assessment",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can study a target ship you can see and learn, as a relative comparison to your own ship, whether its ability scores, Armor Class, combined Hull and Shield Points, tier, and deployment ranks are higher, lower, or roughly equal to your own.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "oXXbdFfulqHXp6A3",
+  "_key": "!items!oXXbdFfulqHXp6A3",
+  "name": "Land Stride",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You attune yourself to the natural world, making rough terrain trivial to cross. For the duration, neither your movement nor that of chosen creatures within 40 feet of you is hindered by natural obstacles such as mud, loose rock, vines, or heavy undergrowth, though climbing still costs double movement. Any creature benefiting from this power also leaves no trail of its passing.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "8",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

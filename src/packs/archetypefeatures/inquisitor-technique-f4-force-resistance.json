@@ -1,0 +1,24 @@
+{
+  "_id": "1WZoV8ML3yf2Bt2m",
+  "_key": "!items!1WZoV8ML3yf2Bt2m",
+  "name": "Force Resistance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While the creature marked by your Ranger's Quarry is within 30 feet of you, you have advantage on saving throws against force powers it casts and resistance to damage those powers deal. This radius grows to 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Inquisitor Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

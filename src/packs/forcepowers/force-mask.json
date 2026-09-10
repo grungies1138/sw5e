@@ -1,0 +1,45 @@
+{
+  "_id": "ifGTDuMtoFMa3T5w",
+  "_key": "!items!ifGTDuMtoFMa3T5w",
+  "name": "Force Mask",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Until you dismiss it with an action or the power ends, you use the Force to alter your apparent appearance, including height by about a foot in either direction, build, and overall look, though not your basic body structure, extending the illusion to your clothing, weapons, and other worn or carried items.</p><p>The disguise is purely visual; physical contact reveals your true size and shape. A creature that spends its action examining you can see through the illusion with a successful Intelligence (Investigation) check against your force save DC.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

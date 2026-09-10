@@ -1,0 +1,45 @@
+{
+  "_id": "3Vr0uEzZ2UOe2DVN",
+  "_key": "!items!3Vr0uEzZ2UOe2DVN",
+  "name": "Valor",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You inspire up to three creatures of your choice within range. Until the power ends, whenever a target makes an attack roll or a saving throw, it can roll a d4 and add the result to the roll.</p><p>When cast using a force slot of 3rd level or higher, you can target one additional creature for every two slot levels above 1st, and the bonus die becomes a d6 at 3rd level, a d8 at 6th level, and a d10 at 9th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

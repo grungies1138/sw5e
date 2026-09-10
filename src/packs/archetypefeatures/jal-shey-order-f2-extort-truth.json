@@ -1,0 +1,24 @@
+{
+  "_id": "Di1k6h4aNy30mKwD",
+  "_key": "!items!Di1k6h4aNy30mKwD",
+  "name": "Extort Truth",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can target the nerve clusters that mask a person's true feelings. When you hit with a melee weapon attack, you may cause it to deal no damage and instead spend 1 focus point to force a Charisma saving throw against your focus save DC. On a failure, the target cannot speak a deliberate lie for 1 minute, and any Charisma check made against it during that time has advantage.</p><p>Regardless of success or failure, the target knows you tried to influence it and may simply decline to answer any question it would otherwise have lied about.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Jal Shey Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

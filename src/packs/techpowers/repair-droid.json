@@ -1,0 +1,45 @@
+{
+  "_id": "e5Q5erkUitH7FuC9",
+  "_key": "!items!e5Q5erkUitH7FuC9",
+  "name": "Repair Droid",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a droid or construct, restoring 1d8 hit points plus your techcasting ability modifier.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 2nd level or higher, the healing increases by 1d8 for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

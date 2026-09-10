@@ -1,0 +1,30 @@
+{
+  "_id": "nXwznIbTQxL7cPKo",
+  "_key": "!items!nXwznIbTQxL7cPKo",
+  "name": "Titan's Power",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your might matches that of legendary champions.</p><p>You become proficient in Strength saving throws; if you already had that proficiency, you gain expertise in it instead.</p><p>You can wield two-handed weapons you're proficient with as though they lacked the two-handed property.</p><p>When a melee weapon attack you make misses, the target still takes damage equal to your Strength modifier, of the same type the weapon would have dealt.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "12th level, Strength 20.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

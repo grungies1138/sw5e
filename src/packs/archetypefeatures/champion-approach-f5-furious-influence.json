@@ -1,0 +1,24 @@
+{
+  "_id": "kmfpvoKvTn9zyJfj",
+  "_key": "!items!kmfpvoKvTn9zyJfj",
+  "name": "Furious Influence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, you gain the following: you resist psychic damage, and whenever a maneuver of yours benefits an ally, that ally also gains one of your damage resistances until the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Champion Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

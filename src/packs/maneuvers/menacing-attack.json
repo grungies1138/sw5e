@@ -1,0 +1,25 @@
+{
+  "_id": "W12lAFCPUYGKFxzK",
+  "name": "Menacing Attack",
+  "type": "maneuver",
+  "img": "icons/svg/skull.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten it. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "special",
+      "cost": 0
+    },
+    "savingThrow": "wis"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

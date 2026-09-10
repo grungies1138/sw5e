@@ -1,0 +1,22 @@
+{
+  "_id": "hGPTfaRP7VY6GMrK",
+  "_key": "!items!hGPTfaRP7VY6GMrK",
+  "name": "Way of the Void",
+  "type": "archetype",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Way of the Void is a Monastic Vow built around a school of meditation that treats stillness itself as a martial art, teaching its practitioners to read the empty spaces between an opponent's movements and strike before intention becomes action. Monks who follow this path seem almost supernaturally calm even mid-combat, moving with an economy of motion that borders on the eerie.</p><p>Practitioners of the Way of the Void learn to briefly phase past incoming attacks, sense danger before it manifests, and channel their focus points into strikes that seem to bypass an opponent's guard entirely, rewarding patience and precision over raw aggression.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

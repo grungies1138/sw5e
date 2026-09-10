@@ -1,0 +1,45 @@
+{
+  "_id": "CJSmFscNIu7rRcAq",
+  "_key": "!items!CJSmFscNIu7rRcAq",
+  "name": "Stun",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose a humanoid you can see within range. It must succeed on a Wisdom saving throw or become paralyzed for the duration, repeating the save at the end of each of its turns to end the effect early.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 2",
+    "school": "lightside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

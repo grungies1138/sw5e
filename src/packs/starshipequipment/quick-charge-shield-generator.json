@@ -1,0 +1,27 @@
+{
+  "_id": "wna2lPmTkXloPbsm",
+  "name": "Quick-Charge Shield Generator",
+  "type": "starshipequipment",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A shield generator built for rapid recovery at the cost of raw capacity. Shield Capacity equals base Shield Points &times;2/3 (rounded), but Shield Regeneration Rate increases to the maximum value of the Shield Die &times;1.5.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 0,
+      "denomination": "credits"
+    },
+    "kind": "shieldGenerator",
+    "configKey": "quickCharge",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

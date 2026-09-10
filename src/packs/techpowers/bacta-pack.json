@@ -1,0 +1,45 @@
+{
+  "_id": "dTPLw8BvJ7C5gYz4",
+  "_key": "!items!dTPLw8BvJ7C5gYz4",
+  "name": "Bacta Pack",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure a glowing pack of bacta in an unoccupied or occupied space within range. If a creature you designate occupies that space, it may use its reaction to activate the pack immediately; otherwise, any creature within 5 feet may spend a bonus action to touch and activate it.</p><p>Activating the pack restores hit points equal to 1d6 plus your techcasting ability modifier to the activating creature and consumes the pack; droids and constructs are unaffected. If the power ends before the pack is used, it dissolves uselessly.</p><p>Cast with a tech slot of 2nd level or higher, you may either add 1d6 to a single pack's healing or create one additional pack in a separate space, for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

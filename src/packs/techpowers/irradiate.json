@@ -1,0 +1,50 @@
+{
+  "_id": "BbNYIDlfFXhrrfBp",
+  "_key": "!items!BbNYIDlfFXhrrfBp",
+  "name": "Irradiate",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A creature within range is bathed in radiation and must make a Constitution saving throw, taking 3d10 necrotic damage and gaining one level of exhaustion for the duration on a failure, or half the damage and no exhaustion on a success. An exhausted target may attempt a Constitution saving throw at the end of each of its turns, ending the power on a success.</p><p><strong>Overcharge Tech.</strong> Casting with a slot of 3rd level or higher increases the damage by 1d10 for each slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d10",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

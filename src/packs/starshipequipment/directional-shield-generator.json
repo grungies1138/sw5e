@@ -1,0 +1,27 @@
+{
+  "_id": "5HJ5OHrivBulENef",
+  "name": "Directional Shield Generator",
+  "type": "starshipequipment",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>The baseline shield generator. Shield Capacity equals base Shield Points &times;1; Shield Regeneration Rate equals the maximum value of the Shield Die &times;1.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 0,
+      "denomination": "credits"
+    },
+    "kind": "shieldGenerator",
+    "configKey": "directional",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

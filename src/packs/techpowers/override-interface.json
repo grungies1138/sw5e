@@ -1,0 +1,45 @@
+{
+  "_id": "iIPglQx0D6Lh8hB3",
+  "_key": "!items!iIPglQx0D6Lh8hB3",
+  "name": "Override Interface",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target one droid or construct you can see within range, attempting to seize remote control of it. It must succeed on an Intelligence saving throw or become charmed by you for the duration; if it has the Piloted trait and an active, unincapacitated pilot, the pilot's Intelligence modifier is added to the save, and if the target is being fought by you or your allies, it has advantage on the save.</p><p>While the target is charmed in this way, you share a wireless link with it whenever you're on the same planet, letting you issue it simple general commands (no action required) that it will attempt to follow to the best of its ability, defending itself if it receives no further orders. Alternatively, you can spend your action to seize total, precise control: until the end of your next turn the droid takes only actions you allow, and you may spend your own reaction to let it take a reaction as well.</p><p>Whenever the target takes damage, it may attempt a new Intelligence saving throw, ending the power on a success.</p><p><em>Overcharge Tech.</em> Cast with a 6th-level tech slot, the duration becomes 10 minutes; with a 7th-level slot, 1 hour; with a slot of 8th level or higher, 8 hours.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

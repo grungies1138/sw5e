@@ -1,0 +1,24 @@
+{
+  "_id": "mJM5H35NwBPc8Clr",
+  "_key": "!items!mJM5H35NwBPc8Clr",
+  "name": "Improved Suppression",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever casting a force power calls for you to make an ability check as part of the casting, as with powers like sever force or force suppression, you add your proficiency bonus to that check.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Balance",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

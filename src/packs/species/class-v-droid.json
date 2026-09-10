@@ -1,0 +1,57 @@
+{
+  "_id": "z9pgUn35DHVY3gNr",
+  "name": "Class V Droid",
+  "type": "species",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Class V droids are labor and industrial units, built heavy, strong, and simple, intended for the grueling, repetitive work of mining, construction, and cargo-handling that would exhaust or injure organic laborers. Though their processors are rarely as sophisticated as other droid classes, Class V units are famous for their raw endurance and their capacity to keep functioning long after other machinery would have failed.</p><p>Many Class V droids that gain independence find purpose applying their considerable strength to less menial &mdash; and considerably more dangerous &mdash; pursuits.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "str",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Binary"
+    ],
+    "traits": [
+      {
+        "name": "Droid Nature",
+        "description": "You do not need to eat, drink, sleep, or breathe. You are immune to disease and to poison damage, and you cannot gain exhaustion from lack of food, water, or rest."
+      },
+      {
+        "name": "Powerful Build",
+        "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+      },
+      {
+        "name": "Industrial Chassis",
+        "description": "Built for punishment, your chassis is unusually durable. You have advantage on Constitution saving throws made to resist effects that would damage or destroy your internal systems, such as an ion weapon's disabling effect."
+      }
+    ],
+    "isDroid": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

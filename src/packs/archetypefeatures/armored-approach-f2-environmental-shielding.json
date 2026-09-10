@@ -1,0 +1,24 @@
+{
+  "_id": "UUqRjzffgDb1wjsr",
+  "_key": "!items!UUqRjzffgDb1wjsr",
+  "name": "Environmental Shielding",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You rig your spiked armor to blunt a chosen element — acid, cold, fire, lightning, or sonic — granting you resistance to that damage type while you wear it. Given a long rest and access to both the armor and your implements, you may retune it to a different type. The armor also grants advantage on Constitution saves to resist exhaustion from extreme heat or cold while worn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Armored Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

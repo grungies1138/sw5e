@@ -1,0 +1,50 @@
+{
+  "_id": "C822wmNXTWPvurFw",
+  "_key": "!items!C822wmNXTWPvurFw",
+  "name": "Sonic Fists",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You wrap your fists, or comparable natural weapons, in resonant sonic energy for the duration, dealing 1d10 sonic damage on a hit. Whenever you strike a creature no more than one size larger than you with this natural weapon, you may push it 5 feet directly away from you.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "sonic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

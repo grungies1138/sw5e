@@ -1,0 +1,24 @@
+{
+  "_id": "3fyLN10neDM0ygGU",
+  "_key": "!items!3fyLN10neDM0ygGU",
+  "name": "Improved Force-Empowered Tech",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Two further Force-Empowered Tech effects become available to you: Harmonic Synthesis and Conservation of Energy.</p><p><strong>Harmonic Synthesis.</strong> When you cast a force power using your action, you may spend your bonus action to gain resistance to tech power damage until the start of your next turn; if you instead cast a tech power with your action, you may gain resistance to force power damage in the same way.</p><p><strong>Conservation of Energy.</strong> When a tech power you cast drops a hostile creature to 0 hit points, you may retroactively reduce that power's force point cost to 0, requiring no action.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Synthesis",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

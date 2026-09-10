@@ -1,0 +1,30 @@
+{
+  "_id": "9bQ64xgWCIBSH8tc",
+  "name": "Carbonite Launcher Mk II",
+  "type": "starshipmod",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>An improved carbonite dispersal system with a tighter freeze radius and faster reload cycle than the Mk I, favored by bounty hunters who need their quarry intact.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 5000,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 2,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "Fixed Hardpoint",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

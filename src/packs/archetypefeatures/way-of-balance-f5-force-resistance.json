@@ -1,0 +1,24 @@
+{
+  "_id": "QCKWnK95SWmIIMUY",
+  "_key": "!items!QCKWnK95SWmIIMUY",
+  "name": "Force Resistance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain advantage on saving throws made against force powers, and you also have resistance to the damage those powers deal.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Balance",
+    "className": "Consular",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

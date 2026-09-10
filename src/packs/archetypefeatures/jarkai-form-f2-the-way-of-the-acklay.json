@@ -1,0 +1,24 @@
+{
+  "_id": "puCSvK7WF8MfPdSK",
+  "_key": "!items!puCSvK7WF8MfPdSK",
+  "name": "The Way of the Acklay",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can spend one minute in a destructive stance. While in the stance, you may add half your Strength or Dexterity modifier (your choice, minimum 1) to any melee weapon damage roll that doesn't already include that modifier. In addition, whenever you hit a creature with a melee weapon attack, you may move up to 5 feet without provoking opportunity attacks.</p><p>The stance ends early if you're incapacitated or killed. You must finish a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Jar'Kai Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

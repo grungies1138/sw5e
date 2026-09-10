@@ -1,0 +1,32 @@
+{
+  "_id": "2msuQi5M1Zb2hfWk",
+  "_key": "!items!2msuQi5M1Zb2hfWk",
+  "name": "Threatening",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your presence alone unsettles others. Increase your Charisma score by 1, to a maximum of 20.</p><p>You gain proficiency in Intimidation, or expertise in it if already proficient. When you take the Attack action, you may forgo one attack to try to unnerve a humanoid within 30 feet that can see and hear you: make a Charisma (Intimidation) check contested by its Wisdom (Insight) check. If you succeed, it is frightened of you until the end of your next turn; if you fail, it is immune to being frightened by you this way for the next hour.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

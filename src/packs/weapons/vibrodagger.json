@@ -1,0 +1,57 @@
+{
+  "_id": "6rGWihCW1eYMjAIc",
+  "name": "Vibrodagger",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A short blade with an ultrasonic emitter humming through its edge, easily hidden in a boot or sleeve and just as easily thrown when the fight calls for it.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 50,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "vibroweapon",
+    "proficiencyTier": "simple",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "kinetic"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 20,
+      "long": 60,
+      "units": "ft"
+    },
+    "properties": [
+      "light",
+      "finesse",
+      "thrown"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

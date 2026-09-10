@@ -1,0 +1,61 @@
+<section class="tab crew {{#if tabs.crew.active}}active{{/if}}" data-tab="crew" data-group="primary">
+  <table class="crew-table">
+    <thead>
+      <tr><th>{{sw5eLabel 'SW5E.Name'}}</th><th>{{sw5eLabel 'SW5E.Deployment'}}</th><th>{{sw5eLabel 'SW5E.Rank'}}</th><th>{{sw5eLabel 'SW5E.Helm'}}</th><th></th></tr>
+    </thead>
+    <tbody>
+      {{#each crew as |c|}}
+      <tr>
+        <td>
+          {{#if c.linkedActor}}
+          <span class="linked-name" title="{{sw5eLabel 'SW5E.LinkedToCharacter'}}">
+            <i class="fas fa-link"></i> {{c.displayName}}
+            <span class="linked-prof">({{sw5eLabel 'SW5E.ProficiencyBonus'}} {{sw5eSigned c.linkedProf}})</span>
+          </span>
+          {{else}}
+          <input type="text" name="system.crew.{{c.idx}}.name" value="{{c.name}}">
+          {{/if}}
+        </td>
+        <td>
+          <select name="system.crew.{{c.idx}}.deployment">
+            {{#each ../config.deployments as |cfg key|}}
+            <option value="{{key}}" {{#if (sw5eEq key c.deployment)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>
+            {{/each}}
+          </select>
+        </td>
+        <td><input type="number" name="system.crew.{{c.idx}}.rank" value="{{c.rank}}" min="0" max="5" style="width:3em"></td>
+        <td><input type="checkbox" name="system.crew.{{c.idx}}.isHelm" {{#if c.isHelm}}checked{{/if}}></td>
+        <td>
+          {{#if c.linkedActor}}
+          <a data-action="releaseSeat" data-idx="{{c.idx}}" title="{{sw5eLabel 'SW5E.ReleaseSeat'}}"><i class="fas fa-unlink"></i></a>
+          {{else}}
+          <a data-action="claimSeat" data-idx="{{c.idx}}" title="{{sw5eLabel 'SW5E.ClaimSeat'}}"><i class="fas fa-user-plus"></i></a>
+          {{/if}}
+          <a data-action="removeCrew" data-idx="{{c.idx}}"><i class="fas fa-trash"></i></a>
+        </td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+  <button type="button" data-action="addCrew">{{sw5eLabel 'SW5E.AddCrewMember'}}</button>
+  <p class="hint">{{sw5eLabel 'SW5E.CrewCountHint'}}: {{system.attributes.crew.count}} / {{sw5eLabel 'SW5E.MinCrew'}} {{system.attributes.crew.min}}</p>
+
+  <div class="deployment-maneuvers">
+    {{#each config.deployments as |cfg key|}}
+    <fieldset>
+      <legend>{{sw5eLabel cfg.label}} — {{sw5eLabel cfg.pool}}</legend>
+      <ul class="maneuver-list">
+        {{#each (lookup ../maneuversByDeployment key) as |m|}}
+        <li>
+          <span class="name">{{m.name}}</span>
+          <span class="rank">{{sw5eLabel 'SW5E.Rank'}} {{m.system.rankRequired}}+</span>
+          <button type="button" data-action="useManeuver" data-item-id="{{m.id}}">{{sw5eLabel 'SW5E.Use'}}</button>
+          <a data-action="itemEdit" data-item-id="{{m.id}}"><i class="fas fa-edit"></i></a>
+          <a data-action="itemDelete" data-item-id="{{m.id}}"><i class="fas fa-trash"></i></a>
+        </li>
+        {{/each}}
+      </ul>
+    </fieldset>
+    {{/each}}
+  </div>
+</section>

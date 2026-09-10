@@ -1,0 +1,50 @@
+{
+  "_id": "9U0br2rxTwbTV4Bw",
+  "_key": "!items!9U0br2rxTwbTV4Bw",
+  "name": "Dark Side Tendrils",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Coils of dark energy burst from you, lashing every creature within 10 feet. Each must succeed on a Strength saving throw or take 2d6 necrotic damage and lose the ability to take reactions until its next turn; a successful save halves the damage and negates the other effect.</p><p>Cast with a slot of 2nd level or higher, the damage increases by 1d6 for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 1",
+    "school": "darkside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "osr7s9sBSS0Q7VGn",
+  "_key": "!items!osr7s9sBSS0Q7VGn",
+  "name": "System Override",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Anti-tech subroutines coded into your wristpad let you cast diminish tech and tech override at 3rd level without spending tech points; when the target is also your Critical Analysis target, you roll the techcasting ability check for these powers with advantage. You can do this three times, regaining all spent uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Slicer Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

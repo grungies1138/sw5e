@@ -1,0 +1,24 @@
+{
+  "_id": "uulHPUoq4Wpf3jCx",
+  "_key": "!items!uulHPUoq4Wpf3jCx",
+  "name": "Surveyed Area",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your Critical Analysis can now be aimed at a 15-foot cube within 60 feet of you that you can see, rather than only at a single creature. Every creature inside that cube is treated as though it were individually the target of your Critical Analysis, and one creature ending the effect on itself doesn't end it for the others still inside the area.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Explorer Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

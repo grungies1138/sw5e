@@ -1,0 +1,22 @@
+{
+  "_id": "aOwOH7SanV13rVfM",
+  "name": "Venture",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you gain a rank in the Gunner deployment (starting with this one), you may select a Venture for which you qualify, layering a small trained trick atop your gunnery skills.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

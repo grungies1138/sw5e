@@ -1,0 +1,45 @@
+{
+  "_id": "6JLxA0iyk3B2rpaw",
+  "_key": "!items!6JLxA0iyk3B2rpaw",
+  "name": "Plant Surge",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Cast with 1 action, this power causes ordinary vegetation in a 100-foot radius around a point you choose to grow wild and tangled; crossing the area costs 4 feet of movement for every foot traveled. You may carve out any number of smaller areas within the effect to leave unaffected.</p><p>Cast instead over 8 hours, the power causes every plant within a half-mile radius of a chosen point to yield double its normal harvest for the next year.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 3",
+    "school": "lightside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

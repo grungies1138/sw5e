@@ -1,0 +1,24 @@
+{
+  "_id": "AYVyR7FnTUf9ewxW",
+  "_key": "!items!AYVyR7FnTUf9ewxW",
+  "name": "Master of Unity",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You and your companion stand as a model of harmony in battle. Your Strength or Dexterity score (your choice) and your Constitution score each rise by 2, as do their maximums. Provided your companion is within 60 feet of you, you may also spend your action to gain the following, both of you, for 1 minute:</p><ul><li>You both resist kinetic and energy damage.</li><li>Neither of you can suffer disadvantage on attack rolls.</li><li>Both of your critical hit ranges widen by 1.</li></ul><p>This benefit ends early if either of you is incapacitated or killed, or if your companion is ever more than 60 feet from you. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Vonil/Ishu Form (Companion)",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

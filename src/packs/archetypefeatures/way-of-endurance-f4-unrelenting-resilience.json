@@ -1,0 +1,24 @@
+{
+  "_id": "KExdMFjaUVRPCy5n",
+  "_key": "!items!KExdMFjaUVRPCy5n",
+  "name": "Unrelenting Resilience",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If you use Boundless Vitality while concentrating on a force power, you can apply that roll's result as a bonus to the Constitution saving throw you make to keep your concentration.</p><p>In addition, if Upheld by the Force is active when you're reduced to 0 hit points without being killed outright, you can drop to 1 hit point instead. Once used, this second benefit requires a long rest before it can trigger again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Endurance",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

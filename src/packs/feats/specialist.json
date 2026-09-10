@@ -1,0 +1,37 @@
+{
+  "_id": "LVESuS6UY8i748ur",
+  "_key": "!items!LVESuS6UY8i748ur",
+  "name": "Specialist",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've honed your skill with a particular tool. Choose one specialist's kit. Increase an ability score of your choice by 1, to a maximum of 20.</p><p>You gain proficiency with the chosen kit, or expertise with it if you're already proficient. You can attempt ability checks with that kit even without it in hand, though you have disadvantage when doing so. Whenever you make a check with the kit that isn't at disadvantage and you spend at least a minute on it, you can treat a roll of 9 or lower on the d20 as a 10.</p><p>You can take this feat more than once, choosing a different kit each time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

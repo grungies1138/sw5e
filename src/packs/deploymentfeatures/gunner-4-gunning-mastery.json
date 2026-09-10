@@ -1,0 +1,22 @@
+{
+  "_id": "BJbfHe0BJC02X44T",
+  "name": "Gunning Mastery",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your Gunning Style deepens into a full Mastery — Cannon Mastery, Heavy Gun Mastery, or Payload Mastery — granting a further, more powerful benefit tied to the same weapon category chosen at 2nd rank.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

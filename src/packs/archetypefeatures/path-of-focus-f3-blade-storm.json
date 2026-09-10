@@ -1,0 +1,24 @@
+{
+  "_id": "DED0UYb3El2G4IiB",
+  "_key": "!items!DED0UYb3El2G4IiB",
+  "name": "Blade Storm",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your flurry of strikes grows harder to withstand. Once per turn, the second time you damage a particular creature, you may make one extra attack against it immediately and without spending an action. That bonus attack deals damage using your Kinetic Combat die in place of the weapon's normal damage die.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of Focus",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

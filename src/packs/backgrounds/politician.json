@@ -1,0 +1,45 @@
+{
+  "_id": "2WaO7t1Dd6jVtFSf",
+  "_key": "!items!2WaO7t1Dd6jVtFSf",
+  "name": "Politician",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You held elected or appointed office, whether as a junior representative or a seated senator, and spent your career navigating a body's committees, factions, and constant maneuvering. You represented more than yourself &mdash; a whole world's interests rode on the decisions you made.</p><p>Whether you tried to hold to your ideals or slid into the corruption that swallows so many careers like yours, you still know exactly which door to knock on to get a bureaucracy moving.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "itm",
+        "prf",
+        "per"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Threatening",
+        "Performer",
+        "Charmer",
+        "Linguist",
+        "Actor",
+        "Observant",
+        "Inspiring Leader"
+      ]
+    },
+    "equipment": "A set of fine clothes, a signet ring, a political manifesto you helped write, and a purse containing 250 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

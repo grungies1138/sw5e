@@ -1,0 +1,45 @@
+{
+  "_id": "Jqt7Fe7fXyFMB2nQ",
+  "_key": "!items!Jqt7Fe7fXyFMB2nQ",
+  "name": "Improved Force Barrier",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You further fortify up to twelve creatures within range against harm and hardship. Each becomes immune to poison and disease (though existing afflictions persist) and immune to being frightened by powers, and its hit point maximum and current hit points both increase by 2d10.</p><p>These benefits last 24 hours or until you finish your next long rest, whichever comes first.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 5",
+    "school": "lightside",
+    "level": 5,
+    "activation": {
+      "type": "special",
+      "cost": 10
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

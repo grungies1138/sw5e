@@ -1,0 +1,24 @@
+{
+  "_id": "qYk5Mif24UuhnVUN",
+  "_key": "!items!qYk5Mif24UuhnVUN",
+  "name": "Unarmored Defense",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>So long as you wear no armor and carry no shield, your Armor Class equals 10 plus your Dexterity modifier plus your Strength modifier.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Blademaster Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

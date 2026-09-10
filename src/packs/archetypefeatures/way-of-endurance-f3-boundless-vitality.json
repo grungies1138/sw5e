@@ -1,0 +1,24 @@
+{
+  "_id": "n0sc4VBXxjyml4O6",
+  "_key": "!items!n0sc4VBXxjyml4O6",
+  "name": "Boundless Vitality",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take damage that would not bring you to 0 hit points, you can use your reaction and spend a force point to regain 1d8 plus your Wisdom or Charisma modifier (your choice, minimum of 1) hit points. This die increases to 1d10 at 13th level and 1d12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Endurance",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

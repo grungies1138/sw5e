@@ -1,0 +1,45 @@
+{
+  "_id": "xakefwa9qdQJDVxD",
+  "_key": "!items!xakefwa9qdQJDVxD",
+  "name": "Neurotoxin",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You fire a spread of neurotoxin-laced darts. Choose any number of creatures you can see within range; each must succeed on a Constitution saving throw or suffer an effect keyed to its current hit points: 60 hit points or fewer, poisoned for 1 minute; 50 hit points or fewer, poisoned and deafened for 1 minute; 40 hit points or fewer, poisoned, deafened, and blinded for 10 minutes; 30 hit points or fewer, poisoned, blinded, deafened, and stunned for 1 hour; 20 hit points or fewer, slain instantly.</p><p>This power has no effect on droids or constructs.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 7",
+    "school": "tech",
+    "level": 7,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

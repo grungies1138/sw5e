@@ -1,0 +1,24 @@
+{
+  "_id": "ArZ0q2tMNUjllXkt",
+  "_key": "!items!ArZ0q2tMNUjllXkt",
+  "name": "Trick Shooter",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you deal Sneak Attack damage, you can give up two of those dice to pull off a trick shot instead. The save DC for these is 8 plus your proficiency bonus plus your Dexterity modifier.</p><p><strong>Blinding Shot.</strong> The target attempts a Constitution save or is blinded until the end of your next turn.</p><p><strong>Brutal Shot.</strong> The target attempts a Strength save or is knocked prone.</p><p><strong>Hampering Shot.</strong> The target attempts a Dexterity save. On a failure, it gains one level of slowed and has disadvantage on Dexterity saves until the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Gunslinger Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

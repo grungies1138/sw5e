@@ -1,0 +1,45 @@
+{
+  "_id": "OShSWpmsgiSMxHxd",
+  "_key": "!items!OShSWpmsgiSMxHxd",
+  "name": "Master Force Barrier",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You fortify chosen allies within 30 feet of you at the moment of casting with resilience and grit. Each such creature sheds dim light in a 5-foot radius, gains advantage on all saving throws, and imposes disadvantage on attack rolls made against it. Whenever a dark side creature strikes one of these allies with a melee attack, that attacker must succeed on a Constitution saving throw or be blinded until the power ends.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 8",
+    "school": "lightside",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

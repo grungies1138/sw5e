@@ -1,0 +1,24 @@
+{
+  "_id": "Rwn156JHnlFzodRZ",
+  "_key": "!items!Rwn156JHnlFzodRZ",
+  "name": "Life Eternal",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you're reduced to 0 hit points without being killed outright, you can spend 5 force points to instead remain standing at 1 hit point.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Confluence",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

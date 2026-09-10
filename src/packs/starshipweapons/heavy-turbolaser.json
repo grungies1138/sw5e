@@ -1,0 +1,47 @@
+{
+  "_id": "8BOazDTCopMAZ8z6",
+  "name": "Heavy Turbolaser",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A capital-scale turbolaser battery available to Large hulls as a Tier 3 role feature, scaling well beyond the output of a standard turbolaser turret. Like other capital-only weapons it is typically built directly into the hull rather than requiring a hardpoint.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 30000,
+      "denomination": "credits"
+    },
+    "category": "primary",
+    "hardpoint": "turret",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d12",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 2500,
+      "long": 7000,
+      "units": "ft"
+    },
+    "properties": [],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

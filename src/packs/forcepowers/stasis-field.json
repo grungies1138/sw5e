@@ -1,0 +1,45 @@
+{
+  "_id": "XVMClMK0p4QkaovP",
+  "_key": "!items!XVMClMK0p4QkaovP",
+  "name": "Stasis Field",
+  "type": "power",
+  "img": "icons/svg/statue.svg",
+  "system": {
+    "description": {
+      "value": "<p>You bind a creature in a field of frozen Force energy. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

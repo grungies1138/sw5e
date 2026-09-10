@@ -1,0 +1,50 @@
+{
+  "_id": "h5fUGM8LAiFRZegn",
+  "_key": "!items!h5fUGM8LAiFRZegn",
+  "name": "Disintegrate",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You unleash a beam of corrosive energy at a target within range, which must succeed on a Dexterity saving throw or take 10d6 + 40 acid damage. A target reduced to 0 hit points by this damage is disintegrated, leaving behind only a pile of fine dust along with anything unenhanced it wore or carried; a creature destroyed this way cannot be restored to life.</p><p>This power automatically disintegrates an unenhanced object of Large size or smaller, or a 10-foot-cube section of a larger object.</p><p>Cast with a tech slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "10d6 + 40",
+          "type": "acid"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

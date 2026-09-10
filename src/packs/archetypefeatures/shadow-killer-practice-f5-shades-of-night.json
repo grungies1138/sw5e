@@ -1,0 +1,24 @@
+{
+  "_id": "WqnBcJMQS9wx84KY",
+  "_key": "!items!WqnBcJMQS9wx84KY",
+  "name": "Shades of Night",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your Evasion feature now covers Constitution saves in addition to Dexterity saves. Additionally, whenever you brew poison with your Venomous feature, you can set its damage type to acid, cold, fire, lightning, or necrotic; when you do, any Sneak Attack damage dealt with a weapon coated in that poison can be converted to the same type.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Shadow Killer Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

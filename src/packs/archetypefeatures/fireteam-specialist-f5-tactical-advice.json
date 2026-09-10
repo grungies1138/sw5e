@@ -1,0 +1,24 @@
+{
+  "_id": "tWVjCeE2R0w4U8ar",
+  "_key": "!items!tWVjCeE2R0w4U8ar",
+  "name": "Tactical Advice",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending one minute, you can impart your knowledge to up to five allies. For the following hour, each of them gains all of your weapon and armor proficiencies, plus a single use of your Indomitable feature.</p><p>You may include one more ally at 17th level. Once used, this feature requires a long rest before you can use it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Fireteam Specialist",
+    "className": "Fighter",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

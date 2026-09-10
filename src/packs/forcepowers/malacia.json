@@ -1,0 +1,45 @@
+{
+  "_id": "yI3fTDiAq21ZCyqU",
+  "_key": "!items!yI3fTDiAq21ZCyqU",
+  "name": "Malacia",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You unsettle the inner balance of a creature you can see within range, flooding it with vertigo and nausea through the Force. It must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand for the duration.</p><p>At the end of each of its turns, and whenever it takes damage, the target may attempt another Wisdom save (with advantage if triggered by damage) to end the effect early. This power does not affect droids or constructs.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

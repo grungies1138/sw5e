@@ -1,0 +1,24 @@
+{
+  "_id": "zTdXDklpHecPaldi",
+  "_key": "!items!zTdXDklpHecPaldi",
+  "name": "Pure Performance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Attack rolls you make while wielding a weapon with the heavy or strength property can no longer be affected by disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Heavy Weapons Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "9VpYi1aXSjIYlMqx",
+  "_key": "!items!9VpYi1aXSjIYlMqx",
+  "name": "Retaliation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a creature within 5 feet damages you, you may use your reaction to strike back with a melee weapon attack against it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Frenzied Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

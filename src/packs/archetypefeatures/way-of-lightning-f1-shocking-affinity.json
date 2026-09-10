@@ -1,0 +1,24 @@
+{
+  "_id": "4T7hOjnUSe7YdFVg",
+  "_key": "!items!4T7hOjnUSe7YdFVg",
+  "name": "Shocking Affinity",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You may cast any force power that deals lightning damage using either Wisdom or Charisma as its forcecasting ability.</p><p>You can also reshape a damage-dealing force power that calls for a force attack or a saving throw so that it deals lightning damage instead. Doing so converts any saving throw the power calls for into a Dexterity saving throw. If the attack hits, or the target fails that save, each affected creature becomes shocked until the start of your next turn.</p><p>You can use this ability twice, gaining one additional use at 5th, 9th, 13th, and 17th level. All uses are restored after a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Lightning",
+    "className": "Consular",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

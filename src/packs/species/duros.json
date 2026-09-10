@@ -1,0 +1,57 @@
+{
+  "_id": "8nQhX6QBDQRqtSUf",
+  "name": "Duros",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Duros are a blue-green-skinned, large-eyed humanoid species from Duro, one of the earliest and most prolific spacefaring cultures in galactic history. Duros pioneered many advances in starship design and exploration millennia before hyperspace travel spread to other species, and a natural affinity for piloting and navigation remains deeply ingrained in their culture.</p><p>Long-lived and adventurous, Duros are common sights among freighter crews, exploration guilds, and shipyards across the galaxy.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "int",
+        "value": 2
+      },
+      {
+        "ability": "dex",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Durese"
+    ],
+    "traits": [
+      {
+        "name": "Natural Pilot",
+        "description": "Generations of spacefaring heritage run in your blood. You are proficient with vehicles (space) and have advantage on Intelligence (Piloting) checks made while at the helm of a starship."
+      },
+      {
+        "name": "Spacer's Intuition",
+        "description": "You have advantage on Intelligence (Astrogation) checks, and you can determine which way is toward the nearest inhabited system while in realspace."
+      },
+      {
+        "name": "Keen Eyes",
+        "description": "Your large, sensitive eyes see well even in dim conditions, granting you darkvision."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

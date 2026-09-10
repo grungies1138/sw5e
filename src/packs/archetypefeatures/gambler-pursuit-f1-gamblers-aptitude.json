@@ -1,0 +1,24 @@
+{
+  "_id": "2tCjALtfsKcRpilw",
+  "_key": "!items!2tCjALtfsKcRpilw",
+  "name": "Gambler's Aptitude",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You become proficient with one gaming set of your choice, along with one skill you select from Insight, Deception, Persuasion, or Sleight of Hand. Checks made using either proficiency are never rolled at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gambler Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

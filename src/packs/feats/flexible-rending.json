@@ -1,0 +1,33 @@
+{
+  "_id": "41oQO5WKWuL9W1yk",
+  "_key": "!items!41oQO5WKWuL9W1yk",
+  "name": "Flexible Rending",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to slip past an opponent's guard with either quick reflexes or a sharp mind. Increase your Dexterity or Intelligence score by 1, to a maximum of 20.</p><p>A number of times equal to your proficiency bonus, when you make an attack roll using Dexterity you may add half your Intelligence modifier to it; alternatively, when making an attack roll using Intelligence, you may add half your Dexterity modifier instead. This pool of uses refreshes after a long rest.</p><p>Separately, a number of times equal to your proficiency bonus, you may treat an effect you control that calls for a Dexterity saving throw as calling for an Intelligence saving throw instead, or one that calls for an Intelligence saving throw as calling for a Dexterity saving throw instead. This pool of uses also refreshes after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "dex",
+        "int"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

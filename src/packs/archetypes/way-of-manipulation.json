@@ -1,0 +1,22 @@
+{
+  "_id": "ytGs0vd0iN1wpvgJ",
+  "_key": "!items!ytGs0vd0iN1wpvgJ",
+  "name": "Way of Manipulation",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Steel need not stay in hand to strike true. Consulars of the Way of Manipulation learn to set their weapons loose upon the Force's current, guiding blade and blaster alike through the air to strike from angles no swordarm could reach.</p><p>As their mastery grows, a lone floating weapon becomes a small orbiting arsenal, capable of delivering their powers, shielding them from harm, and even stealing the very concentration of their foes. In their hands, a weapon drawn is never truly still.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

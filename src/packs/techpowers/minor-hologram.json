@@ -1,0 +1,45 @@
+{
+  "_id": "XQAqmtR2BvJvBizr",
+  "_key": "!items!XQAqmtR2BvJvBizr",
+  "name": "Minor Hologram",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You produce a small technological trick, creating one of the following effects within range:</p><p>An instantaneous, harmless sensory flourish &mdash; a shower of sparks, a puff of air, a snatch of music, or a strange smell. Instantly igniting or extinguishing a light source. Instantly cleaning or dirtying an object no larger than 1 cubic foot. Chilling, warming, or flavoring up to 1 cubic foot of nonliving matter for 1 hour. Marking an object or surface with a color, symbol, or small design that lasts 1 hour. Fashioning a hand-sized trinket or illusory image that lasts until the end of your next turn.</p><p>Casting this power repeatedly, you can maintain up to three of its non-instantaneous effects at once, dismissing any of them as an action.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 10,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

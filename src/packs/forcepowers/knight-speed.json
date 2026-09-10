@@ -1,0 +1,45 @@
+{
+  "_id": "zbiN9HSJdIQmSTdh",
+  "_key": "!items!zbiN9HSJdIQmSTdh",
+  "name": "Knight Speed",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You quicken a willing creature you can see within range with the Force. Until the power ends, the target's speed doubles, its AC increases by 2, it gains advantage on Dexterity saving throws, and it gains an extra action each turn usable only to Attack (a single weapon attack), Dash, Disengage, Hide, or Use an Object.</p><p>When the power ends, a wave of fatigue leaves the target unable to move or act until after its next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

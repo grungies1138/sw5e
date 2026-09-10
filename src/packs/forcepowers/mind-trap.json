@@ -1,0 +1,45 @@
+{
+  "_id": "vNVfnejbaZvSixjH",
+  "_key": "!items!vNVfnejbaZvSixjH",
+  "name": "Mind Trap",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You attempt to seal your target's mind within a psychic cage. It must succeed on a Charisma saving throw or become incapacitated for the duration, aware but wholly cut off from perceiving or interacting with the outside world. Each time it takes damage, it may attempt another Charisma saving throw, ending the power on a success. Droids and constructs are unaffected.</p><p>Cast with a slot of 6th level or higher, after 1 minute of sustained concentration the power's duration extends to 24 hours and no longer requires concentration.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "cha",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

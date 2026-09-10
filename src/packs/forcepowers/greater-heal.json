@@ -1,0 +1,45 @@
+{
+  "_id": "fQ8vRU6bAuoF2Ly2",
+  "_key": "!items!fQ8vRU6bAuoF2Ly2",
+  "name": "Greater Heal",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lay eyes on a creature within range and channel a surge of restorative energy into it, returning 70 hit points and curing blindness, deafness, and any diseases afflicting it. Droids and constructs gain no benefit.</p><p>Cast with a 7th-level slot or higher, the hit points restored increase by 10 for each slot level above 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 6",
+    "school": "lightside",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

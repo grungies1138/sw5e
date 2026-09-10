@@ -1,0 +1,24 @@
+{
+  "_id": "TCn0UBndp0QugO7w",
+  "_key": "!items!TCn0UBndp0QugO7w",
+  "name": "Upper Hand",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you deal Sneak Attack damage, you can give up two of those dice to pull off an upper hand technique instead. The save DC for these is 8 plus your proficiency bonus plus your Charisma modifier.</p><p><strong>Brutal Hit.</strong> Against a target within 15 feet, it attempts a Strength save or is knocked prone.</p><p><strong>Low Blow.</strong> Against a target within 15 feet, it attempts a Constitution save or is stunned until the start of its next turn.</p><p><strong>Shank Shot.</strong> Against a target within 15 feet, it attempts a Dexterity save. On a failure, it gains one level of slowed and makes Dexterity saves with disadvantage until the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Scrapper Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

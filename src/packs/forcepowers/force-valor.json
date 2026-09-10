@@ -1,0 +1,45 @@
+{
+  "_id": "AEQRdTQeqLpXnCZV",
+  "_key": "!items!AEQRdTQeqLpXnCZV",
+  "name": "Force Valor",
+  "type": "power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel the Force's confidence into your allies. Choose up to six creatures within 30 feet of you. For the duration, whenever a target makes an attack roll or a saving throw, it can roll a d4 and add the number rolled.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minutes"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

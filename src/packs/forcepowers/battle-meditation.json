@@ -1,0 +1,45 @@
+{
+  "_id": "L3lzSOP6iBTHHMNX",
+  "_key": "!items!L3lzSOP6iBTHHMNX",
+  "name": "Battle Meditation",
+  "type": "power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You extend your focus over the battlefield, guiding your allies' instincts with the Force. While you concentrate, you and up to five allies within 30 feet of you gain a +1 bonus to attack rolls and saving throws. The bonus moves with each ally as they enter and leave the radius.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

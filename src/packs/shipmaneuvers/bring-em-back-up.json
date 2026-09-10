@@ -1,0 +1,25 @@
+{
+  "_id": "6Sayii38qkCLx5zi",
+  "name": "Bring 'Em Back Up!",
+  "type": "shipmaneuver",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, expend a Power Die from the Shields pool and roll it. If your ship's shields are depleted, they come back online, and your ship immediately regenerates Shield Points equal to its shield regeneration rate plus the result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Technician Stratagems",
+    "deployment": "technician",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

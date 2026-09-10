@@ -1,0 +1,25 @@
+{
+  "_id": "QFlCKvk3XwMHxhME",
+  "name": "Rally",
+  "type": "maneuver",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>On your turn, you can expend one superiority die and use a bonus action to bolster the resolve of one ally within 60 feet of you who can hear you. That ally gains temporary hit points equal to the superiority die roll plus your Charisma modifier.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

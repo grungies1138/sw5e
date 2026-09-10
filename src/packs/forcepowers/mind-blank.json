@@ -1,0 +1,45 @@
+{
+  "_id": "DFo3fp6yb18zFH1T",
+  "_key": "!items!DFo3fp6yb18zFH1T",
+  "name": "Mind Blank",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Until the power ends, a willing creature you touch becomes immune to psychic and sonic damage, immune to being charmed, and immune to any effect that would read its thoughts or sense its emotions. Any power or ability that attempts to affect the target's mind or gather information about it is thwarted.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 8",
+    "school": "universal",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

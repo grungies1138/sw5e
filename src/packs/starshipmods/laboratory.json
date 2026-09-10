@@ -1,0 +1,30 @@
+{
+  "_id": "L5r77r3n6Dw4NkYT",
+  "name": "Laboratory",
+  "type": "starshipmod",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>A sealed research suite with analysis benches and containment fields, suitable for studying hazardous samples or brewing improvised chemicals on the move.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 6000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 2,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

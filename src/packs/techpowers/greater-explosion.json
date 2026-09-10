@@ -1,0 +1,50 @@
+{
+  "_id": "JEKjFU09Zr7GJ4Vs",
+  "_key": "!items!JEKjFU09Zr7GJ4Vs",
+  "name": "Greater Explosion",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You detonate a massive blast centered on a point within range. Every creature within a 40-foot-radius sphere must succeed on a Dexterity saving throw or take 40d6 fire damage and be knocked prone; a successful save halves the damage and keeps the creature standing.</p><p>The fire curls around corners and ignites unattended flammable objects in the area.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 9",
+    "school": "tech",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "40d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

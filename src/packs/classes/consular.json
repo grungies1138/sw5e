@@ -1,0 +1,43 @@
+{
+  "_id": "va4UDvqpih65VyMm",
+  "name": "Consular",
+  "type": "class",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Consular is a full Force caster who has devoted their life to study and contemplation of the Force, wielding it as a scholar-priest wields both scripture and scalpel. Blending the roles of healer, diplomat, and battlefield controller, the Consular draws on the full depth of the Force power list — light or dark, or a measured balance of both — to protect allies, manipulate the minds of the weak-willed, and reshape the flow of battle before a single blow is struck.</p><p>Where the Guardian and Sentinel bring the Force to bear through a blade, the Consular brings it to bear through will alone, layering Force-Empowered Casting techniques atop an already formidable array of powers as they advance. A Consular is rarely the strongest melee combatant in a party, but is often the reason the rest of the party survives at all.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d6",
+    "casterProgression": "full",
+    "castingAbility": "wis",
+    "primaryAbility": [
+      "wis",
+      "cha"
+    ],
+    "savingThrows": [
+      "wis",
+      "cha"
+    ],
+    "skillChoices": {
+      "number": 2,
+      "options": [
+        "ins",
+        "lor",
+        "med",
+        "per",
+        "prc"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

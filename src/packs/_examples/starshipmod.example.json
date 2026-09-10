@@ -1,0 +1,21 @@
+{
+  "name": "Astromech Socket",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": { "value": "<p>Adds a socket for an astromech droid, who can assist with a variety of ship functions.</p>", "chat": "" },
+    "source": "SotG Ch.4 Modifications",
+    "price": { "value": 1000, "denomination": "credits" },
+    "category": "engineering",
+    "grade": 0,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": { "default": 0 },
+  "flags": {}
+}

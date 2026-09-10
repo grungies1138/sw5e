@@ -1,0 +1,24 @@
+{
+  "_id": "epYSQlcjxgYr7DiL",
+  "_key": "!items!epYSQlcjxgYr7DiL",
+  "name": "Close Call",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When an attack roll you make with your modified weapon misses, you can spend one use of your Potent Aptitude, rolling its die and adding the result to the attack roll to see if it now hits.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armstech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

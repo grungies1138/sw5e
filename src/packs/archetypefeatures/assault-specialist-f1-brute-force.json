@@ -1,0 +1,24 @@
+{
+  "_id": "WoS4K5ECEuqNpL0v",
+  "_key": "!items!WoS4K5ECEuqNpL0v",
+  "name": "Brute Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your weapon strikes land with added force: add +2 to the damage roll whenever you make a weapon attack. That bonus rises to +3 once you reach 10th level, and to +4 at 16th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Assault Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

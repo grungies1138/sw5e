@@ -1,0 +1,50 @@
+{
+  "_id": "NOo9ufn0NaXXiiVr",
+  "_key": "!items!NOo9ufn0NaXXiiVr",
+  "name": "Project",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You wrench three piles of loose debris or small objects off the ground and launch them at your foes. Choose a creature you can see within range for each pile; every pile automatically deals 1d4+1 force damage to its target, striking simultaneously, and you may split the piles among one or several creatures.</p><p><em>Force Potency.</em> Cast with a force slot of 2nd level or higher, you hurl one additional pile of debris for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4+1",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

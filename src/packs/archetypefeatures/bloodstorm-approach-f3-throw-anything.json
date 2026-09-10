@@ -1,0 +1,24 @@
+{
+  "_id": "aNoISG4xQteyx5gP",
+  "_key": "!items!aNoISG4xQteyx5gP",
+  "name": "Throw Anything",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Any light or vibro-weapon you're proficient with and currently wielding gains the thrown property with a range of 20/60, letting you hurl it as readily as a smaller blade.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Bloodstorm Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

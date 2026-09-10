@@ -1,0 +1,24 @@
+{
+  "_id": "TZhegw17UZTeR5Nn",
+  "_key": "!items!TZhegw17UZTeR5Nn",
+  "name": "Force-Empowered Allies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While concentrating on a power benefiting a friendly creature other than you, you unlock new versions of your Force-Empowered Self features, usable only on a creature currently benefiting from a power you're casting; each costs 1 force point.</p><p><strong>Deflection.</strong> When an ally is struck by an attack roll, you may use your reaction, roll your Kinetic Combat die, and add the result to that ally's AC — possibly turning the hit into a miss.</p><p><strong>Double Strike.</strong> When an ally's attack roll connects, you may use your reaction and roll your Kinetic Combat die to add that much extra damage of the same type as the triggering attack.</p><p><strong>Slow Time.</strong> When an ally moves on their turn, you may use your reaction, roll your Kinetic Combat die, and increase their speed until the end of the turn by 5 feet for each point rolled.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Meditation",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

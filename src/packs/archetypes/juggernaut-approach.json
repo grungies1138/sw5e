@@ -1,0 +1,22 @@
+{
+  "_id": "2NmCYMmsxBeIR9Nq",
+  "_key": "!items!2NmCYMmsxBeIR9Nq",
+  "name": "Juggernaut Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every berserker believes offense alone wins battles. The Juggernaut Approach holds that the best defense is an unmovable one: its followers strap on the heaviest armor they can find, not out of caution, but because a wall of durasteel bearing down on you is its own kind of terror.</p><p>These berserkers turn bulk into momentum, using their armored mass to shove, shield, and flatten anyone foolish enough to stand between them and their target.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

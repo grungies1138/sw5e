@@ -1,0 +1,22 @@
+{
+  "_id": "oJAXpOZ7qRZRpEbG",
+  "_key": "!items!oJAXpOZ7qRZRpEbG",
+  "name": "Predator Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some scouts hunt alone; followers of the Predator Technique understand that a pack brings down prey no lone wolf ever could. They specialize in drawing an enemy's attention just long enough for their allies to deliver the killing blow.</p><p>Built around teamwork rather than solitary glory, a Predator directs a strike the instant an opening appears, shares resilience with the rest of the pack, and makes sure a wounded target has nowhere left to hide. Their gift isn't personal power, it's turning every ally nearby into a more dangerous hunter.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

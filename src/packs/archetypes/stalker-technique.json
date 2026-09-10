@@ -1,0 +1,22 @@
+{
+  "_id": "4cB4BR4E1yjl1mxx",
+  "_key": "!items!4cB4BR4E1yjl1mxx",
+  "name": "Stalker Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>For some scouts, the hunt itself becomes an obsession, a quiet, patient art practiced in shadow, where the first sign an enemy has of them is the strike that ends the fight. Followers of the Stalker Technique perfect a toolkit of camouflage, infiltration, and surveillance, turning invisibility into their sharpest weapon.</p><p>They move unseen and unheard, closing on a chosen target long before it knows danger is near, then unleashing violence with an efficiency that borders on ritual. As their mastery deepens, even creatures built to see in darkness lose track of them entirely, and their strikes come faster and more relentlessly than any foe can anticipate.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

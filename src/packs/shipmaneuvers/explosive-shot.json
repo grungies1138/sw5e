@@ -1,0 +1,25 @@
+{
+  "_id": "08iowdDoSDuNtU1x",
+  "name": "Explosive Shot",
+  "type": "shipmaneuver",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, immediately after your ship destroys or disables a target with a weapon attack, expend a Power Die from the Weapons pool and roll it; you may immediately make one additional weapon attack, adding the result to its damage if it hits.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Gunner Gambits",
+    "deployment": "gunner",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

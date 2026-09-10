@@ -1,0 +1,24 @@
+{
+  "_id": "ZuXdpJ2EIH29yQJi",
+  "_key": "!items!ZuXdpJ2EIH29yQJi",
+  "name": "Redirected Shot",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Missing with an enhanced shot doesn't end the matter: you may spend a bonus action to reroll that attack roll against a different target within 60 feet of the one you originally targeted.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Enhancement Specialist",
+    "className": "Fighter",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

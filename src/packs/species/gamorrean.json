@@ -1,0 +1,57 @@
+{
+  "_id": "e7h4MpwXXL7OobVZ",
+  "name": "Gamorrean",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Gamorreans are a porcine, tusked humanoid species from the swamp world of Gamorr, organized into a clan-based warrior society that prizes physical strength and martial prowess above all else. Gamorrean males train from childhood in melee combat, favoring axes and vibro-blades, while Gamorrean society is in fact matriarchal, with females governing agriculture, trade, and clan politics.</p><p>Off-world, Gamorreans are frequently employed as guards, enforcers, and mercenaries, their imposing bulk and short tempers making them formidable in a brawl.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "str",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Gamorrese"
+    ],
+    "traits": [
+      {
+        "name": "Powerful Build",
+        "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+      },
+      {
+        "name": "Savage Fury",
+        "description": "Once per short or long rest, when you hit a creature with a melee weapon attack, you can deal an extra 1d6 damage of the weapon's type."
+      },
+      {
+        "name": "Thick Hide",
+        "description": "Your tough hide grants you resistance to bludgeoning damage from nonmagical, non-adamantine weapons."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

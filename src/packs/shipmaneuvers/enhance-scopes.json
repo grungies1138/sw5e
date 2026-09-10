@@ -1,0 +1,25 @@
+{
+  "_id": "kytf4Q6QkZaVZ5Y7",
+  "name": "Enhance Scopes",
+  "type": "shipmaneuver",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, expend a Power Die from the Sensors pool and roll it. Your ship gains a bonus equal to the result on its next Wisdom (Scan) or Intelligence (Probe) check made before the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Operator Disruptions",
+    "deployment": "operator",
+    "rankRequired": 1,
+    "activation": "action",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

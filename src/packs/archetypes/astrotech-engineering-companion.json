@@ -1,0 +1,22 @@
+{
+  "_id": "kFsemPR15EUoKxzU",
+  "_key": "!items!kFsemPR15EUoKxzU",
+  "name": "Astrotech Engineering (Companion)",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some astrotech engineers pour their genius into a single, unforgettable creation: a droid built from spare parts, stubborn code, and genuine affection. Where other engineers chase bigger toys, these ones raise a partner, teaching it to fight, scout, and improvise right alongside them.</p><p>The bond runs both ways. Their droid grows sharper and hardier the longer they work together, until commanding it feels less like giving orders and more like finishing each other's plans in the middle of a firefight.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

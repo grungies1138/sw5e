@@ -1,0 +1,45 @@
+{
+  "_id": "xGBEsFC1HEoL99bV",
+  "_key": "!items!xGBEsFC1HEoL99bV",
+  "name": "Temporary Boost",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature. Before the power ends, the target may roll a d4 once and add the result to one ability check of its choice, after which the power ends.</p><p>The bonus die improves at higher levels: a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

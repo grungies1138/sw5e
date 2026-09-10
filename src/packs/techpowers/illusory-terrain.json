@@ -1,0 +1,45 @@
+{
+  "_id": "YkcWGYNwaEbonk9j",
+  "_key": "!items!YkcWGYNwaEbonk9j",
+  "name": "Illusory Terrain",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Within a 150-foot cube in range, you make one kind of terrain look, sound, and smell like another. The illusion doesn't change how the terrain feels underfoot, so creatures that move through it are likely to notice something is wrong; where the discrepancy isn't obvious by touch, a creature examining the area may attempt an Intelligence (Investigation) check against your tech save DC to see past the deception. A creature who succeeds perceives the illusion as a faint image layered over the real terrain.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "special",
+      "cost": 10
+    },
+    "range": {
+      "value": 300,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

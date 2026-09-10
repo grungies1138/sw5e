@@ -1,0 +1,24 @@
+{
+  "_id": "pJovNDlgaMifFxlS",
+  "_key": "!items!pJovNDlgaMifFxlS",
+  "name": "Tracker Droid Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You put your accumulated expertise into building and customizing your own tracker droid companion, created per the Companions rules in the Customization Options document for Expanded Content; you must have astrotech's implements to build it.</p><p>While bonded to you, your droid gains two extra traits beyond its normal ones (one more at 11th level in this class), though your maximum tech points drops by 1 for each droid trait it carries beyond your proficiency bonus. Over a long rest, you can install, swap, or remove a number of its traits equal to half your Intelligence modifier (minimum one).</p><p>Additionally, when you cast a tech power of 1st level or higher that targets only one creature, and your bonded droid is within 10 feet of you or the target, it can use its reaction to boost the power's casting level by 1 at no extra tech point cost, even past your Max Power Level. This range requirement grows to 30 feet at 11th level and 60 feet at 17th level.</p><p>You can use this reaction-granting benefit twice, gaining one more use at each of 5th, 9th, 13th, and 17th level, and you regain all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Saboteur Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

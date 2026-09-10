@@ -1,0 +1,45 @@
+{
+  "_id": "2s2H7QROJUCERR2Q",
+  "_key": "!items!2s2H7QROJUCERR2Q",
+  "name": "Mass Malacia",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Every creature within a 30-foot cube inside range must succeed on a Wisdom saving throw or become charmed for the duration, rendered incapacitated with a speed of 0 while the charm lasts.</p><p>The effect ends early for a creature that takes any damage, or if another creature spends an action to rouse it. Droids and constructs are immune.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

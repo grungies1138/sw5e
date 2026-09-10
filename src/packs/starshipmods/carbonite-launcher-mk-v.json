@@ -1,0 +1,30 @@
+{
+  "_id": "tI4x997fI6IUfSvr",
+  "name": "Carbonite Launcher Mk V",
+  "type": "starshipmod",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>The pinnacle of the Carbonite Launcher line, packing enough refrigerant and dispersal charge to blanket a target ship's entire hull in a single firing solution.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 30000,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 5,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "Fixed Hardpoint",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

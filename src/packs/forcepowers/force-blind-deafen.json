@@ -1,0 +1,45 @@
+{
+  "_id": "OMd7y3mWBdNWnZxT",
+  "_key": "!items!OMd7y3mWBdNWnZxT",
+  "name": "Force Blind/Deafen",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target one creature you can see within range, which must succeed on a Constitution saving throw or be blinded or deafened (your choice) for the duration. At the end of each of its turns, it may attempt another Constitution save, ending the power on a success.</p><p>Casting this power with a force slot of 3rd level or higher lets you target one additional creature for every slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 2",
+    "school": "lightside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

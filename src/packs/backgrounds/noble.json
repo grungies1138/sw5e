@@ -1,0 +1,47 @@
+{
+  "_id": "Dc2AJYzKMMQqafi9",
+  "_key": "!items!Dc2AJYzKMMQqafi9",
+  "name": "Noble",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You understand wealth, power, and privilege from the inside. Your family holds a title, land, or influence enough that doors opened for you your whole life without you having to knock &mdash; whether you were raised a pampered heir, a hardworking landowner who cares for those in your charge, or a merchant only recently elevated into that world.</p><p>Wherever you fall in your family's line and however they feel about your adventuring, the bearing of high birth still marks you, for better or worse, in every court and cantina you walk into.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "lor",
+        "per"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Loremaster",
+        "Charmer",
+        "Competitor",
+        "Linguist",
+        "Inspiring Leader",
+        "Observant"
+      ]
+    },
+    "equipment": "A set of fine clothes, a signet ring, a letter of pedigree, and a purse containing 250 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

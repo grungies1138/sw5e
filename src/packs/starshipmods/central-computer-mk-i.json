@@ -1,0 +1,30 @@
+{
+  "_id": "rfryyrE5jDMTIdwE",
+  "name": "Central Computer Mk I",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>An entry-level shipwide computer core that consolidates sensor, navigation, and diagnostic data into a single interface, granting a small bonus to checks that rely on the ship's onboard systems.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 5000,
+      "denomination": "credits"
+    },
+    "category": "universal",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "CIefM0nHCcQsmxdV",
+  "_key": "!items!CIefM0nHCcQsmxdV",
+  "name": "Bolstering Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>No operative fights entirely alone, and Bolstering Practice specialists take that truth to heart, turning their strikes into rallying cries and their maneuvers into openings for the whole squad. A well-placed hit doesn't just wound the enemy, it sets up the next ally's shot.</p><p>These operatives lead from the front, reading the battlefield and calling out the exact moment for a teammate to dash, vanish, or capitalize. Where lone wolves see one target, a Bolstering Practice operative sees a formation waiting to click into place.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

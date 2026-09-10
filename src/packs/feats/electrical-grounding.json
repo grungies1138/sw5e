@@ -1,0 +1,34 @@
+{
+  "_id": "whD3kFfshI3uEQrC",
+  "_key": "!items!whD3kFfshI3uEQrC",
+  "name": "Electrical Grounding",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You know how to ride out an electric jolt. Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</p><p>At the start of each of your turns while shocked, you can choose to retain your reaction, or instead take both an action and a bonus action that turn. You have advantage on saving throws against lightning damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

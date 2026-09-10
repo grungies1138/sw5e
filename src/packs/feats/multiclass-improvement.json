@@ -1,0 +1,30 @@
+{
+  "_id": "i4NvVPFtssMcjMaG",
+  "_key": "!items!i4NvVPFtssMcjMaG",
+  "name": "Multiclass Improvement",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to combine the strengths of your various classes. Choose two multiclass improvement options presented elsewhere in this material. This feat can be taken more than once, each time letting you choose two more options.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "wZck5KfJTGAEI4lt",
+  "_key": "!items!wZck5KfJTGAEI4lt",
+  "name": "Emergency Supplements",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You keep quick-acting supplements on hand for allies in need. When an ally within 5 feet of you is the target of your Critical Analysis, you may spend a superiority die to grant that ally the benefit of any Chef-exclusive discovery that uses a superiority die, even one you haven't chosen yourself. You must finish a short or long rest before doing this again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Chef Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

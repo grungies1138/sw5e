@@ -1,0 +1,24 @@
+{
+  "_id": "W0PJ4XFVWPdzA7Pb",
+  "_key": "!items!W0PJ4XFVWPdzA7Pb",
+  "name": "Zoologist Discoveries",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>This pursuit unlocks discoveries born from your study of animal biology and behavior. Each time you gain a new discovery, you may take one of the following instead, listed alphabetically.</p><p><strong>Advantageous Companion.</strong> A Charisma (Intimidation) check against someone who can see your Medium-or-larger beast companion is made with advantage; likewise, a Charisma (Persuasion) check against someone who can see your Small-or-Tiny companion is made with advantage.</p><p><strong>Holocam Attachment.</strong> You can safely fit a holocam onto your companion's head. You learn the tracker droid interface tech power, your beast becomes a valid target for it, and casting it on your beast costs no tech points (a wristpad is still required to cast it).</p><p><strong>Neat Tricks</strong> (5th level required). Your beast gains proficiency in one Strength- or Dexterity-based skill of your choice. It gains expertise in that skill instead if it is Medium or larger and the skill uses Strength, or if it is Small or smaller and the skill uses Dexterity.</p><p><strong>One Big Baddie</strong> (requires a Medium-or-larger beast). Your companion deals double damage to structures, can take the Guard action as a bonus action (though only to guard you specifically), and can spend a bonus action to burn a Hit Die for healing — with any such Hit Die roll guaranteed to restore at least twice its Constitution modifier (minimum 2).</p><p><strong>Protective Friend.</strong> When you or your companion is targeted by a melee attack while it's within 5 feet of you, you can use your reaction to impose disadvantage on that attack roll.</p><p><strong>The More the Merrier</strong> (requires a Small-or-smaller beast). Instead of one companion, you command a coordinated swarm, treated mechanically as a single beast with the following changes: its effective size rises two categories (Tiny becomes Medium, Small becomes Large); its hit points increase by twice its level plus 2; it can only be ridden by creatures at least three sizes smaller than it (rather than the usual one); it can share space with other creatures and move through any gap sized for a creature two categories smaller; and, while above half its hit point maximum, taking the Attack action grants it one extra attack — stacking with any attack already granted by Extra Attack.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Zoologist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,167 @@
+{
+  "_id": "PrnsNBKu8l2F4MZK",
+  "name": "Talon-Class Attack Fighter",
+  "type": "starship",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 13,
+        "proficient": 0
+      },
+      "dex": {
+        "value": 16,
+        "proficient": 0
+      },
+      "con": {
+        "value": 13,
+        "proficient": 0
+      },
+      "int": {
+        "value": 11,
+        "proficient": 0
+      },
+      "wis": {
+        "value": 10,
+        "proficient": 0
+      },
+      "cha": {
+        "value": 10,
+        "proficient": 0
+      }
+    },
+    "details": {
+      "biography": {
+        "value": "<p>A fast, heavily-shielded one-man fighter built to win dogfights through raw agility and layered deflector shields rather than brute firepower.</p>",
+        "public": ""
+      },
+      "size": "small",
+      "tier": 0,
+      "role": "Attack Fighter",
+      "roleSpecialization": "",
+      "roleMastery": "",
+      "isSpaceStation": false,
+      "source": "SotG Ch.3 Starship Sizes — Small"
+    },
+    "hull": {
+      "value": 17,
+      "temp": 0,
+      "bonuses": {
+        "max": 0
+      },
+      "dice": {
+        "spent": 0
+      }
+    },
+    "shield": {
+      "equipped": true,
+      "type": "directional",
+      "value": 17,
+      "bonuses": {
+        "max": 0
+      },
+      "dice": {
+        "spent": 0
+      },
+      "depleted": false
+    },
+    "attributes": {
+      "speed": {
+        "fly": 380,
+        "turn": 140,
+        "temp": 0
+      },
+      "ac": {
+        "armor": "deflection",
+        "bonus": 0
+      },
+      "hardpoints": {
+        "used": 1
+      },
+      "modSlots": {
+        "bonus": 0
+      }
+    },
+    "power": {
+      "reactor": "fuelCell",
+      "coupling": "distributed",
+      "central": {
+        "value": 0
+      },
+      "systems": {
+        "engines": {
+          "value": 1
+        },
+        "shields": {
+          "value": 1
+        },
+        "weapons": {
+          "value": 1
+        },
+        "sensors": {
+          "value": 0
+        },
+        "comms": {
+          "value": 0
+        }
+      },
+      "reroute": {
+        "active": false,
+        "target": "",
+        "efficient": false
+      }
+    },
+    "techDie": {
+      "size": 4,
+      "volatility": 0
+    },
+    "hyperdrive": {
+      "class": "",
+      "backupClass": "",
+      "equations": 10
+    },
+    "cargo": {
+      "capacity": 2,
+      "value": 0
+    },
+    "fuel": {
+      "capacity": 10,
+      "value": 10
+    },
+    "suites": [],
+    "crew": [],
+    "crewMinOverride": null,
+    "conditions": {
+      "systemDamage": 0,
+      "slowed": 0,
+      "disabled": false,
+      "destroyed": false
+    },
+    "destructionSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "combat": {
+      "boostCount": {
+        "engines": 0,
+        "shields": 0,
+        "weapons": 0
+      },
+      "firedThisRound": 0,
+      "regenShieldsUsed": false,
+      "helmUsedThisRound": false,
+      "evasive": false
+    },
+    "currency": {
+      "credits": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "items": []
+}

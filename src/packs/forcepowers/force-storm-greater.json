@@ -1,0 +1,50 @@
+{
+  "_id": "5CGeTM5CHJslQhGf",
+  "_key": "!items!5CGeTM5CHJslQhGf",
+  "name": "Force Storm, Greater",
+  "type": "power",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>You call down a devastating maelstrom of dark side lightning in a 30-foot-radius sphere centered on a point you choose within range. Each creature in the area must make a Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 5",
+    "school": "darkside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "8d6",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

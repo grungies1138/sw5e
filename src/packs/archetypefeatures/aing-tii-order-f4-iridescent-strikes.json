@@ -1,0 +1,24 @@
+{
+  "_id": "PX3mdPOPJMduQJnq",
+  "_key": "!items!PX3mdPOPJMduQJnq",
+  "name": "Iridescent Strikes",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you spend your action casting a force power, you may spend 2 focus points to teleport to a space within 5 feet of a creature affected by that power and, as a bonus action, make two unarmed strikes against it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Aing-Tii Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

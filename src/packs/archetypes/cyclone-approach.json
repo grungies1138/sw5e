@@ -1,0 +1,22 @@
+{
+  "_id": "95iEqCQZc3Ea41pS",
+  "_key": "!items!95iEqCQZc3Ea41pS",
+  "name": "Cyclone Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Where most berserkers plant themselves and let the enemy come to them, the Cyclone Approach teaches a fighter to become a blur — a storm of twin blades that never stops moving. Its adherents pair a weapon in each hand with footwork fast enough to shrug off holds, falls, and blows meant to slow them down.</p><p>To face a berserker of this path is to fight something closer to weather than warrior: unpredictable, relentless, and just as hard to pin in place as it is to outrun.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

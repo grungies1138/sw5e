@@ -1,0 +1,24 @@
+{
+  "_id": "czfacwi69JzJfnGI",
+  "_key": "!items!czfacwi69JzJfnGI",
+  "name": "Tactical Mastery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your ability to direct allies from a distance improves: your Critical Analysis now has a range of 90 feet.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactician Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

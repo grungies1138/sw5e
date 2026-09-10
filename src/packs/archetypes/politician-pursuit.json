@@ -1,0 +1,22 @@
+{
+  "_id": "qpCHRKdVmJGQHplo",
+  "_key": "!items!qpCHRKdVmJGQHplo",
+  "name": "Politician Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Politicians make a study of persuasion itself, learning how crowds think, how loyalty is bought, and how a single well-placed word can move armies of people who never even meet. Where other scholars chase facts, these focus on the far messier science of influence.</p><p>That mastery follows them past the debate floor and onto the battlefield, where a Politician's presence rallies allies, unravels enemy resolve, and keeps its wielder comfortably out of harm's way. Command, to them, is simply persuasion applied at the point of a blaster.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

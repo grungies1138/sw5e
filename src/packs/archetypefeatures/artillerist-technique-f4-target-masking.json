@@ -1,0 +1,24 @@
+{
+  "_id": "HkNwvCg532XcN0gv",
+  "_key": "!items!HkNwvCg532XcN0gv",
+  "name": "Target Masking",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your familiarity with turrets and defensive emplacements lets you scramble their targeting. As a bonus action, you can activate a masking field for 1 minute; any construct that targets you with an attack, harmful power, or hostile action must first succeed on a Wisdom saving throw against your tech save DC or be forced to pick a different target, losing that attack or power. Area effects bypass this protection.</p><p>You can use this feature a number of times equal to your proficiency bonus (per the scout table), regaining all uses on completing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

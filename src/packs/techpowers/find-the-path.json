@@ -1,0 +1,45 @@
+{
+  "_id": "djT612Ifnx3yojgD",
+  "_key": "!items!djT612Ifnx3yojgD",
+  "name": "Find the Path",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>This power charts the shortest, most direct physical route to a fixed location on your current planet that you are familiar with; it fails if the destination moves or is not specific enough.</p><p>For the duration, as long as you remain on the same planet as your destination, you know its distance and direction, and while traveling there you automatically recognize which of any available paths is shortest and most direct, though not necessarily safest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

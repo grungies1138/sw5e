@@ -1,0 +1,26 @@
+{
+  "_id": "42RlB9xUJBuZdUll",
+  "_key": "!items!42RlB9xUJBuZdUll",
+  "name": "Danger Sense",
+  "type": "feat",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have an uncanny knack for sensing danger just before it happens. You have advantage on Dexterity saving throws against effects that you can see, such as a thrown grenade or a trap triggering, provided you aren't blinded, deafened, or incapacitated.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

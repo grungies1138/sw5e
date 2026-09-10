@@ -1,0 +1,24 @@
+{
+  "_id": "pmlA6gzl6M4mHzwu",
+  "_key": "!items!pmlA6gzl6M4mHzwu",
+  "name": "Mark of the Teleporter",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>On your turn, if you, your weapon, or the source of your damage passed through your portals that turn, any damage die you roll below half its maximum against the creature marked by your Ranger's Quarry can instead be treated as though it rolled half its maximum. You can apply this to a number of dice up to half your Intelligence modifier (minimum 1).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teleportation Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

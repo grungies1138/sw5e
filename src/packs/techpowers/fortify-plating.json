@@ -1,0 +1,45 @@
+{
+  "_id": "53A9YmtIlC8is7bO",
+  "_key": "!items!53A9YmtIlC8is7bO",
+  "name": "Fortify Plating",
+  "type": "power",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reroute power to reinforce a creature's armor plating or personal shield. Choose yourself or an ally within range and one damage type. For the duration, the target has resistance to that damage type.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

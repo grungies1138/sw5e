@@ -1,0 +1,25 @@
+{
+  "_id": "g1V38LhZsrIusdQV",
+  "name": "Systems Block",
+  "type": "shipmaneuver",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, expend a Power Die from the Sensors pool and force one target ship within range to make a Constitution saving throw (DC 8 + your proficiency bonus + your ship's Charisma modifier). On a failure, the target cannot regain Shield Points until the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Operator Disruptions",
+    "deployment": "operator",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

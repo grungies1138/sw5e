@@ -1,0 +1,24 @@
+{
+  "_id": "TOC5DGj4R5skLm17",
+  "_key": "!items!TOC5DGj4R5skLm17",
+  "name": "Adaptive Calibration",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a tech power you cast drops a hostile creature to 0 hit points, or restores hit points to an ally at 0 hit points, you recover one expended use of your Channel the Force and gain temporary force points equal to that power's level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Aqinos Form",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

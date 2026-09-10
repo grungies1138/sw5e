@@ -1,0 +1,34 @@
+{
+  "_id": "7MWAv65fFTyt9Vyz",
+  "_key": "!items!7MWAv65fFTyt9Vyz",
+  "name": "Weapon Expert",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Extensive practice with many weapons has paid off. Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.</p><p>You gain proficiency with all blasters; if already proficient, you can instead choose advantage on one blaster weapon damage roll per turn. You gain proficiency with all lightweapons; if already proficient, you can instead choose advantage on one lightweapon damage roll per turn. You gain proficiency with all vibroweapons; if already proficient, you can instead choose advantage on one vibroweapon damage roll per turn.</p><p>You can take this feat up to twice.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

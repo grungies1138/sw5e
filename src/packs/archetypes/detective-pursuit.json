@@ -1,0 +1,22 @@
+{
+  "_id": "yz7SCKrxwBjkGoeF",
+  "_key": "!items!yz7SCKrxwBjkGoeF",
+  "name": "Detective Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some scholars sharpen their minds not for lecture halls but for crime scenes, learning to notice the detail everyone else walks past. Those who take up the Detective's Pursuit turn observation into a discipline, reading a room, a lie, or a wound with the same rigor others reserve for formal research.</p><p>That same eye for what's out of place makes them formidable once the fists start flying. A Detective closes on a marked target with brutal efficiency, striking exactly where the evidence says it will hurt most.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

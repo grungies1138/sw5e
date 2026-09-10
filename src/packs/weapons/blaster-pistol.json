@@ -1,0 +1,55 @@
+{
+  "_id": "YDbl0zeRuOL2YR2j",
+  "name": "Blaster Pistol",
+  "type": "weapon",
+  "img": "icons/svg/pistol.svg",
+  "system": {
+    "description": {
+      "value": "<p>The sidearm of choice for scoundrels, soldiers, and everyone in between, this compact energy pistol is reliable, easy to conceal, and cheap to maintain.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 200,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "simple",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 30,
+      "long": 90,
+      "units": "ft"
+    },
+    "properties": [
+      "light"
+    ],
+    "ammo": {
+      "type": "power cell",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

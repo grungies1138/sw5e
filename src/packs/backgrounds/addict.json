@@ -1,0 +1,47 @@
+{
+  "_id": "8lqxHr8tlb8q0DWs",
+  "_key": "!items!8lqxHr8tlb8q0DWs",
+  "name": "Addict",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>A dependency has become part of your daily routine, whatever substance it happens to be. You know the back-alley dealers, the going price, and how to spot the real thing from a cut batch, because you've had to find out the hard way more than once.</p><p>Whatever drove you to it &mdash; grief, boredom, or something you'd rather not talk about &mdash; you've learned to function around it, for better or worse, and the underworld's supply chains hold few secrets from you.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "prf",
+        "per",
+        "slt"
+      ]
+    },
+    "toolProficiencies": [
+      "Your choice of any gaming set, brewer's kit, or spicer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Performer",
+        "Charmer",
+        "Quick-Fingered",
+        "Competitor",
+        "Specialist",
+        "Linguist",
+        "Durable"
+      ]
+    },
+    "equipment": "A chance cube set, a sabaac deck, two days of field rations, a set of common clothes, a bedroll, and a belt pouch containing 25 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

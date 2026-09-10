@@ -1,0 +1,50 @@
+{
+  "_id": "cVCdmLBvG8uTkiuF",
+  "_key": "!items!cVCdmLBvG8uTkiuF",
+  "name": "Wrack",
+  "type": "power",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel a lance of dark side agony into a creature's nerves. The target must make a Constitution saving throw, taking 1d8 necrotic damage on a failed save, or half as much damage on a successful one. On a failed save the target also has disadvantage on the next attack roll it makes before the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

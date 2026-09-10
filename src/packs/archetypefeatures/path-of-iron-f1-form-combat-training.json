@@ -1,0 +1,24 @@
+{
+  "_id": "KWoj98vQt1mgWqWf",
+  "_key": "!items!KWoj98vQt1mgWqWf",
+  "name": "Form Combat Training",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn one lightsaber form, detailed in the Customization Options document for Expanded Content, and you gain proficiency with every martial light- and vibro-weapon.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Iron",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

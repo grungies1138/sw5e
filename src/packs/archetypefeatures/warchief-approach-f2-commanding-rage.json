@@ -1,0 +1,24 @@
+{
+  "_id": "U6oZFIUlqWO5HZIi",
+  "_key": "!items!U6oZFIUlqWO5HZIi",
+  "name": "Commanding Rage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, when an ally within 10 feet makes an attack roll against an enemy, you may spend your reaction to grant that attack advantage and, if it hits, add your rage damage bonus to its damage roll.</p><p>You can do this twice, gaining another use at 5th, 9th, 13th, and 17th level, and you recover all spent uses after a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Warchief Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

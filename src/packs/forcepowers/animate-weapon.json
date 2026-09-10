@@ -1,0 +1,50 @@
+{
+  "_id": "WoaolOgfmLHizCDB",
+  "_key": "!items!WoaolOgfmLHizCDB",
+  "name": "Animate Weapon",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You use the Force to lift an unattended light- or vibro-weapon within range, animating it to fight at your direction until you dismiss the power or cast it again. As part of casting, and again as a bonus action on later turns, you can send the weapon up to 20 feet through the air and have it make a melee force attack against a creature within 5 feet of it, dealing 1d8 plus your forcecasting ability modifier damage of the weapon's normal type on a hit. You may recall the weapon to your hand at any time while the power lasts.</p><p>A creature can try to seize the floating weapon by using its action to beat your force save DC with a Strength (Athletics) check; success ends the power and gives the creature the weapon.</p><p>Cast with a slot of 3rd level or higher, the weapon's damage increases by 1d8 for every two slot levels beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

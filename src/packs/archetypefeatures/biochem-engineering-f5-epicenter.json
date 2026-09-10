@@ -1,0 +1,24 @@
+{
+  "_id": "knicrtkNlneu44Yi",
+  "_key": "!items!knicrtkNlneu44Yi",
+  "name": "Epicenter",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a reaction when a creature within 15 feet that you can see damages you, you can trigger one of your mixtures, releasing its effect in a 15-foot-radius sphere centered on yourself; if the mixture calls for a save, you automatically succeed. The affected area also becomes difficult terrain for everyone but you until the start of your next turn. Once you've used this feature, you need a short or long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biochem Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

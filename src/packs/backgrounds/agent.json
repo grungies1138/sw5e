@@ -1,0 +1,45 @@
+{
+  "_id": "xIYyU41vYMWmV8VX",
+  "_key": "!items!xIYyU41vYMWmV8VX",
+  "name": "Agent",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You spent years working in service to a galaxy-spanning faction &mdash; political, religious, criminal, or otherwise &mdash; whose reach paid no mind to planetary borders. You might have run messages between safehouses, held a cache of supplies for operatives passing through, or simply kept your ears open in a dozen cantinas on your faction's behalf.</p><p>Wherever your loyalties truly lie now, you still know the signs, the passwords, and the favors owed among those who serve the same banner &mdash; and they haven't forgotten you either.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "inv",
+        "lor",
+        "per"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Investigator",
+        "Loremaster",
+        "Charmer",
+        "Linguist",
+        "Alert",
+        "Observant",
+        "Practiced"
+      ]
+    },
+    "equipment": "A badge or token of your faction, a copy of one of its foundational texts (or a coded logbook, for a clandestine faction), a set of common clothes, and a pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

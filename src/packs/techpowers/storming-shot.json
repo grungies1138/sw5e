@@ -1,0 +1,50 @@
+{
+  "_id": "MVnJnjQ3O3QIEnNe",
+  "_key": "!items!MVnJnjQ3O3QIEnNe",
+  "name": "Storming Shot",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action you use to cast this power, you must make a ranged weapon attack against a creature within your weapon's range, or the power fails. On a hit, the attack deals its normal damage and the target becomes shocked until the end of your next turn. If another shocked creature is within 30 feet of the target when this power connects, a bolt of lightning arcs between them, dealing 1d6 lightning damage to each; if more than one shocked creature is nearby, the arc leaps to the closest one.</p><p>At 5th level, both the weapon attack and the arcing bolt deal an extra 1d6 lightning damage; this bonus increases by another 1d6 at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

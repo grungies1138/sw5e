@@ -1,0 +1,45 @@
+{
+  "_id": "xJuA35FqS6LgKDoV",
+  "_key": "!items!xJuA35FqS6LgKDoV",
+  "name": "Shield Overcharge",
+  "type": "power",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>You slam an emergency power cell into an ally's deflector rig. The target gains a +4 bonus to Armor Class and resistance to one damage type of your choice for the duration.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "4h8AfMObfNFqmlUA",
+  "_key": "!items!4h8AfMObfNFqmlUA",
+  "name": "Explosive",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your blaster fire hits harder while you're raging. Your blaster damage rolls gain a minimum roll threshold (see chapter 7), and when you make a ranged weapon attack using your Strength modifier, you add your rage damage to the damage roll. Starting at 9th level, whenever a target rolls a 1 on its save against your weapon's burst or rapid property, you may add your Brutal Critical dice to the damage it takes.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Ballistic Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

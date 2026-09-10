@@ -1,0 +1,22 @@
+{
+  "_id": "1ej2Nw0JXL5N7hhu",
+  "_key": "!items!1ej2Nw0JXL5N7hhu",
+  "name": "Niman Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Niman treats the lightsaber and the Force as two halves of one technique, blending blade-work with power use so neither ever fully yields the stage to the other. Guardians of this form step through a fight in a steady rhythm, using each cast power to set up the next strike and each strike to buy the moment needed for the next power.</p><p>Rather than choosing between spellcraft and swordplay, a Niman adept refuses the choice, meeting threats with whichever tool the moment calls for and unbalancing foes who expect only one or the other.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

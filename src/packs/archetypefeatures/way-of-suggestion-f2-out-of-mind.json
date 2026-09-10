@@ -1,0 +1,24 @@
+{
+  "_id": "eJVeOtccN64M5C0c",
+  "_key": "!items!eJVeOtccN64M5C0c",
+  "name": "Out of Mind",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can single out a creature within 60 feet that you're aware of, forcing it to make a Wisdom saving throw against your universal force save DC. On a failure, you turn invisible to that creature alone for up to 1 minute, ending early if you deal it damage.</p><p>You must finish a short or long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Suggestion",
+    "className": "Consular",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

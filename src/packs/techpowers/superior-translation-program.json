@@ -1,0 +1,45 @@
+{
+  "_id": "phLBCT18j76TRnUS",
+  "_key": "!items!phLBCT18j76TRnUS",
+  "name": "Superior Translation Program",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch up to four willing creatures, granting each the ability to understand any registered spoken or written language it encounters for the duration, and to speak such a language if it is physically able to do so.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 7th level or higher, this power affects one additional creature for each slot level beyond 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "kg4weCZanuGHg5ja",
+  "_key": "!items!kg4weCZanuGHg5ja",
+  "name": "Armor of Abeloth",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A shimmering shroud of dark side energy wraps around you and your equipment, granting you 5 temporary hit points for the duration. While you have these temporary hit points, any creature that strikes you with a melee attack suffers 5 psychic damage in return.</p><p>Cast with a slot of 2nd level or higher, both the temporary hit points and the retaliatory psychic damage increase by 5 per slot level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 1",
+    "school": "darkside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

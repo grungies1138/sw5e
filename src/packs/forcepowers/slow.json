@@ -1,0 +1,45 @@
+{
+  "_id": "1aSjeoqgi0FBW0Rm",
+  "_key": "!items!1aSjeoqgi0FBW0Rm",
+  "name": "Slow",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target a hostile creature within range with a debilitating pulse of the dark side. The target makes a Constitution saving throw; on a failure it gains 1 slowed level until the power ends, repeating the save at the end of each of its turns to end the effect early.</p><p>At 5th level you can target two creatures, at 11th level three, and at 17th level four, each requiring a separate saving throw.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 15,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

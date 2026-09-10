@@ -1,0 +1,32 @@
+{
+  "_id": "bWvhHEyqou6eJUoq",
+  "_key": "!items!bWvhHEyqou6eJUoq",
+  "name": "Mariner",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've spent a great deal of time in the water. Increase your Constitution score by 1, to a maximum of 20.</p><p>You gain a swimming speed equal to your walking speed, have advantage on ability checks and saving throws related to swimming, and can hold your breath for a number of minutes equal to 1 plus twice your Constitution modifier.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "con"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "zaWNJmTQGnisgndN",
+  "_key": "!items!zaWNJmTQGnisgndN",
+  "name": "Ichor Lightning",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain a special ranged attack usable with the Attack action: a focus attack with a 30-foot range. You are proficient with it and add your focus ability modifier to both its attack and damage rolls. It deals necrotic damage, counts as an unarmed strike for your Martial Arts feature, and uses your Martial Arts die for damage.</p><p>You may substitute this attack for an unarmed strike made as part of your Martial Arts bonus action or your Flurry of Blows. If it drops a creature to 0 hit points, you gain temporary hit points equal to your focus ability modifier (minimum 1, your choice of score) plus your monk level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Nightsister Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

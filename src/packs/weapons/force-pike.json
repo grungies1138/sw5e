@@ -1,0 +1,56 @@
+{
+  "_id": "OAbXFuiYV29iD7fz",
+  "name": "Force Pike",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A ceremonial-looking polearm wired with a shock-inducing energy core, standard issue for palace guards and riot troopers who need to hit hard from a distance.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 300,
+      "denomination": "credits"
+    },
+    "weight": 8,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "vibroweapon",
+    "proficiencyTier": "martial",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "kinetic"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 10,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed",
+      "reach"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

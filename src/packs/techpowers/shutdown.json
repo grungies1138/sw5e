@@ -1,0 +1,45 @@
+{
+  "_id": "xoI3M2FBAnwCdjxm",
+  "_key": "!items!xoI3M2FBAnwCdjxm",
+  "name": "Shutdown",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You release an electromagnetic pulse that shuts down every electronic device in range except your own tech focus, unless the device is held by or under a creature's direct control, in which case that creature must succeed on an Intelligence saving throw to keep it running. While the power lasts, no affected device can be turned on or restarted.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

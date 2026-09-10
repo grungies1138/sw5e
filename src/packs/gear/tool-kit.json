@@ -1,0 +1,29 @@
+{
+  "_id": "lK1i7ldPJKIlEoX9",
+  "name": "Tool Kit",
+  "type": "gear",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>A rugged case of fusioncutters, hydrospanners, and calibration tools suited to repairing droids, vehicles, and mechanical devices in the field.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 60,
+      "denomination": "credits"
+    },
+    "weight": 5,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

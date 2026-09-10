@@ -1,0 +1,50 @@
+{
+  "_id": "0D0HaaHs1T8w1HI4",
+  "_key": "!items!0D0HaaHs1T8w1HI4",
+  "name": "Art of Movement",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Force flows through your limbs, granting uncanny agility for the duration. You gain a 10-foot increase to your speed, resistance to falling damage, triple normal jumping distance, and a climbing speed equal to your walking speed that lets you scale and cross vertical or inverted surfaces with your hands free (though you fall if you stop climbing without another means of support). Difficult terrain and squeezing no longer hinder your movement, and you disregard slowed levels below 3.</p><p>Once before the power ends, you can grant yourself advantage on a single weapon attack roll on your turn; that attack deals an extra 1d10 force damage on a hit, and regardless of the outcome you gain a flying speed equal to your walking speed until the end of the turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

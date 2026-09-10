@@ -1,0 +1,50 @@
+{
+  "_id": "SEMmlFngyZfPz4sI",
+  "_key": "!items!SEMmlFngyZfPz4sI",
+  "name": "Cryogenic Wave",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You unleash a blast of freezing air in a 15-foot cone. Each creature in the area must succeed on a Constitution saving throw or take 2d6 cold damage and suffer 1 slowed level until the end of its next turn; a successful save halves the damage and negates the slow.</p><p>Cast with a 2nd-level slot or higher, the damage increases by 1d6 per slot level above 1st, and the slowed levels inflicted on a failed save rise to 2 at 3rd level, 3 at 5th level, and 4 at 7th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "cold"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

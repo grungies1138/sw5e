@@ -1,0 +1,30 @@
+{
+  "_id": "MqSeTGoHgySDjezg",
+  "name": "Casino",
+  "type": "starshipmod",
+  "img": "icons/svg/statue.svg",
+  "system": {
+    "description": {
+      "value": "<p>A lavishly appointed gaming floor of sabacc tables, chance cubes, and slot-spinners, more suited to a pleasure yacht or space station than a warship, but a reliable draw for coin and contacts alike.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 8000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 2,
+    "slots": 3,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 40
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

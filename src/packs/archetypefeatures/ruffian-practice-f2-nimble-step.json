@@ -1,0 +1,24 @@
+{
+  "_id": "W8kYzlZhHtYwqnTL",
+  "_key": "!items!W8kYzlZhHtYwqnTL",
+  "name": "Nimble Step",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you deal Sneak Attack damage, you can give up two of those dice to maneuver instead. The save DC for these is 8 plus your proficiency bonus plus your Dexterity modifier.</p><p><strong>Blade Defense.</strong> Roll two Sneak Attack dice, and the target attempts a Charisma save. Against the first attack it makes against you before the start of your next turn, your AC increases by the higher die result on a failed save, or the lower die result on a successful one.</p><p><strong>Disarming Strike.</strong> The target attempts a Strength save or drops the item of your choice that it's holding; you catch it with a free hand, or it lands at your feet.</p><p><strong>Fancy Footwork.</strong> Roll two Sneak Attack dice. Your speed increases by five times the higher of the two results, and you ignore difficult terrain until the end of the current turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ruffian Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

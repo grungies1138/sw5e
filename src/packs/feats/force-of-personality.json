@@ -1,0 +1,32 @@
+{
+  "_id": "i7652uWc47TNLyZ2",
+  "_key": "!items!i7652uWc47TNLyZ2",
+  "name": "Force of Personality",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your sheer presence unsettles those who would manipulate you. Increase your Charisma score by 1, to a maximum of 20.</p><p>You may use your Charisma modifier in place of your Wisdom modifier for Insight checks. In addition, a number of times equal to your proficiency bonus, you may substitute a Charisma saving throw for a Wisdom saving throw you are required to make. You regain all expended uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "PMnDGSgZ5IQiRfYK",
+  "_key": "!items!PMnDGSgZ5IQiRfYK",
+  "name": "Tech Override",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You react to a creature within 60 feet that you see casting a tech power, attempting to disrupt it. If the power being cast is 3rd level or lower, it automatically fails. If it is 4th level or higher, you make an ability check using your techcasting ability against a DC of 10 plus the power's level; on a success, the power fails.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 4th level or higher, the interrupted power automatically fails if its level does not exceed the level of the slot you used.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

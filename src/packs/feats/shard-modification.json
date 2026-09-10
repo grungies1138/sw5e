@@ -1,0 +1,37 @@
+{
+  "_id": "2TrmhEddVaLEjAgf",
+  "_key": "!items!2TrmhEddVaLEjAgf",
+  "name": "Shard Modification",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are a droid specially modified to house a shard — a foot-long, sentient crystal native to Orax that communicates through pulses of light. The shard's presence lets you overcome your usual inability to touch the Force. Increase one ability score of your choice by 1, to a maximum of 20.</p><p>You no longer have the Force-Insensitive trait, and you can cast the sense force force power once per day, using either Wisdom or Charisma (your choice) as your forcecasting ability for it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Droid type.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "4MzBu9ltIfYJ510n",
+  "name": "Pilot Extraordinaire",
+  "type": "deploymentFeature",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per short or long rest, as a bonus action, you grant your ship advantage on its next Dexterity (Maneuvering) check, advantage on its next Strength and Dexterity saving throws, and disadvantage on all attack rolls made against it, until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Pilot",
+    "deployment": "pilot",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

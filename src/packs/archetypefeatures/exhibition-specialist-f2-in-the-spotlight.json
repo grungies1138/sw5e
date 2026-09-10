@@ -1,0 +1,24 @@
+{
+  "_id": "jruYTdjpihVB3oKI",
+  "_key": "!items!jruYTdjpihVB3oKI",
+  "name": "In The Spotlight",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, choose a creature you can see within 30 feet and mark it for 1 minute. While it remains marked, you gain the following:</p><ul><li>Add half your Charisma modifier (minimum 1) to any weapon damage roll against the marked target that doesn't already include it.</li><li>Your critical hit range against the marked target widens by 1.</li><li>If the marked target drops to 0 hit points, you regain hit points equal to your fighter level plus your Charisma modifier (minimum 1).</li></ul><p>The mark ends early if you're incapacitated or die. Once used, this feature requires a short or long rest before you can use it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Exhibition Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

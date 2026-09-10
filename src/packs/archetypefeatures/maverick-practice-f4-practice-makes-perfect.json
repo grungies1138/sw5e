@@ -1,0 +1,24 @@
+{
+  "_id": "JbXrUnJ1C7QDYOt8",
+  "_key": "!items!JbXrUnJ1C7QDYOt8",
+  "name": "Practice Makes Perfect",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you make an ability check that's part of, or affected by, a maneuver you're using, you can bump your proficiency tier in that check up one step, from trained to proficient, proficient to expertise, expertise to mastery, mastery to high mastery, or high mastery to grand mastery.</p><p>You can do this five times, gaining a sixth use at 17th level, and you regain all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Maverick Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

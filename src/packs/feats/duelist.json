@@ -1,0 +1,26 @@
+{
+  "_id": "I4eGklYHGS12N8VK",
+  "_key": "!items!I4eGklYHGS12N8VK",
+  "name": "Duelist",
+  "type": "feat",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have trained extensively in one-on-one melee combat, whether with a vibroblade, a vibrosword, or a lightsaber. While you are wielding a melee weapon in one hand and no other weapons, you gain a +1 bonus to AC and a +1 bonus to damage rolls made with that weapon.</p><p>Additionally, when a creature you can see misses you with a melee attack, you can use your reaction to make one melee weapon attack against that creature, provided it is within your reach.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

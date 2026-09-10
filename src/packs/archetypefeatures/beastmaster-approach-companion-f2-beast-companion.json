@@ -1,0 +1,24 @@
+{
+  "_id": "A3WBL6UpN0uWqbuh",
+  "_key": "!items!A3WBL6UpN0uWqbuh",
+  "name": "Beast Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You form a deep primal bond with a beast companion, created following the Companions rules in the Customization Options document for Expanded Content.</p><p>Beyond its normal traits and features, your bonded companion gains two extra traits, plus one more at 11th level in this class — though for every trait it holds beyond your proficiency bonus, the pool of Hit Dice you can spend to heal shrinks by one.</p><p>While your companion is bonded and within 10 feet of you, it gains the benefit of one of your chosen instincts (if that instinct depends on your raging, the companion only benefits while you're actually raging). This range extends to 30 feet at 11th level and 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Beastmaster Approach (Companion)",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

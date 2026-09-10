@@ -1,0 +1,24 @@
+{
+  "_id": "lGgtrOFNJcsEikDy",
+  "_key": "!items!lGgtrOFNJcsEikDy",
+  "name": "Rock Steady",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to use a heavy weapon's bulk to anchor yourself. At the end of any turn where you moved less than half your speed while wielding a weapon with the heavy or strength property, you gain advantage on saving throws against being restrained, moved, or knocked prone. This advantage lasts until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Heavy Weapons Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

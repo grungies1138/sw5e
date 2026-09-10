@@ -1,0 +1,24 @@
+{
+  "_id": "F1hD7M8r2T56pUtL",
+  "_key": "!items!F1hD7M8r2T56pUtL",
+  "name": "Forredari Stance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you enter a stance of focused readiness, immediately lashing out at creatures of your choice within 10 feet: each must succeed on a Dexterity saving throw (DC = 8 + your attack bonus with the weapon used) or take that weapon's normal damage. The stance lasts 1 minute, granting the following while active:</p><ul><li><strong>Death Weave.</strong> Reducing a creature to 0 hit points grants you temporary hit points equal to your focus ability modifier plus half your monk level.</li><li><strong>Gundark Slap.</strong> Once per turn, hitting a creature with an unarmed strike or monk weapon lets you prevent it from taking reactions until the end of your next turn.</li><li><strong>Sleeping Krayt.</strong> You may use your focus ability modifier in place of Strength for Strength checks and saving throws, and you have advantage on saves against being charmed or frightened.</li></ul><p>Being incapacitated or dying ends these effects early. You can use this feature once between long rests; once spent, you may instead pay 1 focus point to use it again, though your maximum focus points then drop by 1 until your next long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teras Kasi Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

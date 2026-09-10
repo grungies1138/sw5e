@@ -1,0 +1,45 @@
+{
+  "_id": "6JDRKPdbMrVwQj55",
+  "_key": "!items!6JDRKPdbMrVwQj55",
+  "name": "Psychometry",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>For the duration, you can commune telepathically with inanimate objects you touch, posing up to five questions and receiving answers as an auditory or visual impression — for instance, touching the shattered husk of an old lightsaber and asking about its fate might reveal a fleeting vision of the Jedi who cast it aside. An object can only speak to its own past, and the GM decides what may be asked of it and how much it reveals.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

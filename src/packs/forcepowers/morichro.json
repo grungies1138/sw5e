@@ -1,0 +1,45 @@
+{
+  "_id": "xfmXadOSkle6c3Db",
+  "_key": "!items!xfmXadOSkle6c3Db",
+  "name": "Morichro",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature and settle it into a trance indistinguishable from death. For the duration, or until you touch the target again as an action to end the power early, the target appears dead to any casual or magical examination of its condition. It is blinded, incapacitated, and its speed drops to 0, and it gains resistance to all damage except psychic damage. Any poison or disease already affecting the target, or that it contracts while under the power, has no effect until the trance ends. Droids and constructs are unaffected.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 3",
+    "school": "lightside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

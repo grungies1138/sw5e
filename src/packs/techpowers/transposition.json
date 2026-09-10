@@ -1,0 +1,45 @@
+{
+  "_id": "XKR390bYwXdk1ZJJ",
+  "_key": "!items!XKR390bYwXdk1ZJJ",
+  "name": "Transposition",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A creature you can see within 90 feet flickers into a holographic afterimage and collapses. The target must succeed on a Constitution saving throw (it may choose to fail) or be teleported to an unoccupied space of your choice that you can see within range, provided that space is on a surface or in a liquid able to support it without squeezing.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 3rd level or higher, the power's range increases by 30 feet for each slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

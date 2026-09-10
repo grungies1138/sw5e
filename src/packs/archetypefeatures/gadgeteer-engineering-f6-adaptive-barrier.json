@@ -1,0 +1,24 @@
+{
+  "_id": "egzDv7LMzzBAPMsp",
+  "_key": "!items!egzDv7LMzzBAPMsp",
+  "name": "Adaptive Barrier",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature within 30 feet of you that you can see and that carries one of your barriers takes damage of a type the barrier could have absorbed, you can use your reaction to grant that creature resistance to the triggering damage — or immunity, if the damage matches the barrier's chosen type. Either way, the barrier's hit points immediately drop to 0.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gadgeteer Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "phND36sn0G2Pp0xZ",
+  "name": "Reinforced Escape Vector",
+  "type": "starshipmod",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>A pre-plotted emergency jump routine wired directly into the hyperdrive, letting the pilot engage a rushed hyperspace jump with advantage on the Intelligence (Astrogation) check once per long rest.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 5000,
+      "denomination": "credits"
+    },
+    "category": "operation",
+    "grade": 2,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "Hyperdrive",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

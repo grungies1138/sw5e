@@ -1,0 +1,24 @@
+{
+  "_id": "FOhiOpEYCgPj8xvH",
+  "_key": "!items!FOhiOpEYCgPj8xvH",
+  "name": "Mechu-deru Mastery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can cast one 5th-level tech power of your choice at its base level without spending force points; the power counts as a universal force power for you. Once used, you must complete a long rest before doing so again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Technology",
+    "className": "Consular",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

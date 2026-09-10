@@ -1,0 +1,27 @@
+{
+  "_id": "L6lT711MDmtF20C6",
+  "name": "Class 8 Hyperdrive",
+  "type": "starshipequipment",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A Class 8 hyperdrive. Hyperdrive rating is inverse to speed &mdash; lower is faster. A Class 8 hyperdrive completes a jump in 8&times; the Class 1 baseline travel time, making it <strong>slower</strong> than hyperspeed standard. Engaging the hyperdrive requires an action, and the pilot must then spend at least 50 feet of flying speed before the end of the turn or the jump attempt resets.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment — Hyperdrives",
+    "price": {
+      "value": 1000,
+      "denomination": "credits"
+    },
+    "kind": "hyperdrive",
+    "configKey": "8",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

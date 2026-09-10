@@ -1,0 +1,47 @@
+{
+  "_id": "VUhoOOEXndzij2yZ",
+  "_key": "!items!VUhoOOEXndzij2yZ",
+  "name": "Sith",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are an acolyte of the Sith Order, an ancient tradition of Force-wielders who draw their strength from passion rather than restraint. Where the Jedi teach serenity, your training taught you that ambition, anger, and hunger for power are tools to be sharpened, not suppressed.</p><p>Whatever brought you to that path &mdash; a master's teaching, a personal grievance, or simple opportunism &mdash; the reputation the Sith carry precedes you, and most people who recognize it are wise enough to step aside.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "itm",
+        "lor"
+      ]
+    },
+    "toolProficiencies": [
+      "Artificer's tools"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Threatening",
+        "Loremaster",
+        "Linguist",
+        "Crafter",
+        "Formfighting Dabbler",
+        "Force-Sensitive"
+      ]
+    },
+    "equipment": "A set of common clothes including a simple robe, a personal token of your training, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

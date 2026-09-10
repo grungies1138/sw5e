@@ -1,0 +1,24 @@
+{
+  "_id": "UrQrKwPmjkp3tcUj",
+  "_key": "!items!UrQrKwPmjkp3tcUj",
+  "name": "Improved Critical",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You score critical hits more easily &mdash; your threat range for weapon attacks expands by 1.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Assault Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "PpY1a3SsEcMiUufK",
+  "name": "Paragon Coordinator",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, you can use a d4 instead of expending a power die to activate a Collaboration, without reducing the ship's stored power dice.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

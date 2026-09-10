@@ -1,0 +1,45 @@
+{
+  "_id": "YxDaXPgLCZZhIzUt",
+  "_key": "!items!YxDaXPgLCZZhIzUt",
+  "name": "Force Link",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You forge a telepathic connection between yourself and a willing creature you know well. For the duration, you and the target may exchange words, images, sounds, and other sensory impressions across any distance, and the target always recognizes you as its source. A creature with an Intelligence score of 1 or higher can understand the substance of what you send. Droids and constructs are unaffected.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 8",
+    "school": "universal",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

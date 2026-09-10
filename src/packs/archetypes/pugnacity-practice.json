@@ -1,0 +1,22 @@
+{
+  "_id": "EYCeoMrwBVlhJlSm",
+  "_key": "!items!EYCeoMrwBVlhJlSm",
+  "name": "Pugnacity Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Pugnacity Practice operatives refuse to be boxed into one range band or one style of fight. They're just as comfortable trading blaster fire across a courtyard as they are locking blades in a cargo hold, switching tactics the instant the situation calls for it.</p><p>What makes them dangerous isn't a single specialty but the sheer breadth of what they can bring to bear, heavier gear, harder strikes, and the instinct to keep pressing an advantage no matter how the fight is shaping up.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

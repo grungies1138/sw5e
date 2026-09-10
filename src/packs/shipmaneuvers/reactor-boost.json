@@ -1,0 +1,25 @@
+{
+  "_id": "xdXGjmVoRMjmUfYT",
+  "name": "Reactor Boost",
+  "type": "shipmaneuver",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, roll your Tech Die; your reactor immediately produces a number of Power Dice equal to the result, distributed among the central pool and system pools as you choose. Any dice generated beyond available storage capacity are lost, converting instead into hull damage equal to the excess. You must then succeed on a Constitution (Regulation) check (DC 10 + the Tech Die result) or your ship takes damage equal to one Hull Die plus its Strength modifier.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Mechanic Techniques",
+    "deployment": "mechanic",
+    "rankRequired": 1,
+    "activation": "action",
+    "expendsPowerDie": false,
+    "formula": "@techDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

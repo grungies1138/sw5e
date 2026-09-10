@@ -1,0 +1,24 @@
+{
+  "_id": "n5Q2350e8I0DSlnL",
+  "_key": "!items!n5Q2350e8I0DSlnL",
+  "name": "One With the Dark",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can turn briefly invisible, as an enhanced effect, along with your gear, for up to an hour, or until you end it early at no action cost. The invisibility drops the instant you damage a creature or force one to make a saving throw.</p><p>You need a long rest before using this again. However, if you have no uses left, you can spend one poison dose from your Venomous feature to use it anyway, at the cost of reducing your maximum doses by 1 until your next long rest ends.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Shadow Killer Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

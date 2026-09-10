@@ -1,0 +1,24 @@
+{
+  "_id": "pydiUw3t8DwyuMjK",
+  "_key": "!items!pydiUw3t8DwyuMjK",
+  "name": "Ricochet Shot",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, when you take the Attack action and a ranged weapon attack misses, you can immediately repeat that attack at no action cost against a different target within 10 feet of the original one.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Gunslinger Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

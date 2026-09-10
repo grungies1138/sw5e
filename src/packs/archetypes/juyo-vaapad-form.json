@@ -1,0 +1,22 @@
+{
+  "_id": "TLOemvMaMWUuBwU4",
+  "_key": "!items!TLOemvMaMWUuBwU4",
+  "name": "Juyo/Vaapad Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Juyo and Vaapad don't suppress the thrill of combat — they run on it, channeling raw emotion into heavy, sweeping strikes that hit like an avalanche. A guardian trained in this form fixes on a single target and hunts it with singular, almost predatory focus until it falls.</p><p>Where calmer forms treat passion as a liability, these duelists treat it as fuel, letting triumph and fury feed each subsequent exchange, growing more dangerous the longer a fight drags on.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

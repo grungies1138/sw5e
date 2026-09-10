@@ -1,0 +1,43 @@
+{
+  "_id": "8NQxjlLrcvhdVRlG",
+  "name": "Berserker",
+  "type": "class",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Berserker is a primal warrior who channels raw fury into devastating melee combat, shrugging off wounds that would fell lesser combatants and striking with a savagery no training academy can teach. Whether a tribal champion from an unspoiled frontier world, a gladiator forged in the fighting pits, or a soldier who has learned to weaponize their own rage, the Berserker trades subtlety for overwhelming physical force.</p><p>In combat, a Berserker enters a battle-trance that dulls pain, heightens strength, and grants resistance to physical harm, at the cost of the calm needed for delicate tasks. As they grow more experienced they refine this fury with a personal fighting philosophy — their Berserker Instincts — until even the most disciplined duelist fears standing in their way.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d12",
+    "casterProgression": "none",
+    "castingAbility": "",
+    "primaryAbility": [
+      "str"
+    ],
+    "savingThrows": [
+      "str",
+      "con"
+    ],
+    "skillChoices": {
+      "number": 2,
+      "options": [
+        "ani",
+        "ath",
+        "itm",
+        "nat",
+        "prc",
+        "sur"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

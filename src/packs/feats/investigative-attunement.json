@@ -1,0 +1,37 @@
+{
+  "_id": "33Puhda0zLgGMWdp",
+  "_key": "!items!33Puhda0zLgGMWdp",
+  "name": "Investigative Attunement",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Long hours spent examining and testing enhanced gear have sharpened your instincts. Increase one ability score of your choice by 1, to a maximum of 20, and increase the number of items you can have attuned at once by 1.</p><p>You have advantage on ability checks made to identify items. Additionally, once per long rest you may spend 10 minutes handling an object to learn everything about it: its properties, whether it needs attunement, its remaining charges (if any), and any powers currently affecting it — including which power created it, if it was made that way.</p>",
+      "chat": ""
+    },
+    "source": "Wretched Hive Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

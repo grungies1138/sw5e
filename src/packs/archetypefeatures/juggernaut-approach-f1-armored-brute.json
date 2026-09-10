@@ -1,0 +1,24 @@
+{
+  "_id": "7WMPCKvcPa7KK4dO",
+  "_key": "!items!7WMPCKvcPa7KK4dO",
+  "name": "Armored Brute",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn to move and fight in the heaviest armor available, gaining proficiency with it. You can enter your rage while wearing heavy armor, and doing so no longer strips you of your rage's benefits.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Juggernaut Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "BQkpD044YlTaINvp",
+  "_key": "!items!BQkpD044YlTaINvp",
+  "name": "Vitality Shield",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You draw on your own vitality to raise a barrier in the Force around yourself. You take 2d8 true damage and gain temporary hit points equal to twice the damage taken; if this damage would drop you to 0 hit points, the power fails instead. While you have these temporary hit points, you have advantage on Strength, Dexterity, and Constitution saving throws. Any remaining temporary hit points vanish when the power ends.</p><p>When cast using a force slot of 3rd level or higher, the true damage increases by 1d8 for each slot level above 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "true"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

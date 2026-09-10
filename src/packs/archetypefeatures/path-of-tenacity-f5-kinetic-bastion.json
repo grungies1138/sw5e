@@ -1,0 +1,24 @@
+{
+  "_id": "YLL873utSzuaGtkZ",
+  "_key": "!items!YLL873utSzuaGtkZ",
+  "name": "Kinetic Bastion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can now shield allies from farther away. When a creature within 30 feet of you is struck by a melee weapon attack, you may use your reaction to teleport next to it and extend your Kinetic Ward to it, with any damage the ward doesn't reduce to 0 falling on that creature.</p><p>You can do this six times, regaining all uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Tenacity",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

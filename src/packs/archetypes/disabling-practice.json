@@ -1,0 +1,22 @@
+{
+  "_id": "nENTTYZKN7UZLpEz",
+  "_key": "!items!nENTTYZKN7UZLpEz",
+  "name": "Disabling Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Disabling Practice operatives treat a fight as a matter of leverage rather than force, using joint locks, redirected weight, and precisely timed pulls to put an opponent exactly where they want them. A grapple, to them, is not a stalemate, it's the setup for everything that follows.</p><p>Once they have a hold on someone, that grip becomes a weapon in its own right: a lever to march the target across the field, a shield to hide behind, or, if needed, the last thing that opponent ever feels.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

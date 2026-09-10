@@ -1,0 +1,22 @@
+{
+  "_id": "nHcGbKZm6HAHZVJw",
+  "name": "Maximum Power",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per short or long rest, when you hit a target with a ship's weapon, that attack deals its maximum possible damage instead of rolling.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "kLqJmx32HYdllpJJ",
+  "_key": "!items!kLqJmx32HYdllpJJ",
+  "name": "Pathfinder",
+  "type": "archetype",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Pathfinder archetype is a Scout Routine built around movement — across terrain no map has ever properly charted, through environments that would strand a less prepared traveler, and always one step ahead of whatever is hunting them. Pathfinders are the Scouts other Scouts call when a job requires going somewhere first.</p><p>A Pathfinder gains supernatural ease of movement across difficult terrain, the knack of finding safe routes and resources where none seem to exist, and the ability to guide a whole party through conditions that would otherwise grind an expedition to a halt.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

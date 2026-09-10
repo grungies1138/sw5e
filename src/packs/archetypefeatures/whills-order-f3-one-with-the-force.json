@@ -1,0 +1,24 @@
+{
+  "_id": "Rc5EhKZtqHe8iE9K",
+  "_key": "!items!Rc5EhKZtqHe8iE9K",
+  "name": "One With the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can enter a trance while remaining able to move and speak. If you remain in the trance for at least a minute, then roll initiative, you may make a ranged weapon attack against up to your focus ability modifier's worth of creatures (minimum one) that were within 30 feet of you while you were in the trance. You must finish a short or long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Whills Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "UM1OQT2QDM8zqycy",
+  "name": "Evasive Footwork",
+  "type": "maneuver",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you move, you can expend one superiority die, rolling the die and adding the number rolled to your Armor Class until you stop moving.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "special",
+      "cost": 0
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

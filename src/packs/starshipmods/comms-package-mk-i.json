@@ -1,0 +1,30 @@
+{
+  "_id": "z0gICHlSLKXMKkq1",
+  "name": "Comms Package Mk I",
+  "type": "starshipmod",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>A stronger subspace transceiver and encryption module than the ship's stock communications array, improving range and resistance to interception.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 2500,
+      "denomination": "credits"
+    },
+    "category": "universal",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

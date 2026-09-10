@@ -1,0 +1,30 @@
+{
+  "_id": "IxjZRDkdhu4FD9j1",
+  "name": "Emergency Beacon",
+  "type": "starshipmod",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>An automated distress transmitter that activates the moment the ship drops to 0 hull points, broadcasting the ship's last known position and status on all standard emergency frequencies.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 1500,
+      "denomination": "credits"
+    },
+    "category": "operation",
+    "grade": 0,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

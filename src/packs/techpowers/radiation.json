@@ -1,0 +1,50 @@
+{
+  "_id": "lgj0Gdbr6kRvyjOP",
+  "_key": "!items!lgj0Gdbr6kRvyjOP",
+  "name": "Radiation",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A faint green glow fills a 30-foot-radius sphere centered on a point you choose within range, curling around obstacles, and persists as long as you concentrate, up to 10 minutes. Whenever a creature enters the area for the first time on a turn or begins its turn there, it must succeed on a Constitution saving throw or take 4d10 necrotic damage, gain one level of exhaustion, and begin shedding a dim green glow in a 5-foot radius that prevents it from benefiting from invisibility. Both the glow and any exhaustion gained this way fade when the power ends.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d10",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

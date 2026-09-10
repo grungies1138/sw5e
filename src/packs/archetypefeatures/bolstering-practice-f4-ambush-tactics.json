@@ -1,0 +1,24 @@
+{
+  "_id": "HY2ob0OkmQEPaNkX",
+  "_key": "!items!HY2ob0OkmQEPaNkX",
+  "name": "Ambush Tactics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your group tries to move stealthily together, you can designate a number of creatures equal to your Charisma modifier; each of them adds their proficiency bonus to Dexterity (Stealth) checks (if they don't already) as long as they stay within 60 feet of you.</p><p>Additionally, any ally besides you who surprises a creature and hits it on their first turn of combat rolls two dice of the same size as your Sneak Attack dice, dealing that much extra damage of the same type.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Bolstering Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

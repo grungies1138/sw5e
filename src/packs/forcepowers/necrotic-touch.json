@@ -1,0 +1,50 @@
+{
+  "_id": "9YMrzeTHyGIMsTo3",
+  "_key": "!items!9YMrzeTHyGIMsTo3",
+  "name": "Necrotic Touch",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Reaching out through the dark side, you attempt to siphon life from a living target. Make a melee force attack against the creature. On a hit, it takes 1d6 necrotic damage, and you gain temporary hit points equal to the damage dealt, lasting until the end of your next turn.</p><p>The damage rises to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

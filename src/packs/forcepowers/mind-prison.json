@@ -1,0 +1,50 @@
+{
+  "_id": "Eg0csLUYirbRHEC3",
+  "_key": "!items!Eg0csLUYirbRHEC3",
+  "name": "Mind Prison",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You attempt to seal a creature's mind inside an illusory cage only it can perceive. One creature you can see within range must attempt an Intelligence saving throw, automatically succeeding if it is immune to being charmed. Either way, the target takes 5d10 psychic damage. On a failed save, you also craft an illusion of mortal danger surrounding its space (roaring fire, blaster fire, choking gas, or the like); the target can neither see nor hear past this illusion and is restrained for the duration. If it is forcibly moved out of the illusion, attacks through it, or reaches a limb beyond it, it takes an additional 10d10 psychic damage and the power ends. Droids and constructs are unaffected.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 6",
+    "school": "darkside",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d10",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

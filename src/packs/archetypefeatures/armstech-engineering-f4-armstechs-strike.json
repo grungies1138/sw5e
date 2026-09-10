@@ -1,0 +1,24 @@
+{
+  "_id": "LAKhL9N2mQZvKsRt",
+  "_key": "!items!LAKhL9N2mQZvKsRt",
+  "name": "Armstech's Strike",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once each round when your modified weapon damages a creature, you can tack on an extra 1d6 of the weapon's own damage type. This bonus grows to 2d6 at 11th level and 3d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armstech Engineering",
+    "className": "Engineer",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

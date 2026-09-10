@@ -1,0 +1,24 @@
+{
+  "_id": "soG1i4OH5ka8sD5y",
+  "_key": "!items!soG1i4OH5ka8sD5y",
+  "name": "Elemental Master",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>At 11th level you gain one of the following techniques, and a second at 17th level. You can use these together a number of times equal to half your proficiency bonus, regaining all uses after a long rest; once spent, you may instead pay 3 focus points to use one, lowering your focus point maximum by 3 until your next long rest.</p><p><strong>Earth Reaches for Sky</strong> (requires Crushing Hand of the Mountain or Patient Bantha Listens). As an action, erupt a 20-foot cube of churned stone and earth centered on a point on the ground you can see within 120 feet. Each creature in the area must succeed on a Dexterity save or take 3d12 kinetic damage (half on a success), and the ground becomes difficult terrain requiring at least a minute of manual clearing per 5-foot square.</p><p><strong>Ride the Wind</strong> (requires Curtain of Unyielding Wind or Rush of the Shyrack). As an action, gain a flying speed equal to your walking speed, with the ability to hover, for 10 minutes. If you're still airborne when it ends, you fall unless something else prevents it.</p><p><strong>River of Hungry Flame</strong> (requires Burning Ember Flourish or Hatchling's Flame). As an action, raise an opaque wall of fire on a solid surface within 120 feet, up to 60 feet long, 20 feet high, and 1 foot thick (or ringed, up to 20 feet across at the same height and thickness), lasting 1 minute. Each creature in its area when it appears must succeed on a Dexterity save or take 5d8 fire damage (half on a success). One face of the wall, chosen when you create it, deals 5d8 fire damage to any creature that ends its turn within 10 feet of it or that enters or ends its turn inside the wall; the other face deals no damage.</p><p><strong>Shape the Flowing River</strong> (requires Shape the Raincloud or Swarming Ice Rabbit). As an action, control any freestanding water within 300 feet inside a cube you designate up to 100 feet on a side, choosing one effect below; you may repeat or switch effects with your action on later turns.</p><ul><li><em>Flood.</em> Standing water in the area rises up to 20 feet, spilling onto adjacent shore, or—in a large body of water—forms a 20-foot wave that sweeps from one side of the area to the other, carrying Huge or smaller creatures with it and giving them a 25 percent chance to be knocked prone when struck; the water stays elevated, and the wave repeats each round, until you end the effect or switch to another.</li><li><em>Part Water.</em> The water splits into a trench across the area with walls of water to either side; it remains until you end the effect or switch, then refills naturally over the following round.</li><li><em>Redirect Flow.</em> Flowing water in the area moves in a direction you choose, even uphill or over obstacles, resuming normal behavior once it leaves the area; it keeps moving your chosen way until you end or switch the effect.</li><li><em>Whirlpool</em> (requires a body of water at least 50 feet square and 25 feet deep). A vortex forms at the area's center, 5 feet wide at its base and up to 50 feet wide and 25 feet tall; any creature or object within 25 feet of it is pulled 10 feet toward it each round, though a creature can attempt a Strength (Athletics) check against your focus save DC to swim free. A creature entering the vortex or starting its turn there must succeed on a Strength save or take 2d8 kinetic damage and become trapped until the effect ends (half damage and no trapping on a success); a trapped creature can use its action to attempt the same check with disadvantage. Any object caught in the vortex takes 2d8 kinetic damage the first time it enters each round and again each round it remains.</li></ul>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kro Var Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

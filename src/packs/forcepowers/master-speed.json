@@ -1,0 +1,45 @@
+{
+  "_id": "O158no1KrH64BPAy",
+  "_key": "!items!O158no1KrH64BPAy",
+  "name": "Master Speed",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You quicken as many as two willing creatures you can see within range. Until the power ends, each target's speed doubles, its AC increases by 2, it gains advantage on Dexterity saving throws, and it gains an extra action each turn usable only to Attack (a single weapon attack), Dash, Disengage, Hide, or Use an Object.</p><p>When the power ends, a wave of fatigue leaves each target unable to move or act until after its next turn.</p><p>Cast with a slot of 8th level or higher, you can quicken one additional creature per slot level beyond 7th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 7",
+    "school": "universal",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

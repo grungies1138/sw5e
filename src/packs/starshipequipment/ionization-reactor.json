@@ -1,0 +1,27 @@
+{
+  "_id": "eVd3RwgyDV7cOB5r",
+  "name": "Ionization Reactor",
+  "type": "starshipequipment",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>A fuel-efficient reactor, consuming fuel at half the normal rate. Its output is inconsistent, however: it regenerates <strong>1d2 &minus; 1</strong> Power Dice (0 or 1) at the start of your ship's turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 5100,
+      "denomination": "credits"
+    },
+    "kind": "reactor",
+    "configKey": "ionization",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "XmIeqFTCs2DKRAHU",
+  "name": "Kolto Patch Mk-II",
+  "type": "gear",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> An advanced medical adhesive saturated with refined kolto and a micro-dose of regenerative stim. When applied to a creature in place of a standard medpac, it restores 4d4 + 4 hit points instead of the usual amount, and the target also gains 1d4 temporary hit points that last until their next short rest.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 300,
+      "denomination": "credits"
+    },
+    "weight": 0.5,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "advanced",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

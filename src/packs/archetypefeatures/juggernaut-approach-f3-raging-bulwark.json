@@ -1,0 +1,24 @@
+{
+  "_id": "sCi7wJH8u5VZ8YDC",
+  "_key": "!items!sCi7wJH8u5VZ8YDC",
+  "name": "Raging Bulwark",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When an ally you can see is targeted by a ranged attack or must make a Dexterity saving throw, and you can see where the effect is coming from, you may spend your reaction to close in — moving up to half your speed toward that ally and ending nearer to them than you started. If your movement puts you between the ally and the source of the attack or effect, you shield them with your body, granting cover.</p><p>Your bulk also makes you a better shield generally: you grant three-quarters cover, rather than half, to creatures your own size, and full cover, rather than three-quarters, to creatures one size smaller than you.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Juggernaut Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "NTt9GDUGm3cfAy03",
+  "_key": "!items!NTt9GDUGm3cfAy03",
+  "name": "Mandalorian",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are a child of Mandalore, raised in a warrior culture that measures a person by their deeds rather than their birth. Honor won in battle, loyalty to your clan, and a hard-earned mastery of arms and armor shaped you from an early age.</p><p>Whether you still answer to a clan or walk the galaxy clanless, the code you were raised on hasn't left you, and neither has the respect &mdash; or the wariness &mdash; that the beskar'gam commands wherever you go.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "itm",
+        "pil",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "One set of artisan's implements"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Threatening",
+        "Ace Pilot",
+        "Survivalist",
+        "Crafter",
+        "Durable",
+        "Weapon Expert",
+        "Athlete"
+      ]
+    },
+    "equipment": "A set of traveler's clothes, a trophy from a past victory, and a pouch containing 200 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "q237fKlKN5ad5TRz",
+  "name": "Call for Backup",
+  "type": "shipmaneuver",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Reaction,</strong> taken when your ship is targeted by an attack. Expend a Power Die from the Comms pool and roll it; redirect the attack to a willing allied ship within 500 feet, which may then immediately make one weapon attack against the original attacker as part of this reaction, adding the result to the damage if it hits.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Coordinator Collaborations",
+    "deployment": "coordinator",
+    "rankRequired": 1,
+    "activation": "reaction",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

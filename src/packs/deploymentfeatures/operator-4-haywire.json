@@ -1,0 +1,22 @@
+{
+  "_id": "5HXtPGGmWKRWlexh",
+  "name": "Haywire",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per long rest, when you hit a target with a Disruption, you can also force it to reroll its next saving throw or attack roll before the end of its next turn and use the lower result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

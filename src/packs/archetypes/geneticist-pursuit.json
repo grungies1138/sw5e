@@ -1,0 +1,22 @@
+{
+  "_id": "G9YObHtrpzIFumGp",
+  "_key": "!items!G9YObHtrpzIFumGp",
+  "name": "Geneticist Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Somewhere between medicine and heresy sits the Geneticist, a scholar who treats the body's genetic code as raw material to be rewritten. Where others merely study the countless species of the galaxy, these researchers experiment on the one specimen closest at hand: themselves.</p><p>The results show most clearly under pressure, when a Geneticist's careful splicing lets them reshape their own physiology mid-fight, drawing on traits borrowed from beasts far more dangerous than any ordinary sentient.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

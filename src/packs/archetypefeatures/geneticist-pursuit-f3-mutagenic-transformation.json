@@ -1,0 +1,24 @@
+{
+  "_id": "tHB6dPM75Pwft4sI",
+  "_key": "!items!tHB6dPM75Pwft4sI",
+  "name": "Mutagenic Transformation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Targeting yourself with Critical Analysis lets you also trigger a mutagenic transformation, warping your body for 1 hour and amplifying your geneticist discoveries. While transformed you gain the following:</p><ul><li>Taking the Attack action lets you attack twice instead of once.</li><li>Your Strength score is replaced by your Critical Analysis score.</li><li>Your AC gains a bonus equal to half your Critical Analysis ability modifier (minimum +1), unless it already benefits from that modifier.</li></ul><p>You can end the transformation early as a bonus action, and it also ends early if you're incapacitated or die. You can transform twice, regaining all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Geneticist Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

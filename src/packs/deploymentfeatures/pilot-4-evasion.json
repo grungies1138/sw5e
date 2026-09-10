@@ -1,0 +1,22 @@
+{
+  "_id": "zWw6BvbJUNp3scW0",
+  "name": "Evasion",
+  "type": "deploymentFeature",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your ship is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, your ship instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Pilot",
+    "deployment": "pilot",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "SAjPVjx7LEEySbjw",
+  "name": "Light Physical Shield",
+  "type": "shield",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A small forearm-mounted buckler of alloy plate, strapped on and left to deflect glancing shots without ever tying up the hand behind it.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 100,
+      "denomination": "credits"
+    },
+    "weight": 6,
+    "equipped": false,
+    "tier": "light",
+    "variant": "physical",
+    "acBonus": 1,
+    "requiresFreeHand": false,
+    "obtrusive": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

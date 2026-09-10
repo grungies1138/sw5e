@@ -1,0 +1,22 @@
+{
+  "_id": "Og8YSdobV45LxXw0",
+  "_key": "!items!Og8YSdobV45LxXw0",
+  "name": "Path of Aggression",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Fury given form and focus can be as potent as any measured strike. Those sentinels who follow the Path of Aggression court the dark side's rage, wreathing their blade in crackling lightning that builds with every clash.</p><p>Where others fight to preserve their calm, these sentinels feed on the chaos of battle, channeling pain and momentum into devastating discharges that leave enemies scorched, staggered, or dead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Sentinel"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

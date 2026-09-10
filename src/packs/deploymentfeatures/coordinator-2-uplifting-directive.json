@@ -1,0 +1,22 @@
+{
+  "_id": "COQjchJRtAKlNcvs",
+  "name": "Uplifting Directive",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per short or long rest, as a bonus action, you can direct up to three crewmates you can communicate with, each of whom gains temporary hit points equal to your Charisma modifier plus your Coordinator rank.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

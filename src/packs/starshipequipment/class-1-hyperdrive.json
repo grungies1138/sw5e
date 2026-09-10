@@ -1,0 +1,27 @@
+{
+  "_id": "yg5NZLOllzRt3bOx",
+  "name": "Class 1 Hyperdrive",
+  "type": "starshipequipment",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A Class 1 hyperdrive. This is the <strong>hyperspeed baseline</strong>: a Class 1 hyperdrive completes a jump in the standard reference travel time. Engaging the hyperdrive requires an action, and the pilot must then spend at least 50 feet of flying speed before the end of the turn or the jump attempt resets.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment — Hyperdrives",
+    "price": {
+      "value": 15000,
+      "denomination": "credits"
+    },
+    "kind": "hyperdrive",
+    "configKey": "1",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

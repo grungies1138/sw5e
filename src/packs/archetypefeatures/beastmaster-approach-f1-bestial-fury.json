@@ -1,0 +1,24 @@
+{
+  "_id": "JjWLom2nyzzBJQWe",
+  "_key": "!items!JjWLom2nyzzBJQWe",
+  "name": "Bestial Fury",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, you have advantage on Wisdom (Perception) and Wisdom (Survival) checks. You can also, once on each of your turns while raging and at no action cost, mark a creature you can see as your prey for as long as the rage lasts. Once per turn, a weapon attack that damages your marked prey deals an extra 1d4 damage of the same type, and once per turn, a weapon attack your prey lands on you likewise deals you an extra 1d4 damage of its type. This die grows to d6 at 5th level, d8 at 9th, d10 at 13th, and d12 at 17th. You can only have one creature marked this way at once.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Beastmaster Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "0JhGCrzHUjLrt3oe",
+  "_key": "!items!0JhGCrzHUjLrt3oe",
+  "name": "Opportunist",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a creature within 5 feet of you is struck by an attack from someone other than you, you can use your reaction to make a melee attack against it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kage Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "X0JzGUrQ7o5gRFW7",
+  "name": "Resonant Kyber Shard",
+  "type": "gear",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> An unstable kyber crystal fragment that sings faintly when it senses a wielder attuned to the Force. Socketed into a lightsaber's focusing chamber in place of its standard crystal, it expands that weapon's critical hit range by 1 (a threshold of 20 becomes 19-20) and causes the blade to flare in an unnatural color whenever it draws blood.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 15000,
+      "denomination": "credits"
+    },
+    "weight": 0,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "legendary",
+    "attuned": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

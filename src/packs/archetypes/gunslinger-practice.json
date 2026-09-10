@@ -1,0 +1,22 @@
+{
+  "_id": "YlpIM9u17xJ0wKrc",
+  "_key": "!items!YlpIM9u17xJ0wKrc",
+  "name": "Gunslinger Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Gunslinger Practice operatives have made an art of the trick shot, treating every duel as a chance to show off just how much can be done with a blaster and steady nerves. They read an opponent's stance and habits the way others read a datapad, spotting the one opening a normal shot would miss.</p><p>Confidence is as much their weapon as their sidearm, a Gunslinger strolls into danger expecting to walk out again, and usually does, leaving foes stunned by shots that shouldn't have been possible.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "VcBUwC4KgFdXUJv9",
+  "_key": "!items!VcBUwC4KgFdXUJv9",
+  "name": "Master of Contention",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You stand among the finest duelists who have ever lived. Your Dexterity score and your Wisdom or Charisma score (your choice) each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist kinetic and energy damage, and any resistance a foe has to those damage types no longer protects them from you.</li><li>Every melee attack made against you suffers disadvantage.</li><li>Your melee weapon attacks deal one extra damage die.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Makashi Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "9kyvRgeoOTtP8CCY",
+  "name": "Brace for Impact",
+  "type": "shipmaneuver",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Reaction.</strong> When your ship's Shield Points would be reduced to 0, expend a Power Die from the Shields pool (without rolling it); instead of dropping to 0, your ship is left with 1 Shield Point.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Technician Stratagems",
+    "deployment": "technician",
+    "rankRequired": 1,
+    "activation": "reaction",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

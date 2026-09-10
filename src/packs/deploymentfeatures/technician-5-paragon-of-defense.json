@@ -1,0 +1,22 @@
+{
+  "_id": "JD9mxCiIAdI7yiB2",
+  "name": "Paragon of Defense",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, you can use a d4 instead of expending a power die to activate a Stratagem, without reducing the ship's stored power dice. In addition, once per short or long rest, you can treat a Boost (Shields) or Patch check you make as though you rolled the maximum possible result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "VvfUx4idiIj9XNgK",
+  "_key": "!items!VvfUx4idiIj9XNgK",
+  "name": "Improved Phasewalk",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You blink through space, appearing up to 60 feet away in an unoccupied spot you can see. On every subsequent turn while the power endures, you may spend a bonus action to blink again in this fashion.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

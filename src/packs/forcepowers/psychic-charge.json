@@ -1,0 +1,50 @@
+{
+  "_id": "0tI0eL7vXK0yTdJm",
+  "_key": "!items!0tI0eL7vXK0yTdJm",
+  "name": "Psychic Charge",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action used to cast this power, you must land a melee weapon attack on a creature within your reach, or the power fizzles. On a hit, the target suffers the attack's usual effects, and a shimmering violet veil seals its mouth until the start of your next turn. Should it choose to speak before then, it takes 1d8 psychic damage immediately and the power ends.</p><p>Damage scales with level: at 5th level the melee attack deals an extra 1d8 psychic damage and the penalty for speaking rises to 2d8; both dice increase again at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

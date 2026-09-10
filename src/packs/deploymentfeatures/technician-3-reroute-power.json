@@ -1,0 +1,22 @@
+{
+  "_id": "EHvUSCslfSk3z891",
+  "name": "Reroute Power",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per long rest, as a reaction when your ship's Shield Points are reduced to 0, you can immediately restore Shield Points equal to your Intelligence modifier (minimum 1) by rerouting auxiliary power directly into the shield generators.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

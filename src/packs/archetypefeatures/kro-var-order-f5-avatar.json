@@ -1,0 +1,24 @@
+{
+  "_id": "ujtugj9Xjsy06zL6",
+  "_key": "!items!ujtugj9Xjsy06zL6",
+  "name": "Avatar",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As the pinnacle of your mastery, you may spend 5 focus points as an action to wrap yourself in a sphere formed of all four elements for 1 minute, gaining resistance to cold, energy, fire, kinetic, lightning, and sonic damage, along with a burrow, fly, and swim speed each equal to your walking speed. While active, you may use any of the following as a bonus action:</p><ul><li>Trigger a small quake in a 15-foot radius around you; each creature there must succeed on a Dexterity save or take 1d6 kinetic damage and fall prone.</li><li>Loose a 15-foot-long, 5-foot-wide line of fire; each creature in it must succeed on a Dexterity save or take 3d6 fire damage (half on a success).</li><li>Blast a 15-foot cube of wind centered on a point within 60 feet; each creature there must succeed on a Constitution save or take 1d10 kinetic damage (half on a success), and a Large or smaller creature that fails is also pushed up to 10 feet from the cube's center.</li><li>Loose a 15-foot cone of ice shards; each creature in it must succeed on a Constitution save or take 2d6 cold damage and have its speed halved until the start of your next turn (half damage and no speed reduction on a success).</li></ul>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kro Var Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

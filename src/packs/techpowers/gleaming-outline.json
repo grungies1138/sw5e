@@ -1,0 +1,45 @@
+{
+  "_id": "XxogdVaIzVeaUVjQ",
+  "_key": "!items!XxogdVaIzVeaUVjQ",
+  "name": "Gleaming Outline",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Every object within a 20-foot cube in range is limned in glowing blue, green, or violet light of your choosing. Any creature in the area at the moment of casting is likewise outlined unless it succeeds on a Dexterity saving throw. For the duration, outlined objects and creatures shed dim light out to 10 feet.</p><p>Attacks against an outlined target have advantage so long as the attacker can see it, and the target cannot benefit from invisibility.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

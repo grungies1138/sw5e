@@ -1,0 +1,22 @@
+{
+  "_id": "FvacBrydSWiCj0hc",
+  "_key": "!items!FvacBrydSWiCj0hc",
+  "name": "Jar'Kai Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Jar'Kai answers every problem with two blades instead of one, trusting that twin angles of attack will find a gap a single weapon never could. Its practitioners weave complementary strikes together, overwhelming a defense from two directions at once and rarely giving an opponent a moment to recover.</p><p>Versatility is the point: a Jar'Kai duelist reads the fight and adapts on the fly, switching which hand leads and which follows, until sheer weight of attacks breaks their opponent's composure entirely.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "fP4cwwE0s9Zp4FpH",
+  "name": "Operational Control",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn two Disruptions of your choice from the Operator's shared list, each of which costs one power die drawn from the ship's Sensors or Comms pool (or central storage) to activate. You learn an additional Disruption at each Operator rank thereafter, to a maximum of five known Disruptions at 5th rank, and can swap one known Disruption for another whenever you gain a rank in this deployment. Only one Disruption may be used per turn. The save DC for your Disruptions equals 8 plus your proficiency bonus plus your ship's Charisma modifier.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "Z6cCrmcOp8xkc9El",
+  "name": "Assault Armor",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Military-grade plating with reinforced joints and a hardened chest cavity, standard issue for frontline troopers expected to walk into sustained fire.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 4000,
+      "denomination": "credits"
+    },
+    "weight": 45,
+    "equipped": false,
+    "proficient": true,
+    "type": "heavy",
+    "armor": {
+      "value": 17,
+      "dex": 0
+    },
+    "strength": 15,
+    "stealthDisadvantage": true,
+    "bulky": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

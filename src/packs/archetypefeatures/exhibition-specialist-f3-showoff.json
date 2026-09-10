@@ -1,0 +1,24 @@
+{
+  "_id": "k7Qpe4NWSstY4ErG",
+  "_key": "!items!k7Qpe4NWSstY4ErG",
+  "name": "Showoff",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you make a Strength, Dexterity, Constitution, or Charisma check, you may roll a d4 and add it to the result. If the check succeeds, you can immediately (no action required) select a number of creatures within 30 feet who can see you, up to your Charisma modifier (minimum one). Each must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or become charmed by you.</p><p>The charm ends on a target after 1 minute, or sooner if it takes damage, you attack it, or it sees you attack or harm one of its allies. A creature that succeeds on the save never realizes you attempted to charm it.</p><p>The die rolled increases to 1d6 at 5th level, 1d8 at 9th level, 1d10 at 13th level, and 1d12 at 17th level. Once used, this feature can't be used again until you finish a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Exhibition Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

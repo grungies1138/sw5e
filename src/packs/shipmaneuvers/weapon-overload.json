@@ -1,0 +1,25 @@
+{
+  "_id": "PLfcZ0OtECsGdIpT",
+  "name": "Weapon Overload",
+  "type": "shipmaneuver",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, roll your Tech Die. The next weapon attack your ship hits with before the start of your next turn deals additional damage equal to the result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Mechanic Techniques",
+    "deployment": "mechanic",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": false,
+    "formula": "@techDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

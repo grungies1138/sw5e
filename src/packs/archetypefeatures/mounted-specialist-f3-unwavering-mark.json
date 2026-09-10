@@ -1,0 +1,24 @@
+{
+  "_id": "ipjBEesIKVE2JWtJ",
+  "_key": "!items!ipjBEesIKVE2JWtJ",
+  "name": "Unwavering Mark",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Hitting a creature with a melee weapon attack lets you mark it until the end of your next turn. The mark ends early if you're incapacitated, you die, or another creature marks the same target. While within 5 feet of you, a marked creature has disadvantage on any attack roll that isn't aimed at you.</p><p>Additionally, if a marked creature damages anyone other than you, you may respond on your next turn with a bonus-action melee weapon attack against it, made with advantage; a hit deals extra damage equal to half your fighter level.</p><p>No matter how many creatures you have marked, you can make this special attack a number of times equal to your Strength modifier (minimum once), regaining all spent uses on a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mounted Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

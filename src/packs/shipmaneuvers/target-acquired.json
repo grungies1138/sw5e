@@ -1,0 +1,25 @@
+{
+  "_id": "ELA3RkCoHX846WYG",
+  "name": "Target Acquired",
+  "type": "shipmaneuver",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, expend a Power Die from the Engines pool and roll it. Your ship's next weapon attack before the start of your next turn has advantage, and deals additional damage equal to the result if it hits.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Pilot Tactics",
+    "deployment": "pilot",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

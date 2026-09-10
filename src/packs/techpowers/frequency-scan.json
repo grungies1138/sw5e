@@ -1,0 +1,45 @@
+{
+  "_id": "zn4jJIpSDXSluaxe",
+  "_key": "!items!zn4jJIpSDXSluaxe",
+  "name": "Frequency Scan",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>For the duration, you can intercept nearby electronic transmissions. On casting the power, and again as an action on each later turn, you may focus on one creature within 30 feet that you can see; the power has no effect unless that creature is a droid or construct carrying a commlink or similar device, in which case you intercept whatever it sends or receives.</p><p>If the target is a droid or construct, you also sense its surface thoughts. Spending your action, you may probe more deeply into the same mind or shift focus to a new target. Probing deeper forces a Wisdom saving throw; on a failure you learn something of its reasoning or current goals, while success ends the power. Either way the target (or its pilot) becomes aware of the intrusion and, unless you've since moved on to another target, may spend its action making an Intelligence check opposed by yours to end the power.</p><p>You can instead spend your action to sweep for hidden droids, constructs, or comm-carrying creatures within 30 feet, even through most barriers—though 2 feet of stone, 2 inches of metal besides lead, or a thin lead sheet blocks the scan. Once located this way, you may read the creature's thoughts or transmissions for the rest of the duration even without line of sight, so long as it remains in range.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

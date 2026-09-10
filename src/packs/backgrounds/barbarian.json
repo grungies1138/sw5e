@@ -1,0 +1,47 @@
+{
+  "_id": "D6yzVjQRdlJ3IPZV",
+  "_key": "!items!D6yzVjQRdlJ3IPZV",
+  "name": "Barbarian",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You come from a tribe that never fully bought into the comforts of civilization, holding to old traditions and totems even as neighboring settlements built towns and traded away their old ways. Cooperation, loyalty, and a hard respect for the wilds were bred into you from birth.</p><p>Whatever brought you away from your people, you can still read a stretch of unfamiliar terrain like a native, and the hospitality of tribes far from your own is rarely closed to you.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ani",
+        "ath",
+        "nat",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of musical instrument or artisan's implements"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Animal Handler",
+        "Brawny",
+        "Naturalist",
+        "Survivalist",
+        "Entertainer",
+        "Crafter",
+        "Athlete",
+        "Weapon Expert"
+      ]
+    },
+    "equipment": "A hunting trap, a totemic token marking your loyalty to your tribe, a set of traveler's clothes, and a pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

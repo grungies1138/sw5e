@@ -1,0 +1,24 @@
+{
+  "_id": "kYhNxwkZdjymmLDJ",
+  "_key": "!items!kYhNxwkZdjymmLDJ",
+  "name": "Beastwarden",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your bond with your companion deepens further. While it remains within 30 feet of you, casting a force power that targets only yourself lets you also target your companion with it, provided it's within the power's range.</p><p>If either you or your companion has darkvision and the other doesn't, the one lacking it gains darkvision at the same range; if you both already have it, you both instead use the larger of the two ranges, increased by 30 feet. Likewise, if either of you has advantage on Perception checks and the other doesn't, the other gains that advantage too; if you both already have it, either of you may reroll one die once when making a Perception check with advantage.</p><p>This range extends to 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Witchcraft (Companion)",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

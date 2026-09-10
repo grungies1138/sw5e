@@ -1,0 +1,24 @@
+{
+  "_id": "qfxrL5xOzUR3vkV6",
+  "_key": "!items!qfxrL5xOzUR3vkV6",
+  "name": "Focused Navigator",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in two skills of your choice from Perception, Piloting, Survival, and Acrobatics; checks made with either are never rolled at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Explorer Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

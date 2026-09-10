@@ -1,0 +1,24 @@
+{
+  "_id": "W3tsTPmB4C76kK3W",
+  "_key": "!items!W3tsTPmB4C76kK3W",
+  "name": "Mark of the Deadeye",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The range of your Ranger's Quarry feature doubles. In addition, when making ranged weapon attacks against the creature it marks, the normal and long range of your blaster weapons are doubled as well.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Deadeye Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

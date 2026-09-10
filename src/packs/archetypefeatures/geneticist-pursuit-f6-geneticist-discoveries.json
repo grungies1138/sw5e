@@ -1,0 +1,24 @@
+{
+  "_id": "PrZviMBGDN8dpvwD",
+  "_key": "!items!PrZviMBGDN8dpvwD",
+  "name": "Geneticist Discoveries",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>This pursuit opens discoveries shaped by the bodily changes you've undergone. Each time you gain a new discovery, you may take one of the following instead, listed alphabetically.</p><p><strong>Adapted Hide.</strong> Unarmored, your AC becomes 13 plus your Dexterity modifier, and you count as adapted to hot or cold climates, your choice (per chapter 5 of the Dungeon Master's Guide). While transformed, your Mutagenic Transformation's AC bonus uses your full Critical Analysis ability modifier rather than half.</p><p><strong>Atmospheric Adaptation.</strong> You can breathe both air and water. While transformed, you don't need to breathe at all, and can survive up to an hour in the vacuum of space.</p><p><strong>Enhanced Musculature.</strong> Your carrying capacity and the weight you can push, drag, or lift double (or triple, if some other effect already doubles it). Your long jump distance can reach up to twice your Strength score in feet, and your high jump can reach 3 plus twice your Strength modifier in feet. While transformed, you have advantage on Strength checks and saving throws.</p><p><strong>Icarian Mutation.</strong> A pair of winged arms grows in, giving you a flying speed equal to half your walking speed. You can only benefit from items held in two of your arms at once, though you may switch which pair benefits once per round at no action cost. While transformed, your flying speed equals your full walking speed, and you can Dash as a bonus action.</p><p><strong>Mutagenic Hardiness.</strong> Your hit point maximum permanently increases by your character level, gaining 1 more each level thereafter. While transformed, at the start of each of your turns you also gain temporary hit points equal to half your scholar level plus your Critical Analysis ability modifier.</p><p><strong>Predatory Senses.</strong> You gain darkvision to 60 feet, or extend existing darkvision by 30 feet. While transformed, Wisdom (Perception) checks relying on smell are made with advantage, and you can track any creature that left a scent within the last 24 hours.</p><p><strong>Underground Adaptation.</strong> You gain a burrowing speed equal to your walking speed, able to tunnel through solid rock at 1 foot per round, provided both your hands are free. While transformed, you gain tremorsense out to 30 feet, letting you sense and locate vibrations from anything sharing contact with the same ground or surface as you; it can't detect flying or incorporeal creatures.</p><p><strong>Unnatural Weaponry.</strong> Claws or another natural weapon sprout from your body: your unarmed strikes deal 1d4 kinetic damage, using your choice of Strength, Dexterity, or Critical Analysis modifier for both the attack and damage roll (the same modifier for each). While transformed, that damage die becomes a d6, counts as enhanced, and hits deal an extra 1d4 acid, lightning, or poison damage (your choice).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Geneticist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

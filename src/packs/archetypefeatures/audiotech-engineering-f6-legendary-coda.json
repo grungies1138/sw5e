@@ -1,0 +1,24 @@
+{
+  "_id": "RIowWMKnPnxhrFcs",
+  "_key": "!items!RIowWMKnPnxhrFcs",
+  "name": "Legendary Coda",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can end your enhanced song in a triumphant final blast whose effect depends on which song you were playing. Once you've used this feature, you need a long rest before using it again.</p><p><strong>Battle Crescendo.</strong> Choose up to 10 creatures you can see that can hear your song; each must succeed on a Constitution save or take 14d6 sonic damage and be stunned for 1d4+1 turns (half damage and no stun on a success). A creature slain by this effect has its head explode.</p><p><strong>Support Crescendo.</strong> Choose up to 10 creatures you can see that can hear your song. Once within the next minute, each may, as a free action when it takes damage, halve that damage — and if the damage would drop it to 0 hit points, it drops to 1 instead.</p><p><strong>Disruption Crescendo.</strong> Choose up to 10 creatures you can see that can hear your song; each must succeed on a Constitution save or be paralyzed for 1d4+1 turns, the effect ending for any creature that takes damage of any kind.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Audiotech Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

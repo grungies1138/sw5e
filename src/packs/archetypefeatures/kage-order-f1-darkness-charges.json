@@ -1,0 +1,24 @@
+{
+  "_id": "DmsMwsUJd9W4WC63",
+  "_key": "!items!DmsMwsUJd9W4WC63",
+  "name": "Darkness Charges",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can craft small charges that burst into a deeper darkness. During a short or long rest, you produce two such charges, gaining one more at 5th, 9th, 13th, and 17th level. Only you can trigger a charge, and any unused charge loses its potency at the end of your next short or long rest.</p><p>Once per turn, you may throw a charge instead of making a weapon attack or unarmed strike. It has a range of 30 feet plus five times your Strength modifier, and detonates at a point you choose within that range into a 10-foot-radius sphere of darkness that bends around corners, lasting 1 minute or until dispelled by an enhanced source of bright light.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kage Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

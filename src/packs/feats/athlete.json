@@ -1,0 +1,33 @@
+{
+  "_id": "9pxY5U5wpiDcTo2I",
+  "_key": "!items!9pxY5U5wpiDcTo2I",
+  "name": "Athlete",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Rigorous physical conditioning has paid off. Increase your Strength or Dexterity score by 1, to a maximum of 20.</p><p>Standing up from prone costs you only 5 feet of movement, climbing no longer costs extra movement, and you can make a running long or high jump after covering just 5 feet on foot rather than the usual 10.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

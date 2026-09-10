@@ -1,0 +1,50 @@
+{
+  "_id": "gloY4ShVqkONAhFA",
+  "_key": "!items!gloY4ShVqkONAhFA",
+  "name": "Eruption",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You cause up to six pillars of stone to erupt from spots on the ground you can see within range, each a 5-foot-diameter cylinder rising as much as 30 feet high; the ground must be wide enough to accommodate the pillar, and you may target the ground beneath a Medium or smaller creature. Each pillar has AC 5 and 30 hit points, and crumbles into a 10-foot-radius patch of difficult terrain (requiring at least 1 minute per 5-foot section to clear by hand) when reduced to 0 hit points.</p><p>A creature standing where a pillar erupts must succeed on a Dexterity saving throw or be carried upward with it (a creature may choose to fail this save).</p><p>If a pillar's rise is blocked by a ceiling or other obstacle before reaching full height, a creature atop it takes 6d6 kinetic damage and becomes restrained, pinned between the pillar and the obstacle. As an action, the restrained creature may attempt a Strength or Dexterity check (its choice) against the power's save DC to break free, after which it must move off the pillar or fall.</p><p>Casting this power with a force slot of 7th level or higher lets you create two additional pillars for each slot level beyond 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 6",
+    "school": "universal",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "6d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

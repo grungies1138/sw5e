@@ -1,0 +1,24 @@
+{
+  "_id": "PGIPGdKfdeZTAbGW",
+  "_key": "!items!PGIPGdKfdeZTAbGW",
+  "name": "Dark Magick",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can force every creature within 30 feet that can see you to attempt a Wisdom saving throw against your focus save DC. On a failure, each creature becomes charmed or frightened by you (your choice) until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Nightsister Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

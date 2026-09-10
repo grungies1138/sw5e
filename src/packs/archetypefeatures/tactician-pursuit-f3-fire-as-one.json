@@ -1,0 +1,24 @@
+{
+  "_id": "rJJMPudVhh9LPNOS",
+  "_key": "!items!rJJMPudVhh9LPNOS",
+  "name": "Fire as One",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can pile on when allies press an attack. Once per round, when the creature marked by your Critical Analysis is attacked by anyone other than you, you may use your reaction to make one weapon attack against it yourself.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactician Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

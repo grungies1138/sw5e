@@ -1,0 +1,24 @@
+{
+  "_id": "cV5M9gboOCPOyUH7",
+  "_key": "!items!cV5M9gboOCPOyUH7",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn either the Cause Harm or Lend Aid Channel the Force option, and using it grants you an added benefit.</p><p><strong>Cause Harm.</strong> You may deal ion damage instead of necrotic damage.</p><p><strong>Lend Aid.</strong> Droids and constructs become valid targets.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Aqinos Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

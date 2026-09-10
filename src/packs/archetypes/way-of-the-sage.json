@@ -1,0 +1,22 @@
+{
+  "_id": "KKuQciwCqj3hbYBh",
+  "_key": "!items!KKuQciwCqj3hbYBh",
+  "name": "Way of the Sage",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Compassion given form, the Way of the Sage draws on the Force's gentler currents to mend flesh and spirit alike. These consulars step back from the front line, becoming the quiet anchor that keeps their companions upright through battles that would otherwise grind them down.</p><p>Every act of healing they perform runs deeper than the last, restoring more than the Force alone would grant, and rebounding some of that vitality back into the healer. At the height of their mastery, their restorative power becomes nearly limitless, capable of dragging even the gravely wounded back from the brink.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

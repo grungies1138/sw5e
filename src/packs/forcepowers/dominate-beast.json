@@ -1,0 +1,45 @@
+{
+  "_id": "NQLgxLMig2hre2ks",
+  "_key": "!items!NQLgxLMig2hre2ks",
+  "name": "Dominate Beast",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You attempt to bend the will of a beast you can see within range, which must succeed on a Wisdom saving throw or become charmed by you for the duration; it has advantage on this save if you or your allies are currently fighting it. While charmed, the beast shares a telepathic link with you as long as you remain on the same planet, letting you issue it simple commands with no action required, which it obeys to the best of its ability, defending itself if no further order is given.</p><p>As an action, you can seize total control of the beast until the end of your next turn, dictating every action it takes (and, at the cost of your own reaction, any reaction it makes). Whenever the beast takes damage, it may attempt a new Wisdom save to break free, ending the power on a success.</p><p>Casting this power with a 5th-level slot extends the duration to 10 minutes; a 6th-level slot extends it to 1 hour; and a slot of 7th level or higher extends it to 8 hours.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 4",
+    "school": "darkside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

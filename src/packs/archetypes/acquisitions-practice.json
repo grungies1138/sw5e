@@ -1,0 +1,22 @@
+{
+  "_id": "YjecKHc7XxeoyYzm",
+  "_key": "!items!YjecKHc7XxeoyYzm",
+  "name": "Acquisitions Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some operatives take on jobs that call for equal parts patience and daring: slipping past sensor grids, scaling sheer surfaces, and vanishing again before anyone notices what's missing. Acquisitions specialists treat security systems as puzzles to be solved rather than obstacles to be smashed, prizing a clean escape over a loud one.</p><p>Whether hired to retrieve a relic for a client or simply chasing the thrill of a perfect heist, these operatives move like they were born without weight, bounding across rooftops, palming valuables mid-stride, and reading a lock's mechanism as easily as a native tongue.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "8845HFTisBEDsPqC",
+  "_key": "!items!8845HFTisBEDsPqC",
+  "name": "Enhanced Force-Empowered Self",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your body has grown more attuned to drawing on the Force flowing through it. Once per turn, when you use a Force-Empowered Self option, you may bolster it for one of the additional effects below. You have three uses of this feature combined, gaining one more at 9th, 13th, and 17th level, all of which return after a short or long rest — and even with none remaining, you may still bolster an option by paying 1 force point instead.</p><p><strong>Aegis.</strong> Bolstering Deflection means that, until the start of your next turn, the next attack that would hit you instead has its damage reduced by the same value you rolled for Deflection.</p><p><strong>Cleave.</strong> Bolstering Double Strike lets you name a second creature within 5 feet of your original target, who takes damage of the same type equal to the die result rolled for Double Strike.</p><p><strong>Momentum.</strong> Bolstering Slow Time lets you ignore difficult terrain until the end of your turn and move across vertical surfaces or liquids during that movement without falling.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Iron",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

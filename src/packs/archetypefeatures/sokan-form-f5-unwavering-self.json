@@ -1,0 +1,24 @@
+{
+  "_id": "1cCd5BbYaSoj6sCf",
+  "_key": "!items!1cCd5BbYaSoj6sCf",
+  "name": "Unwavering Self",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you fail a Strength, Dexterity, or Constitution saving throw, you may reroll the die, and you must use the new result.</p><p>You must complete a long rest before using this feature again; from 15th level on, you can use it twice between long rests.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sokan Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Force Push",
+  "type": "power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": { "value": "<p>You attempt to push a creature or object away from you with the Force.</p>", "chat": "" },
+    "source": "PHB Ch.14 Casting — Universal Powers",
+    "school": "universal",
+    "level": 0,
+    "activation": { "type": "action", "cost": 1 },
+    "range": { "value": 30, "units": "ft" },
+    "duration": { "value": "", "units": "inst" },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": { "parts": [{ "formula": "1d6", "type": "force" }] },
+    "save": { "ability": "str", "scaling": "power" },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": { "default": 0 },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "XsBXv0kdIHuDhun9",
+  "_key": "!items!XsBXv0kdIHuDhun9",
+  "name": "Praetorian Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Bodyguards to the powerful and paragons of martial discipline, Praetorian Specialists perfect both body and mind in equal measure. Their training goes beyond mere swordplay, cultivating a poise and self-control that serves them as well in a royal court as on a battlefield.</p><p>This inner discipline becomes a literal engine of war &mdash; a burning fighting spirit that sharpens their strikes and shields them from harm even as their body fails. A true Praetorian Specialist can be struck down again and again and still refuses to stop fighting until the very last breath.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

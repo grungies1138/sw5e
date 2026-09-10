@@ -1,0 +1,24 @@
+{
+  "_id": "mHIAhtXVFSRzOgRi",
+  "_key": "!items!mHIAhtXVFSRzOgRi",
+  "name": "Painkiller",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you cast a 1st-level or higher tech power, or deal damage with your Explosive Resilience, you can grant a friendly creature you can see within 30 feet temporary hit points equal to half your berserker level plus your Intelligence modifier. As long as they hold those temporary hit points, they also have advantage on saves against being frightened.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Industrial Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

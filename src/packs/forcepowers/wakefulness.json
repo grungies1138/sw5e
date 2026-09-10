@@ -1,0 +1,45 @@
+{
+  "_id": "wXBdMVyjPsy0jJN7",
+  "_key": "!items!wXBdMVyjPsy0jJN7",
+  "name": "Wakefulness",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You use the Force to regulate your body's functions. For the duration, you ignore the effects of any exhaustion levels you have, and you don't need to eat, drink, or sleep, nor can you be magically forced to sleep; to gain the benefits of a long rest you need only spend all 8 hours on light activity such as reading or keeping watch.</p><p>If you still have levels of exhaustion when the power ends, you must succeed on a DC 15 Constitution saving throw or gain one additional level of exhaustion.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "8",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

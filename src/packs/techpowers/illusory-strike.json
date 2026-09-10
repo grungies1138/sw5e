@@ -1,0 +1,45 @@
+{
+  "_id": "ANwMfXgSJwPmpzXP",
+  "_key": "!items!ANwMfXgSJwPmpzXP",
+  "name": "Illusory Strike",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action you spend casting this power, you make a melee weapon attack against a creature within reach; the power fails if you don't. On a hit, the attack deals its normal damage, and an illusory duplicate of you appears in your space, visible only to the target. The target has disadvantage on its next attack roll against you before the start of your next turn.</p><p>At higher levels this power spawns additional duplicates and imposes disadvantage on additional attacks: a second duplicate at 5th level (two attacks), a third at 11th level (three attacks), and a fourth at 17th level (four attacks).</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

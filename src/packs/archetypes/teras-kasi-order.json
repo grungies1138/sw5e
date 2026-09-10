@@ -1,0 +1,22 @@
+{
+  "_id": "etydgupsxxTYVytX",
+  "_key": "!items!etydgupsxxTYVytX",
+  "name": "Teras Kasi Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Teras Kasi disciples pursue the purest form of unarmed combat, refining strikes drawn from a lifetime of defeating opponents and resisting the Force's subtler assaults on the mind.</p><p>When patience gives way to violence, these monks unleash coordinated bursts of technique—each stance building on the last—until an overwhelming rush of blows leaves their foes broken and subdued.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

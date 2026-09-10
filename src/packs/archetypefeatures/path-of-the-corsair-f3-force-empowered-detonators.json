@@ -1,0 +1,24 @@
+{
+  "_id": "Osob3FeYsVU1NGIV",
+  "_key": "!items!Osob3FeYsVU1NGIV",
+  "name": "Force-Empowered Detonators",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn to fashion a batch of compact, potent grenades, crafting two of them over the course of a short or long rest provided you have a demolitions kit on hand. Only you can make use of these grenades, and any you haven't used lose their potency at the end of your next short or long rest.</p><p>Each grenade can be rigged to explode on impact, or set with a timer to detonate on initiative count 20 (resolving ties last). Priming and throwing one is an action, targeting a point you can see within a range of 30 feet plus five times your Strength modifier. Every creature within 5 feet of that point must attempt a Dexterity, Constitution, or Wisdom saving throw (you choose which when the grenade is made) against your universal force save DC, taking damage equal to your Kinetic Combat die plus your Wisdom or Charisma modifier (your choice) on a failure, or half that amount on a success. The damage type is force for a Dexterity save, necrotic for a Constitution save, or psychic for a Wisdom save.</p><p>You can craft more grenades at higher levels: three at 5th level, four at 9th level, five at 13th level, and six at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of the Corsair",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

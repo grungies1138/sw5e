@@ -1,0 +1,50 @@
+{
+  "_id": "Vq4uV5AcZSc5ctjl",
+  "_key": "!items!Vq4uV5AcZSc5ctjl",
+  "name": "Force Repulse",
+  "type": "power",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>You release a shockwave of protective Force energy in a 15-foot radius centered on yourself. Each creature of your choice in that area must make a Strength saving throw, taking 4d8 force damage and being pushed 15 feet away from you on a failed save, or half as much damage and no push on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 3",
+    "school": "lightside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d8",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

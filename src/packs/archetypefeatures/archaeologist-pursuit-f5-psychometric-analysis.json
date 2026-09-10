@@ -1,0 +1,24 @@
+{
+  "_id": "tcREzLSXFgmTUNoi",
+  "_key": "!items!tcREzLSXFgmTUNoi",
+  "name": "Psychometric Analysis",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your bond with the Force sharpens your ability to read the history embedded in objects around you. You can spend a use of your Critical Analysis to examine an object no larger than Huge within range that you can see, learning whether it is enhanced or cursed, and roughly how old it is.</p><p>You can also, without using an action, end that Critical Analysis on the object to ask it one question and receive an answer — typically a brief vision or sound impression. Touching the shattered remains of a lightsaber and asking how it ended up there, for instance, might show a flash of a frustrated Jedi hurling it away. Answers of this kind are limited to the object's past, and the GM decides which objects qualify and how much they can reveal.</p><p>You can use this feature four times, gaining an additional use at 13th and 17th level, and you regain all spent uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Archaeologist Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

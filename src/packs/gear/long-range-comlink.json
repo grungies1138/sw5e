@@ -1,0 +1,29 @@
+{
+  "_id": "ubkX5rUcDpuaBHul",
+  "name": "Long-Range Comlink",
+  "type": "gear",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>A boosted comlink with a folding antenna array, capable of reaching orbit or bouncing a signal off a relay to span planetary distances.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 150,
+      "denomination": "credits"
+    },
+    "weight": 2,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

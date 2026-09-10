@@ -1,0 +1,45 @@
+{
+  "_id": "23qi8S5mdtOfQpGB",
+  "_key": "!items!23qi8S5mdtOfQpGB",
+  "name": "Telemetry",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch an object continuously throughout the minute it takes to cast this power. If it is an enhanced or modified item, you learn its properties, how to use them, whether it requires attunement, and how many charges it has, if any; you also learn what powers, if any, currently affect it, and if a power created it, which power that was.</p><p>If you instead touch a creature throughout the casting, you learn what force powers currently affect it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "eEGyQ272sCvQaKpp",
+  "_key": "!items!eEGyQ272sCvQaKpp",
+  "name": "Diminish Tech",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target one creature, object, or ongoing tech effect within range. Any tech power of 3rd level or lower affecting the target ends immediately. For each tech power of 4th level or higher affecting it, make an ability check using your techcasting ability against a DC of 10 plus the power's level; success ends that power.</p><p>Cast with a tech slot of 4th level or higher, you automatically end any tech power on the target whose level is no greater than the slot you used.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

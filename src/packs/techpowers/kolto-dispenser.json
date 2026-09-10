@@ -1,0 +1,45 @@
+{
+  "_id": "08pkzwnLI6ifm8P7",
+  "_key": "!items!08pkzwnLI6ifm8P7",
+  "name": "Kolto Dispenser",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure a hovering kolto dispensing unit that occupies a 5-foot cube you can see within range. Until the power ends, the first time each turn that you or a creature you can see enters the dispenser's space or begins its turn there, you may have it dispense 1d6 hit points of healing to that creature at no action cost. The dispenser can do this a number of times equal to 1 plus your techcasting ability modifier (minimum twice), after which it burns out. It has no effect on droids or constructs.</p><p>As a bonus action, you can direct the dispenser to relocate up to 30 feet to another space you can see.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 3rd level or higher, the healing increases by 1d6 per slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

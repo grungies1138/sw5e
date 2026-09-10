@@ -1,0 +1,32 @@
+{
+  "_id": "RqWPEcrIFAySnJW1",
+  "_key": "!items!RqWPEcrIFAySnJW1",
+  "name": "Ace Pilot",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Years spent behind the controls of starfighters, freighters, and speeders — whether in military service, mercenary work, or less legal pursuits — have sharpened your reflexes and your eye for machinery. Increase your Intelligence score by 1, to a maximum of 20.</p><p>You gain proficiency in the Piloting skill, or expertise in it if you are already proficient. In addition, whenever you make an Intelligence (Investigation) or Wisdom (Perception) check that pertains to a vehicle or starship, treat yourself as having expertise in the relevant skill.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "int"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

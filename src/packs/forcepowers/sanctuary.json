@@ -1,0 +1,45 @@
+{
+  "_id": "gFEH8nGziJcaTUBw",
+  "_key": "!items!gFEH8nGziJcaTUBw",
+  "name": "Sanctuary",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Until the power ends, any creature that targets the warded creature with an attack, a harmful power, or another hostile act must first succeed on a Wisdom save; failure forces it to redirect at a different target or abandon the attack or power entirely. Area effects are unaffected by this protection.</p><p>The power ends immediately if the warded creature attacks, casts a power targeting an enemy, or takes a hostile action of its own.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

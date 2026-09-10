@@ -1,0 +1,24 @@
+{
+  "_id": "Qa7ca2BL8TtNA1LL",
+  "_key": "!items!Qa7ca2BL8TtNA1LL",
+  "name": "Unbreakable Focus",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once between long rests, you may cast <em>battle meditation</em> at its base level free of any force point cost. While you remain concentrating on it, its die grows by one step at the start of each of your turns (d4 to d6, d6 to d8, d8 to d10, or d10 to d12).</p><p>Additionally, on any Constitution save you make to keep your concentration on a force power, a roll of 9 or lower on the d20 counts as a 10 instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Meditation",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

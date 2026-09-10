@@ -1,0 +1,45 @@
+{
+  "_id": "Ji0Dgi6x9kpRYmEF",
+  "_key": "!items!Ji0Dgi6x9kpRYmEF",
+  "name": "Instinctive Movement",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You attune your body to the Force, moving with heightened speed and acrobatic control. Casting this power grants you two speed points. When you cast it, and as a bonus action on later turns, you may spend one speed point to gain the following until the end of the turn: your speed increases by 5 feet; you resist falling damage; you disregard difficult terrain; you gain a climbing speed equal to your walking speed; your long jump distance grows by 10 feet and your high jump by 3 feet; you can travel across vertical surfaces and along ceilings with your hands free; and you do not sink into soft or loose ground such as mud, snow, or sand, though you still cannot cross liquid surfaces. If you close at least 20 feet toward a creature in a straight line and then land a melee weapon attack against it for the first time that turn, the attack deals an extra 1d4 damage.</p><p>These benefits lapse at the end of the turn unless renewed, and if losing them would leave you clinging to a vertical surface or otherwise unsupported, you immediately fall or sink. The power ends early if you recast it or exhaust your speed points, and any unspent points are then lost.</p><p>Cast with a slot of 2nd level or higher, the extra damage increases by 1d4 per slot level beyond 1st, and casting it with a slot of 3rd level or higher grants one additional speed point for every two slot levels beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

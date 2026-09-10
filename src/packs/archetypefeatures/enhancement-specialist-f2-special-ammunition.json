@@ -1,0 +1,24 @@
+{
+  "_id": "HsbMVIL4CIeKp7r4",
+  "_key": "!items!HsbMVIL4CIeKp7r4",
+  "name": "Special Ammunition",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've mastered a set of ammunition enhancements &mdash; special enhanced effects fueled by amplified shots.</p><p><strong>Ammunition Enhancements.</strong> You start out knowing two enhancements, chosen from the options detailed below, and learn more as you level up. Most of them add something extra to an attack. Once per turn, when you fire a shot from a blaster as part of the Attack action, you may apply one known enhancement to that shot. You gain another enhancement option at 7th, 10th, 15th, and 18th level, and every enhancement you know also grows stronger once you reach 18th level. Each time you gain a new enhancement, you may also swap out one you already know for a different one.</p><p><strong>Amplified Shots.</strong> You have a pool of two amplified shots, consumed to power your enhancements. Firing an amplified shot makes your weapon count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and damage. You choose whether to apply the enhancement's effect at the moment the shot hits (unless the enhancement doesn't involve an attack roll at all). A short or long rest refills your amplified shots.</p><p><strong>Saving Throws.</strong> Certain enhancements force a target to attempt a saving throw against the following DC:</p><p><strong>Ammunition save DC</strong> = 8 + your proficiency bonus + your Dexterity modifier</p><p>The available enhancements, listed alphabetically, are:</p><p><strong>Carbonite Shot.</strong> The struck target becomes wrapped in shards of carbonite: it takes an extra 2d6 cold damage, gains 1 slowed level, and takes 2d6 kinetic damage the first time each turn it moves 1 foot or more without teleporting. The target, or any creature that can reach it, may spend its action attempting a Strength (Athletics) check against your Special Ammunition save DC to strip the carbonite away; otherwise it persists for 1 minute or until you use this option again. Both damage dice increase to 4d6 once you reach 18th level.</p><p><strong>Coercing Shot.</strong> The struck target takes an extra 2d6 poison damage from disorienting chemicals. Choose one of your allies within 30 feet of the target; unless the target succeeds on a Wisdom saving throw, that ally charms it until the start of your next turn. This charm ends early if the chosen ally attacks the target, damages it, or forces a saving throw from it. The poison damage rises to 4d6 at 18th level.</p><p><strong>Explosive Shot.</strong> The shot detonates just after it strikes, dealing 2d6 fire damage to the struck creature and to every other creature within 10 feet of it. This damage rises to 4d6 at 18th level.</p><p><strong>Hallucinogen Shot.</strong> The struck target takes an extra 2d6 psychic damage from hallucinogenic chemicals, and unless it succeeds on a Wisdom saving throw, it can't see anything more than 5 feet away until the start of your next turn. This damage rises to 4d6 at 18th level.</p><p><strong>Piercing Shot.</strong> Using this option replaces your attack roll: the shot instead streaks forward in a line 1 foot wide and 30 feet long before vanishing, passing through objects and ignoring cover. Every creature caught in that line makes a Dexterity saving throw, taking the shot's normal damage plus an extra 1d6 of the weapon's damage type on a failure, or half as much on a success. This extra damage rises to 2d6 at 18th level.</p><p><strong>Quell Shot.</strong> The struck target takes an extra 2d6 poison damage, and unless it also succeeds on a Constitution saving throw, its own weapon attacks deal only half damage until the start of your next turn. The poison damage rises to 4d6 at 18th level.</p><p><strong>Seeking Shot.</strong> Using this option replaces your attack roll: choose a creature you've seen within the past minute, and the shot homes in on it, bending around corners as needed and ignoring three-quarters and half cover. If the target is within weapon range and a path wide enough exists, it must attempt a Dexterity saving throw; otherwise the shot simply dissipates once it has traveled as far as it can. On a failed save the target takes the shot's normal damage plus an extra 1d6 kinetic damage, and you learn its current location; on a success it takes half damage and you learn nothing.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Enhancement Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

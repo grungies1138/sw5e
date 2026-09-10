@@ -1,0 +1,24 @@
+{
+  "_id": "jAwAfnxkiBzUK8FG",
+  "_key": "!items!jAwAfnxkiBzUK8FG",
+  "name": "Straight Through",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Scoring a critical hit on your turn while wielding a weapon with the heavy or strength property lets you use your reaction to make one weapon attack against a different creature within 5 feet of the original target.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Heavy Weapons Specialist",
+    "className": "Fighter",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

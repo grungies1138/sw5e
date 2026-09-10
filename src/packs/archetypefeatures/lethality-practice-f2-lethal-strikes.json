@@ -1,0 +1,24 @@
+{
+  "_id": "eOaC8NskQXmqywHH",
+  "_key": "!items!eOaC8NskQXmqywHH",
+  "name": "Lethal Strikes",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you deal Sneak Attack damage, you can give up two of those dice to instead land a lethal strike. Several lethal strikes call for a saving throw with a DC equal to 8 plus your proficiency bonus plus your Dexterity modifier.</p><p><strong>Priming Attack.</strong> The target attempts a Dexterity, Constitution, or Wisdom save (your choice). On a failure, the next time you deal Sneak Attack damage to it before the end of your following turn, you roll four bonus Sneak Attack dice.</p><p><strong>Target Assessment.</strong> The target attempts a Charisma save. On a failure, the GM reveals two details of your choosing from this list: its highest ability score, its lowest ability score, its strongest saving throw, or its weakest saving throw.</p><p><strong>Vulnerable Strike.</strong> The target attempts a Wisdom save. On a failure, the next attack roll you would make against it before the end of your following turn is instead replaced with a saving throw of an ability you choose; if the target fails that save, it takes ordinary weapon damage, suffers any effects that normally trigger on a hit, and you may add Sneak Attack damage to the result.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Lethality Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

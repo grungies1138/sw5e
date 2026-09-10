@@ -1,0 +1,24 @@
+{
+  "_id": "jltd10xu1JJDv6H9",
+  "_key": "!items!jltd10xu1JJDv6H9",
+  "name": "Maneuver Mastery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once each round, instead of rolling a superiority die, you may simply take the highest possible result on it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactical Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

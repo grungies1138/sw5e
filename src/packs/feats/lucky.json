@@ -1,0 +1,30 @@
+{
+  "_id": "DIB2ilLkLZyXTii1",
+  "_key": "!items!DIB2ilLkLZyXTii1",
+  "name": "Lucky",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Fortune tends to favor you at critical moments. You have 3 luck points to spend as described below, regaining all of them whenever you finish a long rest.</p><p>Whenever you make an attack roll, ability check, or saving throw, you may spend one luck point to roll an additional d20; you may do so after seeing the first roll but before the result is decided, and you choose which of the two d20s applies. You can likewise spend a luck point when a creature makes an attack roll against you, rolling a d20 of your own and choosing whether the attack uses the attacker's roll or yours. If two or more creatures spend luck points affecting the same roll, their points cancel out and no extra dice are added.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "7oMjU08093XCk4ta",
+  "_key": "!items!7oMjU08093XCk4ta",
+  "name": "Greater Pyrokinesis",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure a wall of Force-wreathed fire anchored to a solid surface within range — straight, up to 60 feet long, 20 feet high, and 1 foot thick, or ringed, up to 20 feet across, 20 feet high, and 1 foot thick. The wall is opaque and persists for the duration.</p><p>When it appears, each creature in its area must succeed on a Dexterity saving throw or take 5d8 energy damage, half as much on a success. You designate one face of the wall when you cast it; that face deals 5d8 energy damage to any creature that ends its turn within 10 feet of it or inside the wall, and the same damage to a creature that enters the wall for the first time on a turn or ends its turn there. The other face is harmless.</p><p>Cast with a 5th-level slot or higher, the damage increases by 1d8 for each slot level above 4th.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d8",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

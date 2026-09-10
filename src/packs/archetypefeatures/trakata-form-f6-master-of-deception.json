@@ -1,0 +1,24 @@
+{
+  "_id": "S3fexh5qbu3AKnVZ",
+  "_key": "!items!S3fexh5qbu3AKnVZ",
+  "name": "Master of Deception",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your skill with a lightweapon is as bewildering as it is dazzling. Your Dexterity score and your Wisdom or Charisma score (your choice) each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist kinetic, energy, and ion damage dealt by weapons.</li><li>Your attack rolls can never suffer disadvantage.</li><li>Whenever a creature misses you with a melee attack, it takes 5 energy damage.</li><li>Whenever a creature hits you with a melee attack, it takes damage equal to half the damage you took from that attack.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Trakata Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "n4VtUbhKRuijYUF5",
+  "_key": "!items!n4VtUbhKRuijYUF5",
+  "name": "Vortex Shot",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action used to cast this power, you must make a ranged weapon attack against a creature within your weapon's range, or the power fails. On a hit, the attack deals its normal damage, and every Large or smaller creature within 10 feet of the target must succeed on a Strength saving throw or be dragged into the nearest unoccupied space adjacent to the target.</p><p>At 5th level, the ranged attack deals an extra 1d6 damage of the weapon's type; this bonus increases by another 1d6 at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

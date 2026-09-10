@@ -1,0 +1,36 @@
+{
+  "_id": "jiQM5IiOAiPkCIKP",
+  "_key": "!items!jiQM5IiOAiPkCIKP",
+  "name": "Squadron Pilot",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You trained and flew as part of a starfighter squadron, whether in a planetary defense force, a galactic navy, or a rebel cell, learning to fly in formation, trust your wingmates, and put a target in your sights before they do the same to you. The bond between squadmates who have flown into hostile fire together runs deep, and many pilots never fully lose that instinct to look out for the ship on their wing.</p><p>Whether your squadron still flies or was lost long ago, the reflexes and camaraderie of squadron life stay with you.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "pil",
+        "prc"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Ace Pilot"
+      ]
+    },
+    "equipment": "A flight suit and helmet bearing your squadron's insignia, a set of pilot's tools, a memento from a fallen wingmate, and 10 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

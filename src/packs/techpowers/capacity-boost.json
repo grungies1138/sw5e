@@ -1,0 +1,45 @@
+{
+  "_id": "ptKwcsCLk6allR7d",
+  "_key": "!items!ptKwcsCLk6allR7d",
+  "name": "Capacity Boost",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You supercharge a blaster weapon you are holding. For the duration, you can reload it once each turn without spending an action, and you can use a bonus action each turn to make one attack with it.</p><p>Cast with a tech slot of 5th level or higher, your bonus-action attack becomes two attacks instead of one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "tUY8y227bYXkEf7m",
+  "_key": "!items!tUY8y227bYXkEf7m",
+  "name": "Politician Discoveries",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>This pursuit unlocks discoveries shaped by your study of the political world. Each time you gain a new discovery, you may take one of the following instead, listed here alphabetically.</p><p><strong>Charming Feint.</strong> Allies within the range of your Motivating Diplomat also add half your Critical Analysis ability modifier to their damage rolls.</p><p><strong>Demanding Leader</strong> (5th level required). Every maneuver you use reaches 10 feet farther; a maneuver normally requiring touch instead has a 10-foot range.</p><p><strong>Dominating Presence</strong> (15th level required). As a bonus action, you can direct a humanoid that understands you and is charmed or frightened by you, forcing it to attempt a Wisdom saving throw against your maneuver save DC. On a failure, until the end of your next turn that creature acts only as you command and takes no action you haven't sanctioned; during that window you may also spend your reaction to compel it to use its own reaction. You must complete a short or long rest before using this feature again.</p><p><strong>Influencer</strong> (5th level required). Motivating Diplomat's range extends to 15 feet.</p><p><strong>Reliable Words</strong> (9th level required). Your Charisma (Deception), (Intimidation), and (Persuasion) checks gain a minimum roll threshold, as covered in chapter 7.</p><p><strong>Social Opportunist.</strong> Any Charisma check you make that wouldn't otherwise include your proficiency bonus gets half that bonus added anyway.</p><p><strong>Tyrant's Ferocity.</strong> You attack with advantage against any creature that is charmed or frightened by you.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Politician Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

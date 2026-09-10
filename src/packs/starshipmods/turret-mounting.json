@@ -1,0 +1,30 @@
+{
+  "_id": "X66CBSSVfKtrcVGo",
+  "name": "Turret Mounting",
+  "type": "starshipmod",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>A rotating, power-fed weapon mount that grants its installed weapon a full firing arc instead of a fixed one, at a higher installation cost and slot footprint than a simple fixed hardpoint.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 4500,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 1,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

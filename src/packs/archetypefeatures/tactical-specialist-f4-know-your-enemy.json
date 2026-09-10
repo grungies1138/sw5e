@@ -1,0 +1,24 @@
+{
+  "_id": "V2eo2oE1iS1UZKCZ",
+  "_key": "!items!V2eo2oE1iS1UZKCZ",
+  "name": "Know Your Enemy",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending at least a minute watching or interacting with a creature outside combat lets you gauge how it stacks up against you. Choose two of the traits below; for each, the GM tells you whether the creature is your equal, better, or worse than you.</p><ul><li>Strength score</li><li>Dexterity score</li><li>Constitution score</li><li>Armor Class</li><li>Current hit points</li><li>Total class levels (if any)</li><li>Fighter class levels (if any)</li></ul>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactical Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

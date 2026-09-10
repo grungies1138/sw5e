@@ -1,0 +1,22 @@
+{
+  "_id": "YkxQJf3H4iLvm3cm",
+  "_key": "!items!YkxQJf3H4iLvm3cm",
+  "name": "Kage Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Kage warriors turn the shadows themselves into a weapon, training to fight by instinct where others would be blind. What lesser combatants fear, these monks summon and wield at will.</p><p>Rather than relying on sight in the heat of battle, they cultivate a heightened sense for motion and intent, letting manufactured darkness swallow the battlefield while they strike unseen from within it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "pFU8wWQKitIhMGme",
+  "_key": "!items!pFU8wWQKitIhMGme",
+  "name": "Aqinos Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Named for the Jedi Master who first sought to wed lightsaber philosophy to machine ingenuity, Aqinos treats technology as an extension of the Force rather than a rival to it. Its adherents build and bond with a droid partner, then lean on gadgetry, tech powers, and clever engineering to solve problems a blade alone can't.</p><p>Where other forms refine the body or the blade, Aqinos refines the toolkit around them, letting guardian and droid work as a single, adaptable unit that improvises its way past any obstacle.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

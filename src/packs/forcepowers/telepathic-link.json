@@ -1,0 +1,45 @@
+{
+  "_id": "Apr7LGUyAv3sP8jv",
+  "_key": "!items!Apr7LGUyAv3sP8jv",
+  "name": "Telepathic Link",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature and forge a telepathic link with it. For the duration, whenever you and the target can see each other, you can communicate with it telepathically regardless of shared language, even if it has none, though it needs to understand at least one language to respond telepathically. This power has no effect on droids or constructs.</p><p>When cast using a force slot of 3rd level or higher, the duration extends to concentration, up to 1 hour, and if either you or your linked creature is surprised while the other is not, and the two of you can see each other, the surprised one can still act normally on its first turn of combat.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

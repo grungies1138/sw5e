@@ -1,0 +1,47 @@
+{
+  "_id": "ideKLzcSvx2IyfyH",
+  "name": "Turbolaser",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A capital-grade energy cannon scaled up from the laser cannon, typically mounted in a rotating turret so it can track fast-moving targets across a broad firing arc. A mainstay of larger warships and armed transports.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 4500,
+      "denomination": "credits"
+    },
+    "category": "primary",
+    "hardpoint": "turret",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 2000,
+      "long": 6000,
+      "units": "ft"
+    },
+    "properties": [],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

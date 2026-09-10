@@ -1,0 +1,50 @@
+{
+  "_id": "YcgSr0nYHk9r2SfM",
+  "_key": "!items!YcgSr0nYHk9r2SfM",
+  "name": "Reprogram Droid",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You rewrite the operating protocols of a droid you can see within range, compelling it toward a task, restraint, or course of behavior you dictate. It must succeed on a Wisdom saving throw or become charmed by you for the duration. While charmed this way, it suffers 5d10 lightning damage the first time each day it acts contrary to your instructions.</p><p>You may issue any order short of one that would obviously kill the droid; a command that would do so ends the power instead. You can dismiss the effect early with an action, and *remove virus* also ends it.</p><p><em>Overcharge Tech.</em> Cast with a 7th- or 8th-level tech slot, the duration becomes 1 year. Cast with a 9th-level slot, the effect lasts until ended by *remove virus*.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d10",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

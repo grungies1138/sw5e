@@ -1,0 +1,24 @@
+{
+  "_id": "goO80NKMXbLKaHkm",
+  "_key": "!items!goO80NKMXbLKaHkm",
+  "name": "Adaptive Fighting",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've trained to shift your combat approach in the middle of a fight. This feature offers three effects &mdash; Change Up, Draw, and Stow &mdash; and each time you use Adaptive Fighting you pick which one to trigger.</p><p>You have two uses of this feature, gaining one more at 5th, 9th, 13th, and 17th level. All expended uses return after a short or long rest.</p><p><strong>Change Up.</strong> Using your object interaction for the turn, you can spend a use of Adaptive Fighting to swap out the Fighting Style granted by your fighter class feature for a different one.</p><p><strong>Draw.</strong> When your object interaction is spent drawing one or more weapons, you can spend a use of Adaptive Fighting, requiring no action, to widen your critical hit range by 1 with those weapons until the start of your next turn.</p><p><strong>Stow.</strong> When your object interaction is spent sheathing or holstering a weapon, you can spend a use of Adaptive Fighting, requiring no action, to also take the Disengage action.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Blademaster Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

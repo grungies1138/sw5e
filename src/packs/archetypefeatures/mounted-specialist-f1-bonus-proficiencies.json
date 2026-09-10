@@ -1,0 +1,24 @@
+{
+  "_id": "fPKfOHJOPHKFxdh5",
+  "_key": "!items!fPKfOHJOPHKFxdh5",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose Animal Handling or Piloting; you gain proficiency in it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mounted Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

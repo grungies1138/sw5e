@@ -1,0 +1,50 @@
+{
+  "_id": "iKfAZdH6Vgmqf8kQ",
+  "_key": "!items!iKfAZdH6Vgmqf8kQ",
+  "name": "Greater Feedback",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You detonate a burst of raw psychic force at a point within range. Each creature in a 20-foot-radius sphere centered there must make an Intelligence saving throw (creatures with an Intelligence score of 2 or lower are unaffected), taking 8d6 psychic damage on a failure or half as much on a success.</p><p>A creature that fails the save also suffers muddled thoughts for 1 minute: it rolls a d6 and subtracts the result from its attack rolls, ability checks, and Constitution saving throws made to maintain concentration. At the end of each of its turns, it may repeat the Intelligence saving throw, ending the effect on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 5",
+    "school": "darkside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "8d6",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

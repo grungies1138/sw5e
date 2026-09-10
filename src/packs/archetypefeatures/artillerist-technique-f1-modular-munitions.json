@@ -1,0 +1,24 @@
+{
+  "_id": "vMT9RL6PPgJF1uDV",
+  "_key": "!items!vMT9RL6PPgJF1uDV",
+  "name": "Modular Munitions",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a tech power, you may delay its effect instead of resolving it immediately, timing it to occur on initiative count 20 (losing all ties). Any creature that leaves the power's area before then is unaffected. If the power targets only one creature and that creature relocates from where it was when you cast it, the power automatically misses (as if you'd rolled a 1 on the attack) or the target automatically succeeds on its saving throw (as if it had rolled a 20), whichever applies.</p><p>Whenever you delay a damaging tech power this way, you may also add one of the following empowerment effects:</p><ul><li><strong>Flashbang.</strong> Each creature damaged must succeed on a Constitution saving throw or be blinded and deafened until the start of your next turn.</li><li><strong>Mire.</strong> Each creature damaged must succeed on a Dexterity saving throw or gain a level of slowed until the start of your next turn.</li><li><strong>Psyche.</strong> Each creature damaged must succeed on a Wisdom saving throw or become frightened until the start of your next turn.</li></ul><p>Any saving throw required by an empowerment effect uses your tech save DC. You can apply these effects a number of times equal to your proficiency bonus (per the scout table), regaining all uses on completing a short or long rest. Once you have none left, you can instead pay 1 tech point to use the feature anyway, which lowers your maximum tech points by 1 until your next long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "b5ZOGHJ4TmuDvoyv",
+  "_key": "!items!b5ZOGHJ4TmuDvoyv",
+  "name": "Courtier",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You were once someone of real significance in a noble court or a sprawling bureaucracy &mdash; not always by birth, but by talent, favor-trading, and knowing exactly who to flatter. Whether you served the upper echelons of a capital world or navigated the cutthroat backrooms of a lawless trade hub, you learned how institutions actually work.</p><p>You may no longer hold your old post, but your former colleagues still remember you, and you still know how to find whoever really runs a place.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "prf",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Performer",
+        "Survivalist",
+        "Linguist",
+        "Actor",
+        "Practiced",
+        "Force of Personality"
+      ]
+    },
+    "equipment": "A set of fine clothes and a pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

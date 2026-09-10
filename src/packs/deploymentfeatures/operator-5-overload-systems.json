@@ -1,0 +1,22 @@
+{
+  "_id": "X546n2ByPjz6VXQK",
+  "name": "Overload Systems",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per short or long rest, as an action, you overload a target ship's systems, forcing a saving throw against your Disruption save DC. On a failure, until the start of its next turn the target's speed is halved, its turning speed is doubled, it takes a −2 penalty to Armor Class and Dexterity saving throws, it cannot take reactions, it can take only an action or a bonus action (not both) on its turn, and it can make no more than one attack per turn. It cannot regenerate Shield Points while affected.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "b1l49tjylEhtCOje",
+  "_key": "!items!b1l49tjylEhtCOje",
+  "name": "Mark of the Stalker",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While hidden from the creature marked by your Ranger's Quarry, the first attack roll you make against it each round does not automatically betray your position. Make a Dexterity (Stealth) check opposed by the target's Wisdom (Perception) check; succeeding keeps you hidden. If you are within 30 feet of the target when you make this check, you roll it with disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Stalker Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

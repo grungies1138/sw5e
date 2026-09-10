@@ -1,0 +1,56 @@
+{
+  "_id": "9rYq16u6X5k0JlBu",
+  "name": "Lightfoil",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A slender, low-power dueling blade favored by nobles and fencers, its thin plasma edge trading raw cutting force for exceptional speed and balance.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 1000,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "lightweapon",
+    "proficiencyTier": "simple",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "light",
+      "finesse"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

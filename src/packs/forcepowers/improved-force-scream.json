@@ -1,0 +1,54 @@
+{
+  "_id": "d6DkSgz8DIOvNvPz",
+  "_key": "!items!d6DkSgz8DIOvNvPz",
+  "name": "Improved Force Scream",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You unleash a violent scream charged with the Force. Each creature you choose within 30 feet must succeed on a Constitution saving throw or take 5d6 psychic damage and 5d6 sonic damage, be deafened until the end of its next turn, and be knocked prone. A success halves the damage and negates the deafness and the fall.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 5",
+    "school": "darkside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d6",
+          "type": "psychic"
+        },
+        {
+          "formula": "5d6",
+          "type": "sonic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "UbLhnNxgzsr7rNZi",
+  "_key": "!items!UbLhnNxgzsr7rNZi",
+  "name": "Death Strike",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you deal weapon damage to a creature that's surprised or that you're hidden from, you can force it to attempt a Constitution save against your lethal strike save DC. On a failure, the damage from that attack is doubled. Once you've pulled this off, you need a long rest before doing it again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Lethality Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

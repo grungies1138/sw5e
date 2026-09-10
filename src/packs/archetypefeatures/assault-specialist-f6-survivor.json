@@ -1,0 +1,24 @@
+{
+  "_id": "MAybMdCEzW4XCDRj",
+  "_key": "!items!MAybMdCEzW4XCDRj",
+  "name": "Survivor",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've reached the height of battlefield endurance. At the start of each of your turns, if your current hit points are at or below half your maximum, you recover hit points equal to 5 plus your Constitution modifier. This healing doesn't occur while you're at 0 hit points.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Assault Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

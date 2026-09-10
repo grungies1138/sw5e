@@ -1,0 +1,45 @@
+{
+  "_id": "Ew4SCTr1yvek12Qb",
+  "_key": "!items!Ew4SCTr1yvek12Qb",
+  "name": "Greater Analyze",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>After 10 minutes spent on research, naming or describing a person, place, or thing yields a summary of notable lore about it. Subjects unknown beyond a single planetary system yield nothing, and the more you already know, the richer the detail you receive.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "special",
+      "cost": 10
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "mpoI2TJzkNfkpaUL",
+  "_key": "!items!mpoI2TJzkNfkpaUL",
+  "name": "Haywire",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You wrap a creature you can see within range in crackling static and flickering holograms. It must succeed on an Intelligence saving throw or take 1d6 lightning damage and, if able to move at a speed of 5 feet or more, be shoved 5 feet in a random direction (roll a d4: 1 north, 2 south, 3 east, 4 west); this movement never provokes opportunity attacks, and the target doesn't move if that direction is blocked.</p><p>The damage rises to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

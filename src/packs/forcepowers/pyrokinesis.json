@@ -1,0 +1,50 @@
+{
+  "_id": "tJ1TGbfR646aZpvq",
+  "_key": "!items!tJ1TGbfR646aZpvq",
+  "name": "Pyrokinesis",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Charging the air itself, you conjure a patch of Force-fed flame on ground you can see within range, filling a 5-foot cube for the duration. Any creature occupying that space when the fire appears must succeed on a Dexterity save or take 1d8 energy damage; the save is repeated whenever a creature enters the space for the first time on a turn or ends its turn there.</p><p>The flames ignite unattended flammable objects within the area.</p><p>Damage rises to 2d8 at 5th level, 3d8 at 11th level, and 4d8 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

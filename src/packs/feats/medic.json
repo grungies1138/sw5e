@@ -1,0 +1,32 @@
+{
+  "_id": "XToWdBvv4h9g3blT",
+  "_key": "!items!XToWdBvv4h9g3blT",
+  "name": "Medic",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've mastered field medicine. Increase your Wisdom score by 1, to a maximum of 20.</p><p>You gain proficiency in the Medicine skill, or expertise in it if you're already proficient. During a short rest, you can tend to as many as six willing beasts or humanoids, making a DC 15 Wisdom (Medicine) check for each. On a success, if that creature spends a Hit Die during the rest, it may forgo the roll and instead regain the maximum number of hit points the die could provide; a creature can benefit from this only once per rest, no matter how many Hit Dice it spends.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "wis"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

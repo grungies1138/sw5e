@@ -1,0 +1,26 @@
+{
+  "_id": "Ep17v99hkIA3XCcY",
+  "_key": "!items!Ep17v99hkIA3XCcY",
+  "name": "Gadgeteer",
+  "type": "feat",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You carry a knack for cobbling together useful gadgets from spare parts. Given ten minutes and access to a set of tools you're proficient with, you can construct one temporary gadget of your choice: a stimshot (restores 2d4 hit points to a creature that uses it as an action), a signal jammer (imposes disadvantage on Wisdom (Perception) checks made to detect creatures within 30 feet of it for 1 hour), or a shock trap (a creature that steps within 5 feet of it must succeed on a DC 13 Dexterity saving throw or take 2d6 lightning damage).</p><p>You can have no more than one such gadget active at a time, and you can construct a new one once per long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Proficiency with tinker's tools or a similar artisan's tool.",
+    "activation": {
+      "type": "action",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

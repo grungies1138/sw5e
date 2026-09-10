@@ -1,0 +1,45 @@
+{
+  "_id": "I0ko8HsaRtIWd7va",
+  "_key": "!items!I0ko8HsaRtIWd7va",
+  "name": "Kolto Waves",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You release a torrent of kolto energy that washes over the wounded near you, restoring up to 700 hit points distributed however you choose among any number of creatures you can see within range. Any creature healed in this way is also cured of disease and of blindness or deafness. Droids and constructs are unaffected.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 9",
+    "school": "tech",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

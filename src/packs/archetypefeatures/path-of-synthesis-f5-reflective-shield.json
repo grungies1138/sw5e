@@ -1,0 +1,24 @@
+{
+  "_id": "FOU5Ah7EizOI9Xgp",
+  "_key": "!items!FOU5Ah7EizOI9Xgp",
+  "name": "Reflective Shield",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you use one of your Force-Empowered Tech effects, a shimmering energy barrier surrounds you until the end of your next turn. When damage would strike you during this time, you may use your reaction to gain resistance to that damage, and if its source is within 5 feet of you, that attacker also takes half the original damage total as ion damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Synthesis",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

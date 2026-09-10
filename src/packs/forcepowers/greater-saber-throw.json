@@ -1,0 +1,50 @@
+{
+  "_id": "swj7QhT9AYoRcK6e",
+  "_key": "!items!swj7QhT9AYoRcK6e",
+  "name": "Greater Saber Throw",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action used to cast this power, you make a ranged force attack with a lightweapon or vibroweapon against a target within range, or the power fails. On a hit, the target takes 6d8 damage of the weapon's damage type and must make a Constitution saving throw against a secondary effect keyed to your casting ability.</p><p>If you cast using Wisdom, the target takes an additional 4d6 force damage and suffers four levels of slowed until the end of its next turn; a success halves the damage and negates the slowed condition. If you cast using Charisma, the target instead takes an additional 4d6 necrotic damage and cannot regain hit points until the end of its next turn; a success halves the damage and leaves its healing unaffected.</p><p>The weapon then flies back into your hand. Cast with a 6th-level slot or higher, the additional force or necrotic damage increases by 1d6 for each slot level above 5th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "6d8",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

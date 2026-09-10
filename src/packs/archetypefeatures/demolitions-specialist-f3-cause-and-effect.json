@@ -1,0 +1,24 @@
+{
+  "_id": "KuXzmFRbw16MFejT",
+  "_key": "!items!KuXzmFRbw16MFejT",
+  "name": "Cause and Effect",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You may now throw grenades using a bonus action. Additionally, whenever a creature fails its saving throw against one of your charges or grenades, you can spend a superiority die to apply a maneuver you know to it &mdash; limited to once per grenade thrown.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Demolitions Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

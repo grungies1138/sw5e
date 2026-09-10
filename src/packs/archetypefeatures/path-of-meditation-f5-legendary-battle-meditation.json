@@ -1,0 +1,24 @@
+{
+  "_id": "qLZuh5xdnlgpYBpD",
+  "_key": "!items!qLZuh5xdnlgpYBpD",
+  "name": "Legendary Battle Meditation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once between long rests, you may cast <em>master battle meditation</em> free of its force point cost, and while concentrating on it, its die grows one step at the start of each of your turns (d8 to d10, or d10 to d12).</p><p>You also gain a second reaction each round usable solely for your Force-Empowered Allies feature, though you're still limited to one reaction per turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Meditation",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

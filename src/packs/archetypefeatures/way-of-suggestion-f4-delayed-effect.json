@@ -1,0 +1,24 @@
+{
+  "_id": "09xmI0DHtVxZIY0I",
+  "_key": "!items!09xmI0DHtVxZIY0I",
+  "name": "Delayed Effect",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a force power, you may postpone its effect for a number of rounds up to half your consular level; the power then triggers automatically at the start of your turn once that many rounds have elapsed.</p><p>You must complete a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Suggestion",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

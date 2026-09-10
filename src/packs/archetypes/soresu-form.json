@@ -1,0 +1,22 @@
+{
+  "_id": "1TdUomSVYwuBo70y",
+  "_key": "!items!1TdUomSVYwuBo70y",
+  "name": "Soresu Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Soresu is a shield made of motion: tight, economical bladework paired with subtle footwork that keeps a guardian's whole body out of harm's way, especially from blaster fire. Its practitioners give ground rather than lose position, circling and sweeping their blade in broad protective arcs while they wait out an enemy's assault.</p><p>Patience is the whole art here. A Soresu duelist can outlast almost anyone, absorbing and turning aside blow after blow until the attacker exhausts themselves — at which point the guardian, still fresh, finally answers.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

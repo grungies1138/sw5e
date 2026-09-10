@@ -1,0 +1,24 @@
+{
+  "_id": "gHsRZ9NU85kBN3Um",
+  "_key": "!items!gHsRZ9NU85kBN3Um",
+  "name": "Master of Resilience",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your steadfastness on the battlefield inspires everyone fighting beside you. Your Constitution score and your Wisdom or Charisma score (your choice) each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist kinetic and energy damage dealt by ordinary, non-enhanced weapons.</li><li>Whenever you use the saber reflect force power, you may make a single melee attack against an enemy within 5 feet of you as part of that same reaction.</li><li>You gain advantage on Dexterity saving throws, as does every ally within 30 feet of you.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Soresu Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

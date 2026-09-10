@@ -1,0 +1,31 @@
+{
+  "_id": "nvcc7Lo9lGSUM4qJ",
+  "name": "Medium Generator Shield",
+  "type": "shield",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>A hand-held emitter that throws up a broad energy shell, held out like a physical shield but weighing barely anything at all.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 600,
+      "denomination": "credits"
+    },
+    "weight": 2,
+    "equipped": false,
+    "tier": "medium",
+    "variant": "generator",
+    "acBonus": 2,
+    "requiresFreeHand": true,
+    "obtrusive": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

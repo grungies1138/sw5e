@@ -1,0 +1,24 @@
+{
+  "_id": "jUO2wyuHxv3DJwJ0",
+  "_key": "!items!jUO2wyuHxv3DJwJ0",
+  "name": "Supreme Sneak",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As long as you move no farther than half your speed on a turn, you have advantage on any Dexterity (Stealth) check you make that turn. You've also learned to land properly: so long as you aren't incapacitated, a fall of less than 100 feet deals you no damage at all, and you have resistance to damage from any longer fall.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Acquisitions Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

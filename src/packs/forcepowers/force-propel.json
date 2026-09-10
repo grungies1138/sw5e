@@ -1,0 +1,50 @@
+{
+  "_id": "z0O0muWQ2270ZORY",
+  "_key": "!items!z0O0muWQ2270ZORY",
+  "name": "Force Propel",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You choose one or more unattended creatures or objects within 60 feet with a combined weight of up to 15 pounds and hurl them 60 feet in a direction you choose; anything that ends this movement in midair immediately falls. Anything that collides with a target along the way, and that target itself, takes 3d8 kinetic damage; if the target is a creature, it may attempt a Dexterity saving throw to take only half as much.</p><p>Casting this power with a force slot of 2nd level or higher raises the maximum weight by 15 pounds and the damage by 1d8 for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

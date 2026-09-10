@@ -1,0 +1,22 @@
+{
+  "_id": "KcBJOuP9hXrOP6iO",
+  "_key": "!items!KcBJOuP9hXrOP6iO",
+  "name": "Blademaster Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>For the Blademaster Specialist, a weapon is not a tool but an extension of the self. Years of obsessive practice erase the line between fighter and blade, until drawing a weapon, shifting stance, and striking true all happen as naturally as breathing.</p><p>This fluid mastery lets them abandon heavy armor entirely, trusting instead in speed and precision to keep them safe. In the heat of combat, a Blademaster reads the flow of battle and adapts on the fly, turning every exchange of blows into an opportunity to seize the advantage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

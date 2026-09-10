@@ -1,0 +1,24 @@
+{
+  "_id": "n993xBUqEZN7kRoP",
+  "_key": "!items!n993xBUqEZN7kRoP",
+  "name": "Adaptive Barrier",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your barrier takes damage, you may, with no action required, grant it resistance to that damage type until the start of your next turn; if it was struck by more than one damage type at once, you choose which type the resistance applies to. It can hold resistance to only one damage type at a time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Bulwark Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

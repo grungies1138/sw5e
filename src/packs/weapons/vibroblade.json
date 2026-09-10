@@ -1,0 +1,55 @@
+{
+  "_id": "8FcdziVSUAG96nS0",
+  "name": "Vibroblade",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A standard vibro-edged sword whose blade oscillates at ultrasonic frequency, letting it bite through armor plate that would turn away an ordinary edge.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 150,
+      "denomination": "credits"
+    },
+    "weight": 3,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "vibroweapon",
+    "proficiencyTier": "simple",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "kinetic"
+        }
+      ],
+      "versatile": "1d10"
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "versatile"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

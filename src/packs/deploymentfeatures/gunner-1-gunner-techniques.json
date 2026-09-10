@@ -1,0 +1,22 @@
+{
+  "_id": "waAAhaj0d3WxSKIv",
+  "name": "Gunner Techniques",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn two Gambits of your choice from the Gunner's shared list, each of which costs one power die drawn from the ship's Weapons pool (or central storage) to activate. You learn an additional Gambit at each Gunner rank thereafter, to a maximum of five known Gambits at 5th rank, and can swap one known Gambit for another whenever you gain a rank in this deployment. Only one Gambit may be used per turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "2PdTDnGoio3f81ZC",
+  "_key": "!items!2PdTDnGoio3f81ZC",
+  "name": "Defensive Technique",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action you use to cast this power, you make a melee weapon attack against a creature within your reach; if you don't, the power fails. On a hit, the target suffers the attack's normal effects, and you ward yourself through the Force. If that same target forces you to make a saving throw before the start of your next turn, it takes an extra 1d6 psychic damage and you add the result of a d4 you roll to your saving throw; the power then ends.</p><p>At 5th level, the initial melee attack deals an extra 1d6 psychic damage, and the retaliatory psychic damage increases to 2d6; both increase by another 1d6 at 11th and again at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Light Side Powers, At-Will",
+    "school": "lightside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

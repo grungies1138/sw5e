@@ -1,0 +1,29 @@
+{
+  "_id": "Ef1JQGjbxRJUpYRc",
+  "name": "Self-Repairing Armor Plate",
+  "type": "gear",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> This armor insert is threaded with a lattice of nanite weave that knits itself back together after battle. Any armor fitted with this plate that suffers the sunder condition, or is otherwise damaged and rendered less effective, repairs itself back to full integrity after 8 hours undisturbed, requiring no tools or check to do so.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 1200,
+      "denomination": "credits"
+    },
+    "weight": 2,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "premium",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "qIMqw4HdQYWceqCK",
+  "_key": "!items!qIMqw4HdQYWceqCK",
+  "name": "Skill Empowerment",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature and deepen its mastery of a chosen skill, doubling its proficiency bonus for ability checks that use that skill until the power ends. The target must already be proficient in the chosen skill, and the skill must not already benefit from another effect that doubles its proficiency bonus.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 5",
+    "school": "lightside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

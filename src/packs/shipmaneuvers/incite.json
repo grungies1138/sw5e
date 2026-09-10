@@ -1,0 +1,25 @@
+{
+  "_id": "P26MuWWgkWrmS4O8",
+  "name": "Incite",
+  "type": "shipmaneuver",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, expend a Power Die from the Comms pool. Until the start of your next turn, one allied ship within 500 feet adds your ship's Charisma modifier to the damage of its weapon attacks.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Coordinator Collaborations",
+    "deployment": "coordinator",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

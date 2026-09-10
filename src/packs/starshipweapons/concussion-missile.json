@@ -1,0 +1,51 @@
+{
+  "_id": "6jpbxlfFr5ot48fN",
+  "name": "Concussion Missile",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A cluster-warhead missile that detonates in a small burst radius around its point of impact, making it effective against tightly grouped squadrons as well as single targets. Fired in rapid automatic salvos from its launcher.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 1400,
+      "denomination": "credits"
+    },
+    "category": "tertiary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 2500,
+      "long": 5000,
+      "units": "ft"
+    },
+    "properties": [
+      "aut",
+      "brs",
+      "exp"
+    ],
+    "ammo": {
+      "value": 8,
+      "max": 8
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

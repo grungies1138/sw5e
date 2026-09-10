@@ -1,0 +1,22 @@
+{
+  "_id": "eUyt0aV8JEWbkigc",
+  "_key": "!items!eUyt0aV8JEWbkigc",
+  "name": "Way of Technology",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Force and the machine are not always at odds. Consulars who follow the Way of Technology weave circuitry and current together, treating a blaster or a droid's chassis as just another conduit for their power rather than something separate from it.</p><p>Where their peers might see cold metal as beyond the Force's reach, these practitioners learn to touch it all the same, redirecting their powers through weapons, mimicking technological effects outright, and eventually drawing on a well of tech mastery so complete it costs them nothing to invoke.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

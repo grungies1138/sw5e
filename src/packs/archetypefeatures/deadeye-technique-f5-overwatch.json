@@ -1,0 +1,24 @@
+{
+  "_id": "gtmCz7gTYNVvGB9D",
+  "_key": "!items!gtmCz7gTYNVvGB9D",
+  "name": "Overwatch",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've mastered guarding your allies from a distance. When an enemy attempts an opportunity attack against an ally, or forces an ally to make a saving throw, you can use your reaction to make an attack roll against that enemy.</p><p>If your attack connects, you may either impose disadvantage on the enemy's opportunity attack roll or grant advantage to your allies on the saving throw.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Deadeye Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

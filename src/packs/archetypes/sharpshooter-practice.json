@@ -1,0 +1,22 @@
+{
+  "_id": "b3F5ElYlcMcA6YCr",
+  "_key": "!items!b3F5ElYlcMcA6YCr",
+  "name": "Sharpshooter Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Sharpshooter Practice operatives believe the best fight is the one the enemy never sees coming, delivered from well outside arm's reach. They marry cold precision with an instinct for angles and cover, letting a single shot do the work an entire squad might otherwise need.</p><p>Distance is their ally and their signature: while others close in for the kill, these marksmen hold their ground, reposition, and let raw accuracy make short work of anything foolish enough to stand in the open.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

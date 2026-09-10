@@ -1,0 +1,24 @@
+{
+  "_id": "K9jKeUlf1nxNi51P",
+  "_key": "!items!K9jKeUlf1nxNi51P",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain the following Channel the Force option.</p><p><strong>Retreating Leap.</strong> When a creature makes a melee attack roll against you, you may spend a use of Channel the Force and your reaction to leap 10 feet in a direction you choose, giving the attack roll disadvantage; this movement doesn't provoke opportunity attacks. You may wait to do this until after the attack roll is made but before the GM says whether it hits.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ataru Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

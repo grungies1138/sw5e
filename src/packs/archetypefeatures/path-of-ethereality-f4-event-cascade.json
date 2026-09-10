@@ -1,0 +1,24 @@
+{
+  "_id": "tz8kwS60W2NrIAkg",
+  "_key": "!items!tz8kwS60W2NrIAkg",
+  "name": "Event Cascade",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain advantage on attack rolls against any creature you haven't damaged or affected with a force power since the start of your previous turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Ethereality",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

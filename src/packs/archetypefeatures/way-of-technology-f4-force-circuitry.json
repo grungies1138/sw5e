@@ -1,0 +1,24 @@
+{
+  "_id": "AoXSJfJ931eKOvGA",
+  "_key": "!items!AoXSJfJ931eKOvGA",
+  "name": "Force Circuitry",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you spend your action casting a force power and use your Fundamentals of Mechu-deru feature as part of that cast, you can then use your bonus action to cast one of your known tech powers, provided that power's normal casting time is an action or a bonus action.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Technology",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

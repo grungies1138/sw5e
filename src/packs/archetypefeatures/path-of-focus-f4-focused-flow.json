@@ -1,0 +1,24 @@
+{
+  "_id": "mjd5fqUjJV3QamzX",
+  "_key": "!items!mjd5fqUjJV3QamzX",
+  "name": "Focused Flow",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you activate a Force-Empowered Self feature, you have the option of spending no force points at all, instead rolling a d4 in place of your Kinetic Combat die for that use.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of Focus",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

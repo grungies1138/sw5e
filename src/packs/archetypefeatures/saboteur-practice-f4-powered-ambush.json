@@ -1,0 +1,24 @@
+{
+  "_id": "2K3y0McnSHmSuhR5",
+  "_key": "!items!2K3y0McnSHmSuhR5",
+  "name": "Powered Ambush",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If you're hidden from a creature when you cast a power targeting it, that creature has disadvantage on any saving throw it makes against the power that turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Saboteur Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

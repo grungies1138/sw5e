@@ -1,0 +1,22 @@
+{
+  "_id": "nzM2NVD91GhAK4AD",
+  "name": "Paragon Gunner",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, you can use a d4 instead of expending a power die to activate a Gambit, without reducing the ship's stored power dice. In addition, once per short or long rest, you can treat any attack roll you make with a ship's weapon as a natural 20, automatically scoring a critical hit.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

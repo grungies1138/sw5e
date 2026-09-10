@@ -1,0 +1,45 @@
+{
+  "_id": "i6rP32rQZ60rsjBs",
+  "name": "Operative",
+  "type": "class",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Operative is a specialist in exploiting weakness, whether that means a gap in a target's defenses, a blind spot in a security network, or a moment of distraction that leaves an enemy open to a precisely placed shot. Smugglers, spies, bounty hunters, and information brokers all fall under this banner, united by a reliance on cunning and preparation rather than raw power.</p><p>An Operative's signature Sneak Attack-style techniques let them turn any advantage — flanking, surprise, an ally's distraction — into a devastating burst of damage, and their Operative Exploits let them further tailor their tradecraft toward infiltration, deception, or ruthless efficiency as they rise in skill.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d8",
+    "casterProgression": "none",
+    "castingAbility": "",
+    "primaryAbility": [
+      "dex"
+    ],
+    "savingThrows": [
+      "dex",
+      "int"
+    ],
+    "skillChoices": {
+      "number": 4,
+      "options": [
+        "acr",
+        "dec",
+        "ins",
+        "inv",
+        "prc",
+        "slt",
+        "ste",
+        "per"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

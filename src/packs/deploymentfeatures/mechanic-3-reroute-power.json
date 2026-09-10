@@ -1,0 +1,22 @@
+{
+  "_id": "cjYDbm8UCWioaWNk",
+  "name": "Reroute Power",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, once per turn, you can divert your ship's power coupling to favor a single system: Engines (doubling the ship's flying speed while halving speed derived from Weapons and Shields systems' functions), Shields (halving all damage the ship takes and doubling its shield regeneration rate, while halving Engine speed and Weapon damage), or Weapons (doubling the ship's weapon damage, while halving Engine speed and Shield regeneration). The two non-favored systems both suffer their penalty simultaneously until you use this feature again or the encounter ends.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

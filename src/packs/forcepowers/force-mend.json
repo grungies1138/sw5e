@@ -1,0 +1,45 @@
+{
+  "_id": "UkMYe56dTYtF225y",
+  "_key": "!items!UkMYe56dTYtF225y",
+  "name": "Force Mend",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a creature and jump-start its body's natural healing, restoring 4d8 + 15 hit points at once. For the rest of the duration, the target regains 1 hit point at the start of each of its turns (10 hit points per minute).</p><p>If you hold a severed limb or similar part against the stump while casting, the power immediately reattaches it. Droids and constructs are unaffected.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 7",
+    "school": "lightside",
+    "level": 7,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

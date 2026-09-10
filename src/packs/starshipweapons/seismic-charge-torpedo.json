@@ -1,0 +1,49 @@
+{
+  "_id": "NPtgL3UxEyvuJ6vG",
+  "name": "Seismic Charge Torpedo",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A heavier torpedo variant packed with a shock-wave charge tuned to rattle a target's hull plating apart rather than punch through it cleanly, making it especially effective against Reinforced armor.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 2100,
+      "denomination": "credits"
+    },
+    "category": "tertiary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "range": {
+      "value": 2000,
+      "long": 4500,
+      "units": "ft"
+    },
+    "properties": [
+      "exp"
+    ],
+    "ammo": {
+      "value": 4,
+      "max": 4
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

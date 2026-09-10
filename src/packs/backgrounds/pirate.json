@@ -1,0 +1,47 @@
+{
+  "_id": "gYBu7DguSb3oQpYm",
+  "_key": "!items!gYBu7DguSb3oQpYm",
+  "name": "Pirate",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Banditry and raiding are a fact of life in the Outer Rim, and you've spent your career on the wrong side of the law wherever \"the law\" was even worth acknowledging. You know the underworld's contacts, its favorite hyperlanes, and more than a few of the ships that ply them.</p><p>The crew you ran with left you with a bond that doesn't fade just because you've since gone your separate ways &mdash; and, whether they were bandits or something closer to bold warriors, you don't shy from what you did to survive.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "dec",
+        "itm",
+        "pil"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Silver-Tongued",
+        "Threatening",
+        "Ace Pilot",
+        "Competitor",
+        "Specialist",
+        "Feigned Confidence",
+        "Force of Personality"
+      ]
+    },
+    "equipment": "A set of traveler's clothes, a gaming set you are proficient with, well-worn maps of the Outer Rim, a small piece of exotic jewelry worth 100 credits, and a pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

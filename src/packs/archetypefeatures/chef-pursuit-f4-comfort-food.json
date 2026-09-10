@@ -1,0 +1,24 @@
+{
+  "_id": "dCbolOl0WqH7qTDj",
+  "_key": "!items!dCbolOl0WqH7qTDj",
+  "name": "Comfort Food",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If you or a friendly creature ate food you cooked during a short rest and recovers hit points by spending Hit Dice at the end of it, that creature gains an extra 1d8 hit points. This bonus die rises to 1d10 at 11th level and 1d12 at 15th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Chef Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

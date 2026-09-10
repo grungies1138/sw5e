@@ -1,0 +1,30 @@
+{
+  "_id": "iiw9iHgjDpu1PVAd",
+  "_key": "!items!iiw9iHgjDpu1PVAd",
+  "name": "Splashclass Improvement",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to combine the strengths of your various classes. Choose one splashclass improvement option presented elsewhere in this material. This feat can be taken more than once, each time letting you choose another option.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

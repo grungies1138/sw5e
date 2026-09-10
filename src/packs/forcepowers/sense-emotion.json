@@ -1,0 +1,45 @@
+{
+  "_id": "Y5G43BQLEjmGIgCI",
+  "_key": "!items!Y5G43BQLEjmGIgCI",
+  "name": "Sense Emotion",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>For the duration, your senses attune to the feelings of those around you. When you cast the power, and again as your action on each subsequent turn, you may focus on one humanoid you can see within 30 feet, instantly learning its dominant emotion — love, anger, pain, fear, calm, or whatever else grips it — and gaining advantage on Wisdom (Insight) checks made against it. A non-humanoid target, or one immune to being charmed, always registers as calm.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "oTqMjAUgfcSZ3IzT",
+  "name": "Intensify Shields",
+  "type": "shipmaneuver",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Reaction,</strong> taken immediately after your ship is targeted by an attack roll. Expend a Power Die from the Shields pool and roll it, adding the result to your ship's Armor Class against that attack. This can retroactively turn a hit into a miss.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Technician Stratagems",
+    "deployment": "technician",
+    "rankRequired": 1,
+    "activation": "reaction",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

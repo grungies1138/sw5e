@@ -1,0 +1,45 @@
+{
+  "_id": "Juyiy4GpZ1z6c9E0",
+  "_key": "!items!Juyiy4GpZ1z6c9E0",
+  "name": "Force Intuition",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your awareness of your surroundings sharpens for the duration, letting you anticipate danger before it strikes. You may use your forcecasting ability modifier in place of Dexterity for initiative checks that don't already use it.</p><p>Additionally, once during the power's duration, if you would be surprised at the start of combat, you instead retain the use of a reaction and may take one action on your first turn, limited to Dash, Disengage, Dodge, Hide, or Use an Object.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "8",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

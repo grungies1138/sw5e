@@ -1,0 +1,25 @@
+{
+  "_id": "s6qG0YDZXRV87GtC",
+  "name": "Disabling Shot",
+  "type": "shipmaneuver",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your ship's weapon attack hits, you may expend a Power Die from the Weapons pool and roll it, adding the result to the damage dealt. The target has disadvantage on the next ability check or attack roll it makes.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Gunner Gambits",
+    "deployment": "gunner",
+    "rankRequired": 1,
+    "activation": "special",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

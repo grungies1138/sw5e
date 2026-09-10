@@ -1,0 +1,45 @@
+{
+  "_id": "uCSajSCDwcaehtq7",
+  "_key": "!items!uCSajSCDwcaehtq7",
+  "name": "Project Hologram",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure an intangible illusory duplicate of yourself, which can appear at any location within range you have previously seen, regardless of intervening barriers, for the duration. The duplicate looks and sounds exactly like you, perfectly mimicking your mannerisms, and vanishes (ending the power) the instant it takes any damage.</p><p>As an action, you can move the duplicate up to twice your speed and have it gesture, speak, or act as you direct. You can perceive through its senses as if standing in its place, switching between its senses and your own as a bonus action; while using its senses, you are blinded and deafened to your true surroundings.</p><p>Physical contact reveals the duplicate's illusory nature, since objects pass through it; a creature that spends its action examining it can identify the illusion with a successful Intelligence (Investigation) check against your tech save DC, after which it can see through the image and hears its sounds as hollow.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 7",
+    "school": "tech",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

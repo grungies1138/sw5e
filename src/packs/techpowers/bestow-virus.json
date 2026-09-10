@@ -1,0 +1,50 @@
+{
+  "_id": "IAJJggx4x19y83cf",
+  "_key": "!items!IAJJggx4x19y83cf",
+  "name": "Bestow Virus",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a droid, construct, or creature with a tech focus, which must succeed on an Intelligence saving throw or be afflicted with a tech-based curse for the duration. Choose the curse's effect when you cast the power: disadvantage on ability checks and saving throws with one chosen ability score; disadvantage on the target's attack rolls against you; a repeated Intelligence saving throw at the start of each of the target's turns, wasting its action on a failure; or your attacks and powers deal an extra 1d8 lightning damage to the target.</p><p>A remove virus power ends this effect, and the GM may substitute a different curse of comparable power.</p><p>Cast with a tech slot of 4th level or higher, the duration becomes concentration, up to 10 minutes; with a slot of 5th level or higher, 8 hours without requiring concentration; with a slot of 7th level or higher, 24 hours; and with a 9th-level slot, the curse lasts until dispelled.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

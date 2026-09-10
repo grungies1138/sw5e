@@ -1,0 +1,22 @@
+{
+  "_id": "bsAvfUz7kqNmkC0V",
+  "_key": "!items!bsAvfUz7kqNmkC0V",
+  "name": "Way of Suggestion",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every Force-user needs to be seen to be felt. Those who follow the Way of Suggestion master the quiet arts of misdirection, working at the edges of perception to bend memory, sight, and thought until their presence becomes something the mind simply slides past.</p><p>Through patient practice, these consulars learn to plant false certainties, vanish from a single onlooker's notice, and eventually cloak themselves so thoroughly that entire encounters slip from memory. Theirs is a power built on subtlety rather than spectacle, control exercised so gently that its victims rarely realize they were touched at all.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

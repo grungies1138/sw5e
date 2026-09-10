@@ -1,0 +1,22 @@
+{
+  "_id": "27nngtlnv07xC2hK",
+  "_key": "!items!27nngtlnv07xC2hK",
+  "name": "Construction Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Construction engineers carry an entire fortress in miniature, folding walls, towers, and bunkers down into a shape they can haul across any battlefield. What a siege crew would need trucks to deliver, they unfold from a single collapsed module in seconds.</p><p>Once deployed, their creation reshapes the terrain itself, turning an open field into a fortified position built exactly to their specifications. As their skill grows, so does the scale of what they can raise, until whole squads find shelter, high ground, or safe passage inside something one engineer built alone.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

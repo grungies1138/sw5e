@@ -1,0 +1,24 @@
+{
+  "_id": "Lm5mXq2WmZg6bE4o",
+  "_key": "!items!Lm5mXq2WmZg6bE4o",
+  "name": "Electronic Warfare Platform",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Over a long rest, using astrotech's implements, you rebuild them into a mobile electronic warfare platform. It becomes an enhanced item usable only by you, requires attunement, and serves as a tech focus for your tech powers while attuned. It starts with 4 modification slots, gaining more at higher levels per the engineer table's Modification Slots column. Each modification beyond your proficiency bonus reduces your tech point maximum by 1. During a long rest you may install, swap, or remove modifications up to your Intelligence modifier (minimum one); any effect requiring a save uses your tech save DC.</p><p>The platform projects three possible fields — ionizing, jamming, and targeting. As a bonus action you switch one on for 1 minute; only one field can run at a time, though you can shut it off on your turn at no cost. The field's radius grows to 15 feet at 9th level and 30 feet at 17th level. You have a combined number of activations equal to your proficiency bonus (see the engineer table), all restored after a long rest.</p><p><strong>Ionizing Field.</strong> Any droid or construct besides you that starts its turn within 5 feet of you gains 4 slowed levels and takes ion damage equal to half your engineer level.</p><p><strong>Jamming Field.</strong> When you or a friendly creature within 10 feet of you must save against a tech power, that creature adds your Intelligence modifier (at least +1) to the save.</p><p><strong>Targeting Field.</strong> You and friendly creatures within 5 feet of you add your Intelligence modifier (at least +1) to the first ranged weapon damage roll each makes per round.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "TgmpbV3BZE7Nq4Ol",
+  "_key": "!items!TgmpbV3BZE7Nq4Ol",
+  "name": "Entertainer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You thrive in front of a crowd, whether you hold them with a story, a song, a blade routine, or a joke landed at exactly the right moment. Cantinas, festival stages, noble courts, traveling circuses &mdash; you've worked them all, learning to read a room and give it whatever it's hungry for.</p><p>Your art has taken you across more of the galaxy than most soldiers ever see, and it's left you with an audience's worth of favors owed, rivals made, and admirers who remember your name.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "acr",
+        "ins",
+        "prf",
+        "slt"
+      ]
+    },
+    "toolProficiencies": [
+      "Disguise kit, one type of musical instrument"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Acrobat",
+        "Empathic",
+        "Performer",
+        "Quick-Fingered",
+        "Specialist",
+        "Entertainer",
+        "Practiced",
+        "Actor"
+      ]
+    },
+    "equipment": "A musical instrument of your choice, the favor of an admirer (a love letter, a lock of hair, or a small trinket), a costume, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

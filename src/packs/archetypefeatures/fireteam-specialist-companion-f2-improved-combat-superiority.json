@@ -1,0 +1,24 @@
+{
+  "_id": "lk8WsLnfqlVn1p4S",
+  "_key": "!items!lk8WsLnfqlVn1p4S",
+  "name": "Improved Combat Superiority",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your tactical acumen sharpens, boosting your Combat Superiority.</p><p><strong>Improved Maneuvers.</strong> You start out knowing four maneuvers rather than two, gaining more at higher levels per the Maneuvers Known column of the Fireteam Superiority table.</p><p><strong>Improved Superiority Dice.</strong> Your pool starts at four superiority dice instead of two, growing at higher levels per the Superiority Dice Quantity column of the same table.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Fireteam Specialist (Companion)",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

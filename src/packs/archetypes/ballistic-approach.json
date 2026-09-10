@@ -1,0 +1,22 @@
+{
+  "_id": "vCKXdJTPPWlzznVk",
+  "_key": "!items!vCKXdJTPPWlzznVk",
+  "name": "Ballistic Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some warriors treat a frontal assault with a blaster as a desperate gambit; the followers of the Ballistic Approach treat it as their opening move. They marry the raw fury of the berserker's rage to the sustained violence of ranged firepower, refusing to let range or an empty power cell blunt their aggression.</p><p>Where other berserkers close to melee before losing themselves to fury, these fighters bring the fight to the enemy at a distance, then keep pressing forward until the gap closes entirely. Their rage doesn't demand a blade in hand — it demands a target in sight.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

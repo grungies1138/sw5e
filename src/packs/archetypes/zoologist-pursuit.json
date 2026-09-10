@@ -1,0 +1,22 @@
+{
+  "_id": "aZzk0IzCkzyYs3Mz",
+  "_key": "!items!aZzk0IzCkzyYs3Mz",
+  "name": "Zoologist Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Where other scholars bury themselves in texts, the Zoologist studies the countless creatures that share the galaxy with sentient life, learning their instincts, habits, and hidden strengths firsthand. That devotion to the animal kingdom eventually forges a genuine partnership rather than mere observation.</p><p>Bonded closely with a companion of their own raising, a Zoologist fights alongside a creature sharpened by their shared understanding, each making the other more dangerous than either would be alone.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

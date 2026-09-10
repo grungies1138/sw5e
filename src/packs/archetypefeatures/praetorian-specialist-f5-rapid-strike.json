@@ -1,0 +1,24 @@
+{
+  "_id": "RHRMPRzbivLQELTU",
+  "_key": "!items!RHRMPRzbivLQELTU",
+  "name": "Rapid Strike",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Attack action and have advantage on an attack roll against one of your targets, you may give up that advantage in exchange for one additional weapon attack against that same target, made as part of the same action. This can happen at most once per turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Praetorian Specialist",
+    "className": "Fighter",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

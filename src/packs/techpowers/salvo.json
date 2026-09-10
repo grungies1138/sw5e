@@ -1,0 +1,54 @@
+{
+  "_id": "dONhDp0JLwe43rYk",
+  "_key": "!items!dONhDp0JLwe43rYk",
+  "name": "Salvo",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You launch three projectiles at points you can see within range. Each creature within 10 feet of a detonation point must succeed on a Dexterity saving throw or take 3d6 fire damage and 3d6 kinetic damage, halved on a success; a creature caught in more than one blast radius is affected only once. Unattended flammable objects in the area ignite, and the blasts damage objects caught in them.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 6th level or higher, you launch four projectiles instead; at 8th level or higher, five.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d6",
+          "type": "fire"
+        },
+        {
+          "formula": "3d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

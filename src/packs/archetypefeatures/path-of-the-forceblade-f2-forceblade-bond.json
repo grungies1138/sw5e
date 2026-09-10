@@ -1,0 +1,24 @@
+{
+  "_id": "9NKeSSG5tpLLqLOK",
+  "_key": "!items!9NKeSSG5tpLLqLOK",
+  "name": "Forceblade Bond",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn a Force ritual that binds a light- or vibro-weapon to you as though it were part of your own body. The ritual takes 1 hour to complete and can be performed during a short rest; the weapon must remain within your reach for its duration. At its conclusion you touch the weapon to seal the bond, gaining the following:</p><ul><li>You cannot be disarmed of the bonded weapon while conscious.</li><li>As a bonus action, if the weapon is within 60 feet and you can see it, you may call it instantly to your hand; if your hand is full, it instead lands at your feet.</li><li>You may use Wisdom or Charisma in place of Strength or Dexterity for the weapon's attack and damage rolls.</li></ul><p>You may keep up to two weapons bonded in this manner at once, and a single bonus action can summon both of them simultaneously.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of the Forceblade",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

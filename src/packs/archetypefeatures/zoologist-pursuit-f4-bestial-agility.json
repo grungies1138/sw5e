@@ -1,0 +1,24 @@
+{
+  "_id": "QrlbHc8OUIcvLJFv",
+  "_key": "!items!QrlbHc8OUIcvLJFv",
+  "name": "Bestial Agility",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your beast can call on sudden reflexes to double its speed until the end of its turn whenever it moves during combat. Once used, it can't use this again until it spends a full turn without moving at all.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Zoologist Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

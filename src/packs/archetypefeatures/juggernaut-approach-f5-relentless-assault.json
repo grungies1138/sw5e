@@ -1,0 +1,24 @@
+{
+  "_id": "ThbWdHicOM1YmePJ",
+  "_key": "!items!ThbWdHicOM1YmePJ",
+  "name": "Relentless Assault",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can charge headlong up to twice your speed in a straight line, ignoring any opportunity attacks that would otherwise stop you. Every creature within 5 feet of your path must succeed on a Strength or Dexterity saving throw of its own choosing (DC equal to 8 plus your proficiency bonus plus your Strength modifier); a creature smaller than you rolls this save at disadvantage. On a failure, a creature takes damage equal to your Strength modifier plus your rage damage, and if it's no more than one size larger than you, it's shoved 5 feet in a direction you pick. If a creature is within 5 feet of you when your charge ends, you may make one melee weapon attack against it at no action cost, dealing extra damage equal to your berserker level on a hit.</p><p>Once you've unleashed this charge, you need a short or long rest before doing so again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Juggernaut Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

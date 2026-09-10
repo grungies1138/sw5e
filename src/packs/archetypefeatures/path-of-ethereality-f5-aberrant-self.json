@@ -1,0 +1,24 @@
+{
+  "_id": "kwBuHE4NcQV3e7tz",
+  "_key": "!items!kwBuHE4NcQV3e7tz",
+  "name": "Aberrant Self",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Age no longer weakens you, and nothing can magically accelerate your aging, though you can still eventually die of old age. You also no longer require food, water, or sleep. Finally, the first time you take damage on each of your turns, you may roll your Kinetic Combat die and subtract the result from that damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Ethereality",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

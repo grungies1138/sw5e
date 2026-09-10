@@ -1,0 +1,36 @@
+{
+  "_id": "6o9Ma0YSPvKrMzQM",
+  "_key": "!items!6o9Ma0YSPvKrMzQM",
+  "name": "Consular's Acolyte",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You spent your formative years studying under a Consular, a Jedi, a philosopher, or some other tradition of contemplation and inner discipline, learning to quiet your mind and look beyond the surface of things. Whether you left that path behind or still walk it, the lessons of patience, empathy, and careful observation remain with you.</p><p>You may have trained in a temple, a monastery, or simply at the feet of a wandering teacher, but you emerged with a habit of listening closely to others and to yourself &mdash; a habit that has proven useful in circumstances your teachers never anticipated.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "lor"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Force Sensitivity"
+      ]
+    },
+    "equipment": "A set of traveler's clothes, a small meditation focus or holocron replica, a belt pouch, and 8 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

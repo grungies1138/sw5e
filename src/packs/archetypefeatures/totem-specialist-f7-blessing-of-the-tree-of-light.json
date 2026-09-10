@@ -1,0 +1,24 @@
+{
+  "_id": "VxgUkZkECPzkFB5O",
+  "_key": "!items!VxgUkZkECPzkFB5O",
+  "name": "Blessing of the Tree of Light",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you use Totemic Might, you may also choose one willing creature you can see within 60 feet of you; that creature gains the same benefits from your Totemic Might for its duration. If you become incapacitated or are killed, the effect ends immediately for both of you.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Totem Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

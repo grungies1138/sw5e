@@ -1,0 +1,50 @@
+{
+  "_id": "UJCZbvaKUwupWVnq",
+  "_key": "!items!UJCZbvaKUwupWVnq",
+  "name": "Spectrum Bolt",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You launch a warbling bolt of energy at a creature within range. Make a ranged tech attack; on a hit, the target takes 2d8 plus 1d6 damage. Pick one of the two d8s rolled; the number showing sets the damage type according to the table below.</p><ul><li>1 - Acid</li><li>2 - Cold</li><li>3 - Fire</li><li>4 - Energy</li><li>5 - Ion</li><li>6 - Lightning</li><li>7 - Poison</li><li>8 - Sonic</li></ul><p>If both d8s show the same number, the bolt arcs onward to a different creature of your choice within 30 feet of the original target; make a fresh attack and damage roll against the new target, which can trigger the bolt to leap again. No creature can be struck more than once by a single casting.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 2nd level or higher, each target takes an extra 1d6 damage of the rolled type for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8 + 1d6",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

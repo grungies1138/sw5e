@@ -1,0 +1,26 @@
+{
+  "_id": "CRYrPs1ATiPSvxMR",
+  "_key": "!items!CRYrPs1ATiPSvxMR",
+  "name": "Fortune's Favor",
+  "type": "feat",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have an inexplicable knack for beating the odds. You have a number of luck points equal to your proficiency bonus. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20 and choose which of the d20s to use.</p><p>You can also spend a luck point when a creature makes an attack roll against you, rolling a d20 and choosing whether the attack uses the attacker's roll or yours. You regain all spent luck points when you finish a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

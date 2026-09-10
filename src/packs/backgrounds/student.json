@@ -1,0 +1,45 @@
+{
+  "_id": "OqJEZoRuvWHCec9z",
+  "_key": "!items!OqJEZoRuvWHCec9z",
+  "name": "Student",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You found your way to one of the galaxy's great institutes of learning as a child, apprenticed to scholars who taught you that knowledge is worth more than credits. You've since risen through the ranks of your archive or academy, and you're leaving now not to abandon that home but to bring new lore back to it.</p><p>You have a working knowledge of your cloister's bureaucracy and personnel, and other scholars across the galaxy tend to extend you the same professional courtesy you'd show them.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "lor",
+        "inv",
+        "nat"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Loremaster",
+        "Investigator",
+        "Naturalist",
+        "Linguist",
+        "Keen Mind",
+        "Observant",
+        "Healer"
+      ]
+    },
+    "equipment": "A set of common clothes, a datapad with ten data cards, a book on your current subject of study, and a pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

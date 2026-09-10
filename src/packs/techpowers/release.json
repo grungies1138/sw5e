@@ -1,0 +1,45 @@
+{
+  "_id": "iNlzyMdo0fEIhdVb",
+  "_key": "!items!iNlzyMdo0fEIhdVb",
+  "name": "Release",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target an object you can see within range that is held closed by a mundane or enhanced fastening, such as a locked door, chest, or set of binders. A mundane lock, bar, or obstruction on the target is undone; only one lock opens if the object has several. If the object is instead secured by the *lock* power, that power's effect is suppressed for 10 minutes, during which the object opens and closes normally.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

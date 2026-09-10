@@ -1,0 +1,50 @@
+{
+  "_id": "D0avs6EMr5epcQ2h",
+  "_key": "!items!D0avs6EMr5epcQ2h",
+  "name": "Break",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You blast an unattended object you can see within range with 10 force damage, producing a thunderous crack audible up to 100 feet away. Shrapnel sprays outward even if the object survives: each creature within 5 feet of it must succeed on a Dexterity saving throw or take 1d4 kinetic damage.</p><p>This power's kinetic damage increases by 1d4 at 5th level (2d4), 11th level (3d4), and 17th level (4d4), and its force damage against the object increases by 10 at each of those levels as well.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "EWe0KBeJQdeskbXL",
+  "_key": "!items!EWe0KBeJQdeskbXL",
+  "name": "Performer",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can hold any audience in the palm of your hand. Increase your Charisma score by 1, to a maximum of 20.</p><p>You gain proficiency in the Performance skill, or expertise in it if you're already proficient. While performing, you can attempt to captivate one humanoid who can see and hear you by making a Charisma (Performance) check contested by its Wisdom (Insight) check. If you succeed, that humanoid has disadvantage on Wisdom (Perception) and Intelligence (Investigation) checks for as long as you continue performing.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

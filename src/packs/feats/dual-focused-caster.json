@@ -1,0 +1,30 @@
+{
+  "_id": "rtTjRcCqghuBZMe8",
+  "_key": "!items!rtTjRcCqghuBZMe8",
+  "name": "Dual Focused Caster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to split your attention between two powers at once.</p><p>If you're already concentrating on a power and cast another that also requires concentration, you can maintain both simultaneously, provided you spend your action each following round sustaining that dual concentration — otherwise you lose both.</p><p>At the end of each of your turns while concentrating on two powers, make a Constitution saving throw with a DC of 10 plus the number of full rounds you've maintained both; failure ends both. As a free action on your turn, you may drop concentration on one power to avoid this save.</p><p>When damage would force a concentration save while you maintain two powers, the DC is 10 plus the combined levels of both powers, or half the damage taken, whichever is higher; failure ends both.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level, the ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

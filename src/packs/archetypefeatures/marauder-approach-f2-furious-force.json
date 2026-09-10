@@ -1,0 +1,24 @@
+{
+  "_id": "kL07KIt8bPRijDLt",
+  "_key": "!items!kL07KIt8bPRijDLt",
+  "name": "Furious Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can cast force powers even mid-rage, so long as the power takes no more than 1 action to cast, doesn't demand concentration, and you aren't wearing heavy armor. While raging, any force power you cast that calls for a force attack roll or forces a saving throw deals extra damage equal to your rage damage — though if the power hits multiple targets, you only get to apply that bonus to one of them. Casting a power in this way counts as an attack for the purpose of keeping your rage going, and you may invoke Reckless Attack to gain advantage on a force power that requires an attack roll.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Marauder Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "rdKDXz69peYmi6y7",
+  "_key": "!items!rdKDXz69peYmi6y7",
+  "name": "Flame Sweep",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You unleash a searing wave of fire in a 15-foot cone from your position. Each creature in the area makes a Dexterity saving throw, taking 3d6 fire damage on a failure or half that on a success.</p><p>Unattended flammable materials caught in the cone catch fire.</p><p><strong>Overcharge Tech.</strong> Cast with a 2nd-level slot or higher, this power's damage increases by 1d6 for every slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "7ESxPpWFeZYEFvBo",
+  "_key": "!items!7ESxPpWFeZYEFvBo",
+  "name": "Master of Persistence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You become an unrelenting force on the battlefield. Your Strength score and your Wisdom or Charisma score (your choice) each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist kinetic, energy, and ion damage dealt by weapons.</li><li>You ignore any effect that would reduce your speed.</li><li>Once per turn, when you push a creature, you may move up to 10 feet as part of that push without provoking opportunity attacks; if this brings you within 5 feet of the creature, you may make one melee weapon attack with no action required.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sokan Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

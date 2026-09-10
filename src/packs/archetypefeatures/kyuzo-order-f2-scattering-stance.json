@@ -1,0 +1,24 @@
+{
+  "_id": "fC73WkuAJGnpavZZ",
+  "_key": "!items!fC73WkuAJGnpavZZ",
+  "name": "Scattering Stance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Dodge action, you gain a number of special reactions—usable only to trigger your Intercept feature—equal to your proficiency bonus, lasting until the start of your next turn. You are still limited to one reaction per turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kyuzo Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

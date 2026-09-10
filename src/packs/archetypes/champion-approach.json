@@ -1,0 +1,22 @@
+{
+  "_id": "kkdtyCi02RAQmV7n",
+  "_key": "!items!kkdtyCi02RAQmV7n",
+  "name": "Champion Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some berserkers don't fight because they must — they fight because nothing else feels as alive. The Champion Approach turns that hunger into a discipline, teaching its followers to chase the thrill of combat itself as their highest calling.</p><p>Every clash becomes an opportunity to prove themselves anew, and their rage sharpens into precise, showmanlike maneuvers that reward boldness as much as brutality.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

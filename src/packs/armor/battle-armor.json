@@ -1,0 +1,35 @@
+{
+  "_id": "AMMTK05QnahH0hRW",
+  "name": "Battle Armor",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Full-coverage plating over a rigid frame, the entry point into true heavy armor, trading dexterity and stealth entirely for a hard, dependable shell.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 2000,
+      "denomination": "credits"
+    },
+    "weight": 35,
+    "equipped": false,
+    "proficient": true,
+    "type": "heavy",
+    "armor": {
+      "value": 16,
+      "dex": 0
+    },
+    "strength": 13,
+    "stealthDisadvantage": true,
+    "bulky": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

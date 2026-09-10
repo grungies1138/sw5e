@@ -1,0 +1,22 @@
+{
+  "_id": "JgmJjGPcTnzlNUrj",
+  "_key": "!items!JgmJjGPcTnzlNUrj",
+  "name": "Strategist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Strategist archetype is a Scholar who has turned the study of warfare itself into an art form, treating every engagement as a problem with a knowable solution. Where other Scholars diversify into varied fields of study, the Strategist narrows their focus onto command, logistics, and battlefield calculus, becoming the mind an entire squad plans its moves around.</p><p>Strategists can grant allies extra maneuvers drawn from their own reserve, predict an enemy's next move with unsettling accuracy, and coordinate a squad's actions so precisely that even outnumbered fights start to look winnable.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

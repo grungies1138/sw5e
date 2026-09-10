@@ -1,0 +1,24 @@
+{
+  "_id": "VFbEzA1mhIlElgB1",
+  "_key": "!items!VFbEzA1mhIlElgB1",
+  "name": "Accomplished Ambusher",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Attack action against a surprised creature, you can make one additional attack against that same creature as part of the action.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Stalker Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

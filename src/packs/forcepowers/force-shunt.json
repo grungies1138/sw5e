@@ -1,0 +1,50 @@
+{
+  "_id": "KMKM2K2fBlGCgG5a",
+  "_key": "!items!KMKM2K2fBlGCgG5a",
+  "name": "Force Shunt",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You slam a creature you can see with an invisible blow of the Force. It must succeed on a Strength saving throw or take 1d4 kinetic damage and be knocked prone.</p><p>The damage increases to 2d4 at 5th level, 3d4 at 11th level, and 4d4 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

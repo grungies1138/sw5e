@@ -1,0 +1,24 @@
+{
+  "_id": "XAerlBVRHlk00ps4",
+  "_key": "!items!XAerlBVRHlk00ps4",
+  "name": "Stand Against the Tide",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a hostile creature's melee attack against you misses, you can use your reaction to force it to make that same attack again against a different creature of your choice (not itself).</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Soresu Form",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

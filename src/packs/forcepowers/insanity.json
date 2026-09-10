@@ -1,0 +1,45 @@
+{
+  "_id": "bcL4NYOl9lEeJNw7",
+  "_key": "!items!bcL4NYOl9lEeJNw7",
+  "name": "Insanity",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A wave of psychic distortion floods the minds of every creature within a 30-foot radius of you, conjuring delusions and provoking wild, uncontrolled behavior. Each affected creature must succeed on a Wisdom saving throw or fall under the power's influence; it has no effect on constructs or droids.</p><p>An affected creature cannot take reactions, and at the start of each of its turns it rolls a d8 to determine its behavior: on a 1, it flees its full movement in a random direction and takes no action; on a 2-6, it neither moves nor acts; on a 7-8, it lashes out with a melee attack at a random creature within its reach, or does nothing if none is in reach.</p><p>At the end of each of its turns, an affected creature may attempt another Wisdom save to shake off the effect early.</p><p>Cast with a slot of 6th level or higher, the radius of the affected area expands by 5 feet per slot level beyond 5th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 5",
+    "school": "darkside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

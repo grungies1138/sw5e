@@ -1,0 +1,24 @@
+{
+  "_id": "tbZAhb8MdqRfYUmb",
+  "_key": "!items!tbZAhb8MdqRfYUmb",
+  "name": "Inspiring Surge",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you use Action Surge, you may designate one ally within 60 feet of you; if that ally can see or hear you, it may use its reaction to make one melee or ranged weapon attack.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shield Specialist",
+    "className": "Fighter",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

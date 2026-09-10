@@ -1,0 +1,24 @@
+{
+  "_id": "Ftx0q0VnwHZatajh",
+  "_key": "!items!Ftx0q0VnwHZatajh",
+  "name": "Double Tap",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can deal Sneak Attack damage twice in a single turn, though you still can't apply more than your total Sneak Attack dice to one target in that turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Scrapper Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "gMm64PyoBTEA8BRd",
+  "_key": "!items!gMm64PyoBTEA8BRd",
+  "name": "Shadow Killer Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Shadow Killer Practice operatives walk a line between the physical and the mystical, steeping their blades in poison while drawing on something stranger to slip from view entirely. Where others rely on cover and timing, these assassins borrow a sliver of the spirit realm itself to vanish.</p><p>Patient and merciless, they favor the slow kill over the loud one, coating a weapon and waiting for the toxin to finish what the strike began, all while remaining somewhere the target can no longer see.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "xwtlO9qsldqugjS3",
+  "_key": "!items!xwtlO9qsldqugjS3",
+  "name": "Danger Sense Ward",
+  "type": "power",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>You extend your battle-sense over your companions. Choose yourself and up to three allies within 30 feet. For the duration, each target has advantage on Dexterity saving throws and resistance to one damage type of your choice, chosen when you cast this power.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 4",
+    "school": "lightside",
+    "level": 4,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

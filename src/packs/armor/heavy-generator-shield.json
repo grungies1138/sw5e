@@ -1,0 +1,31 @@
+{
+  "_id": "vAjNBQGndVYJj24b",
+  "name": "Heavy Generator Shield",
+  "type": "shield",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>A powerful emitter that throws a wide, dense energy wall out from a handheld projector, offering the best protection a personal shield can provide while broadcasting a telltale hum for anyone paying attention.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 1200,
+      "denomination": "credits"
+    },
+    "weight": 4,
+    "equipped": false,
+    "tier": "heavy",
+    "variant": "generator",
+    "acBonus": 3,
+    "requiresFreeHand": true,
+    "obtrusive": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "48stYjF8rhs7RCJm",
+  "_key": "!items!48stYjF8rhs7RCJm",
+  "name": "Weapon Focused",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You dedicate yourself to a particular category of weapon. Choose one of the weapon focus options described later in this chapter.</p><p>You can take this feat multiple times, selecting a different option each time.</p>",
+      "chat": ""
+    },
+    "source": "Wretched Hive Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

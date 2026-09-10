@@ -1,0 +1,24 @@
+{
+  "_id": "Ig4sWbnhyDMBMIa6",
+  "_key": "!items!Ig4sWbnhyDMBMIa6",
+  "name": "Dervish",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Scoring a critical hit with a melee weapon attack restores one spent use of your Adaptive Fighting.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Blademaster Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

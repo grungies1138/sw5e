@@ -1,0 +1,24 @@
+{
+  "_id": "bfrTlqcVI47JChr6",
+  "_key": "!items!bfrTlqcVI47JChr6",
+  "name": "Down, Not Out",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a creature within 30 feet lands a hit on you, you may respond with your reaction, firing a single attack from a blaster you're proficient with back at your attacker.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Ballistic Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "quKkCgZj6bcmUHcc",
+  "_key": "!items!quKkCgZj6bcmUHcc",
+  "name": "Armored Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Most berserkers cast off armor to feel every edge of their rage. The Armored Approach rejects that tradition entirely, embracing a suit built and modified by the wearer's own hands until it becomes as much a weapon as a shield.</p><p>Every plate, spike, and system is tuned to the berserker's fury, turning what would be dead weight for another fighter into an extension of their own violent momentum.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

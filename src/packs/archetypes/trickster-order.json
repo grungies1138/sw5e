@@ -1,0 +1,22 @@
+{
+  "_id": "BhkTjFVYZvbSGMS1",
+  "_key": "!items!BhkTjFVYZvbSGMS1",
+  "name": "Trickster Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Followers of the Trickster Order play the fool by design, tumbling and stumbling their way into openings that a straightforward fighter would never find. Their comic missteps mask a razor-precise fighting style.</p><p>Whether their pratfalls are genuine accidents or masterfully rehearsed illusions is a question they leave for their bewildered opponents to ponder—usually long after the fight is over.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

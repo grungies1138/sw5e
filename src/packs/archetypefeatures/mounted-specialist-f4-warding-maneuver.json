@@ -1,0 +1,24 @@
+{
+  "_id": "FeZ9GQcjftKOKiRa",
+  "_key": "!items!FeZ9GQcjftKOKiRa",
+  "name": "Warding Maneuver",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you or a creature within 5 feet of you that you can see is about to take damage from an attack, you may react &mdash; provided you wield a melee weapon or a shield &mdash; by rolling 1d8 and adding it to that target's AC against the triggering attack. If the attack still connects, the target gains resistance to its damage.</p><p>You have three uses of this feature, gaining one more at 9th, 13th, and 17th level; a long rest restores all spent uses.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mounted Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

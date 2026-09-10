@@ -1,0 +1,33 @@
+{
+  "_id": "QhZjj6CRs0T4H3SX",
+  "_key": "!items!QhZjj6CRs0T4H3SX",
+  "name": "Heat Shielded",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Scorching climates hold little danger for you. Increase your Dexterity, Constitution, or Intelligence score by 1, to a maximum of 20.</p><p>You have advantage on Constitution saving throws made to resist exhaustion from extreme heat, and you can end the ignited condition on yourself using a bonus action rather than your action.</p><p>You have advantage on saving throws against fire damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "dex",
+        "int"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

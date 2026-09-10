@@ -1,0 +1,32 @@
+{
+  "_id": "8EXVd2IdL1B2ueCD",
+  "_key": "!items!8EXVd2IdL1B2ueCD",
+  "name": "Haggler",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned how to strike a good deal. Your Charisma score increases by 1, to a maximum of 20.</p><p>You have advantage on Charisma (Persuasion) and Charisma (Deception) checks made while haggling or trading, and you can always gauge the current market value of an unenhanced item or a common enhanced item. Whenever you identify an item, you also learn a rough estimate of its worth.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

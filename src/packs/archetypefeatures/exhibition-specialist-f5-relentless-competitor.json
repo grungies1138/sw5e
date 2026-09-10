@@ -1,0 +1,24 @@
+{
+  "_id": "4edCAcWd1GnSkFAn",
+  "_key": "!items!4edCAcWd1GnSkFAn",
+  "name": "Relentless Competitor",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once on each of your turns, you may recover a use of Action Surge at no action cost &mdash; but doing so immediately gives you one level of exhaustion.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Exhibition Specialist",
+    "className": "Fighter",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

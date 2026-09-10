@@ -1,0 +1,24 @@
+{
+  "_id": "HbU01UrqvTrBOIsu",
+  "_key": "!items!HbU01UrqvTrBOIsu",
+  "name": "Severe Fallout",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a creature rolls a natural 1 on a saving throw against one of your tech powers, it takes double damage from that power — or, if the power deals no damage, it instead has disadvantage on the next saving throw it makes against a tech power you cast.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Cybertech Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

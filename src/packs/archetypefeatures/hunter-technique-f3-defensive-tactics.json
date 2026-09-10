@@ -1,0 +1,24 @@
+{
+  "_id": "WtavTIdp7EyYjrlD",
+  "_key": "!items!WtavTIdp7EyYjrlD",
+  "name": "Defensive Tactics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following options of your choice.</p><p><strong>Escape the Horde.</strong> Creatures attacking you with opportunity attacks do so with disadvantage.</p><p><strong>Multiattack Defense.</strong> After a creature hits you with an attack, you gain a +4 bonus to AC against any further attacks that same creature makes for the remainder of the turn.</p><p><strong>Steel Will.</strong> You have advantage on saving throws against being frightened.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Hunter Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

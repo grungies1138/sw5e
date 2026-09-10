@@ -1,0 +1,22 @@
+{
+  "_id": "G2044rsXWBaqU5iq",
+  "_key": "!items!G2044rsXWBaqU5iq",
+  "name": "Way of Balance",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>To walk the Way of Balance is to treat combat as a scale that must be leveled rather than tipped. These consulars draw on the Force not merely to strike, but to steady the fight itself, wrapping themselves in wards that soak up harm even as they unravel the defenses of those who oppose them.</p><p>Where other traditions chase raw power, adherents of this path cultivate equilibrium: a shimmering barrier that shrugs off blows and slowly renews itself, paired with a keen sense for stripping away an enemy's own protections. In their hands, the Force becomes less a weapon than a counterweight, restoring harmony by force of will.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

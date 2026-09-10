@@ -1,0 +1,45 @@
+{
+  "_id": "p9g8zGxGC5oaH9K4",
+  "_key": "!items!p9g8zGxGC5oaH9K4",
+  "name": "Phaseshift",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Moving faster than an untrained eye can follow, you slip a short distance through space. You shift up to 5 feet without provoking opportunity attacks.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

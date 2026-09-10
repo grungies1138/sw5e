@@ -1,0 +1,24 @@
+{
+  "_id": "Knq71lFLAMVplhqy",
+  "_key": "!items!Knq71lFLAMVplhqy",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in the Medicine skill and with biochemist's kits and poisoner's kits. Crafting with either of those kits now takes half the normal time.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biochem Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

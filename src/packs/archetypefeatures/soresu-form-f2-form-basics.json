@@ -1,0 +1,24 @@
+{
+  "_id": "8H410gRJno33pYT6",
+  "_key": "!items!8H410gRJno33pYT6",
+  "name": "Form Basics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn the Soresu lightsaber form (see Chapter 6). If you already know it, choose a different lightsaber form instead.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Soresu Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,57 @@
+{
+  "_id": "2negocXPhQy3uRDh",
+  "name": "Class I Droid",
+  "type": "species",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Class I droids are biological and medical specialists, built with sophisticated diagnostic sensors and delicate manipulator appendages suited to surgery, chemistry, and scientific research. Found in hospitals, laboratories, and survey expeditions across the galaxy, Class I units combine an analytical processor core with a bedside manner carefully tuned &mdash; sometimes only partially successfully &mdash; to be reassuring to organic patients.</p><p>A Class I droid that has gained enough experience to act as an adventurer is typically one whose programming has developed beyond its original medical directive, often after years of independent field service.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "int",
+        "value": 2
+      },
+      {
+        "ability": "wis",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Binary"
+    ],
+    "traits": [
+      {
+        "name": "Droid Nature",
+        "description": "You do not need to eat, drink, sleep, or breathe. You are immune to disease and to poison damage, and you cannot gain exhaustion from lack of food, water, or rest. You do not dream, and effects that require a target to sleep or dream have no effect on you."
+      },
+      {
+        "name": "Analytical Processors",
+        "description": "You are proficient in the Medicine skill, and you have advantage on Wisdom (Medicine) checks made to diagnose or treat a creature's injury or illness."
+      },
+      {
+        "name": "Diagnostic Sensor Package",
+        "description": "Your onboard sensors grant you darkvision, and you have advantage on Intelligence (Investigation) checks made to identify a substance or analyze a biological sample."
+      }
+    ],
+    "isDroid": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

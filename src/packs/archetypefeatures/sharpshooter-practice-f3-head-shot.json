@@ -1,0 +1,24 @@
+{
+  "_id": "d7fu7drrfxlywnL5",
+  "_key": "!items!d7fu7drrfxlywnL5",
+  "name": "Head Shot",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on attack rolls against any creature that hasn't yet had its turn in the current combat, and any hit you score against a surprised creature is automatically a critical hit.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Sharpshooter Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

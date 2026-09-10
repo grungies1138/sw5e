@@ -1,0 +1,47 @@
+{
+  "_id": "bKxfk1f5l4PSBImh",
+  "_key": "!items!bKxfk1f5l4PSBImh",
+  "name": "Jedi",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are a devout follower of the Jedi Order, the ancient monastic order of peacekeepers who draw on the light side of the Force. You hold to its code and its discipline &mdash; serenity over passion, knowledge over ignorance, harmony over chaos &mdash; and you carry the training of a temple wherever your travels take you.</p><p>Whether you still answer to a Council, serve as a wandering guardian, or have simply kept the Order's teachings close after leaving it behind, the respect the Jedi command still opens doors for you across the galaxy.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "inv",
+        "lor",
+        "per"
+      ]
+    },
+    "toolProficiencies": [
+      "Artificer's tools"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Investigator",
+        "Loremaster",
+        "Charmer",
+        "Linguist",
+        "Crafter",
+        "Formfighting Dabbler",
+        "Force-Sensitive"
+      ]
+    },
+    "equipment": "A set of common clothes including a simple robe, a personal token of your training, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "U1svhLjTfvWz5dkq",
+  "_key": "!items!U1svhLjTfvWz5dkq",
+  "name": "Modified Self",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Over a long rest, using biotech's implements, you install cybernetic augmentations into your own body. As long as you have at least one augmentation installed, your body itself counts as a tech focus for your tech powers. You have 4 modification slots, gaining more at higher levels per the engineer table's Modification Slots column. Each augmentation beyond your proficiency bonus reduces your tech point maximum by 1. During a long rest you may install, swap, or remove augmentations up to your Intelligence modifier (minimum one), and any effect requiring a save uses your tech save DC.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biotech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

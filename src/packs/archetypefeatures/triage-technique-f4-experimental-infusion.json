@@ -1,0 +1,24 @@
+{
+  "_id": "7bAlWc5FSWWuvSNx",
+  "_key": "!items!7bAlWc5FSWWuvSNx",
+  "name": "Experimental Infusion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you mark a creature with your Ranger's Quarry, you may also apply one of the following, your choice:</p><ul><li><strong>Adrenaline/Tranquilizer.</strong> The creature's speed doubles until the end of its next turn, or instead it gains a level of slowed until then.</li><li><strong>Focus/Dizziness.</strong> The creature gains advantage or disadvantage (your choice) on the first ability check, attack roll, or saving throw it makes within the next minute.</li><li><strong>Toughen/Weaken.</strong> The creature gains temporary hit points equal to your scout level, lasting 1 minute; or instead, it must succeed on a Constitution saving throw against your tech save DC or take psychic damage equal to your scout level and be unable to regain hit points until the start of your next turn.</li></ul><p>You can use each of these once, regaining all uses on finishing a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Triage Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

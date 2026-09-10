@@ -1,0 +1,167 @@
+{
+  "_id": "H6FlkzUH742svjm3",
+  "name": "Sentinel-Class Cruiser",
+  "type": "starship",
+  "img": "icons/svg/anchor.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 13,
+        "proficient": 0
+      },
+      "dex": {
+        "value": 10,
+        "proficient": 0
+      },
+      "con": {
+        "value": 16,
+        "proficient": 0
+      },
+      "int": {
+        "value": 14,
+        "proficient": 0
+      },
+      "wis": {
+        "value": 10,
+        "proficient": 0
+      },
+      "cha": {
+        "value": 12,
+        "proficient": 0
+      }
+    },
+    "details": {
+      "biography": {
+        "value": "<p>A versatile capital warship serving as the backbone of many small fleets, the Cruiser balances heavy shielding, respectable firepower, and enough cargo capacity for extended patrols far from a support base.</p>",
+        "public": ""
+      },
+      "size": "large",
+      "tier": 0,
+      "role": "Cruiser",
+      "roleSpecialization": "",
+      "roleMastery": "",
+      "isSpaceStation": false,
+      "source": "SotG Ch.3 Starship Sizes — Large"
+    },
+    "hull": {
+      "value": 67,
+      "temp": 0,
+      "bonuses": {
+        "max": 0
+      },
+      "dice": {
+        "spent": 0
+      }
+    },
+    "shield": {
+      "equipped": true,
+      "type": "fortress",
+      "value": 80,
+      "bonuses": {
+        "max": 0
+      },
+      "dice": {
+        "spent": 0
+      },
+      "depleted": false
+    },
+    "attributes": {
+      "speed": {
+        "fly": 250,
+        "turn": 200,
+        "temp": 0
+      },
+      "ac": {
+        "armor": "deflection",
+        "bonus": 0
+      },
+      "hardpoints": {
+        "used": 3
+      },
+      "modSlots": {
+        "bonus": 0
+      }
+    },
+    "power": {
+      "reactor": "ionization",
+      "coupling": "distributed",
+      "central": {
+        "value": 0
+      },
+      "systems": {
+        "engines": {
+          "value": 1
+        },
+        "shields": {
+          "value": 1
+        },
+        "weapons": {
+          "value": 1
+        },
+        "sensors": {
+          "value": 1
+        },
+        "comms": {
+          "value": 0
+        }
+      },
+      "reroute": {
+        "active": false,
+        "target": "",
+        "efficient": false
+      }
+    },
+    "techDie": {
+      "size": 4,
+      "volatility": 0
+    },
+    "hyperdrive": {
+      "class": "1",
+      "backupClass": "",
+      "equations": 10
+    },
+    "cargo": {
+      "capacity": 500,
+      "value": 100
+    },
+    "fuel": {
+      "capacity": 300,
+      "value": 300
+    },
+    "suites": [],
+    "crew": [],
+    "crewMinOverride": null,
+    "conditions": {
+      "systemDamage": 0,
+      "slowed": 0,
+      "disabled": false,
+      "destroyed": false
+    },
+    "destructionSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "combat": {
+      "boostCount": {
+        "engines": 0,
+        "shields": 0,
+        "weapons": 0
+      },
+      "firedThisRound": 0,
+      "regenShieldsUsed": false,
+      "helmUsedThisRound": false,
+      "evasive": false
+    },
+    "currency": {
+      "credits": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "items": []
+}

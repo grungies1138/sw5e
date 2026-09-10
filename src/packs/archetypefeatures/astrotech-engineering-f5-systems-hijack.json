@@ -1,0 +1,24 @@
+{
+  "_id": "go1JXe3CUgZjqQYE",
+  "_key": "!items!go1JXe3CUgZjqQYE",
+  "name": "Systems Hijack",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Every droid, construct, or creature carrying a techcasting focus within 120 feet of you counts as a valid target for any tech power you cast that normally requires touch range.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

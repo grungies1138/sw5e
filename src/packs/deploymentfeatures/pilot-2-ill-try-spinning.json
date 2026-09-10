@@ -1,0 +1,22 @@
+{
+  "_id": "XZbKnX7jg2rJWasJ",
+  "name": "I'll Try Spinning",
+  "type": "deploymentFeature",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per long rest, when you take the Dogfight option of the Helm action and succeed on the opposed check, every attack made against your target by anyone other than you is made with disadvantage until the start of your next turn, in addition to the normal benefits of Dogfight.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Pilot",
+    "deployment": "pilot",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

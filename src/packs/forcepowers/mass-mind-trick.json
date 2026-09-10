@@ -1,0 +1,45 @@
+{
+  "_id": "APipogA1XmswwmUD",
+  "_key": "!items!APipogA1XmswwmUD",
+  "name": "Mass Mind Trick",
+  "type": "power",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>You cast a suggestion across the minds of several creatures at once. Choose up to three creatures within 30 feet of a point you can see, and speak a short statement of 25 words or fewer. Each target must succeed on a Wisdom saving throw or believe the statement to be true and act on it to the best of its ability for the duration, so long as the suggested course of action isn't obviously self-destructive.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 3",
+    "school": "lightside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "iunjVi2vtPfNfee8",
+  "name": "Distributed Power Coupling",
+  "type": "starshipequipment",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Routes power directly into five dedicated system reservoirs &mdash; Communications, Engines, Shields, Sensors, and Weapons &mdash; each holding up to <strong>2 Power Dice</strong> (10 total), with no central pool. Power Dice are only usable by maneuvers keyed to that specific system.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 5100,
+      "denomination": "credits"
+    },
+    "kind": "coupling",
+    "configKey": "distributed",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

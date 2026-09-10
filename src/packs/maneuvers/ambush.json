@@ -1,0 +1,25 @@
+{
+  "_id": "BvvdEtrcRlL4WyDH",
+  "name": "Ambush",
+  "type": "maneuver",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add it to the roll.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "special",
+      "cost": 0
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

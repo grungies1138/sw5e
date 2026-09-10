@@ -1,0 +1,22 @@
+{
+  "_id": "JJJmNmdQXtVIliVN",
+  "name": "Contingency Plan",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per long rest, when a crewmate you can communicate with fails a saving throw or an attack roll misses its target, you can use your reaction to let them reroll it, using the new result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

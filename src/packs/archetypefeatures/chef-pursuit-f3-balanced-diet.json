@@ -1,0 +1,24 @@
+{
+  "_id": "MzOOOyFYrAqOR8Rh",
+  "_key": "!items!MzOOOyFYrAqOR8Rh",
+  "name": "Balanced Diet",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your meals are perfectly formulated to hold off fatigue. Any creature of your choosing that eats food you've prepared gains advantage on Constitution saving throws made to resist exhaustion, lasting until the end of its next long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Chef Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

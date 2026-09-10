@@ -1,0 +1,24 @@
+{
+  "_id": "OWyeVpRifMpYR7cx",
+  "_key": "!items!OWyeVpRifMpYR7cx",
+  "name": "Slayer's Counter",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When the creature marked by your Ranger's Quarry forces you to make a saving throw, you can use your reaction to make a weapon attack against it first, resolving the attack before the save. If the attack hits, you automatically succeed on the saving throw, on top of whatever the attack normally accomplishes.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Slayer Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

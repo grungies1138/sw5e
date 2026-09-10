@@ -1,0 +1,22 @@
+{
+  "_id": "9Xvg26wYvUEELWeO",
+  "_key": "!items!9Xvg26wYvUEELWeO",
+  "name": "Makashi Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Makashi treats a duel as a puzzle to be solved rather than a wall to be broken down. Its practitioners abandon showy power for economy of motion, trusting a single well-placed cut over a storm of strikes, and using patience, misdirection, and exacting timing to unravel an opponent's defense.</p><p>Where cruder styles wear an enemy down through attrition, a Makashi duelist waits for the fractional opening created by an opponent's own aggression and answers it with surgical precision. Every parry is a question, every riposte an answer, until only one duelist remains standing.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

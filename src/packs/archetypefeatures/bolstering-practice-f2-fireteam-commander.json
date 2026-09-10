@@ -1,0 +1,24 @@
+{
+  "_id": "PdJDnYZOilbXM6tL",
+  "_key": "!items!PdJDnYZOilbXM6tL",
+  "name": "Fireteam Commander",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you'd deal Sneak Attack damage, you can give up two of those dice to instead perform a squad maneuver.</p><p><strong>Fortifying Strike.</strong> Roll two Sneak Attack dice; a friendly creature within 60 feet who can see or hear you immediately gains that many temporary hit points.</p><p><strong>Reaffirming Strike.</strong> Choose a friendly creature within 60 feet who can see or hear you and who is charmed or frightened by the creature you were about to Sneak Attack; that condition ends on them at once.</p><p><strong>Bolstering Strike.</strong> Choose a friendly creature within 60 feet who can see or hear you. The next time before the start of your next turn that ally hits the creature you forwent the dice against, they deal extra damage equal to the higher of the two forgone Sneak Attack dice.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Bolstering Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

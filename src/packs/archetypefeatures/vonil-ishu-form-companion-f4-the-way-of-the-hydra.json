@@ -1,0 +1,24 @@
+{
+  "_id": "GFmDDxx2hLTGLsMZ",
+  "_key": "!items!GFmDDxx2hLTGLsMZ",
+  "name": "The Way of the Hydra",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can enter a synchronized stance with your companion for 1 minute, provided it's within 10 feet of you. While the stance lasts, once per turn when you hit a creature with an attack, your companion gains advantage on its next attack against the same target before the end of your next turn; likewise, once per turn when your companion hits a creature with an attack, you gain advantage on your next attack against that same target before the end of your next turn.</p><p>The stance ends early if either of you is incapacitated or killed, or if your companion is ever more than 10 feet from you. You must complete a long rest before using this feature again.</p><p>At 11th level, your companion need only stay within 30 feet of you to benefit, and at 17th level, within 60 feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Vonil/Ishu Form (Companion)",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

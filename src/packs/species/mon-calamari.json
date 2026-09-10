@@ -1,0 +1,57 @@
+{
+  "_id": "UYiCjhxDs2NVPQLV",
+  "name": "Mon Calamari",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Mon Calamari are an amphibious, salmon-hued humanoid species from the ocean world of Mon Cala, celebrated across the galaxy for their brilliant engineering and shipbuilding &mdash; Mon Calamari cruisers and shipyards are renowned even among Core World naval architects. Their large, expressive eyes and domed heads are adaptations to a life spent both beneath the waves and beneath the stars.</p><p>Mon Calamari culture places tremendous value on craftsmanship, cooperation, and resilience in the face of adversity, virtues that saw their species through devastating civil war and, later, occupation.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 30,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "int",
+        "value": 2
+      },
+      {
+        "ability": "wis",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Mon Calamarian"
+    ],
+    "traits": [
+      {
+        "name": "Amphibious",
+        "description": "You can breathe both air and water, and you have a swimming speed of 30 feet."
+      },
+      {
+        "name": "Master Engineer",
+        "description": "You are proficient with one type of artisan's tools of your choice, and you have advantage on Intelligence checks made to design, repair, or improve mechanical or technological devices."
+      },
+      {
+        "name": "Resilient People",
+        "description": "You have advantage on saving throws against being frightened, a trait born of your species' long history of enduring hardship without losing hope."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

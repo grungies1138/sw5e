@@ -1,0 +1,24 @@
+{
+  "_id": "px7QmuKyABe3Sk2h",
+  "_key": "!items!px7QmuKyABe3Sk2h",
+  "name": "Prey on the Weak",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you hit a creature that's below its hit point maximum with a weapon attack, the next attack roll made against it before the end of your next turn, by anyone other than you, has advantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Predator Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

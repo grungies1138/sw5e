@@ -1,0 +1,22 @@
+{
+  "_id": "NjKISB71gsXYGFtC",
+  "_key": "!items!NjKISB71gsXYGFtC",
+  "name": "Path of Communion",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Death is not always the end of a journey through the Force. Those sentinels who follow the Path of Communion forge a bond with a lingering spirit, a presence that has chosen not to fade, and let that connection reshape how they see the world.</p><p>Guided by their spectral companion, these sentinels perceive threats and possibilities their allies cannot, and in dire need, can even lend their spirit's will to influence the battlefield beyond their own body's reach.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Sentinel"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "NQuaS6JamWIO25aR",
+  "_key": "!items!NQuaS6JamWIO25aR",
+  "name": "Bartender",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've spent years behind a bar somewhere everybody knew your name, pouring drinks and lending an ear to whoever needed one. People from every walk of life have sat across from you, and you've learned to read them, calm them, or rile them up as the moment called for.</p><p>Whether you were the life of the cantina or just its steadiest presence, that trust people put in you never really faded, and it still opens doors most strangers can't get through.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "itm",
+        "med",
+        "per"
+      ]
+    },
+    "toolProficiencies": [
+      "Brewer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Threatening",
+        "Medic",
+        "Charmer",
+        "Specialist",
+        "Linguist",
+        "Observant",
+        "Snappy Interjection"
+      ]
+    },
+    "equipment": "A set of common clothes, a brewer's kit, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

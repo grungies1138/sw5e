@@ -1,0 +1,53 @@
+{
+  "_id": "tWSxrnVfvc5LLHeb",
+  "name": "Blaster Carbine",
+  "type": "weapon",
+  "img": "icons/svg/pistol.svg",
+  "system": {
+    "description": {
+      "value": "<p>A shortened rifle-pattern blaster prized by scouts and troopers who need rifle range without giving up a hand for other work.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 450,
+      "denomination": "credits"
+    },
+    "weight": 4,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "simple",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 60,
+      "long": 240,
+      "units": "ft"
+    },
+    "properties": [],
+    "ammo": {
+      "type": "power cell",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

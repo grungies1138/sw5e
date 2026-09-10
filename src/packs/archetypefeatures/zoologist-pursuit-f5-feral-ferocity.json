@@ -1,0 +1,24 @@
+{
+  "_id": "muEeFfG0jD6UnVyU",
+  "_key": "!items!muEeFfG0jD6UnVyU",
+  "name": "Feral Ferocity",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to push your beast companion past its ordinary limits. If it's within 30 feet of you and can see or hear you, you can command it into a furious state, gaining the following for its duration:</p><ul><li>Advantage on Strength checks and saving throws, if it is Medium size or larger.</li><li>Advantage on Dexterity checks and saving throws, if it is Small size or smaller.</li><li>Bonus damage equal to your Critical Analysis ability modifier on every hit it lands.</li><li>Resistance to kinetic and energy damage.</li></ul><p>This furious state lasts 1 minute, ending early if the beast is knocked unconscious, or if you end it yourself as a bonus action. You must finish a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Zoologist Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

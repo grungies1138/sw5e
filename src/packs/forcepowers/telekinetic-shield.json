@@ -1,0 +1,54 @@
+{
+  "_id": "HdW9YjFbSFWsvb4L",
+  "_key": "!items!HdW9YjFbSFWsvb4L",
+  "name": "Telekinetic Shield",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lift three piles of rubble or debris from the ground to interpose between yourself and your foes for the duration. While three piles remain you have three-quarters cover, while two remain you have half cover, and while only one remains you have one-quarter cover; the piles never impede your own attacks.</p><p>When you cast this power, and again as an action on a later turn, you can direct up to two piles to attack up to two creatures you can see within 30 feet, making a ranged force attack roll for each. A pile that hits deals 2d6 kinetic plus 1d10 force damage, and is destroyed whether it hits or misses.</p><p>When cast using a force slot of 4th level or higher, the power creates one additional pile for each slot level above 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "kinetic"
+        },
+        {
+          "formula": "1d10",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

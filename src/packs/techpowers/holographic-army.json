@@ -1,0 +1,45 @@
+{
+  "_id": "omehmnSSerNuVOHJ",
+  "_key": "!items!omehmnSSerNuVOHJ",
+  "name": "Holographic Army",
+  "type": "power",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>You project a small legion of flickering holographic soldiers around yourself and your allies. For the duration, attack rolls against you and up to two allies within 30 feet of you have disadvantage, as attackers struggle to identify the real targets among the decoys.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

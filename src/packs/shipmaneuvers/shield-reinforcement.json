@@ -1,0 +1,25 @@
+{
+  "_id": "YfBtGTxctMkgoWL2",
+  "name": "Shield Reinforcement",
+  "type": "shipmaneuver",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, roll your Tech Die. Your ship immediately regenerates Shield Points equal to the result, up to its shield capacity, without expending a Shield Die.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Mechanic Techniques",
+    "deployment": "mechanic",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": false,
+    "formula": "@techDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

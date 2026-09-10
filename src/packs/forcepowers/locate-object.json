@@ -1,0 +1,45 @@
+{
+  "_id": "Ctbxb9sO7XzTqko7",
+  "_key": "!items!Ctbxb9sO7XzTqko7",
+  "name": "Locate Object",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Naming or describing an object, you sense the direction toward it, provided it lies within 1000 feet of you, along with its direction of travel if it is moving. The power can find a specific object you know, so long as you've seen it from within 30 feet, or the nearest object of a general category. Any thickness of lead blocking the direct path defeats this power.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "DLyscVoRgq2z695e",
+  "_key": "!items!DLyscVoRgq2z695e",
+  "name": "Lethality Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Lethality Practice operatives study death the way an artist studies form: as something to be perfected. Every strike is chosen for maximum finality, aimed at the instant an enemy's guard is down and never intended to be their last surprise.</p><p>Where other specialists disable or distract, these operatives simply end the fight before it starts, then melt back into the shadows as though nothing happened. A single perfect opening is all they need, and they make sure it comes.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

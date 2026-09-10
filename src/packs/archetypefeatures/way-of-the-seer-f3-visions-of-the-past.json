@@ -1,0 +1,24 @@
+{
+  "_id": "QJeWaJRV5e1tIbNr",
+  "_key": "!items!QJeWaJRV5e1tIbNr",
+  "name": "Visions of the Past",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>By meditating for at least 1 minute, you can call up hazy, dreamlike visions of recent events tied to an object in hand or to your surroundings. You can sustain this meditation for a number of minutes equal to your Wisdom score, maintaining concentration throughout as though casting a force power. Once used, this feature requires a short or long rest before it can be used again.</p><p><strong>Object Reading.</strong> While holding an object, 1 minute of meditation reveals how its most recent owner obtained and lost it, along with the most significant recent event involving that owner and the object. If the object passed through other owners within the last several days (up to a number of days equal to your Wisdom score), you can spend one additional minute per owner to learn the same information about each of them.</p><p><strong>Area Reading.</strong> While meditating in a location, you perceive recent events within your immediate surroundings (up to a 50-foot cube, a room, street, tunnel, clearing, or similar space), reaching as far back as a number of days equal to your Wisdom score. Each minute of meditation reveals one significant event, starting with the most recent; these are typically moments of strong emotion, battles, betrayals, marriages, murders, births, funerals, though more mundane events relevant to your current situation may surface as well.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of the Seer",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

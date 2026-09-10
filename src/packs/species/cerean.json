@@ -1,0 +1,57 @@
+{
+  "_id": "3eEmt72CbhAYeOXa",
+  "name": "Cerean",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Cereans are a tall, slender species distinguished by their elongated, conical skulls, which house a secondary heart and a binary brain capable of processing information in parallel. This unusual physiology grants Cereans exceptional patience, foresight, and a natural talent for logic and strategy.</p><p>Cereans favor careful deliberation over hasty action, and many serve as scholars, tacticians, and diplomats where their measured thinking is most valued.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "int",
+        "value": 2
+      },
+      {
+        "ability": "wis",
+        "value": 1
+      }
+    ],
+    "darkvision": 0,
+    "languages": [
+      "Galactic Basic",
+      "Cerean"
+    ],
+    "traits": [
+      {
+        "name": "Binary Processing",
+        "description": "Your dual brain lets you weigh multiple lines of reasoning simultaneously. You have advantage on Intelligence checks made to solve puzzles, plan strategy, or otherwise reason through a complex problem given at least one minute to think."
+      },
+      {
+        "name": "Secondary Heart",
+        "description": "Your secondary heart provides redundant circulation. You have advantage on saving throws against being reduced to 0 hit points by a single attack, and against effects that would cause you to suffer a level of exhaustion."
+      },
+      {
+        "name": "Foresight",
+        "description": "Your careful, deliberate mind rarely misses a threat. You have advantage on initiative checks."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

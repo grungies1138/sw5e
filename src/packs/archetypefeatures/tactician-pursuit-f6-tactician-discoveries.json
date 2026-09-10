@@ -1,0 +1,24 @@
+{
+  "_id": "qSYn2lymcLTrldev",
+  "_key": "!items!qSYn2lymcLTrldev",
+  "name": "Tactician Discoveries",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>This pursuit grants access to discoveries drawn from your mastery of combat. Each time you gain a new discovery, you may instead choose from the list below, given here alphabetically.</p><p><strong>Commander's Armor</strong> (5th level required). You gain proficiency with medium armor — or, if you already have that proficiency, with heavy armor instead.</p><p><strong>Contingency Plan</strong> (9th level required). When your Critical Analysis target scores a critical hit, you can spend your reaction and a superiority die to downgrade that attack to a normal hit.</p><p><strong>Fighting Style.</strong> Choose one fighting style option from Chapter 6 to make your combat specialty.</p><p><strong>Firing Command.</strong> You can take the Help action as a bonus action, and when you use it to assist an ally attacking your Critical Analysis target, it can be done from up to 30 feet away.</p><p><strong>Observant Leader.</strong> You have advantage on Wisdom (Perception) checks that rely on sight.</p><p><strong>Studied Commander.</strong> On an Intelligence (Lore) or Intelligence (Technology) check about battles, tactics, or weapons, you may spend a superiority die and add the roll to your total.</p><p><strong>Tactical Retreat.</strong> Opportunity attacks against you are made at disadvantage whenever you take the Dash action.</p><p><strong>Unbound Commander</strong> (12th level required). Your Critical Analysis range extends further still, to 120 feet.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactician Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

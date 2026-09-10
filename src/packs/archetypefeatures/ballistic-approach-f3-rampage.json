@@ -1,0 +1,24 @@
+{
+  "_id": "5mgLMtMbwVw45TOV",
+  "_key": "!items!5mgLMtMbwVw45TOV",
+  "name": "Rampage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, landing a hit with a blaster you're proficient with — using your Strength modifier on the damage roll — lets you spend a bonus action to close the distance: you may move up to half your speed toward the target you struck, ending that movement nearer to it than where you began. Should this bring you within 5 feet of the target, you can tack on a single melee attack with the same blaster as part of that bonus action.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Ballistic Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

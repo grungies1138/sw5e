@@ -1,0 +1,45 @@
+{
+  "_id": "0QltlELi9rKvpJOZ",
+  "_key": "!items!0QltlELi9rKvpJOZ",
+  "name": "Recon Drone",
+  "type": "power",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>You launch a palm-sized drone that darts ahead to scout. While it remains within 60 feet of you and you concentrate, you have advantage on Wisdom (Perception) and Intelligence (Investigation) checks that rely on sight, using the drone's sensors as an extension of your own.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

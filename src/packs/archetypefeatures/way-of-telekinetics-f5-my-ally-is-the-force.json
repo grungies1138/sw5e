@@ -1,0 +1,24 @@
+{
+  "_id": "oNcvbDvjjP0ozVbw",
+  "_key": "!items!oNcvbDvjjP0ozVbw",
+  "name": "My Ally is the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your telekinetic reach now extends to creatures of Gargantuan size or smaller. Additionally, whenever a force power you cast pushes or pulls a creature, you can extend that push or pull by an extra 20 feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Telekinetics",
+    "className": "Consular",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "sSwXVLfekdALKTj8",
+  "_key": "!items!sSwXVLfekdALKTj8",
+  "name": "Force Breach",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You designate a point within range. Every force power of 5th level or lower affecting the area immediately ends. For each force power of 6th level or higher present, you make an ability check using your forcecasting ability against a DC of 10 plus that power's level; success ends it.</p><p>Casting this power with a force slot of 6th level or higher automatically ends any force power in the area whose level does not exceed the level of the slot used, with no check required.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

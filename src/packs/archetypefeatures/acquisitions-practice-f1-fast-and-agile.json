@@ -1,0 +1,24 @@
+{
+  "_id": "mNEFrpjs8gCAeCPM",
+  "_key": "!items!mNEFrpjs8gCAeCPM",
+  "name": "Fast and Agile",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The bonus action from your Cunning Action can now also be spent to make a Dexterity (Sleight of Hand) check, to pop a lock or disable a trap with a security kit or demolitions kit, or to take the Use an Object action.</p><p>You also gain a bounding, weightless grace: climbing no longer eats into your movement, and you can trade your walking speed for two short bursts of flight instead. Each burst covers half your speed, and you must come down on solid ground or a surface at the end of it, otherwise you drop out of the air and your move ends there. Using Dash still adds its bonus distance to your ordinary speed, not to this flying movement.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Acquisitions Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

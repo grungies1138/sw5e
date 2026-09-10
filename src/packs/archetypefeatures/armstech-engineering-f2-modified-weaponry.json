@@ -1,0 +1,24 @@
+{
+  "_id": "aiD2hsvnAJnykDVV",
+  "_key": "!items!aiD2hsvnAJnykDVV",
+  "name": "Modified Weaponry",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Given a long rest and armstech's implements, you can rework one weapon you're already proficient with into your signature creation. It becomes an enhanced item usable only by you, requires attunement, and while attuned serves as a tech focus for your tech powers. It begins with 4 modification slots and gains more as you level, per the engineer table's Modification Slots column. Each modification beyond your proficiency bonus reduces your tech point maximum by 1. During a long rest you may install, swap, or remove modifications up to your Intelligence modifier (minimum one), and any modification requiring a save uses your tech save DC.</p><p>At 9th level, you can maintain two separately modified weapons at once, each with its own slots from the table.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armstech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

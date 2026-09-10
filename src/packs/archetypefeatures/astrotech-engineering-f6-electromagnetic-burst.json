@@ -1,0 +1,24 @@
+{
+  "_id": "Hyfx6YfpjyGP00yi",
+  "_key": "!items!Hyfx6YfpjyGP00yi",
+  "name": "Electromagnetic Burst",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can end your active field in a burst whose effect depends on which field was running. Once you've used this feature, you need a long rest before using it again.</p><p><strong>Ionizing Burst.</strong> Choose up to 10 creatures within 60 feet; each must succeed on a Constitution save or take 14d6 ion damage and become stunned until the start of your next turn (half damage and no stun on a success).</p><p><strong>Jamming Burst.</strong> Choose up to 10 creatures within 60 feet. Once within the next minute, if a chosen creature would fail a save against a tech power or be hit by an attack power, it may instead succeed on that save or cause the attack to miss.</p><p><strong>Targeting Burst.</strong> Choose up to 10 creatures within 60 feet; each must succeed on a Constitution save against your tech save DC or be blinded for 1d4+1 turns.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

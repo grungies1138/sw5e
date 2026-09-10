@@ -1,0 +1,24 @@
+{
+  "_id": "6UiYzNcInGdyEqCL",
+  "_key": "!items!6UiYzNcInGdyEqCL",
+  "name": "Targeting Matrix",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you cast a tech power that would make creatures in an area attempt a saving throw, you can instead make an attack roll with your modified weapon against one target within the power's range. A hit resolves as though that target failed its save; if the power could normally hit several creatures, it now affects only the one you attacked. You have five uses of this, gaining a sixth at 17th level, all restored after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armstech Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

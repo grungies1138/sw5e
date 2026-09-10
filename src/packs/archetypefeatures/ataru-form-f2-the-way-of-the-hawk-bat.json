@@ -1,0 +1,24 @@
+{
+  "_id": "tjpMWjVGmN8F3BdU",
+  "_key": "!items!tjpMWjVGmN8F3BdU",
+  "name": "The Way of the Hawk-Bat",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can spend one minute in an aggressive stance, bounding across the field. As part of that bonus action, and again as a bonus action on later turns, you may cast the force jump power as though it were 1st level, without spending force points. Whenever you cast force jump this way, you gain advantage on the first attack roll you make against each creature within 5 feet of where you land.</p><p>The stance ends early if you're incapacitated or killed. You must finish a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ataru Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

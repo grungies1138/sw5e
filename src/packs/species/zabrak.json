@@ -1,0 +1,57 @@
+{
+  "_id": "8HJWK0GYiwLOgwoa",
+  "name": "Zabrak",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Zabraks are a hardy, resilient humanoid species distinguished by vestigial facial horns and, in many individuals, elaborate ritual tattoos marking rites of passage. Native to the harsh, arid world of Iridonia, Zabraks are shaped by a culture that prizes self-reliance, discipline, and an iron will &mdash; qualities forged by a homeworld with little tolerance for weakness.</p><p>Zabraks are found throughout the galaxy as warriors, duelists, and Force-users of both the light and dark sides, their unyielding resolve making them equally suited to either path.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "con",
+        "value": 2
+      },
+      {
+        "ability": "wis",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Zabraki"
+    ],
+    "traits": [
+      {
+        "name": "Iron Will",
+        "description": "You have advantage on saving throws against being frightened or stunned."
+      },
+      {
+        "name": "Horns",
+        "description": "Your vestigial horns are natural weapons. If you hit with them, you deal 1d4 + your Strength modifier piercing damage instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      {
+        "name": "Desert Fortitude",
+        "description": "You have resistance to poison damage, and advantage on saving throws made to resist disease, a legacy of your species' harsh homeworld."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

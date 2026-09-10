@@ -1,0 +1,45 @@
+{
+  "_id": "X8spwg1JLvWWeQ2k",
+  "_key": "!items!X8spwg1JLvWWeQ2k",
+  "name": "Aura of Vigor",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>An invigorating field extends 30 feet from you and moves with you for the duration. Every non-hostile creature inside the aura, including yourself, adds an extra 1d4 damage to its weapon attacks.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 3",
+    "school": "lightside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

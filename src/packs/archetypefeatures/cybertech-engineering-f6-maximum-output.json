@@ -1,0 +1,24 @@
+{
+  "_id": "WBc5LyGabDXhhZP5",
+  "_key": "!items!WBc5LyGabDXhhZP5",
+  "name": "Maximum Output",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a tech power, you can choose to have it deal its maximum possible damage or provide its maximum possible healing. Once you've used this feature, you need a short or long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Cybertech Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

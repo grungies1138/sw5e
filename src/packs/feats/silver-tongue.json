@@ -1,0 +1,26 @@
+{
+  "_id": "g7707l3dtKIL9lQi",
+  "_key": "!items!g7707l3dtKIL9lQi",
+  "name": "Silver Tongue",
+  "type": "feat",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your way with words can turn a hostile negotiation in your favor. You gain proficiency in the Persuasion skill, if you don't already have it, and once per short or long rest, you can reroll a Charisma (Persuasion) or Charisma (Deception) check you just made, taking the new result.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

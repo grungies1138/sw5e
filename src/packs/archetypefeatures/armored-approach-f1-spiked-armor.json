@@ -1,0 +1,24 @@
+{
+  "_id": "z5gjpEkXoBIawl9i",
+  "_key": "!items!z5gjpEkXoBIawl9i",
+  "name": "Spiked Armor",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with armormech's implements, and given a long rest and both the tools and a suit of light or medium armor in hand, you can rework it into spiked armor — you can maintain only one such suit at a time. The armor gains the barbed (1d4) property, or steps its existing barbed die up one size (d4 to d6, or d6 to d8) if it already has one. While raging, you add your rage damage bonus to the barbed damage you deal when starting or holding a grapple.</p><p>While you wear your spiked armor, you may calculate your AC using your Constitution modifier in place of Dexterity. The armor also doubles as an improvised weapon: you're treated as proficient with it, its barbed damage replaces your improvised weapon damage whenever it would be higher, and if you take the Attack action and land at least one hit with it, you can spend a bonus action for one more attack with it against the same target.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Armored Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

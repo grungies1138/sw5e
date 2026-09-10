@@ -1,0 +1,25 @@
+{
+  "_id": "gApJsns9NCZ6mTML",
+  "name": "Commander's Strike",
+  "type": "maneuver",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one ally within 60 feet of you to strike. Expend one superiority die; that ally can immediately use its reaction to make one weapon attack, adding the superiority die to its damage roll on a hit.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

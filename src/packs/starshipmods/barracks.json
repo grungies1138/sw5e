@@ -1,0 +1,30 @@
+{
+  "_id": "PTLKPrPvHUMoKLTK",
+  "name": "Barracks",
+  "type": "starshipmod",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Stacked bunks and lockers sized for a squad of troopers or crew, the most basic housing suite a ship can install.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 2000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 0,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

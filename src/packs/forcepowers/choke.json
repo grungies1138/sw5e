@@ -1,0 +1,50 @@
+{
+  "_id": "TPL6H6nCW6fKPttM",
+  "_key": "!items!TPL6H6nCW6fKPttM",
+  "name": "Choke",
+  "type": "power",
+  "img": "icons/svg/skull.svg",
+  "system": {
+    "description": {
+      "value": "<p>You clench your fist and crush the breath from a creature's throat with the dark side. The target must make a Strength saving throw. On a failure, it takes 2d8 force damage and is restrained and unable to speak for the duration as your grip holds firm; it can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a success, it merely takes half damage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 1",
+    "school": "darkside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

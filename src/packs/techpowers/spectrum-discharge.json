@@ -1,0 +1,50 @@
+{
+  "_id": "qZFPXoYSwlDfFsRh",
+  "_key": "!items!qZFPXoYSwlDfFsRh",
+  "name": "Spectrum Discharge",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature and charge it with elemental energy of a type you choose: acid, cold, fire, lightning, poison, or sonic. For the duration, the target can spend an action to release the stored energy in a 15-foot cone. Each creature in the cone must succeed on a Dexterity saving throw or take 3d6 damage of the chosen type, halved on a success.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 3rd level or higher, the damage increases by 1d6 for each slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d6",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

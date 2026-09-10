@@ -1,0 +1,43 @@
+{
+  "_id": "UVthvCffoWuSAtcp",
+  "name": "Fighter",
+  "type": "class",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A versatile ranged and melee combatant skilled with a wide array of weapons and baseline combat maneuvers. The Fighter is the galaxy's consummate soldier — equally comfortable behind a blaster rifle, a vibroblade, or the controls of a walker — and relies on hard-won training rather than the Force or exotic technology to win the day.</p><p>Fighters draw on a shared pool of battlefield Maneuvers to trip up, disarm, rally, or outmaneuver their foes, and further hone their approach to war through a personal set of Strategies as they gain experience, letting the class flex from a frontline juggernaut to a precision marksman without ever needing a second class.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d10",
+    "casterProgression": "none",
+    "castingAbility": "",
+    "primaryAbility": [
+      "str",
+      "dex"
+    ],
+    "savingThrows": [
+      "str",
+      "con"
+    ],
+    "skillChoices": {
+      "number": 2,
+      "options": [
+        "acr",
+        "ath",
+        "ins",
+        "prc",
+        "sur"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

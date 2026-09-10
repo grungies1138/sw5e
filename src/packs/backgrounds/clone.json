@@ -1,0 +1,47 @@
+{
+  "_id": "HRcEthFdOuqvRcns",
+  "_key": "!items!HRcEthFdOuqvRcns",
+  "name": "Clone",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You were grown, not born &mdash; a genetic replica of someone else, produced in a lab rather than raised by a family. Whoever your DNA-donor was, their life sometimes surfaces in you unbidden: a half-memory of a place you've never been, or a face that reacts to you as if they already know you.</p><p>You're carving out an identity that is distinctly your own, even as you keep discovering how much of you was already written before you ever woke up.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "lor",
+        "slt",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "Your choice of geneticist's implements, security kit, or slicer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Athlete",
+        "Loremaster",
+        "Quick-Fingered",
+        "Survivalist",
+        "Crafter",
+        "Specialist",
+        "Linguist",
+        "Force-Sensitive"
+      ]
+    },
+    "equipment": "A set of clothes appropriate to your duties, a trinket related to your DNA-donor, and 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

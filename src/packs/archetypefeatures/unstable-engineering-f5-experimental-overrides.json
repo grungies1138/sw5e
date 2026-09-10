@@ -1,0 +1,24 @@
+{
+  "_id": "MWcw8mrQ3XCap7bg",
+  "_key": "!items!MWcw8mrQ3XCap7bg",
+  "name": "Experimental Overrides",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your control over your own surges sharpens. When you roll on the Unstable Engineering Surge table and spend an override to reroll, you may pick whichever of the two results you prefer, rather than being locked into the second roll.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Unstable Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "WxlcW33lTpZtIZhp",
+  "_key": "!items!WxlcW33lTpZtIZhp",
+  "name": "Mark of the Meticulous",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can substitute Intelligence for Dexterity on attack and damage rolls with finesse or blaster weapons against the creature marked by your Ranger's Quarry.</p><p>Additionally, once per round, when you hit that creature with a tech attack, or it fails a save against a damaging tech power you cast, you may deal extra damage equal to your Ranger's Quarry damage die, matching the tech power's damage type.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mastermind Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

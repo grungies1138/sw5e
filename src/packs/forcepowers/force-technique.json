@@ -1,0 +1,50 @@
+{
+  "_id": "oEkCLxHuX3njOpY3",
+  "_key": "!items!oEkCLxHuX3njOpY3",
+  "name": "Force Technique",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel purifying Force energy into your weapon and strike. As part of the action, you must make a melee weapon attack against a creature within your reach or the power fails. On a hit, the attack deals its normal damage, and the target becomes wrapped in a faint barrier of force energy until the start of your next turn. If it willingly moves before then, the barrier bursts, dealing 1d8 force damage and ending the power.</p><p>The bonus damage from the melee attack and the damage dealt for moving both increase by 1d8 at 5th level, and again at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, At-Will",
+    "school": "lightside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

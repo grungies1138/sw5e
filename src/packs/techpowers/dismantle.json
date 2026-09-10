@@ -1,0 +1,50 @@
+{
+  "_id": "21KLSMbkSVG6XvxM",
+  "_key": "!items!21KLSMbkSVG6XvxM",
+  "name": "Dismantle",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch an unenhanced structure or object not worn or carried by anyone but you, and it cracks or tears apart across an area up to 1 foot in any dimension; cast this way, the power takes 1 minute to complete.</p><p>Alternatively, you can touch a droid or construct and make a melee tech attack against it, dealing 1d6 energy damage on a hit; cast this way, the power takes only 1 action.</p><p>This power's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

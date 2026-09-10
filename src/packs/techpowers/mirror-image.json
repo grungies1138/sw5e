@@ -1,0 +1,45 @@
+{
+  "_id": "tZMRjHezCkia0Uo5",
+  "_key": "!items!tZMRjHezCkia0Uo5",
+  "name": "Mirror Image",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Three illusory copies of yourself spring up around you. For the duration, they move and act alongside you, shifting positions so no observer can tell which image is genuine; you can dismiss them as an action.</p><p>Whenever a creature attacks you while the duplicates remain, roll a d20 to see whether the attack is redirected to a duplicate instead: with three duplicates remaining you need a 6 or better, with two an 8 or better, and with one an 11 or better.</p><p>Each duplicate has an AC of 10 plus your Dexterity modifier and is destroyed the instant an attack hits it, ignoring all other damage or effects; the power ends once all three are destroyed. A creature that cannot see, that relies on senses other than sight such as blindsight, or that can identify illusions (such as with truesight) is unaffected.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

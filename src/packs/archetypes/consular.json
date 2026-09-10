@@ -1,0 +1,22 @@
+{
+  "_id": "1U94hEQOWO0ciVAH",
+  "_key": "!items!1U94hEQOWO0ciVAH",
+  "name": "Battlemind",
+  "type": "archetype",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Battlemind archetype channels the Consular's mastery of the Force inward as much as outward, fusing psychic combat technique with martial awareness. Rather than standing at the back of a fight lobbing powers from range, the Battlemind Consular wades into melee protected by a shroud of telekinetic force, turning their own body into a conduit for devastating, close-quarters Force expression.</p><p>Battleminds develop the knack of projecting Force barriers around themselves mid-fight, lashing out with force-augmented strikes, and reading the intentions of nearby minds — making them equally capable of a quiet negotiation and a sudden, overwhelming show of power.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

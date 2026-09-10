@@ -1,0 +1,47 @@
+{
+  "_id": "QRvZw0RiesORIrWg",
+  "_key": "!items!QRvZw0RiesORIrWg",
+  "name": "Scoundrel",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've always had a way with people &mdash; a knack for reading what someone wants after only a few minutes of conversation, and an even better knack for convincing them you can get it for them. Every mark you've talked into a bad decision has sharpened the same gift: making the improbable sound plausible.</p><p>You've built a second identity or two along the way, papers and acquaintances included, and you're not above using them the moment a con calls for it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "prf",
+        "slt"
+      ]
+    },
+    "toolProficiencies": [
+      "Disguise Kit, Forgery Kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Performer",
+        "Quick-Fingered",
+        "Specialist",
+        "Force of Personality",
+        "Snappy Interjection",
+        "Actor"
+      ]
+    },
+    "equipment": "A set of fine clothes, a disguise kit, a memento of a former con, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

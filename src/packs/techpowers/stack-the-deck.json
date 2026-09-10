@@ -1,0 +1,45 @@
+{
+  "_id": "dilXZXjyIAwPVIOV",
+  "_key": "!items!dilXZXjyIAwPVIOV",
+  "name": "Stack the Deck",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel a boost of confidence into up to three creatures you can see within 30 feet. Until the power ends, each affected creature can roll a d4 whenever it makes an attack roll or a saving throw, adding the result to that roll.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 3rd level or higher, this power can affect one additional creature for every two slot levels beyond 1st. Cast at 3rd, 6th, or 9th level, the bonus die becomes a d6, d8, or d10, respectively.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

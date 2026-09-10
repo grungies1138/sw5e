@@ -1,0 +1,45 @@
+{
+  "_id": "9aH2o1DTz5vyjgBr",
+  "_key": "!items!9aH2o1DTz5vyjgBr",
+  "name": "Disable Droid",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You choose a point you can see within range. Every droid or construct in the area must succeed on a Constitution saving throw or be paralyzed for the duration. At the start of each of its turns, a paralyzed target takes energy damage equal to your forcecasting ability modifier and repeats the save, ending the effect on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 4",
+    "school": "lightside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

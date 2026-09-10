@@ -1,0 +1,50 @@
+{
+  "_id": "0mlygePFp7TnZD59",
+  "_key": "!items!0mlygePFp7TnZD59",
+  "name": "Short Circuit",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You send a jolt of electricity into a creature within range. Make a ranged tech attack; on a hit, the target takes 1d8 lightning damage, and if it is a droid, construct, or carries a tech focus, it has disadvantage on the next attack roll it makes against you before the end of your next turn.</p><p>This power's damage increases to 2d8 at 5th level, 3d8 at 11th level, and 4d8 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

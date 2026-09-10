@@ -1,0 +1,22 @@
+{
+  "_id": "3wxKALTfROJ60IKL",
+  "_key": "!items!3wxKALTfROJ60IKL",
+  "name": "Beastmaster Approach (Companion)",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some who walk the Beastmaster Approach don't channel nature within themselves — they forge a bond with it, calling a beast companion to stand at their side. The bond deepens as the berserker's fury grows, until master and creature move and strike as one.</p><p>In battle, this pair hunts together: the berserker's rage empowers the beast, and the beast's ferocity feeds back into the berserker's own resolve.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

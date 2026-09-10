@@ -1,0 +1,30 @@
+{
+  "_id": "T3RD62v2Ge2Z0cff",
+  "name": "Living Quarters",
+  "type": "starshipmod",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Modest private cabins for crew or passengers, a step up from barracks bunks in comfort and privacy.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 3000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

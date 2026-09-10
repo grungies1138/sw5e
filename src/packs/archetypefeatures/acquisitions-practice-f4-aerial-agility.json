@@ -1,0 +1,24 @@
+{
+  "_id": "KwZ5AQchjcb0bG6T",
+  "_key": "!items!KwZ5AQchjcb0bG6T",
+  "name": "Aerial Agility",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your control in midair sharpens further:</p><ul><li>You can now split your movement into three short flying bursts instead of two.</li><li>Whenever one of those bursts ends within 5 feet of a surface you could climb, you can catch hold of it as though you'd climbed there normally.</li></ul>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Acquisitions Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "1kiC2sOtAGvCOvMK",
+  "_key": "!items!1kiC2sOtAGvCOvMK",
+  "name": "Trader",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You made your living buying low, selling high, and reading people well enough to know which deals to walk away from. Whether you ran a market stall, captained a independent trade run, or brokered deals for a mercantile guild, you understand that in the galaxy's vast economy, everything and everyone has a price &mdash; and that the real skill lies in knowing what that price actually is.</p><p>You carry an instinct for value and a network of contacts across the markets and spaceports you have worked, along with a healthy respect for a well-negotiated contract.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "per",
+        "lor"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Negotiator"
+      ]
+    },
+    "equipment": "A set of merchant's scales, a ledger of accounts and contacts, a fine set of clothes, a lockbox, and 20 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

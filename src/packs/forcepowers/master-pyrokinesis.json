@@ -1,0 +1,50 @@
+{
+  "_id": "TLC3PszRnc0npaBP",
+  "_key": "!items!TLC3PszRnc0npaBP",
+  "name": "Master Pyrokinesis",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A billowing storm of Force-fed flame erupts at a point you choose within range, filling as many as ten contiguous 10-foot cubes arranged however you like, each sharing at least one face with another. Every creature caught within must attempt a Dexterity saving throw, taking 7d10 energy damage on a failure or half as much on a success; a creature in more than one cube is affected only once.</p><p>The flame scorches objects in the area and ignites unattended flammable material.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 7",
+    "school": "universal",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "7d10",
+          "type": "energy"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

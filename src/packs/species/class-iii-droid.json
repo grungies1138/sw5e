@@ -1,0 +1,57 @@
+{
+  "_id": "WvPmos1a2Wslai3U",
+  "name": "Class III Droid",
+  "type": "species",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Class III droids are protocol and service units, designed from their photoreceptors to their vocabulators to interact smoothly with organic beings across a bewildering range of cultures and languages. Fluent in millions of forms of communication, Class III units serve as translators, diplomats' aides, and household staff throughout civilized space, their humanoid bearing intended to put organics at ease.</p><p>Though built for courtesy rather than combat, many Class III droids that survive years of galactic upheaval develop a dry wit &mdash; and an anxious streak &mdash; that belies their polished programming.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "cha",
+        "value": 2
+      },
+      {
+        "ability": "int",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Binary"
+    ],
+    "traits": [
+      {
+        "name": "Droid Nature",
+        "description": "You do not need to eat, drink, sleep, or breathe. You are immune to disease and to poison damage, and you cannot gain exhaustion from lack of food, water, or rest."
+      },
+      {
+        "name": "Linguistic Processor",
+        "description": "You can speak, read, and write an additional four languages of your choice, and you have advantage on Charisma (Persuasion) checks made while acting as a translator or intermediary between two parties."
+      },
+      {
+        "name": "Protocol Training",
+        "description": "You are proficient in the Persuasion skill, and you have advantage on Intelligence checks made to recall etiquette, customs, or diplomatic protocol for a given culture or species."
+      }
+    ],
+    "isDroid": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

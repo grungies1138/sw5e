@@ -1,0 +1,24 @@
+{
+  "_id": "H1Ttj6Dz90IvcJTh",
+  "_key": "!items!H1Ttj6Dz90IvcJTh",
+  "name": "Harmonious Rakatan",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can now fuel your Focus features with tech points instead, lowering your maximum tech points by 1 until your next long rest whenever you do so.</p><p>You are also permanently under the effect of the <em>detect enhancement</em> tech power. As an action, you can cast <em>analyze</em> without spending tech points; doing so suppresses <em>detect enhancement</em> until you complete a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Rakatan Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

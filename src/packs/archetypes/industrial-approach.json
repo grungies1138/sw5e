@@ -1,0 +1,22 @@
+{
+  "_id": "N52J4hJIODQiVwbI",
+  "_key": "!items!N52J4hJIODQiVwbI",
+  "name": "Industrial Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every berserker surrenders wholly to instinct. Followers of the Industrial Approach fuse their fury with technology, wiring a wristpad full of dangerous schematics into their fighting style until every rage carries the promise of an elemental blast.</p><p>Their fights combine calculated engineering with raw aggression — a berserker who plans their explosions even as their anger builds toward the next one.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

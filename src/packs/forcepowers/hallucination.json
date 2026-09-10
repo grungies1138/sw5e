@@ -1,0 +1,50 @@
+{
+  "_id": "sYkCHduafoi8IM4Z",
+  "_key": "!items!sYkCHduafoi8IM4Z",
+  "name": "Hallucination",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You weave a convincing illusion into the mind of a creature you can see within range. It must succeed on a Wisdom saving throw or perceive — for the duration, and only it perceives it — a phantasmal creature, object, or phenomenon of your design, no larger than a 10-foot cube, complete with sound, temperature, and other sensory detail. Droids and constructs are unaffected.</p><p>As an action, the target may study the illusion with an Intelligence (Investigation) check against your force power save DC; success reveals it as false and ends the power. Until then, the target treats the hallucination as real, rationalizing any impossible outcomes of interacting with it — someone who falls through a phantom bridge, for instance, still believes the bridge existed and imagines some other cause for the fall.</p><p>The illusion can even hurt the target: on your turn, if it is a creature or hazard that could plausibly deal harm and the target is within its area or within 5 feet of it, it deals 1d6 psychic damage, which the target perceives as whatever damage type fits the illusion.</p><p>Cast with a 3rd-level slot or higher, the range increases by 20 feet, the illusion's maximum dimension increases by 5 feet, and you can affect one additional creature for every two slot levels above 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

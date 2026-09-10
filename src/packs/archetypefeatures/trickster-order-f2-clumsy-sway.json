@@ -1,0 +1,24 @@
+{
+  "_id": "DuLnriPleGwGDQUT",
+  "_key": "!items!DuLnriPleGwGDQUT",
+  "name": "Clumsy Sway",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Leap to Your Feet.</strong> Standing up from prone now costs only 5 feet of movement instead of half your speed.</p><p><strong>Redirect Attack.</strong> When a melee attack roll misses you, you may spend 1 focus point as a reaction to make it instead strike a different creature you can see within 5 feet of you (not the original attacker).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Trickster Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

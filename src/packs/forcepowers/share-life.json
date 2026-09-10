@@ -1,0 +1,50 @@
+{
+  "_id": "dapOywJuFZRQ5L1U",
+  "_key": "!items!dapOywJuFZRQ5L1U",
+  "name": "Share Life",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel your own life force to mend another creature's wounds. You take 4d8 necrotic damage, and one creature you can see within range regains hit points equal to twice the necrotic damage you took. This power has no effect on droids or constructs.</p><p>When cast using a force slot of 4th level or higher, the necrotic damage increases by 1d8 for each slot level above 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 3",
+    "school": "lightside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d8",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

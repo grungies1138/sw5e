@@ -1,0 +1,24 @@
+{
+  "_id": "LbPO40ZYHsPOySty",
+  "_key": "!items!LbPO40ZYHsPOySty",
+  "name": "Quickdraw",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>On your first turn of combat, provided you weren't surprised, you can spend your action to strike at everyone who hasn't acted yet: choose up to six such creatures you can see and make a ranged weapon attack against each. Any hit deals normal weapon damage, and you can layer one trick shot onto each of these attacks.</p><p>You need a short or long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Gunslinger Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

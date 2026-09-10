@@ -1,0 +1,24 @@
+{
+  "_id": "9TdikfFuRbDipf9K",
+  "_key": "!items!9TdikfFuRbDipf9K",
+  "name": "Elemental Adept",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain two of the following techniques, plus one more at 11th level and another at 17th level. You can use these techniques together a number of times equal to your proficiency bonus, regaining all uses after a long rest. Once you're out of uses, you may instead spend 2 focus points to use one, though doing so lowers your focus point maximum by 2 until your next long rest.</p><p><strong>Burning Ember Flourish.</strong> As an action, choose a flame you can see that fits within a 5-foot cube within 60 feet and snuff it out, producing either fireworks—each creature within 10 feet must succeed on a Constitution save or be blinded until the end of your next turn—or a 20-foot-radius cloud of heavily obscuring black smoke that bends around corners and lasts 1 minute or until dispersed by strong wind.</p><p><strong>Curtain of Unyielding Wind.</strong> As an action, summon a howling gale in a 10-foot radius that follows you for 10 minutes. It deafens everyone within it (including you), snuffs out unprotected flames no larger than a torch, disperses vapor, gas, or fog, makes the area difficult terrain for everyone but you, and imposes disadvantage on ranged attack rolls that pass into, out of, or through it.</p><p><strong>Crushing Hand of the Mountain.</strong> As an action, raise a Medium hand of soil and stone in an unoccupied 5-foot square you can see within 30 feet, lasting 1 minute; it reaches for one Large or smaller creature within 5 feet of it, forcing a Strength save. On a failure the target takes 2d6 kinetic damage and is restrained. As a bonus action on later turns, you can have the hand crush the restrained target, forcing another Strength save for 2d6 kinetic damage (half on a success). The restrained creature can use its action to attempt a Strength check against your focus save DC to break free. As an action, you may redirect the hand to a new creature or a new unoccupied space in range, releasing any current target.</p><p><strong>Hatchling's Flame.</strong> As an action, unleash a 30-foot-long, 5-foot-wide line of fire in a direction you choose. Each creature caught in it must succeed on a Dexterity save or take 3d8 fire damage (half on a success).</p><p><strong>Patient Bantha Listens.</strong> As a bonus action, gain tremorsense out to 30 feet and a burrow speed equal to your walking speed for up to 1 minute, leaving behind a tunnel that persists until the effect ends, then collapses.</p><p><strong>Rush of the Shyrack.</strong> As an action, blast a 60-foot-long, 10-foot-wide line of powerful wind from yourself for 1 minute, or until you lose concentration or dismiss it (no action required). Each Large or smaller creature that starts its turn in the line must succeed on a Strength save or be pushed 15 feet along the line's direction, and any creature within it spends 2 feet of movement for every foot it tries to move closer to you. The wind disperses gas and vapor, snuffs unprotected torches and candles, and has a 50 percent chance to snuff protected flames (making them dance wildly if it doesn't). As a bonus action on later turns, you may redirect the line.</p><p><strong>Shape the Raincloud.</strong> As an action, draw water from the air or return it there: create up to 20 gallons of drinkable water in an open container, produce rain across a 30-foot cube that extinguishes open flames, destroy an equal volume of contained water, or clear a 30-foot cube of fog.</p><p><strong>Swarming Ice Rabbit.</strong> As an action, erupt a burst of ice from a point within 90 feet; each creature in a 5-foot-radius sphere centered there must succeed on a Dexterity save or take 3d6 cold damage and gain 1 slowed level until the start of your next turn (half damage and no slow on a success).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kro Var Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

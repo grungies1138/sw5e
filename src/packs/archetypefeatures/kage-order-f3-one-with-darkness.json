@@ -1,0 +1,24 @@
+{
+  "_id": "yzwebydTrDQv0Bxo",
+  "_key": "!items!yzwebydTrDQv0Bxo",
+  "name": "One With Darkness",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While standing in dim light or darkness, you can use your action to turn invisible. This lasts until you attack, cast a power, take some other hostile action, or step into an area of bright light.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kage Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

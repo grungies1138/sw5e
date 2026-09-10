@@ -1,0 +1,24 @@
+{
+  "_id": "nsvJGPNZdUYEPm5R",
+  "_key": "!items!nsvJGPNZdUYEPm5R",
+  "name": "Back Blast",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with every blaster that has the burst or rapid property but lacks the two-handed property. When a creature fails a save against the burst or rapid property of such a weapon you're wielding and proficient with, you can apply Sneak Attack damage to one creature it damaged, provided that creature didn't have advantage on its save.</p><p>Starting at 9th level in this class, when multiple creatures fail a save against the burst property of such a weapon, you can split your Sneak Attack dice among them however you like.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Scrapper Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

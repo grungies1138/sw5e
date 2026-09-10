@@ -1,0 +1,45 @@
+{
+  "_id": "w9oePDXxT3roG3KH",
+  "_key": "!items!w9oePDXxT3roG3KH",
+  "name": "Smoke Cloud",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Thick smoke billows from a point within range, filling a 20-foot-radius sphere that curls around corners and heavily obscures its area for the duration, or until a wind of at least 10 miles per hour disperses it.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 2nd level or higher, the radius increases by 20 feet for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

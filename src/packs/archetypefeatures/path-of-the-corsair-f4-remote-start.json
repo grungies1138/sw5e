@@ -1,0 +1,24 @@
+{
+  "_id": "9OFASjBuGpszlEQw",
+  "_key": "!items!9OFASjBuGpszlEQw",
+  "name": "Remote Start",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can trigger a primed charge from a distance with a bonus action, so long as you can see it within 60 feet. Alternatively, if you take the Attack action while wielding a blaster you're proficient with, and the attack roll wouldn't otherwise suffer disadvantage, you may instead shoot the explosive to set it off. Either way, the explosive detonates instantly, and you roll its damage with advantage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of the Corsair",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "xS0E205VCx1oOPve",
+  "_key": "!items!xS0E205VCx1oOPve",
+  "name": "Lucky Number 7",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Any time an attack roll you make against your Critical Analysis target comes up as a natural 7, that attack automatically strikes home and you recover one spent superiority die. When you're rolling two dice for the attack due to advantage or disadvantage, this triggers if either die shows a 7 — and if both dice show a 7, the attack is instead a critical hit.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gambler Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

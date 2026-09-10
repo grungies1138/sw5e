@@ -1,0 +1,45 @@
+{
+  "_id": "0rHw3heguaT0pxrr",
+  "_key": "!items!0rHw3heguaT0pxrr",
+  "name": "Force Enlightenment",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a creature and channel the Force to enhance one of its abilities, chosen from the list below; the chosen benefit lasts until the power ends. Droids and constructs are unaffected.</p><p><em>Strength.</em> Advantage on Strength checks, and double carrying capacity.<br><em>Dexterity.</em> Advantage on Dexterity checks, and no falling damage from falls of 20 feet or less while not incapacitated.<br><em>Endurance.</em> Advantage on Constitution checks, and 2d6 temporary hit points, lost when the power ends.<br><em>Cunning.</em> Advantage on Intelligence checks.<br><em>Wisdom.</em> Advantage on Wisdom checks.<br><em>Splendor.</em> Advantage on Charisma checks.</p><p>Casting this power with a force slot of 3rd level or higher lets you enhance one additional creature for each slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 2",
+    "school": "lightside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "YV0z4wuag21rp8fu",
+  "_key": "!items!YV0z4wuag21rp8fu",
+  "name": "Amnesiac",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You woke up somewhere with no memory of how you got there, or who you were before. No name came to mind, no home, no face you recognized as family &mdash; just the fact of being alive, and a single object that might be the only thread back to whoever you used to be.</p><p>You've had to learn the world over again from strangers' explanations, piecing together a life from context clues and the occasional flash of half-remembered detail.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "inv",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "Choose one from disguise kit, forgery kit, or tinker's implements"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Investigator",
+        "Survivalist",
+        "Specialist",
+        "Crafter",
+        "Linguist",
+        "Practiced"
+      ]
+    },
+    "equipment": "A set of common clothes, a relic of your forgotten past, and a belt pouch containing 200 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

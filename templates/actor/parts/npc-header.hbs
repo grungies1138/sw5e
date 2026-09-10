@@ -1,0 +1,23 @@
+<header class="sheet-header npc-header">
+  <img class="profile-img" src="{{actor.img}}" data-action="editImage" data-edit="img" alt="{{actor.name}}">
+  <div class="header-fields">
+    <input class="name-input" name="name" type="text" value="{{actor.name}}">
+    <div class="header-row">
+      <label>{{sw5eLabel 'SW5E.CreatureType'}} <input type="text" name="system.details.type" value="{{system.details.type}}"></label>
+      <label>{{sw5eLabel 'SW5E.ChallengeRating'}} <input type="number" name="system.details.cr" value="{{system.details.cr}}" step="0.125" style="width:4em"></label>
+      <label>{{sw5eLabel 'SW5E.ProficiencyBonus'}} <input type="number" name="system.attributes.prof" value="{{system.attributes.prof}}" style="width:3em"></label>
+    </div>
+    <div class="header-row bars-row">
+      <div class="resource hp">
+        <label>{{sw5eLabel 'SW5E.HitPoints'}}</label>
+        <div class="bar-wrap">
+          <div class="bar-fill" style="width:{{sw5ePercent system.attributes.hp.value system.attributes.hp.max}}%"></div>
+          <input type="number" name="system.attributes.hp.value" value="{{system.attributes.hp.value}}">
+          <span>/ <input type="number" name="system.attributes.hp.max" value="{{system.attributes.hp.max}}" style="width:3em"></span>
+        </div>
+      </div>
+      <div class="resource ac"><label>{{sw5eLabel 'SW5E.ArmorClass'}}</label><input type="number" name="system.attributes.ac.flat" value="{{system.attributes.ac.flat}}" style="width:3em"></div>
+      <div class="resource init"><label>{{sw5eLabel 'SW5E.Initiative'}}</label><div class="ac-value">{{sw5eSigned system.attributes.init.total}}</div></div>
+    </div>
+  </div>
+</header>

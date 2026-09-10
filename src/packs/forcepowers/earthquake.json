@@ -1,0 +1,50 @@
+{
+  "_id": "vsYti5WKmfijWGos",
+  "_key": "!items!vsYti5WKmfijWGos",
+  "name": "Earthquake",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You wrack the ground at a point you can see within range with a violent tremor that persists for the duration, affecting a 100-foot-radius circle centered there and shaking every creature and structure touching the ground within it.</p><p>The area becomes difficult terrain. Any concentrating creature on the ground there must succeed on a Constitution saving throw or lose concentration. When you cast the power and at the end of each turn you spend concentrating on it, every creature on the ground in the area must succeed on a Dexterity saving throw or be knocked prone. The GM may apply further terrain-specific effects.</p><p>At the start of your next turn, 1d6 fissures tear open at locations the GM chooses, each 1d10 x 10 feet deep and 10 feet wide, spanning the area edge to edge. A creature standing where one opens must succeed on a Dexterity save or fall in; one who succeeds rides the fissure's edge as it forms. A fissure opening beneath a structure causes it to collapse automatically.</p><p>Any structure touching the ground in the area takes 50 kinetic damage when you cast the power and again at the start of each of your turns until it ends. A structure reduced to 0 hit points collapses; a creature within half the structure's height must succeed on a Dexterity save or take 5d6 kinetic damage, fall prone, and become buried (requiring a DC 20 Strength (Athletics) check as an action to escape, adjustable by the GM), while a successful save halves the damage and avoids the other effects.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 8",
+    "school": "universal",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 500,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

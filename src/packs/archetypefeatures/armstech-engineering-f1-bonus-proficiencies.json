@@ -1,0 +1,24 @@
+{
+  "_id": "u1KkiXTmnZWFRiXp",
+  "_key": "!items!u1KkiXTmnZWFRiXp",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You become trained with armstech's implements, medium armor, and all martial blasters and vibroweapons. Crafting with armstech's implements takes half the normal time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armstech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

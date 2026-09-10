@@ -1,0 +1,26 @@
+{
+  "_id": "hiv4BSAjYoMQRDie",
+  "_key": "!items!hiv4BSAjYoMQRDie",
+  "name": "Armored Resilience",
+  "type": "feat",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Trained to fight effectively even in heavy armor, you gain the following benefits while wearing heavy armor: you have advantage on saving throws made against being knocked prone, and you can don and doff heavy armor faster than normal &mdash; donning takes half the normal time, and doffing takes only one minute regardless of the armor's normal requirement.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Proficiency with heavy armor.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

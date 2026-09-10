@@ -1,0 +1,47 @@
+{
+  "_id": "oCfJwValHeqmQ11i",
+  "_key": "!items!oCfJwValHeqmQ11i",
+  "name": "Criminal",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have made your way through the galaxy's underworld, running scams, smuggling contraband, or working for one of the innumerable syndicates that thrive in the shadow of legitimate government. You know how to read a mark, disappear into a crowd, and keep your mouth shut when questioned by the authorities &mdash; or by people considerably worse than the authorities.</p><p>Whatever crimes make up your past, you retain contacts in the underworld who owe you favors, or to whom you owe favors of your own, and a healthy distrust of anyone wearing a uniform.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "itm",
+        "slt",
+        "ste"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Threatening",
+        "Quick-Fingered",
+        "Stealthy",
+        "Competitor",
+        "Specialist",
+        "Feigned Confidence",
+        "Observant"
+      ]
+    },
+    "equipment": "A crowbar or hydrospanner, a set of dark common clothes with a hood, a forged identification chip, a set of loaded chance cubes, and 15 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

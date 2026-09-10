@@ -1,0 +1,24 @@
+{
+  "_id": "iRs87NbvQTEKrQ5I",
+  "_key": "!items!iRs87NbvQTEKrQ5I",
+  "name": "Raging Whirlwind",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per rage, you can spend an action to hurl a thrown weapon to a point within 60 feet, where it whips itself into a churning cyclone filling a 10-foot-radius sphere centered there. Any creature that enters that sphere for the first time on a turn, or starts its turn inside it, takes damage equal to the weapon's damage dice plus your Strength modifier plus your rage damage. The whirlwind persists until you recall the weapon to your hand (no action required) or your rage ends.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Bloodstorm Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

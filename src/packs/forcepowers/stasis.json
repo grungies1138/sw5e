@@ -1,0 +1,45 @@
+{
+  "_id": "8NggY6pT01V5t3KJ",
+  "_key": "!items!8NggY6pT01V5t3KJ",
+  "name": "Stasis",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose a creature you can see within range. It must succeed on a Wisdom saving throw or become paralyzed for the duration, repeating the save at the end of each of its turns to end the effect early. This power has no effect on droids or constructs.</p><p>When cast using a force slot of 6th level or higher, you can target one additional creature, within 30 feet of the others, for each slot level above 5th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 5",
+    "school": "lightside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

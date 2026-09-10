@@ -1,0 +1,22 @@
+{
+  "_id": "AsLBq30LagzydnHc",
+  "name": "Disrupted Defenses",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a Disruption you use forces a target to make a saving throw and it fails by 5 or more, the target also suffers disadvantage on its next attack roll or ability check before the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

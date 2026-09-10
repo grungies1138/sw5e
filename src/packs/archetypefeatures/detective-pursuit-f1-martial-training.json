@@ -1,0 +1,24 @@
+{
+  "_id": "Nm2DlvCNOx0zEUel",
+  "_key": "!items!Nm2DlvCNOx0zEUel",
+  "name": "Martial Training",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with martial vibroweapons and in the Investigation skill; checks made with that skill are never rolled at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Detective Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

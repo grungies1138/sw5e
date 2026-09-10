@@ -1,0 +1,24 @@
+{
+  "_id": "EJdjgv5HKc2fOKit",
+  "_key": "!items!EJdjgv5HKc2fOKit",
+  "name": "Sabotage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn to unravel a tech power as it's being cast. When a hostile creature casts a tech power that targets you or includes you in its area, you can use your reaction to force an Intelligence save against your tech save DC. On a success, the power resolves normally.</p><p>On a failure, the power's effects are negated, the caster takes 1d6 lightning damage per level of the power, and its tech focus overloads, unusable for casting tech powers for 1 minute. At the end of each of its turns, the caster can repeat the save, regaining use of its focus on a success.</p><p>You need a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Saboteur Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

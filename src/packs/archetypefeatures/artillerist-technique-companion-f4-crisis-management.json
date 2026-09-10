@@ -1,0 +1,24 @@
+{
+  "_id": "UiEZ6OTUZgfYjFVQ",
+  "_key": "!items!UiEZ6OTUZgfYjFVQ",
+  "name": "Crisis Management",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While you can see your turret, it adds half its proficiency bonus to any saving throw that wouldn't otherwise include that bonus.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique (Companion)",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

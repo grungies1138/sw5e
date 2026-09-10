@@ -1,0 +1,24 @@
+{
+  "_id": "UjlVCu5Bs2i4ZfiW",
+  "_key": "!items!UjlVCu5Bs2i4ZfiW",
+  "name": "Instinctive Combatant",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've trained your intellect to keep you alive in a fight. While wearing light or medium armor, you may use your Intelligence modifier in place of your Dexterity modifier when calculating your AC.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mastermind Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

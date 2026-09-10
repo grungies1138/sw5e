@@ -1,0 +1,24 @@
+{
+  "_id": "bEcXe7iyCOJB4Fca",
+  "_key": "!items!bEcXe7iyCOJB4Fca",
+  "name": "Holographic Decoy",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you project a flawless illusory copy of yourself lasting 10 minutes or until your concentration breaks (as though concentrating on a power). It appears in an unoccupied space you can see within 30 feet and is purely visual; anything passing through it reveals it as an illusion. While it persists, you may cast tech powers as though standing in the decoy's space, provided both the decoy and your target remain within your line of sight.</p><p>As a bonus action, you can move the decoy up to 30 feet, adjusting its appearance so its motion looks natural; if it ever ends up more than 120 feet from you, it vanishes immediately.</p><p>Additionally, while both you and the decoy are within 5 feet of a creature that can see the decoy but doesn't know it's fake, you have advantage on attack rolls against that creature.</p><p>A creature can spend its action to inspect the decoy, determining it is an illusion with a successful Intelligence (Investigation) check against your tech save DC; succeeding lets it see through the image afterward.</p><p>You can use this feature twice, gaining an additional use at 5th, 9th, 13th, and 17th level, and regain all uses on finishing a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Illusionist Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

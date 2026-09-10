@@ -1,0 +1,45 @@
+{
+  "_id": "x4F46bzLyecf7MxS",
+  "_key": "!items!x4F46bzLyecf7MxS",
+  "name": "System Override",
+  "type": "power",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You seize remote control of a construct, droid, or vehicle system. The target must succeed on an Intelligence saving throw or be under your control for the duration, obeying your mental commands as if you were its operator. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

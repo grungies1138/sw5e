@@ -1,0 +1,55 @@
+{
+  "_id": "KgYAxKFZEH7v60Mb",
+  "name": "Ion Blaster Pistol",
+  "type": "weapon",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>This pistol fires a charged ionization bolt that arcs across metal hulls and armor plating, scrambling droid logic circuits and shorting out shields far more effectively than it burns flesh.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 300,
+      "denomination": "credits"
+    },
+    "weight": 1.5,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "simple",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "ion"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 30,
+      "long": 90,
+      "units": "ft"
+    },
+    "properties": [
+      "light"
+    ],
+    "ammo": {
+      "type": "power cell",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

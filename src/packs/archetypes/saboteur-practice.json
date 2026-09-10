@@ -1,0 +1,22 @@
+{
+  "_id": "VaZnqDivc5Ex9ao6",
+  "_key": "!items!VaZnqDivc5Ex9ao6",
+  "name": "Saboteur Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Saboteur Practice operatives pair old-fashioned stealth with cutting-edge hardware, letting a loyal tracker droid do the reconnaissance while its handler slips in for the kill. Tech isn't a crutch to them; it's an extension of their own senses, doubling their reach on any job.</p><p>Between wristpad schematics and a droid built to their exact specifications, these operatives can sustain an operation far longer than their unaugmented peers, outlasting security patrols, tracking targets across a station, and striking only once every angle is covered.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

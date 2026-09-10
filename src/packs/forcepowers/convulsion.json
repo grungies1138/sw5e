@@ -1,0 +1,50 @@
+{
+  "_id": "Qu3WfFWHnGGOdZ0r",
+  "_key": "!items!Qu3WfFWHnGGOdZ0r",
+  "name": "Convulsion",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You choose a point on the ground you can see within range, and the earth erupts in a 20-foot cube around it. Each creature in the area must succeed on a Dexterity saving throw or take 3d12 kinetic damage, half as much on a success. The affected ground also becomes difficult terrain, requiring at least 1 minute of manual labor to clear each 5-foot square.</p><p>Cast with a slot of 4th level or higher, the damage increases by 1d12 for each slot level beyond 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d12",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

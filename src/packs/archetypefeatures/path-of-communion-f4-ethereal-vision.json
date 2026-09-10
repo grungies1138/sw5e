@@ -1,0 +1,24 @@
+{
+  "_id": "96kpkX7e5iZ7Q97w",
+  "_key": "!items!96kpkX7e5iZ7Q97w",
+  "name": "Ethereal Vision",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>So long as your spirit remains within 100 feet of you, both you and it gain truesight to a range of 60 feet.</p><p>Additionally, when you spend your action to perceive through your spirit's senses, you no longer go deaf and blind to your own — you can now take in both perspectives at once.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Communion",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

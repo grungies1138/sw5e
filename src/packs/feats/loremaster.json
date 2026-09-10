@@ -1,0 +1,32 @@
+{
+  "_id": "NuoXeeRZp4ADiiR7",
+  "_key": "!items!NuoXeeRZp4ADiiR7",
+  "name": "Loremaster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your grasp of history serves you well. Increase your Intelligence score by 1, to a maximum of 20.</p><p>You gain proficiency in the Lore skill, or expertise in it if you're already proficient. When you use the Help action to assist another creature's ability check, you can make a DC 15 Intelligence (Lore) check; on a success, the creature you're helping — provided it can understand you — gains a bonus to its check equal to your proficiency bonus, drawn from the relevant history and precedent you recall.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "int"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

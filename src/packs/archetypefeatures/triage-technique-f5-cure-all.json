@@ -1,0 +1,24 @@
+{
+  "_id": "1QLIbOWy9K91W2QA",
+  "_key": "!items!1QLIbOWy9K91W2QA",
+  "name": "Cure-All",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your healing grows more potent still: when you use your Mark of Triage feature's bonus action to restore or grant temporary hit points to a creature, you can also cure one of the following afflicting it: blinded, deafened, diseased, paralyzed, or poisoned.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Triage Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

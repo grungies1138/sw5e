@@ -1,0 +1,45 @@
+{
+  "_id": "SeWwQBaplIh7Gimz",
+  "_key": "!items!SeWwQBaplIh7Gimz",
+  "name": "Force Body",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn to draw on your own vitality to fuel your powers for the duration. Whenever you cast a force power while this effect lasts, you may pay up to half its point cost with hit points instead of force points; your hit point maximum is reduced by the amount spent this way until you finish a long rest.</p><p>You may end this effect at any time, and it ends automatically if paying for a power's cost this way would reduce your hit points to 0, causing that power to fail.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

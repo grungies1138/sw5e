@@ -1,0 +1,45 @@
+{
+  "_id": "C16yV942BkUJgiUf",
+  "_key": "!items!C16yV942BkUJgiUf",
+  "name": "Kolto Reserve",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a creature and seed it with a reservoir of emergency kolto. The next time that creature would be reduced to 0 hit points by damage, it drops to 1 hit point instead and the power ends. If instead the creature would be slain outright by an effect that deals no damage, that effect is negated and the power ends. Droids and constructs gain no benefit from this power.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

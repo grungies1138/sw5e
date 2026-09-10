@@ -1,0 +1,24 @@
+{
+  "_id": "uSw31RU6rSlSLw3x",
+  "_key": "!items!uSw31RU6rSlSLw3x",
+  "name": "Disruptive Resonance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you hit with your modified lightsaber a creature that's concentrating on a power, its Constitution saving throw to keep that concentration is made with disadvantage. Should that save fail, the creature also immediately takes psychic damage equal to your engineer level plus your Intelligence modifier.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artificer Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "IUqimkWjYbQdrHr6",
+  "_key": "!items!IUqimkWjYbQdrHr6",
+  "name": "Force Storm",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can spend your accumulated fury all at once as an action, ending your rage prematurely to unleash a storm of Force energy. Every creature within 15 feet must make a Dexterity save against your universal force save DC, taking 1d12 force damage for every round you'd spent raging on a failure, or half that amount on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Marauder Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

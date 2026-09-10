@@ -1,0 +1,31 @@
+{
+  "_id": "KhIStST7pXsqRT26",
+  "name": "Light Generator Shield",
+  "type": "shield",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>A wrist-mounted emitter that projects a thin energy barrier just ahead of the forearm, lighter than a physical buckler but just as quick to bring up.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 300,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "equipped": false,
+    "tier": "light",
+    "variant": "generator",
+    "acBonus": 1,
+    "requiresFreeHand": false,
+    "obtrusive": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

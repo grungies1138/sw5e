@@ -1,0 +1,24 @@
+{
+  "_id": "WyLB8kYnOdZgxiwW",
+  "_key": "!items!WyLB8kYnOdZgxiwW",
+  "name": "Slythmonger Savvy",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with your choice of a brewer's kit or a spicer's kit, and you have advantage on saving throws made to resist the crash or the addiction that comes from substance use. You can also consume a substance as a bonus action, and if you do, you may enter your rage as part of that same bonus action.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Addicted Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

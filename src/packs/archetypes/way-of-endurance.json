@@ -1,0 +1,22 @@
+{
+  "_id": "mNvJwM7ZCF2EChY2",
+  "_key": "!items!mNvJwM7ZCF2EChY2",
+  "name": "Way of Endurance",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some walk the Force outward, bending the world to their will; those who follow the Way of Endurance turn it inward instead, hardening flesh and bone until they can weather blows that would fell lesser warriors. Injury becomes fuel rather than setback for these tireless consulars.</p><p>Wounds inflicted on them return in kind, harm suffered feeds their own recovery, and at the height of their training they can shrug off a killing stroke entirely, before erupting in a final, devastating release of stored Force energy that heals allies even as it breaks their enemies.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "SJfnx62qwg8rNLRY",
+  "_key": "!items!SJfnx62qwg8rNLRY",
+  "name": "Shield Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every fighter measures victory in kills alone. The Shield Specialist stands as an anchor for their comrades, blending battlefield technology with steadfast leadership to keep allies standing and fighting long after they should have fallen.</p><p>Wielding wristpad-powered tech powers alongside old-fashioned grit, they turn a rallying shout or a well-timed maneuver into a lifeline for the whole squad. Where a Shield Specialist holds the line, the wounded find strength to keep going and the wavering find reason to hold firm.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

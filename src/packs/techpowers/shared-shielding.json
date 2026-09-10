@@ -1,0 +1,45 @@
+{
+  "_id": "MSKyACGNrIcG1BMw",
+  "_key": "!items!MSKyACGNrIcG1BMw",
+  "name": "Shared Shielding",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing ally, forging an energy bond with it that lasts until the power ends. While the target remains within 60 feet of you, it gains a +1 bonus to AC and saving throws and has resistance to all damage; whenever it takes damage, you take the same amount. The bond breaks if you drop to 0 hit points, if you and the target end up more than 60 feet apart, if either of you has this power cast on you again, or if you dismiss it with an action.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

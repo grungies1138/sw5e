@@ -1,0 +1,24 @@
+{
+  "_id": "2zSzrDZSeVzugHcp",
+  "_key": "!items!2zSzrDZSeVzugHcp",
+  "name": "Waters of Life",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to draw sustenance from your familiar's dissolving magic. When your familiar is destroyed by damage, you may grant temporary hit points equal to 2d8 plus your Wisdom or Charisma modifier (your choice) to one friendly creature you can see within 30 feet.</p><p>You can use this feature five times, gaining one more use at 17th level, and you regain all spent uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Witchcraft",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

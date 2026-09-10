@@ -1,0 +1,50 @@
+{
+  "_id": "134N3xZwLFk1ypuF",
+  "_key": "!items!134N3xZwLFk1ypuF",
+  "name": "Legion of Drones",
+  "type": "power",
+  "img": "icons/svg/car.svg",
+  "system": {
+    "description": {
+      "value": "<p>You release a swarm of combat drones from a deployment case. For the duration, at the start of each of your turns, you designate a creature within 60 feet of the swarm; the swarm harries it with 4d6 kinetic damage, no saving throw or attack roll required as the drones simply overwhelm the target's defenses.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

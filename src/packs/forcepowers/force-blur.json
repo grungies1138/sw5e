@@ -1,0 +1,45 @@
+{
+  "_id": "Vf2gdJFfBzNaROyZ",
+  "_key": "!items!Vf2gdJFfBzNaROyZ",
+  "name": "Force Blur",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You wrap yourself in a shimmering, Force-woven illusion that blurs and shifts your outline for the duration, giving any creature that attacks you disadvantage on the attack roll. An attacker unaffected by sight-based targeting, such as one with blindsight, or one able to see through illusions, such as with truesight, ignores this effect.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "0umFYeY0ffQw6g2y",
+  "_key": "!items!0umFYeY0ffQw6g2y",
+  "name": "Exhibition Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Combat, to the Exhibition Specialist, is theater &mdash; and they intend to be the star of the show. Every parry, feint, and flourish is calculated not just to win the fight but to captivate everyone watching, friend and foe alike.</p><p>This isn't mere vanity: their swagger genuinely unsettles opponents and inspires allies, turning charisma into a weapon as real as any blade. Whether or not there's an audience, an Exhibition Specialist fights as though the whole galaxy is watching, and dares their enemies to look away.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

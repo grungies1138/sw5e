@@ -1,0 +1,45 @@
+{
+  "_id": "kCL9JWQGqemHMUFc",
+  "_key": "!items!kCL9JWQGqemHMUFc",
+  "name": "Force Jump",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Channeling Force-fueled strength into your legs, you leap up to 30 feet to any unoccupied space you can see, provided a clear path exists to it.</p><p>Casting this power with a force slot of 2nd level or higher adds 5 feet to the jump distance for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

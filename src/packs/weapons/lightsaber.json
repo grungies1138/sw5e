@@ -1,0 +1,56 @@
+{
+  "_id": "bAnkDreJap011AfN",
+  "name": "Lightsaber",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>An elegant weapon of a bygone age: a meter-long blade of pure plasma contained by a focusing crystal, capable of cutting through nearly anything except another lightsaber.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 2500,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "lightweapon",
+    "proficiencyTier": "simple",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "energy"
+        }
+      ],
+      "versatile": "2d4"
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "versatile",
+      "finesse"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

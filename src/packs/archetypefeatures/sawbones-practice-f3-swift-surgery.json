@@ -1,0 +1,24 @@
+{
+  "_id": "D0Wct05ZK225U8Gr",
+  "_key": "!items!D0Wct05ZK225U8Gr",
+  "name": "Swift Surgery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can use a traumakit or administer a medpac as a bonus action. Additionally, when you use a traumakit to stabilize a dying creature, it also regains hit points equal to your Intelligence modifier.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sawbones Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

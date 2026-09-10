@@ -1,0 +1,24 @@
+{
+  "_id": "H8f0JJbVnr1AkEKA",
+  "_key": "!items!H8f0JJbVnr1AkEKA",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain the following Channel the Force option.</p><p><strong>Disarming Slash.</strong> When you hit a creature with a melee weapon attack, you may spend a use of Channel the Force (no action required) to try to disarm it, forcing it to drop one item you choose that it's holding. The creature makes a Strength saving throw against your universal force save DC; on a failure it drops the chosen object. If you're within 5 feet of the target and have a free hand, you may catch the item — otherwise it falls at the target's feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Shii-Cho Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

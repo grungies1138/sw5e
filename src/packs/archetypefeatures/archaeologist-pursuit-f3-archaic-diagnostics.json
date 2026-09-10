@@ -1,0 +1,24 @@
+{
+  "_id": "KW1s3Jn0LJnE4tLr",
+  "_key": "!items!KW1s3Jn0LJnE4tLr",
+  "name": "Archaic Diagnostics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you've analyzed a hostile creature, any maneuver that normally requires a weapon attack can instead be triggered by a force attack you make, and any maneuver that requires landing a hit with a weapon can instead be triggered by a creature failing its save against a force power you cast.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Archaeologist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

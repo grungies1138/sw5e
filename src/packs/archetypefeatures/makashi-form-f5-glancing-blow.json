@@ -1,0 +1,24 @@
+{
+  "_id": "ZTKY97ffI0eiKVmx",
+  "_key": "!items!ZTKY97ffI0eiKVmx",
+  "name": "Glancing Blow",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a foe you can see strikes you, you can use your reaction to cut the attack's damage in half.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Makashi Form",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

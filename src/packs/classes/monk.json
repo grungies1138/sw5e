@@ -1,0 +1,44 @@
+{
+  "_id": "An5EbCbUck1Zaod5",
+  "name": "Monk",
+  "type": "class",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Monk is an unarmed combatant who has turned their own body into a weapon through years of rigorous discipline, drawing on a personal reservoir of focus points to fuel bursts of supernatural speed, resilience, and striking power. Whether raised in a hidden monastery, a reclusive order, or a self-taught life of austerity, the Monk needs no blaster or blade to be dangerous.</p><p>A Monk's fighting style is defined by the Monastic Vow they choose to follow as they advance, a personal code that reshapes how their focus points manifest — from serene, movement-based mastery to aggressive, strike-chaining ferocity — while always emphasizing speed, precision, and inner control over brute force.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d8",
+    "casterProgression": "none",
+    "castingAbility": "",
+    "primaryAbility": [
+      "dex",
+      "wis"
+    ],
+    "savingThrows": [
+      "str",
+      "dex"
+    ],
+    "skillChoices": {
+      "number": 2,
+      "options": [
+        "acr",
+        "ath",
+        "ins",
+        "lor",
+        "prc",
+        "ste"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

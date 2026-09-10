@@ -1,0 +1,30 @@
+{
+  "_id": "At2I1iFgtHShead3",
+  "_key": "!items!At2I1iFgtHShead3",
+  "name": "Mounted Caster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to cast powers effectively while mounted. While mounted and not incapacitated, you gain the following benefits.</p><p>When you cast a power that targets only yourself, you can extend its effect to your mount as well.</p><p>You have advantage on melee force or tech attack rolls against unmounted creatures smaller than your mount.</p><p>If your mount would take half damage on a successful Dexterity saving throw against an effect, it instead takes no damage on a success and only half damage on a failure.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level, ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

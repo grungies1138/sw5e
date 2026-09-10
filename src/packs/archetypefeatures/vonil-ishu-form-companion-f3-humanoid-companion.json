@@ -1,0 +1,24 @@
+{
+  "_id": "9u49VD4EwHvxIU0z",
+  "_key": "!items!9u49VD4EwHvxIU0z",
+  "name": "Humanoid Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You take on a partner, gaining a humanoid companion of your own.</p><p>Build your companion following the rules in the Companions section of the Expanded Content Customization Options document.</p><p>Beyond its usual traits and features, your companion gains the following while bonded to you: it gains two extra traits, plus one more once you reach 11th level; for every trait it has beyond your proficiency bonus, your force point maximum drops by 2.</p><p>In addition, while bonded and within 10 feet of you, whenever you or your companion takes damage from an outside source, you may choose to have either of you gain resistance to that damage; if you do, the other of the pair instead takes that same amount as true damage.</p><p>At 11th level your companion need only stay within 30 feet of you to benefit from this feature, and at 17th level within 60 feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Vonil/Ishu Form (Companion)",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

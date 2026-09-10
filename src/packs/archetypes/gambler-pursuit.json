@@ -1,0 +1,22 @@
+{
+  "_id": "WewBvtlxk3GOPZrJ",
+  "_key": "!items!WewBvtlxk3GOPZrJ",
+  "name": "Gambler Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every scholar spends their days buried in datapads and archives. Some take their sharp minds to the sabacc tables and betting parlors that thrive in every spaceport, where reading odds, faces, and bluffs is its own kind of science. The Gambler treats fortune itself as a subject worthy of rigorous study.</p><p>On the battlefield, that same comfort with risk becomes a weapon. A Gambler stakes their next strike on the turn of an unseen die, embracing the chance that the tables could just as easily fall against them. Where others crave certainty, these scholars have learned to thrive on the thrill of the wager.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "BomopJ5lkdpHqULu",
+  "_key": "!items!BomopJ5lkdpHqULu",
+  "name": "Force Whisper",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You send your voice through the Force to a single creature you can see within range. Only that creature hears the message, and it may answer in a whisper only you can perceive.</p><p>The message can pass through solid barriers if you know your target is beyond them and are familiar with it — though an enhanced silence effect, a foot of stone, an inch of common metal, a thin sheet of lead, or three feet of wood blocks it. It need not travel in a straight line.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

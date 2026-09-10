@@ -1,0 +1,24 @@
+{
+  "_id": "ifLlMskxraifSYnk",
+  "_key": "!items!ifLlMskxraifSYnk",
+  "name": "Explosive Resilience",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, when damage you deal includes your rage damage, you can trigger a localized blast around whoever you hit: every other creature within 5 feet of them takes acid, cold, fire, ion, or lightning damage (your choice) equal to your rage damage bonus, and you gain resistance to that chosen type until the end of your next turn.</p><p>You can trigger this three times, gaining an additional use at 9th, 13th, and 17th level, and you regain all spent uses after a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Industrial Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

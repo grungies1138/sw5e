@@ -1,0 +1,22 @@
+{
+  "_id": "Jm4f5dtKgLMjx2RG",
+  "name": "Commanding Presence",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per short or long rest, as an action, you make an Overwhelming Presence-style display of authority. Choose one creature that can see and hear you: it must make a Wisdom saving throw against a DC of 8 plus your proficiency bonus plus your Charisma modifier, or become frightened of you (if hostile) or compelled to follow your next direct order to the best of its ability (if not hostile) until the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

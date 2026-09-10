@@ -1,0 +1,24 @@
+{
+  "_id": "VJsLVv6zn3027G9A",
+  "_key": "!items!VJsLVv6zn3027G9A",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain the following Channel the Force option.</p><p><strong>High Ground Defense.</strong> When an opponent within 5 feet of you makes a melee attack against you, you can use your reaction and spend a use of Channel the Force to move to another space within 5 feet of that creature without provoking opportunity attacks, giving the attack roll disadvantage. If the attack misses, you may also try to shove the creature up to 10 feet away from you as part of that same reaction.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sokan Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

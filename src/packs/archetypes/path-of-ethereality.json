@@ -1,0 +1,22 @@
+{
+  "_id": "ByQyCyNbBxEDDT2Q",
+  "_key": "!items!ByQyCyNbBxEDDT2Q",
+  "name": "Path of Ethereality",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some secrets of the Force are not so much discovered as they are seized upon by something unseen. Those sentinels who follow the Path of Ethereality find themselves caught by strange, half-understood currents of the Force that never quite let go, leaving them fundamentally changed.</p><p>Loosened from the ordinary rules of matter and presence, these sentinels can slip through solid barriers, fade from notice entirely, and shrug off the wear of time and flesh, becoming something less bound to the physical world than they once were.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Sentinel"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

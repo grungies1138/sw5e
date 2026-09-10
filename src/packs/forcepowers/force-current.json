@@ -1,0 +1,50 @@
+{
+  "_id": "obwv9FwjckYVzdqA",
+  "_key": "!items!obwv9FwjckYVzdqA",
+  "name": "Force Current",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You thrust your hand forward and release a wave of Force energy in a 15-foot cone. Each creature in the area must succeed on a Strength saving throw or take 3d6 force damage and, if Large or smaller, be pushed 5 feet away; a successful save halves the damage and prevents the push. Unattended objects of Medium size or smaller in the area are pushed 5 feet regardless.</p><p>Casting this power with a force slot of 2nd level or higher increases the damage by 1d6 for each slot level beyond 1st, and adds 5 feet to the push distance for every 2 slot levels above 1st.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d6",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

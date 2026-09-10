@@ -1,0 +1,24 @@
+{
+  "_id": "QbIKIQsOFRCVD8wl",
+  "_key": "!items!QbIKIQsOFRCVD8wl",
+  "name": "Kiss the Wall",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a Sneak Attack die rolled for an unarmed strike against a creature you're grappling comes up 1 or 2, treat it as a 3 instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Disabling Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

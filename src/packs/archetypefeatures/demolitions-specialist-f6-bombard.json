@@ -1,0 +1,24 @@
+{
+  "_id": "IEAtrCfC9gIxzLOe",
+  "_key": "!items!IEAtrCfC9gIxzLOe",
+  "name": "Bombard",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>A creature that fails its save against a charge or grenade you've thrown suffers disadvantage on the next Dexterity saving throw it attempts before the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Demolitions Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "Nfm3oKZWkrJgzpri",
+  "_key": "!items!Nfm3oKZWkrJgzpri",
+  "name": "Danger Sense",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reach into the currents of the Force to test whether a course of action leads toward fortune or ruin. The GM responds with one of three omens: Peace, for outcomes without serious danger; Danger, for outcomes that are risky but may still be worthwhile; or Ruin, for outcomes that lead certainly to death or disaster. The reading does not account for changes in circumstance, such as further powers cast or companions gained or lost.</p><p>If you cast this power more than once before finishing a long rest, each casting after the first carries a cumulative 25 percent chance of returning a false, neutral-seeming result regardless of the true outcome.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

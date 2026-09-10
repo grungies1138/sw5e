@@ -1,0 +1,22 @@
+<section class="tab main {{#if tabs.main.active}}active{{/if}}" data-tab="main" data-group="primary">
+  <div class="abilities-grid">
+    {{#each system.abilities as |abl key|}}
+    <div class="ability-box">
+      <label>{{sw5eLabel (lookup (lookup ../config.abilities key) "abbreviation")}}</label>
+      <input type="number" name="system.abilities.{{key}}.value" value="{{abl.value}}">
+      <button type="button" class="mod" data-action="rollAbility" data-ability="{{key}}">{{sw5eSigned abl.mod}}</button>
+      <button type="button" class="save-btn" data-action="rollSave" data-ability="{{key}}">{{sw5eSigned abl.save}} {{sw5eLabel 'SW5E.Save'}}</button>
+    </div>
+    {{/each}}
+  </div>
+  <div class="skills-list">
+    {{#each system.skills as |skl key|}}
+    {{#if skl.value}}
+    <div class="skill-row">
+      <button type="button" data-action="rollSkill" data-skill="{{key}}">{{sw5eLabel (lookup (lookup ../config.skills key) "label")}}</button>
+      <span class="mod">{{sw5eSigned skl.mod}}</span>
+    </div>
+    {{/if}}
+    {{/each}}
+  </div>
+</section>

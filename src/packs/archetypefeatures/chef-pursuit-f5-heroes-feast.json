@@ -1,0 +1,24 @@
+{
+  "_id": "xWSdqSUX6gax21GG",
+  "_key": "!items!xWSdqSUX6gax21GG",
+  "name": "Heroes' Feast",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've mastered a signature banquet, the pinnacle of your culinary craft. Spending an entire long rest and 1,000 credits of rare ingredients, you can prepare a feast able to serve a number of creatures equal to twice your Critical Analysis ability modifier. Every creature who partakes gains the following:</p><ul><li>It is cured of all poisons and diseases, and becomes immune to poison and disease.</li><li>It has advantage on Wisdom saving throws against being frightened.</li><li>Its hit point maximum and current hit points both increase by 2d10.</li></ul><p>These benefits last until the creature's next long rest ends, or 24 hours pass, whichever comes first. Droids and constructs gain nothing from this feast.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Chef Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "9pMdUFAQmnFRsYLe",
+  "_key": "!items!9pMdUFAQmnFRsYLe",
+  "name": "Outplayed",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a creature fails a saving throw or ability check made against you or something you control, you gain the following against it until the end of your next turn: you can apply Sneak Attack without needing advantage, your attack rolls against it can't suffer disadvantage, and it can't gain advantage on ability checks or saves against your effects.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Maverick Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

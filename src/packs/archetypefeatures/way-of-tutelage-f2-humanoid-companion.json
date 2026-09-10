@@ -1,0 +1,24 @@
+{
+  "_id": "YKobEofeO1sz4KVt",
+  "_key": "!items!YKobEofeO1sz4KVt",
+  "name": "Humanoid Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain a humanoid companion, built as described in the Companions section of the Customization Options document for Expanded Content.</p><p>Bonded to you, your companion gains two additional traits beyond its normal ones, plus one more at 11th level. For each trait it holds beyond your proficiency bonus, your own force point maximum drops by 2.</p><p>While your companion is bonded and within 10 feet of you (expanding to 30 feet at 11th level and 60 feet at 17th level) and is hit by an attack, you can use your reaction and a use of your Force Shield feature to wrap it in Force energy; doing so extends your Force Shield's benefits to both you and your companion, including against the triggering attack, until the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Tutelage",
+    "className": "Consular",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

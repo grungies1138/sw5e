@@ -1,0 +1,45 @@
+{
+  "_id": "cqCafatx6MpJNUhI",
+  "_key": "!items!cqCafatx6MpJNUhI",
+  "name": "Master Heal",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A surge of restorative energy washes over a creature you touch, returning it to full hit points and ending any charmed, frightened, paralyzed, or stunned condition afflicting it. If the creature is prone, it may use its reaction to stand. This power has no effect on droids or constructs.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 9",
+    "school": "lightside",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

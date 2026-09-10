@@ -1,0 +1,29 @@
+{
+  "_id": "XEV4DOt3vv9sgCy4",
+  "name": "Survival Kit",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>A field pack of water filters, ration bars, thermal blankets, and basic tools, assembled to keep a stranded traveler alive across days in the wilderness or on a hostile world.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 45,
+      "denomination": "credits"
+    },
+    "weight": 4,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

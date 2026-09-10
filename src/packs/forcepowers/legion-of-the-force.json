@@ -1,0 +1,45 @@
+{
+  "_id": "IyFVhJhLBM8JYmLX",
+  "_key": "!items!IyFVhJhLBM8JYmLX",
+  "name": "Legion of the Force",
+  "type": "power",
+  "img": "icons/svg/castle.svg",
+  "system": {
+    "description": {
+      "value": "<p>You become a rallying beacon for an entire battle line. Each ally of your choice within 120 feet of you deals an extra 1d6 damage of its weapon's type whenever it hits with a weapon attack, for the duration.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minutes"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

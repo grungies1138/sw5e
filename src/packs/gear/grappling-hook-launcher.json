@@ -1,0 +1,29 @@
+{
+  "_id": "p72Q6DIqqF73zO2j",
+  "name": "Grappling Hook Launcher",
+  "type": "gear",
+  "img": "icons/svg/anchor.svg",
+  "system": {
+    "description": {
+      "value": "<p>A wrist- or hand-mounted launcher that fires a magnetic grapnel trailing a high-tension cable, capable of hauling its user up a cliff face or across a gap in seconds.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 200,
+      "denomination": "credits"
+    },
+    "weight": 3,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

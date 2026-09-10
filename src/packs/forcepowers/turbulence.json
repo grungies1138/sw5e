@@ -1,0 +1,50 @@
+{
+  "_id": "WzwFOc1CZcEBy5dU",
+  "_key": "!items!WzwFOc1CZcEBy5dU",
+  "name": "Turbulence",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose one creature, or two creatures within 5 feet of each other, within range. Each target must succeed on a Dexterity saving throw or take 1d6 force damage.</p><p>This power's damage increases by 1d6 at 5th, 11th, and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, At-Will",
+    "school": "lightside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

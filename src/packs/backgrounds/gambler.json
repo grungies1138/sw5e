@@ -1,0 +1,47 @@
+{
+  "_id": "Q4dgZrV6tdLc7t3a",
+  "_key": "!items!Q4dgZrV6tdLc7t3a",
+  "name": "Gambler",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Casinos, backroom card games, and smoke-choked cantina booths have been your life for as long as you can remember. Whether you've made your fortune fair or foul, you know odds, tells, and the particular hunger of someone about to bet more than they can afford.</p><p>The rush of the game has cost you as much as it's earned you &mdash; debts, rivals, and a reputation that precedes you into every den from here to the Outer Rim.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "itm",
+        "slt"
+      ]
+    },
+    "toolProficiencies": [
+      "Two types of gaming sets"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Threatening",
+        "Quick-Fingered",
+        "Competitor",
+        "Keen Mind",
+        "Observant",
+        "Practiced"
+      ]
+    },
+    "equipment": "A set of common clothes, a set of dice, a deck of playing cards, a lucky charm, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "fe7HeMjxjpEYXlXr",
+  "name": "Emergency Life Support",
+  "type": "starshipmod",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p>A self-contained backup atmosphere and pressure system that keeps the crew breathing for a limited time even if the primary life-support system is knocked offline.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 3000,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

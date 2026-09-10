@@ -1,0 +1,29 @@
+{
+  "_id": "1rfaLOUdJcojm1t5",
+  "name": "Macrobinoculars",
+  "type": "gear",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>A pair of long-range optics with adjustable zoom and low-light compensation, letting a scout pick out fine detail on a target far beyond normal eyesight.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 100,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

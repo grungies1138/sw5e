@@ -1,0 +1,22 @@
+{
+  "_id": "llOMzo4vcOcRfim1",
+  "name": "System Disruption",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can mark one target ship you can see, gaining advantage on any check made to detect, track, or locate it until the end of the encounter. A limited number of times per long rest (equal to your Operator rank), you can use your reaction to subtract the result of a d6 from any attack roll, ability check, or saving throw made by a marked target. This die increases to a d8 at 3rd rank, a d10 at 4th rank, and a d12 at 5th rank.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

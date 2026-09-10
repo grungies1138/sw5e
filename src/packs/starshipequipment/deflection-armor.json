@@ -1,0 +1,27 @@
+{
+  "_id": "qFJRaeywluyOdH1m",
+  "name": "Deflection Armor",
+  "type": "starshipequipment",
+  "img": "icons/svg/statue.svg",
+  "system": {
+    "description": {
+      "value": "<p>Armor Class equals 10 + the ship's Dexterity modifier (maximum +2). Grants <strong>3 points of Damage Reduction</strong> against attack-roll damage to hull or shields.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 3450,
+      "denomination": "credits"
+    },
+    "kind": "armor",
+    "configKey": "deflection",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

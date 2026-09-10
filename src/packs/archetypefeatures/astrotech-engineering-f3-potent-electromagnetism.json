@@ -1,0 +1,24 @@
+{
+  "_id": "E1axfnnRx0hkh6Lv",
+  "_key": "!items!E1axfnnRx0hkh6Lv",
+  "name": "Potent Electromagnetism",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, when you damage a droid or construct, you can spend one use of your Potent Aptitude to add an extra 2d6 damage of the same type as the triggering damage. This bonus grows to 3d6 at 5th level, 5d6 at 10th level, and 8d6 at 15th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

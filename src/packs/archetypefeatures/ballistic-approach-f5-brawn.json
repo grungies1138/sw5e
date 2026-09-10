@@ -1,0 +1,24 @@
+{
+  "_id": "6Sc88oaYGbYuObul",
+  "_key": "!items!6Sc88oaYGbYuObul",
+  "name": "Brawn",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Firing a blaster's burst property while you're proficient with it now spreads your fury: your rage damage bonus applies to every creature the burst strikes, not merely one. Additionally, any Large or smaller creature within 30 feet that fails its save against your weapon's burst or rapid property is knocked prone.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Ballistic Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

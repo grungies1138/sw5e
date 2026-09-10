@@ -1,0 +1,24 @@
+{
+  "_id": "m7b8IX2KvbQoosfm",
+  "_key": "!items!m7b8IX2KvbQoosfm",
+  "name": "Voltaic Slash",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>From the moment you commit to this path at 3rd level, you gain the <em>lightning charge</em> force power without it counting against your powers known, and you may cast it using Wisdom or Charisma as your forcecasting ability. When the power deals lightning damage that doesn't already factor in your Wisdom or Charisma modifier, you add half that modifier (your choice, minimum 1) as bonus lightning damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Aggression",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

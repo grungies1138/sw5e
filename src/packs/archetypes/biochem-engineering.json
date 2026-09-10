@@ -1,0 +1,22 @@
+{
+  "_id": "VNZ2Ev0tODQMBqZJ",
+  "_key": "!items!VNZ2Ev0tODQMBqZJ",
+  "name": "Biochem Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Biochem engineers run their laboratory out of a backpack, mixing kolto compounds, acids, and toxins with the same care a surgeon gives a scalpel. Chemistry, to them, is just another kind of engineering — one measured in vials and dosages instead of bolts and circuits.</p><p>Whatever the moment calls for, their modified pack has an answer ready to spray: a burst that stings like acid, a draught that steadies a bleeding ally, or a mist that leaves an enemy gagging. Few engineers do more to keep a squad alive while quietly poisoning everyone shooting at it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "KdM4t628CKHli2MF",
+  "_key": "!items!KdM4t628CKHli2MF",
+  "name": "Companion",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You worked professionally as a companion, offering conversation, comfort, and company to clients who could afford it. The work asked you to read people quickly and put them at ease, skills that have served you well outside that line of work too.</p><p>You've heard more secrets than most spies ever will, whispered by clients who let their guard down around you &mdash; and you know exactly how valuable, and how dangerous, that kind of knowledge can be.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "acr",
+        "dec",
+        "ins",
+        "prf"
+      ]
+    },
+    "toolProficiencies": [
+      "One instrument of your choice or a disguise kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Acrobat",
+        "Silver-Tongued",
+        "Empathic",
+        "Performer",
+        "Entertainer",
+        "Specialist",
+        "Linguist",
+        "Force of Personality"
+      ]
+    },
+    "equipment": "A set of common clothes, an instrument or disguise kit, and a belt pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

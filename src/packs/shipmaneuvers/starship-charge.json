@@ -1,0 +1,25 @@
+{
+  "_id": "CyHHPzNprNjzkln4",
+  "name": "Starship Charge",
+  "type": "shipmaneuver",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your ship takes the Ram Helm action, you may expend a Power Die from the Engines pool and roll it, adding the result to the kinetic damage your ship deals on a successful ram.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Pilot Tactics",
+    "deployment": "pilot",
+    "rankRequired": 1,
+    "activation": "special",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

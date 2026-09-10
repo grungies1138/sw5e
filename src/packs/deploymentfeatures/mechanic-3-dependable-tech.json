@@ -1,0 +1,22 @@
+{
+  "_id": "e4HEVzewKcsVYYC2",
+  "name": "Dependable Tech",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>A number of times per long rest equal to your Mechanic rank, when you roll your Tech Die for a Technique, you can reroll it and use either result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

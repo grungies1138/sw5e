@@ -1,0 +1,22 @@
+{
+  "_id": "EQzUsyAg12qQajzB",
+  "_key": "!items!EQzUsyAg12qQajzB",
+  "name": "Ordnance Specialist",
+  "type": "archetype",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Ordnance Specialist archetype focuses the Engineer's technical mastery on things that explode, burn, or otherwise ruin an enemy's day at range. Turrets, mines, guided munitions, and improvised demolition charges are this archetype's stock in trade, turning a support-focused class into a walking artillery battery.</p><p>An Ordnance Specialist learns to deploy and control autonomous weapon platforms, rig explosive countermeasures faster than their peers, and squeeze more destructive potential out of every device they build, making them the Engineer archetype of choice for anyone who would rather solve a problem with a well-placed charge than a diplomatic word.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

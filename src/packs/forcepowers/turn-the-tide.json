@@ -1,0 +1,45 @@
+{
+  "_id": "OzigUaronV8CtiXh",
+  "_key": "!items!OzigUaronV8CtiXh",
+  "name": "Turn the Tide",
+  "type": "power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You bend the flow of battle itself in your allies' favor. While you concentrate, whenever an ally within 60 feet of you fails a saving throw, you can use your reaction to grant that ally advantage on the roll, retroactively turning the failure into a fresh attempt.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 6",
+    "school": "universal",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

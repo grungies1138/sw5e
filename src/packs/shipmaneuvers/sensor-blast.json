@@ -1,0 +1,25 @@
+{
+  "_id": "Wq6ppwvTTXrVq87j",
+  "name": "Sensor Blast",
+  "type": "shipmaneuver",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your ship's weapon attack hits, you may expend a Power Die from the Sensors pool and roll it, dealing additional damage equal to the result. The target has disadvantage on the next Wisdom (Scan) or Intelligence (Probe) check it makes before the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Operator Disruptions",
+    "deployment": "operator",
+    "rankRequired": 1,
+    "activation": "special",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

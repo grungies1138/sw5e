@@ -1,0 +1,30 @@
+{
+  "_id": "O9bZzBGw5OXuMSv9",
+  "name": "Carbonite Launcher Mk IV",
+  "type": "starshipmod",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>A military-grade carbonite launcher deployed by bounty-hunting guilds and corporate security details, capable of encasing a target ship's escape pods before they can separate.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 18000,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 4,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "Fixed Hardpoint",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "ikFFCro1vciV66lE",
+  "_key": "!items!ikFFCro1vciV66lE",
+  "name": "Force Pull",
+  "type": "power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You close your fist and yank at a creature or object with an invisible grip. Choose one creature or unattended object you can see within range. A creature must succeed on a Strength saving throw or be pulled 10 feet directly toward you and knocked prone; an unattended object simply flies into your free hand or to your feet.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

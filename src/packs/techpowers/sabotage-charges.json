@@ -1,0 +1,50 @@
+{
+  "_id": "BVaZm16o7vVgZiKY",
+  "_key": "!items!BVaZm16o7vVgZiKY",
+  "name": "Sabotage Charges",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure six miniature sabotage charges that last for the duration. When you cast this power, and again as a bonus action on later turns, you may throw up to two of the charges at points within 120 feet; each detonates on reaching its target point or striking a solid surface. Every creature within 5 feet of a blast must succeed on a Dexterity saving throw or take 2d6 fire damage, halved on a success.</p><p><em>Overcharge Tech.</em> You create two additional charges for each slot level above 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

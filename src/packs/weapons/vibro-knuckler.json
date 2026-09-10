@@ -1,0 +1,56 @@
+{
+  "_id": "Ml7acC3BVohfKcti",
+  "name": "Vibro-Knuckler",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A reinforced knuckle guard threaded with a vibro-motor, turning a bare-knuckle brawl into something a lot more likely to break bone.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 40,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "vibroweapon",
+    "proficiencyTier": "simple",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "kinetic"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "light",
+      "finesse"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

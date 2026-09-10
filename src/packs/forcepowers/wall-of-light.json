@@ -1,0 +1,50 @@
+{
+  "_id": "wTw29mUvPGITPddF",
+  "_key": "!items!wTw29mUvPGITPddF",
+  "name": "Wall of Light",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You summon a searing wall of light-side Force energy within range for the duration: either a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ring up to 60 feet in diameter with the same height and thickness. The wall grants three-quarters cover, and its space is difficult terrain.</p><p>A creature that enters the wall's space for the first time on a turn, or starts its turn there, must make a Dexterity saving throw, taking 6d10 force damage on a failure or half as much on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 6",
+    "school": "lightside",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "6d10",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

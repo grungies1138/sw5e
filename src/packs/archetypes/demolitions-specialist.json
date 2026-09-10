@@ -1,0 +1,22 @@
+{
+  "_id": "xxkU3HpcGXLTzH89",
+  "_key": "!items!xxkU3HpcGXLTzH89",
+  "name": "Demolitions Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some fighters bring a blade to a fight; the Demolitions Specialist brings a bag full of charges. Trained in the art of controlled destruction, they treat every obstacle, bunker, or armored hull as a problem best solved with a well-placed explosive.</p><p>Beyond mere sappers, these warriors have learned to fight with their charges as extensions of their combat instincts, turning thrown explosives into a core part of how they engage the enemy. In their hands, an ordinary battlefield quickly becomes a minefield of their own design.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

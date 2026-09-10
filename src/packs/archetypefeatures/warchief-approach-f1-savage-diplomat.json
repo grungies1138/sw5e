@@ -1,0 +1,24 @@
+{
+  "_id": "KRHXJ2CqFCpuAs74",
+  "_key": "!items!KRHXJ2CqFCpuAs74",
+  "name": "Savage Diplomat",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in your choice of Persuasion or Intimidation, or you may instead learn one language in place of that skill.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Warchief Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "OUlgvmlzjtODUJz0",
+  "_key": "!items!OUlgvmlzjtODUJz0",
+  "name": "Forceblade Mastery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can now guide your forceblade entirely through thought, sweeping back your enemies. As an action, spending 1 force point per target, you can telekinetically direct the weapon to strike any number of creatures within 10 feet of you. Each one must succeed on a Dexterity saving throw (DC equal to 8 plus your attack bonus with that weapon) or take damage equal to your Kinetic Combat die plus half your sentinel level, then be pushed 10 feet away and knocked prone.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of the Forceblade",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "Fbbk8CLb7xW6rClg",
+  "_key": "!items!Fbbk8CLb7xW6rClg",
+  "name": "Force-Enhanced Strikes",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can drive the Force into your blows. When you hit with an unarmed strike or a monk weapon melee attack, you may spend 1 focus point to force a Strength saving throw against your focus save DC. On a failure, the target takes 2d6 force damage and is shoved up to 15 feet away from you; on a success, it takes only half the damage and is not moved.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Matukai Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

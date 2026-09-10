@@ -1,0 +1,82 @@
+{
+  "id": "sw5e",
+  "title": "Star Wars 5e",
+  "description": "An unofficial, from-scratch Foundry Virtual Tabletop implementation of Star Wars 5e (sw5e.com) — a Star Wars conversion of the 5th edition ruleset. Features deep, first-class starship combat: routed power dice, six crew deployment roles, hull/shield mechanics, system damage, and crew-based ship initiative.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.367"
+  },
+  "authors": [
+    { "name": "Aaron Rumford", "url": "https://zealitconsultants.ai" }
+  ],
+  "esmodules": ["sw5e.mjs"],
+  "styles": ["styles/sw5e.css"],
+  "languages": [
+    { "lang": "en", "name": "English", "path": "lang/en.json" }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": { "htmlFields": ["details.biography.value"] },
+      "npc": { "htmlFields": ["details.biography.value"] },
+      "starship": { "htmlFields": ["details.biography.value"] }
+    },
+    "Item": {
+      "species": { "htmlFields": ["description.value"] },
+      "background": { "htmlFields": ["description.value"] },
+      "class": { "htmlFields": ["description.value"] },
+      "archetype": { "htmlFields": ["description.value"] },
+      "archetypeFeature": { "htmlFields": ["description.value"] },
+      "feat": { "htmlFields": ["description.value"] },
+      "deploymentFeature": { "htmlFields": ["description.value"] },
+      "power": { "htmlFields": ["description.value"] },
+      "maneuver": { "htmlFields": ["description.value"] },
+      "shipmaneuver": { "htmlFields": ["description.value"] },
+      "weapon": { "htmlFields": ["description.value"] },
+      "armor": { "htmlFields": ["description.value"] },
+      "shield": { "htmlFields": ["description.value"] },
+      "gear": { "htmlFields": ["description.value"] },
+      "starshipmod": { "htmlFields": ["description.value"] },
+      "starshipweapon": { "htmlFields": ["description.value"] },
+      "starshipequipment": { "htmlFields": ["description.value"] },
+      "customizationOption": { "htmlFields": ["description.value"] }
+    },
+    "CombatantGroup": {
+      "starship": {}
+    }
+  },
+  "packs": [
+    { "name": "species", "label": "Species", "system": "sw5e", "path": "packs/species", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "classes", "label": "Classes", "system": "sw5e", "path": "packs/classes", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "archetypes", "label": "Archetypes", "system": "sw5e", "path": "packs/archetypes", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "archetypefeatures", "label": "Archetype Features", "system": "sw5e", "path": "packs/archetypefeatures", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "backgrounds", "label": "Backgrounds", "system": "sw5e", "path": "packs/backgrounds", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "feats", "label": "Feats", "system": "sw5e", "path": "packs/feats", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "forcepowers", "label": "Force Powers", "system": "sw5e", "path": "packs/forcepowers", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "techpowers", "label": "Tech Powers", "system": "sw5e", "path": "packs/techpowers", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "maneuvers", "label": "Maneuvers", "system": "sw5e", "path": "packs/maneuvers", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "deploymentfeatures", "label": "Deployment Features", "system": "sw5e", "path": "packs/deploymentfeatures", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "shipmaneuvers", "label": "Ship Maneuvers (Tactics/Gambits/etc.)", "system": "sw5e", "path": "packs/shipmaneuvers", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "weapons", "label": "Weapons", "system": "sw5e", "path": "packs/weapons", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "armor", "label": "Armor & Shields (Personal)", "system": "sw5e", "path": "packs/armor", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "gear", "label": "Gear & Enhanced Items", "system": "sw5e", "path": "packs/gear", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "starshipweapons", "label": "Starship Weapons", "system": "sw5e", "path": "packs/starshipweapons", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "starshipmods", "label": "Starship Modifications", "system": "sw5e", "path": "packs/starshipmods", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "starshipequipment", "label": "Starship Equipment", "system": "sw5e", "path": "packs/starshipequipment", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "starships", "label": "Sample Starships", "system": "sw5e", "path": "packs/starships", "type": "Actor", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "npcs", "label": "Monsters (Scum & Villainy)", "system": "sw5e", "path": "packs/npcs", "type": "Actor", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "customizationoptions", "label": "Customization Options (Styles/Masteries/Forms/Focuses/Improvements)", "system": "sw5e", "path": "packs/customizationoptions", "type": "Item", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "howto", "label": "How-To: Building Iconic Characters", "system": "sw5e", "path": "packs/howto", "type": "JournalEntry", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } }
+  ],
+  "socket": true,
+  "grid": { "distance": 5, "units": "ft" },
+  "primaryTokenAttribute": "attributes.hp",
+  "secondaryTokenAttribute": "attributes.sp",
+  "media": [],
+  "url": "https://sw5e.com",
+  "license": "LICENSE.txt",
+  "readme": "README.md",
+  "flags": {
+    "hotReload": { "extensions": ["css", "hbs", "json", "mjs"], "paths": ["styles", "templates", "lang"] }
+  }
+}

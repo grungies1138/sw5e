@@ -1,0 +1,30 @@
+{
+  "_id": "9uhN8tgUbQGnH9SU",
+  "_key": "!items!9uhN8tgUbQGnH9SU",
+  "name": "Power Channeling",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose either force-casting or tech-casting; you've refined your control over powers of that type. Select a number of powers you know of 1st level or higher equal to half your proficiency bonus.</p><p>When you cast one of the chosen powers, you may spend an extra minute per level of the power while casting it, in exchange for reducing its point cost by half. Casting a power this way demands concentration, and if your concentration is broken before you finish, the power fizzles with no effect. Whenever you gain a level in a class that grants casting of the chosen type, you may swap one of your chosen powers for another power of 1st level or higher that you know.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level, ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

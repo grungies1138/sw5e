@@ -1,0 +1,24 @@
+{
+  "_id": "5g3P1uKT0levshYo",
+  "_key": "!items!5g3P1uKT0levshYo",
+  "name": "Enthralling Vigor",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a Wisdom or Charisma save against one of your force powers or class features fails, you can seize the moment and gain temporary hit points equal to half your operative level plus your Charisma modifier (minimum +1).</p><p>You can do this five times, gaining a sixth use at 17th level, and you recover all uses on finishing a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Beguiler Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

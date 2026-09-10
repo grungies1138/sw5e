@@ -1,0 +1,24 @@
+{
+  "_id": "sYAO1WFuR593sUw1",
+  "_key": "!items!sYAO1WFuR593sUw1",
+  "name": "Quick Escape",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you take damage, you can use your reaction to instantly trade places with an illusion of yourself created by a tech power or class feature, provided it is within 60 feet and you can see it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Illusionist Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

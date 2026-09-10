@@ -1,0 +1,56 @@
+<section class="tab main {{#if tabs.main.active}}active{{/if}}" data-tab="main" data-group="primary">
+  <div class="abilities-grid">
+    {{#each system.abilities as |abl key|}}
+    <div class="ability-box">
+      <label>{{sw5eLabel (lookup (lookup ../config.abilities key) "abbreviation")}}</label>
+      <input type="number" name="system.abilities.{{key}}.value" value="{{abl.value}}">
+      <span class="mod">{{sw5eSigned abl.mod}}</span>
+      <label class="save-label">{{sw5eSigned abl.save}} {{sw5eLabel 'SW5E.Save'}}</label>
+    </div>
+    {{/each}}
+  </div>
+
+  <div class="grid-2">
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.Armor'}}</legend>
+      <select name="system.attributes.ac.armor">
+        {{#each config.starshipArmor as |cfg key|}}
+        <option value="{{key}}" {{#if (sw5eEq key ../system.attributes.ac.armor)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>
+        {{/each}}
+      </select>
+    </fieldset>
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.Shields'}}</legend>
+      <label><input type="checkbox" name="system.shield.equipped" {{#if system.shield.equipped}}checked{{/if}}> {{sw5eLabel 'SW5E.Equipped'}}</label>
+      <select name="system.shield.type">
+        {{#each config.shieldTypes as |cfg key|}}
+        <option value="{{key}}" {{#if (sw5eEq key ../system.shield.type)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>
+        {{/each}}
+      </select>
+    </fieldset>
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.Hyperdrive'}}</legend>
+      <label>{{sw5eLabel 'SW5E.Class'}} <input type="text" name="system.hyperdrive.class" value="{{system.hyperdrive.class}}" style="width:4em"></label>
+      <label>{{sw5eLabel 'SW5E.Backup'}} <input type="text" name="system.hyperdrive.backupClass" value="{{system.hyperdrive.backupClass}}" style="width:4em"></label>
+      <label>{{sw5eLabel 'SW5E.AstrogationEquations'}} <input type="number" name="system.hyperdrive.equations" value="{{system.hyperdrive.equations}}" min="0" max="10" style="width:3em">/10</label>
+    </fieldset>
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.HullDice'}} / {{sw5eLabel 'SW5E.ShieldDice'}}</legend>
+      <p>{{sw5eLabel 'SW5E.HullDice'}}: d{{system.hull.die}} — {{system.hull.dice.available}}/{{system.hull.dice.max}} {{sw5eLabel 'SW5E.Available'}}</p>
+      <p>{{sw5eLabel 'SW5E.ShieldDice'}}: d{{system.shield.die}} — {{system.shield.dice.available}}/{{system.shield.dice.max}} {{sw5eLabel 'SW5E.Available'}}</p>
+    </fieldset>
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.ModificationSlots'}}</legend>
+      <p>{{system.attributes.modSlots.used}} / {{system.attributes.modSlots.max}}</p>
+    </fieldset>
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.Cargo'}} / {{sw5eLabel 'SW5E.Fuel'}}</legend>
+      <label>{{sw5eLabel 'SW5E.Cargo'}} <input type="number" name="system.cargo.value" value="{{system.cargo.value}}" style="width:5em"> / <input type="number" name="system.cargo.capacity" value="{{system.cargo.capacity}}" style="width:5em"> tons</label>
+      <label>{{sw5eLabel 'SW5E.Fuel'}} <input type="number" name="system.fuel.value" value="{{system.fuel.value}}" style="width:5em"> / <input type="number" name="system.fuel.capacity" value="{{system.fuel.capacity}}" style="width:5em"></label>
+    </fieldset>
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.Credits'}}</legend>
+      <input type="number" name="system.currency.credits" value="{{system.currency.credits}}">
+    </fieldset>
+  </div>
+</section>

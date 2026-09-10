@@ -1,0 +1,24 @@
+{
+  "_id": "GetP3jyf9UWXIQzL",
+  "_key": "!items!GetP3jyf9UWXIQzL",
+  "name": "Mark of Triage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You expand what your Ranger's Quarry feature can do:</p><ul><li>While a hostile creature is marked, you automatically know any conditions afflicting it and roughly what fraction of its hit points remain. If it's within 60 feet, you can use your reaction to force disadvantage on a Constitution saving throw it's compelled to make. Once used, you must finish a short or long rest before doing so again.</li><li>While a friendly creature is marked, you have advantage on Wisdom (Medicine) checks to stabilize it. If it's within 60 feet, you can use your bonus action to roll your Ranger's Quarry die and either restore that many hit points to it or grant that many temporary hit points. A given ally can benefit from this only once until it finishes a short or long rest.</li></ul>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Triage Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

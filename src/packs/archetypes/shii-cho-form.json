@@ -1,0 +1,22 @@
+{
+  "_id": "Nqdwgy0z7WHxiNcv",
+  "_key": "!items!Nqdwgy0z7WHxiNcv",
+  "name": "Shii-Cho Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Shii-Cho looks chaotic on purpose: wild, seemingly random cuts meant to unbalance and disarm an opponent before they ever find a rhythm to fight back. Beneath the apparent disorder lies real intent — every stroke is chosen to leave the enemy scrambling for footing.</p><p>Guardians who train in Shii-Cho thrive on that confusion, herding foes into vulnerable positions with unpredictable footwork and using the resulting openings to press an advantage that a more disciplined opponent never sees coming.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

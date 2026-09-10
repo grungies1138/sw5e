@@ -1,0 +1,22 @@
+{
+  "_id": "LLM4KdOKdqHkWkNP",
+  "_key": "!items!LLM4KdOKdqHkWkNP",
+  "name": "Shien/Djem So Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Shien and Djem So share a single conviction: let the Force lend your muscle the weight to break an enemy's guard rather than wait for one to appear. Guardians who study this form drive forward with heavy, committed strokes, forcing a gap in their opponent's defense through sheer relentless pressure.</p><p>Where subtler stylists dance around a fight, these duelists plant their feet and bull through it, trusting armor and raw physical power to see them through whatever comes back at them.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

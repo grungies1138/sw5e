@@ -1,0 +1,45 @@
+{
+  "_id": "DRVAAa8dfsHsaBWC",
+  "_key": "!items!DRVAAa8dfsHsaBWC",
+  "name": "City Watch",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You served your home settlement's law enforcement, standing as its first line of defense against crime rather than external threats. Whether the settlement was a sprawling ecumenopolis or a single frontier outpost, your job was keeping the peace among its own people.</p><p>The discipline of that service stuck with you, and so did the ability to spot a den of criminal activity or find the local watch outpost in almost any town you walk into, welcome or not.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "ins",
+        "inv",
+        "prc"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Empathic",
+        "Investigator",
+        "Perceptive",
+        "Linguist",
+        "Alert",
+        "Athlete",
+        "Durable"
+      ]
+    },
+    "equipment": "A uniform in the style of your unit indicating your rank, a horn with which to summon help, a set of binders, and a pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

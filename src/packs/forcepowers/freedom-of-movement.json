@@ -1,0 +1,45 @@
+{
+  "_id": "MVoNjwJxGV1KDuBz",
+  "_key": "!items!MVoNjwJxGV1KDuBz",
+  "name": "Freedom of Movement",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature. For the duration, its movement ignores difficult terrain, and powers or enhanced effects cannot reduce its speed or leave it paralyzed or restrained.</p><p>It may spend 5 feet of movement to automatically slip free of unenhanced restraints, and being underwater imposes no penalty on its movement or attacks.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "boAKyTttjVJIXbnu",
+  "_key": "!items!boAKyTttjVJIXbnu",
+  "name": "Mark of the Bulwark",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If the creature marked by your Ranger's Quarry makes a melee attack against an ally within 5 feet of you, you can spend your reaction to intercept the blow, becoming the attack's target instead. Should the attack connect while your Personal Barrier still has hit points, the attacker takes bonus damage equal to your Ranger's Quarry damage die.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Bulwark Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

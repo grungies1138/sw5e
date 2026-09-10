@@ -1,0 +1,47 @@
+{
+  "_id": "5fEnztvORcyxHqmG",
+  "_key": "!items!5fEnztvORcyxHqmG",
+  "name": "Dathomir Witch",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You belong to one of Dathomir's Force-sensitive clans, a matriarchal warrior society bound to a Clan Mother and to the wild magic of your homeworld. Your training fused muscle and the Force into a single discipline, and every clan holds to its own laws above all else: as your own clan's book of laws puts it, \"never concede to evil.\"</p><p>Far from Dathomir's mists, that bond to your sisters hasn't faded, and neither has the wariness other Force traditions tend to feel around you.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "acr",
+        "ani",
+        "lor",
+        "nat"
+      ]
+    },
+    "toolProficiencies": [
+      "Bioanalysis kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Acrobat",
+        "Animal Handler",
+        "Loremaster",
+        "Naturalist",
+        "Specialist",
+        "Linguist",
+        "Force-Sensitive",
+        "Force of Personality"
+      ]
+    },
+    "equipment": "A copy of your clan's book of laws, a set of traveler's clothes, and a pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

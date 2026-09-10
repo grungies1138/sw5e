@@ -1,0 +1,45 @@
+{
+  "_id": "vVzmgfejNGRtRS3y",
+  "_key": "!items!vVzmgfejNGRtRS3y",
+  "name": "Affliction",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You wrack a creature you can see within range with debilitating pain. The target must make a Constitution saving throw or suffer one slowed level, a -2 penalty to its AC and Dexterity saving throws, and the loss of its reactions for the duration. While affected, the target may take either an action or a bonus action on its turn, never both, and it can make no more than a single melee or ranged attack regardless of its normal capabilities.</p><p>Should the afflicted creature try to cast a power with a 1-action casting time, roll a d20; on an 11 or higher, the power is delayed until its next turn and must be completed with that turn's action or be lost. At the end of each of its turns, the target repeats the saving throw, ending the effect on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

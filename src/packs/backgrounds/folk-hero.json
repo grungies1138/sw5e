@@ -1,0 +1,47 @@
+{
+  "_id": "L2SftR1jzXXgd4IL",
+  "_key": "!items!L2SftR1jzXXgd4IL",
+  "name": "Folk Hero",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You come from a humble corner of the galaxy, but your home village already treats you as its champion after a single defining act &mdash; standing against a tyrant's agents, breaking a corrupt decree, or leading a militia when no one else would.</p><p>Whatever that moment was, it convinced you that the common folk deserve someone willing to stand between them and whatever threatens them, and it's shaped every choice you've made since.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ani",
+        "ath",
+        "nat",
+        "prf"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of artisan's implements, biochemist's kit, or chef's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Animal Handler",
+        "Brawny",
+        "Naturalist",
+        "Performer",
+        "Crafter",
+        "Specialist",
+        "Linguist",
+        "Healer"
+      ]
+    },
+    "equipment": "A set of tools of your choice, a set of common clothes, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

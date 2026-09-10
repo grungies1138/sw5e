@@ -1,0 +1,24 @@
+{
+  "_id": "TJvQ4egJkyBVAoCq",
+  "_key": "!items!TJvQ4egJkyBVAoCq",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose artisan's implements or jeweler's implements; you gain proficiency with it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Totem Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

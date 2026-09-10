@@ -1,0 +1,32 @@
+{
+  "_id": "CxRBlvOK2gUtSlcq",
+  "_key": "!items!CxRBlvOK2gUtSlcq",
+  "name": "Climber",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Scaling walls, cliffs, and trees comes naturally to you. Increase your Strength score by 1, to a maximum of 20.</p><p>You gain a climbing speed equal to your walking speed, and advantage on ability checks and saving throws made to avoid falling while climbing. You may also spend 5 minutes coaching up to six willing creatures (yourself included) within 30 feet before a climb; each coached creature adds 1d6 to any ability check or saving throw it makes during that climb.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

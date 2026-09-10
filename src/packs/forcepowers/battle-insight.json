@@ -1,0 +1,45 @@
+{
+  "_id": "PKam9ccUZNNFgQOv",
+  "_key": "!items!PKam9ccUZNNFgQOv",
+  "name": "Battle Insight",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Focusing on a target within range, you glimpse through the Force where its guard is weakest. On your next turn, so long as the power hasn't already ended, you have advantage on the first attack roll you make against that target.</p><p>At higher character levels this insight extends to more attacks: two at 5th level, three at 11th level, and four at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

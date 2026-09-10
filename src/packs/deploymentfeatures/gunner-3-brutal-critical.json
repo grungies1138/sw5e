@@ -1,0 +1,22 @@
+{
+  "_id": "krY1BYpZ2AGrUm91",
+  "name": "Brutal Critical",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, when you score a critical hit with a ship's weapon, you can roll one additional damage die of that weapon's damage type and add it to the total damage dealt.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "jblQskECKRAOVnZ2",
+  "_key": "!items!jblQskECKRAOVnZ2",
+  "name": "Firestorm",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You choose a point on the ground within range, and everything in a 15-foot radius bursts into flame. Each creature there must succeed on a Dexterity saving throw or take 8d8 fire damage, taking half as much on a success; Large or smaller creatures that fail are pushed to the edge of the affected area.</p><p>You may designate one creature to stand at the very center of the blast, and that creature has disadvantage on its save and is knocked prone if it fails.</p><p>Cast with a tech slot of 7th level or higher, the damage increases by 1d8 and the radius by 5 feet for each slot level above 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "8d8",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

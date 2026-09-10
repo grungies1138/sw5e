@@ -1,0 +1,45 @@
+{
+  "_id": "d3qV9fOiOCg33BEq",
+  "_key": "!items!d3qV9fOiOCg33BEq",
+  "name": "Cryogenic Suspension",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose up to six creatures you can see in a 40-foot cube within range. Each must succeed on a Constitution saving throw or be slowed for the duration: it gains 1 slowed level, takes a -2 penalty to AC and Dexterity saving throws, cannot take reactions, and on its turn may use either an action or a bonus action, not both, making no more than one melee or ranged attack regardless of its abilities or features.</p><p>If the creature tries to cast a power with a casting time of 1 action, roll a d20; on an 11 or higher, the power doesn't take effect until its next turn, and it must spend that turn's action completing the casting or the power is wasted.</p><p>An affected creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "9lmkmBOQG1ws3CKU",
+  "_key": "!items!9lmkmBOQG1ws3CKU",
+  "name": "Tactical Superiority",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You choose up to two willing creatures you can see within 30 feet. Until the power ends, each target's speed doubles, each gains a +2 bonus to AC, each has advantage on Dexterity saving throws, and each gains an extra action every turn usable only to Attack (a single weapon attack), Dash, Disengage, Hide, or use an object.</p><p>When the power ends, each target is overcome with lethargy and can take no actions or movement until after its next turn.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 8th level or higher, this power affects one additional creature for each slot level beyond 7th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 7",
+    "school": "tech",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

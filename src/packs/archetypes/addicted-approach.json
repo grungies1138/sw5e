@@ -1,0 +1,22 @@
+{
+  "_id": "pLHx7DEUMEW9chLM",
+  "_key": "!items!pLHx7DEUMEW9chLM",
+  "name": "Addicted Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>For some, chems and stims aren't a vice — they're a way of life. Berserkers of the Addicted Approach have learned to fold that hunger into their fury, letting the burn of a substance fan the flames of rage rather than dull them.</p><p>Where discipline fails these warriors, dependency succeeds: the deeper they lean into their cravings, the more ferocious and unshakeable they become in a fight, even as that same dependency threatens to consume them.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

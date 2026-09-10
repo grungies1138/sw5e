@@ -1,0 +1,45 @@
+{
+  "_id": "ZA6ILW5iNibiqJJ6",
+  "_key": "!items!ZA6ILW5iNibiqJJ6",
+  "name": "Security Protocols",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Over 10 minutes, you ward up to 2,500 square feet of floor space, a 50-foot square or an equivalent combination of smaller areas, up to 20 feet tall and shaped as you choose; the warded space may be split across multiple stories of a stronghold provided you can walk through each contiguous section while casting. You may exempt specific individuals from any or all of the ward's effects, and you may set a password that grants immunity to anyone who speaks it aloud.</p><p>Once active, you can trigger the following effects within the warded area with no action required.</p><p><em>Corridors.</em> Fog heavily obscures every warded corridor, and at each junction there is a 50 percent chance a creature other than you believes it is heading the wrong way.</p><p><em>Doors.</em> Every door in the area locks as though sealed by *lock*; up to ten of them can also be disguised to look like plain wall sections, using an illusory image comparable to *minor hologram*.</p><p><em>Stairs.</em> Every stairway is coated in electromesh, as the *electromesh* power, which regrows within 10 minutes if cleared away while this power lasts.</p><p><em>Additional effect.</em> You may also place one of the following: *mobile lights* in up to four corridors following a simple repeating pattern; *implant message* in up to two spots; or *debilitating gas* in up to two spots, which reforms within 10 minutes if dispersed.</p><p>The entire warded area radiates power, though a *diminish tech* aimed at one specific effect removes only that effect. Casting this power in the same stronghold daily for a year makes its wards permanent.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "special",
+      "cost": 10
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

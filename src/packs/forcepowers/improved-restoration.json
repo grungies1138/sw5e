@@ -1,0 +1,45 @@
+{
+  "_id": "tMBKtUZbbtP284wu",
+  "_key": "!items!tMBKtUZbbtP284wu",
+  "name": "Improved Restoration",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Channeling restorative energy into a creature you touch, you may lift one debilitating affliction from it. Choose to reduce the target's exhaustion by one level, or end one of the following: a charm effect on it, a curse (including attunement to a cursed item), any drain to one of its ability scores, or any reduction of its hit point maximum.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 5",
+    "school": "lightside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "Yw272EdxGRJBIv6Z",
+  "_key": "!items!Yw272EdxGRJBIv6Z",
+  "name": "Enfeeble",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel a lance of dark energy at a creature within range. It must succeed on a Wisdom saving throw or take 1d12 necrotic damage if it is missing any hit points, or 1d8 necrotic damage if it is at full health.</p><p>This damage increases by one die at 5th, 11th, and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

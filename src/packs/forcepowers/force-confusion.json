@@ -1,0 +1,45 @@
+{
+  "_id": "CGqHiMIiggVzJbvv",
+  "_key": "!items!CGqHiMIiggVzJbvv",
+  "name": "Force Confusion",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target one humanoid you can see within range, who must succeed on a Wisdom saving throw or become charmed by you for the duration. On each of its turns, the charmed target must use its action, before moving, to make a melee attack against a creature other than itself that you mentally designate; if you designate no target or none is within its reach, it may act normally.</p><p>You must use your action on each of your subsequent turns to sustain this control, or the power ends. The target may also attempt a Wisdom saving throw at the end of each of its turns, ending the power on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "cgB7ydvumaxhPIgp",
+  "_key": "!items!cgB7ydvumaxhPIgp",
+  "name": "Triage Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>War leaves wreckage in its wake, and some scouts specialize in making sure their allies survive it. Followers of the Triage Technique fuse combat awareness with field medicine, keeping wounded comrades standing through fast hands and faster thinking.</p><p>Where they mark an enemy, they read its wounds and weaknesses as easily as a medical scan; where they mark an ally, that companion becomes easier to stabilize and quicker to heal. Equal parts battlefield medic and tactician, a Triage specialist turns every fight into a chance to save someone else's life.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

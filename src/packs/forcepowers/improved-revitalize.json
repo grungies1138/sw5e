@@ -1,0 +1,45 @@
+{
+  "_id": "roouMqsZ9QEvfgxk",
+  "_key": "!items!roouMqsZ9QEvfgxk",
+  "name": "Improved Revitalize",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a creature that has died within the last hour and call it back to life, provided its spirit is willing and able to return; the target awakens with its hit points fully restored. This power does not function on droids or constructs.</p><p>The return also purges any poison or disease afflicting the creature at the moment of death, seals all fatal wounds, and regrows any lost body parts.</p><p>Returning from death is a harrowing ordeal: the creature suffers a -4 penalty to attack rolls, saving throws, and ability checks. Each long rest it completes reduces this penalty by 1 until it fades entirely.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 7",
+    "school": "lightside",
+    "level": 7,
+    "activation": {
+      "type": "special",
+      "cost": 10
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

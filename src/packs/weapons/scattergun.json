@@ -1,0 +1,55 @@
+{
+  "_id": "XUyUxjrlI02sWrKf",
+  "name": "Scattergun",
+  "type": "weapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A crude, wide-bore slugthrower that sprays a lethal cone of scrap and shrapnel at close range, favored on the Outer Rim where fancy energy cells are hard to come by.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 350,
+      "denomination": "credits"
+    },
+    "weight": 8,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "martial",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "kinetic"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 15,
+      "long": 30,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed"
+    ],
+    "ammo": {
+      "type": "shell",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

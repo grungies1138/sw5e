@@ -1,0 +1,50 @@
+{
+  "_id": "VHkRnOrLSsStDh54",
+  "_key": "!items!VHkRnOrLSsStDh54",
+  "name": "Telekinetic Burst",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A beam of telekinetic force blasts from your hand in a line 5 feet wide and 60 feet long. Each creature in the line must make a Constitution saving throw, taking 8d6 force damage and being knocked prone on a failure, or half as much damage and no prone on a success.</p><p>On each of your turns for the duration, you can use your action to unleash another such line. When cast using a force slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 6",
+    "school": "lightside",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "8d6",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

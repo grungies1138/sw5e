@@ -1,0 +1,25 @@
+{
+  "_id": "ey3vP4xvPaUw3AQn",
+  "name": "Battle Stations",
+  "type": "shipmaneuver",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Reaction,</strong> taken when your ship would otherwise be surprised. Expend a Power Die from the Comms pool; your ship and its crew are not surprised and can act normally in the first round of combat.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Coordinator Collaborations",
+    "deployment": "coordinator",
+    "rankRequired": 1,
+    "activation": "reaction",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

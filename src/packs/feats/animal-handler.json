@@ -1,0 +1,32 @@
+{
+  "_id": "MIZP950sVw5Yznch",
+  "_key": "!items!MIZP950sVw5Yznch",
+  "name": "Animal Handler",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have a gift for working with beasts. Increase your Wisdom score by 1, to a maximum of 20.</p><p>You gain proficiency in the Animal Handling skill, or expertise in it if already proficient. As a bonus action, you may direct one friendly beast within 60 feet that can hear you and is not already following another's orders — either a single action and destination for its next turn, or a general order (such as guarding a location) that holds for up to 1 minute.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "wis"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

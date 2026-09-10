@@ -1,0 +1,50 @@
+{
+  "_id": "dMBnWChcAz8qJ0Cx",
+  "_key": "!items!dMBnWChcAz8qJ0Cx",
+  "name": "Spirit Blade",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You forge a blade of spectral energy and make a melee force attack against a creature within reach. On a hit, the target takes 1d10 necrotic damage.</p><p>At 5th level you make two such attacks, at 11th level three, and at 17th level four; each attack requires its own attack roll and can target the same creature or different ones.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

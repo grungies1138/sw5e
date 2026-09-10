@@ -1,0 +1,24 @@
+{
+  "_id": "fF6Bscet7JCgpmw6",
+  "_key": "!items!fF6Bscet7JCgpmw6",
+  "name": "Focused Augmentation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You add your Intelligence modifier to Constitution saving throws made to maintain concentration. Additionally, when you cast a power that requires concentration and normally affects only a single target, you may target one extra creature with it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biotech Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

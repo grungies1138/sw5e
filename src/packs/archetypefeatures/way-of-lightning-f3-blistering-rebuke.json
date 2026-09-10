@@ -1,0 +1,24 @@
+{
+  "_id": "xCC35thMywGhex3D",
+  "_key": "!items!xCC35thMywGhex3D",
+  "name": "Blistering Rebuke",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature you can see within 5 feet hits you with an attack, you can use your reaction to force a Dexterity saving throw against your universal force save DC. On a failed save, the creature takes 1d10 plus your consular level in lightning damage, is shoved 10 feet away, and becomes shocked until the end of its next turn; on a success, it takes only half the damage and is neither moved nor shocked.</p><p>You can use this feature four times, gaining an additional use at 13th and 17th level. All uses return after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Lightning",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

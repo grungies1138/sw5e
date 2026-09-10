@@ -1,0 +1,25 @@
+{
+  "_id": "NULTxRnoulPmBX0i",
+  "name": "Precision Attack",
+  "type": "maneuver",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll, before or after making the roll but before any effects of the attack are applied.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "special",
+      "cost": 0
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

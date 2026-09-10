@@ -1,0 +1,50 @@
+{
+  "_id": "iW0Zae2UhSNNcFvE",
+  "_key": "!items!iW0Zae2UhSNNcFvE",
+  "name": "Fabricate Trap",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast this power, you rig a trap to trigger later under a condition you specify, attaching it to a surface or hiding it within an object that opens or activates, covering an area up to 10 feet across. Finding it typically requires a successful Intelligence (Investigation) check against your tech save DC.</p><p>You set the triggering condition when you create the trap — such as entry into an area or activation of the object — and may refine it by size, weight, creature type, or a password that bypasses it. You can maintain only one such trap at a time; creating a new one renders an existing one inert.</p><p>When you create the trap, you choose between two forms. An <strong>Explosive Trap</strong>, once triggered, bursts in a 20-foot-radius sphere spreading around corners; each creature there must succeed on a Dexterity saving throw or take 5d8 damage of a type you chose when creating the trap — acid, cold, fire, lightning, or sonic — taking half as much on a success. A <strong>Power Trap</strong> instead stores a prepared tech power of 3rd level or lower, cast into the trap when you create it and having no effect until triggered; when the trap activates, the stored power is cast, targeting the triggering creature or centering its area on that creature, and if it requires concentration it instead lasts its full duration automatically.</p><p>Cast with a tech slot of 4th level or higher, an explosive trap's damage increases by 1d8 per slot level above 3rd, and a power trap can instead store a power of a level up to the slot used.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d8",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

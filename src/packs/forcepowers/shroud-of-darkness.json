@@ -1,0 +1,50 @@
+{
+  "_id": "BsPYyPkQPgAbGiD3",
+  "_key": "!items!BsPYyPkQPgAbGiD3",
+  "name": "Shroud of Darkness",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Darkness gathers around you: dim light within 10 feet of you becomes darkness, and bright light within that radius becomes dim, leaving you heavily obscured.</p><p>For the duration you have resistance to force damage, and any creature within 10 feet of you that hits you with an attack takes 2d8 necrotic damage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 4",
+    "school": "darkside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

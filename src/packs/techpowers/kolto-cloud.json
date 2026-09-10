@@ -1,0 +1,45 @@
+{
+  "_id": "vwdO1rddlWkZnw6k",
+  "_key": "!items!vwdO1rddlWkZnw6k",
+  "name": "Kolto Cloud",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A cloud of atomized kolto bursts outward, restoring 1d4 plus your techcasting ability modifier hit points to as many as six creatures of your choosing that you can see within range. Droids and constructs gain no benefit from this power.</p><p><em>Overcharge Tech.</em> Using a tech slot of 4th level or higher increases the healing by 1d4 for each slot level beyond 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "RimoCq81L92RWjIR",
+  "name": "Engineer",
+  "type": "class",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Engineer is a full Tech caster and master fabricator who turns raw technical knowledge into battlefield advantage, deploying enhanced items, droids, turrets, and jury-rigged devices with equal fluency. Rather than drawing on the Force, the Engineer channels a deep well of Tech Points through gadgets and focus tools, buffing allies, disabling enemies, and conjuring solutions to problems no one else even noticed.</p><p>An Engineer's true strength lies in preparation: given time before a fight, they can outfit a whole squad with upgraded gear, deploy automated defenses, and rig the battlefield itself against the enemy. Their archetype further specializes this toolkit, whether toward combat engineering, droid mastery, or exotic invention.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d8",
+    "casterProgression": "full",
+    "castingAbility": "int",
+    "primaryAbility": [
+      "int"
+    ],
+    "savingThrows": [
+      "int",
+      "con"
+    ],
+    "skillChoices": {
+      "number": 2,
+      "options": [
+        "inv",
+        "lor",
+        "med",
+        "nat",
+        "tec"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

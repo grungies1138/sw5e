@@ -1,0 +1,30 @@
+{
+  "_id": "f1HFzgl4mMRzpIlP",
+  "_key": "!items!f1HFzgl4mMRzpIlP",
+  "name": "Fighting Styles and Masteries",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>New ammunition types introduced elsewhere — such as specialized power cells and rockets — interact with existing Fighting Styles and Fighting Masteries. Any Fighting Style or Fighting Mastery that references a weapon's ammunition applies equally to these new munitions where the underlying weapon and ammunition category match.</p>",
+      "chat": ""
+    },
+    "source": "Wretched Hive Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

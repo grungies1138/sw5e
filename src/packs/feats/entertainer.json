@@ -1,0 +1,37 @@
+{
+  "_id": "bI1TPSiLOBxkJG4W",
+  "_key": "!items!bI1TPSiLOBxkJG4W",
+  "name": "Entertainer",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Performance comes naturally to you. Choose one musical instrument. Increase one ability score of your choice by 1, to a maximum of 20.</p><p>You gain proficiency with the chosen instrument, or expertise if already proficient. While playing it for an audience, and for up to 1 minute afterward, you have advantage on Wisdom (Insight) checks made to read the emotions of those who were listening.</p><p>This feat can be taken multiple times, choosing a different instrument each time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

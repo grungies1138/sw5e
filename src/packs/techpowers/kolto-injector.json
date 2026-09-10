@@ -1,0 +1,45 @@
+{
+  "_id": "88doaPUJWb7pbHkE",
+  "_key": "!items!88doaPUJWb7pbHkE",
+  "name": "Kolto Injector",
+  "type": "power",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p>You administer a dose of concentrated bacta gel through a rapid injector. The target regains 2d8 + your casting ability modifier hit points and stops taking damage from the poisoned condition for 1 minute.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 5,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

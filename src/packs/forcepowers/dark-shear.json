@@ -1,0 +1,50 @@
+{
+  "_id": "Hcl3Aas32emAxMKE",
+  "_key": "!items!Hcl3Aas32emAxMKE",
+  "name": "Dark Shear",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You forge a weapon of intangible Force energy that lasts until the power ends, wielded as a simple lightweapon in which you are proficient. It deals 2d6 psychic damage and has the finesse, light, and thrown (range 20/60) properties, and you have advantage when attacking with it while in dim light or darkness. The weapon vanishes at the end of the turn if you drop or throw it, though you may recall it to your hand as a bonus action while the power lasts.</p><p>Cast with a 3rd- or 4th-level slot, the damage increases by 1d6 (3d6 total); with a 5th- or 6th-level slot, by 2d6 (4d6 total); with a 7th-level slot or higher, by 3d6 (5d6 total).</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

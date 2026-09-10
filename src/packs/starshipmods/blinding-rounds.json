@@ -1,0 +1,30 @@
+{
+  "_id": "RNBPDkGI7nToZDdm",
+  "name": "Blinding Rounds",
+  "type": "starshipmod",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>A specialty ammunition loadout for primary weapons that detonates in a brilliant flash on impact, imposing disadvantage on the target's next attack roll or check as its sensors and viewports struggle to compensate.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 2000,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "Fixed Hardpoint or Turret Mounting",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

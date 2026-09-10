@@ -1,0 +1,57 @@
+{
+  "_id": "oXnqSv4UsxzCXyuI",
+  "name": "Jawa",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Jawas are a diminutive, hooded species native to the deserts of Tatooine, instantly recognizable by their glowing eyes and the tattered robes that shield them from the twin suns. Living nomadically in massive sandcrawlers, Jawa clans survive by scavenging, salvaging, and trading derelict technology &mdash; especially droids &mdash; across the wastes.</p><p>Jawas speak in a rapid, chittering dialect and are famous for both their technical ingenuity and their willingness to sell suspiciously refurbished goods to unwary offworlders.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "sm",
+    "speed": {
+      "walk": 25,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "dex",
+        "value": 2
+      },
+      {
+        "ability": "int",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Jawaese"
+    ],
+    "traits": [
+      {
+        "name": "Tech Scavenger",
+        "description": "You are proficient with tinker's tools, and you have advantage on checks made using them to repair, salvage, or jury-rig technology from scrap."
+      },
+      {
+        "name": "Utinni!",
+        "description": "Once per long rest, you can call on a burst of scavenger's luck: give yourself advantage on one Dexterity (Stealth) or Charisma (Deception) check."
+      },
+      {
+        "name": "Sandsight",
+        "description": "Your eyes, adapted to harsh desert glare, grant you darkvision, and you have advantage on saving throws against being blinded."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

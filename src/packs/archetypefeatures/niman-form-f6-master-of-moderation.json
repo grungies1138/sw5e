@@ -1,0 +1,24 @@
+{
+  "_id": "mHOopuAQIPhcPsLV",
+  "_key": "!items!mHOopuAQIPhcPsLV",
+  "name": "Master of Moderation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your swordplay and your command of the Force move as a single, seamless art. Your Dexterity score and your Wisdom or Charisma score (your choice) each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist kinetic and energy damage dealt by ordinary, non-enhanced weapons.</li><li>You have advantage on saving throws against force powers, and you resist the damage those powers deal.</li><li>Whenever you use your action to cast an at-will force power that targets only one creature, you may also target a second creature within 5 feet of the first and within the power's range.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Niman Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

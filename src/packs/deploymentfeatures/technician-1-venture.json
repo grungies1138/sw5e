@@ -1,0 +1,22 @@
+{
+  "_id": "3IxJfCh3GiEItL9o",
+  "name": "Venture",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you gain a rank in the Technician deployment (starting with this one), you may select a Venture for which you qualify, representing a specialized defensive habit.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "bDBo8CYnXcQf2DzJ",
+  "_key": "!items!bDBo8CYnXcQf2DzJ",
+  "name": "Triage Training",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in the Medicine skill. Additionally, you can use a bonus action rather than your action to make an ability check to stabilize a creature, use a traumakit, or apply a medpac.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Triage Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

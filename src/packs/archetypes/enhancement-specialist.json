@@ -1,0 +1,22 @@
+{
+  "_id": "HhFv9GfADRpKDqkA",
+  "_key": "!items!HhFv9GfADRpKDqkA",
+  "name": "Enhancement Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Where other marksmen simply pull a trigger, the Enhancement Specialist treats every shot as an engineering problem. Deep technical knowledge of their blaster and its ammunition lets them tune each round on the fly, coaxing effects far beyond what standard ammunition could ever produce.</p><p>A single modified shot from an Enhancement Specialist might freeze a target in its tracks, poison its mind, or simply blow apart everything nearby. It's this fusion of marksmanship and applied science that lets them reshape the battlefield one carefully engineered shot at a time.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

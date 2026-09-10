@@ -1,0 +1,24 @@
+{
+  "_id": "fS4yNqamvkgMLfez",
+  "_key": "!items!fS4yNqamvkgMLfez",
+  "name": "Pack Tactics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you have advantage on an attack roll against a creature your companion has damaged since the start of your last turn, you may reroll one of your dice once — and your companion gets the same benefit, rerolling one die once when it has advantage against a creature you've damaged since the start of your last turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Beastmaster Approach (Companion)",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "Fdxa1MrxFAfEMIRf",
+  "_key": "!items!Fdxa1MrxFAfEMIRf",
+  "name": "Droid Defense",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As long as your droid can see you, it has advantage on every saving throw it makes.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering (Companion)",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

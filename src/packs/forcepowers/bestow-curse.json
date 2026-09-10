@@ -1,0 +1,50 @@
+{
+  "_id": "itX0liHJtpHCXw1J",
+  "_key": "!items!itX0liHJtpHCXw1J",
+  "name": "Bestow Curse",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a creature, which must succeed on a Wisdom saving throw or be cursed for the duration. Choose the curse's nature when you cast the power: the target has disadvantage on ability checks and saving throws using one ability score you choose; or the target has disadvantage on attack rolls against you; or the target must succeed on a Wisdom saving throw at the start of each of its turns or waste its action doing nothing; or your attacks and powers deal the target an extra 1d8 necrotic damage while it remains cursed.</p><p>A remove curse power ends this effect early, and this power has no effect on droids or constructs. Cast with a 4th-level slot or higher, the duration becomes concentration, up to 10 minutes; a 5th-level slot or higher extends it to 8 hours without requiring concentration; a 7th-level slot or higher extends it to 24 hours; and a 9th-level slot makes the curse last until dispelled.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 3",
+    "school": "darkside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

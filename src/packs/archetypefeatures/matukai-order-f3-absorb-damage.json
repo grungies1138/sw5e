@@ -1,0 +1,24 @@
+{
+  "_id": "1iqUb5ucTXh5IQ2D",
+  "_key": "!items!1iqUb5ucTXh5IQ2D",
+  "name": "Absorb Damage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you channel the Force through your body, gaining resistance to kinetic and energy damage until the start of your next turn. You can do this four times, gaining one additional use at 13th level and another at 17th level, and you regain all spent uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Matukai Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

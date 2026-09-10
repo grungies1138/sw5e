@@ -1,0 +1,24 @@
+{
+  "_id": "a6hex2peR5wZz33c",
+  "_key": "!items!a6hex2peR5wZz33c",
+  "name": "Masterful Mixtures",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you deal acid or poison damage through a tech power or class feature, resistance to that damage is ignored entirely, and immunity is downgraded to resistance.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biochem Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

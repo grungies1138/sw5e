@@ -1,0 +1,24 @@
+{
+  "_id": "zZJeVivk7PzWMlPV",
+  "_key": "!items!zZJeVivk7PzWMlPV",
+  "name": "Dual Wielder",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you fight with a weapon in each hand, you can add your Strength or Dexterity modifier (whichever you prefer) to the damage of your off-hand Two-Weapon Fighting attack, provided that attack doesn't already add that modifier.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Cyclone Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

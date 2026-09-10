@@ -1,0 +1,32 @@
+{
+  "_id": "wcV1piNTMxmkAFDM",
+  "_key": "!items!wcV1piNTMxmkAFDM",
+  "name": "Durable",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are tough and quick to recover. Increase your Constitution score by 1, to a maximum of 20.</p><p>Whenever you roll a Hit Die to recover hit points, you regain at least twice your Constitution modifier (minimum 2), regardless of the die roll. Your hit point maximum also increases by twice your character level when you gain this feat, and by an additional 2 each time you gain a level thereafter.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "con"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

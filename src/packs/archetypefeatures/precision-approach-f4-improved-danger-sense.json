@@ -1,0 +1,24 @@
+{
+  "_id": "y5055XjT9oOGh1ag",
+  "_key": "!items!y5055XjT9oOGh1ag",
+  "name": "Improved Danger Sense",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, whenever you face an effect you can see — a trap or a power, for instance — that allows a Dexterity save for half damage, you're treated as proficient in that save: success now spares you all damage, and failure only costs you half.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Precision Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

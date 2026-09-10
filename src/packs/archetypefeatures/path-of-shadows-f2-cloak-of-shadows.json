@@ -1,0 +1,24 @@
+{
+  "_id": "BjmV5DesmjBq2JN6",
+  "_key": "!items!BjmV5DesmjBq2JN6",
+  "name": "Cloak of Shadows",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You may take the Hide action as a bonus action on your turn, and you can attempt to hide even while only lightly obscured from the creature you're hiding from.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of Shadows",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

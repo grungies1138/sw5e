@@ -1,0 +1,24 @@
+{
+  "_id": "TyTkEpYeDyiqmK5h",
+  "_key": "!items!TyTkEpYeDyiqmK5h",
+  "name": "Force Visions",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you finish a long rest, roll two d20s and note the results as foretelling rolls. Before any attack roll, saving throw, or ability check made by you or a creature you can see, you may declare that you're substituting one of these foretelling rolls for the result instead, usable only once per turn. Each foretelling roll is spent once used, and any left over are lost when you next finish a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of the Seer",
+    "className": "Consular",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "Rq2jPgGTJ9sxl3cD",
+  "_key": "!items!Rq2jPgGTJ9sxl3cD",
+  "name": "Outlaw",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've lost favor with the law, but not with the people the law was supposed to serve. A robbery, a broken oath, a defiance of some tyrant's agents &mdash; whatever put a price on your head, the common folk of wherever you've passed through see it differently, and they've kept your secrets more than once.</p><p>You're a thorn in the side of whichever authority you crossed, and something closer to a protector to everyone else.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "acr",
+        "ath",
+        "ins",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "Disguise kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Acrobat",
+        "Brawny",
+        "Empathic",
+        "Survivalist",
+        "Specialist",
+        "Linguist",
+        "Alert",
+        "Observant"
+      ]
+    },
+    "equipment": "A hunting trap, an iron pot, a set of traveler's clothes, and a pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "5InPw5YeXmCkV1Os",
+  "_key": "!items!5InPw5YeXmCkV1Os",
+  "name": "Force Suppression",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target one creature, object, or ongoing force effect within range. Any force power of 3rd level or lower affecting it immediately ends. For each active power of 4th level or higher, you make an ability check with your forcecasting ability against a DC of 10 plus that power's level; success ends it.</p><p>Cast with a 4th-level slot or higher, any affecting power of a level no greater than your slot's level ends automatically, without a check.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "W37429ZWWoO0Utcm",
+  "name": "Devastator Superlaser",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>An immense capital-ship weapon available only as a Gargantuan hull's Tier 3 role feature, firing a line-shaped beam up to 10,000 feet long and 100 feet wide that forces every ship caught in it to make a Dexterity saving throw. Reserved for the largest warships in the galaxy.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 250000,
+      "denomination": "credits"
+    },
+    "category": "primary",
+    "hardpoint": "turret",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "15d10",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 10000,
+      "long": 10000,
+      "units": "ft"
+    },
+    "properties": [],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

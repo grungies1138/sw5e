@@ -1,0 +1,22 @@
+{
+  "_id": "ovmualLd3BJCfPhu",
+  "_key": "!items!ovmualLd3BJCfPhu",
+  "name": "Explorer Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some scholars can't sit still with what's already been mapped. The Explorer studies charts, blueprints, and half-forgotten histories not to file them away, but to push past the last marked coordinate into whatever waits beyond.</p><p>That same restless expertise makes them invaluable guides in the field, reading terrain and hidden danger at a glance and leading companions safely through ground no one else could navigate.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

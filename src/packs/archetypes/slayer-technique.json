@@ -1,0 +1,22 @@
+{
+  "_id": "8iar7fQXuuZtKQHY",
+  "_key": "!items!8iar7fQXuuZtKQHY",
+  "name": "Slayer Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some scouts believe the surest path to victory is understanding: study your enemy long enough, and their strengths become irrelevant next to the weaknesses you've found. Followers of the Slayer Technique turn observation into execution, reading a foe's defenses in an instant and striking exactly where it hurts most.</p><p>Armored and unshaken, a Slayer closes the distance others would avoid, marking a single target and refusing to let it go. What begins as reconnaissance becomes a hunter's bond; the more they study their prey, the more precisely they can end the fight, until even the most fearsome opponent finds itself outmatched by its own exposed flaws.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

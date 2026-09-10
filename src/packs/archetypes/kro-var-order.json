@@ -1,0 +1,22 @@
+{
+  "_id": "eu1Zo9vbdkVAwkNc",
+  "_key": "!items!eu1Zo9vbdkVAwkNc",
+  "name": "Kro Var Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Shapers of the Kro Var Order see no divide between flesh and the four elements, believing true mastery comes from bending water, earth, fire, and air to one's will.</p><p>Their techniques scale from the subtle—a flickering flame conjured to light a path—to the catastrophic, as advanced practitioners learn to summon storms, quakes, and infernos that reshape the very ground of battle.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

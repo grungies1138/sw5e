@@ -1,0 +1,45 @@
+{
+  "_id": "QZFid2Ake0Yzbor3",
+  "_key": "!items!QZFid2Ake0Yzbor3",
+  "name": "Precognition",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Drawing on the Force, you glimpse fragments of what is about to happen. For the duration you cannot be surprised, and you gain advantage on attack rolls, ability checks, and saving throws, while creatures attacking you suffer disadvantage on their attack rolls.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 9",
+    "school": "universal",
+    "level": 9,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "8",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

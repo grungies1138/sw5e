@@ -1,0 +1,22 @@
+{
+  "_id": "7EiKpkLA4A0YRe8f",
+  "_key": "!items!7EiKpkLA4A0YRe8f",
+  "name": "Ruffian Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Ruffian Practice operatives fight like they talk their way out of trouble: fast, loose, and utterly certain of themselves. A duel is just another conversation to them, one settled with a blade instead of words, and they never seem to run out of clever answers.</p><p>Equal parts charm and menace, these operatives thrive in the chaos of close combat, turning every parry and feint into an opportunity to humiliate an opponent as thoroughly as they defeat them.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

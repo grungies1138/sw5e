@@ -1,0 +1,47 @@
+{
+  "_id": "f7L6cOXJctTnOq28",
+  "_key": "!items!f7L6cOXJctTnOq28",
+  "name": "Insurgent",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You stood against the status quo back home, whether that meant scheming merchant lords or an outright oppressive regime, and you made enough noise doing it that leaving became the safer option. Vandalism, leaked documents, secret meetings, or open condemnation &mdash; whatever your method, you built a name for yourself among people the authorities wanted gone.</p><p>You still have contacts in that network, willing to run interference, offer safe passage, or pass along a patrol schedule when you need one.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "per",
+        "ste",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of artisan's implements, disguise kit, or forgery kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Charmer",
+        "Stealthy",
+        "Techie",
+        "Crafter",
+        "Specialist",
+        "Linguist",
+        "Alert"
+      ]
+    },
+    "equipment": "One set of tools in which you are proficient, a set of traveler's clothes, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

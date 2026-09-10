@@ -1,0 +1,24 @@
+{
+  "_id": "jRWbkoVbG02Wp0QO",
+  "_key": "!items!jRWbkoVbG02Wp0QO",
+  "name": "Command Droid",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can seize control of a droid through reprogramming. As an action, touch a droid you can see that is marked by your Ranger's Quarry; it must succeed on an Intelligence saving throw against your tech save DC or become friendly to you and obey your commands until you use this feature on it again. If it succeeds, you can't target it with this feature again for 24 hours.</p><p>More intelligent droids resist better: a target with Intelligence 8 or higher has advantage on the save, and one with Intelligence 12 or higher that fails may repeat the save at the end of every hour until it breaks free.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mechanist Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

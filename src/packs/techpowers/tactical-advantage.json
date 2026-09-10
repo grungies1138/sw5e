@@ -1,0 +1,45 @@
+{
+  "_id": "6INgV6cYdTkh8FZY",
+  "_key": "!items!6INgV6cYdTkh8FZY",
+  "name": "Tactical Advantage",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You choose one willing creature you can see within 30 feet. Until the power ends, the target's speed doubles, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an extra action each turn usable only to Attack (a single weapon attack), Dash, Disengage, Hide, or use an object.</p><p>When the power ends, the target is overcome with lethargy and can take no actions or movement until after its next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "fOUGdJNjkb0D1QpB",
+  "_key": "!items!fOUGdJNjkb0D1QpB",
+  "name": "Scientist",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Nothing excites you more than pushing at the edge of what's known. You've spent far more hours in a lab than most people spend on any single pursuit in their lives, chasing a research question that few others could even follow, let alone answer.</p><p>Whether you left your field voluntarily or were shown the door, your training still shapes how you see every problem: as something that can be understood, if you just have enough data and enough time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "lor",
+        "med",
+        "nat",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "One of your choice"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Loremaster",
+        "Medic",
+        "Naturalist",
+        "Techie",
+        "Crafter",
+        "Linguist",
+        "Tech Dabbler",
+        "Keen Mind"
+      ]
+    },
+    "equipment": "A set of common clothes, a datapad, a book on your field of research, and a pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

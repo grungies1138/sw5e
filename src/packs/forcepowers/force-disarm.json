@@ -1,0 +1,45 @@
+{
+  "_id": "Xz4VXmvi0nrridH6",
+  "_key": "!items!Xz4VXmvi0nrridH6",
+  "name": "Force Disarm",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target a weapon or object held or worn by a Large or smaller creature within range. That creature must succeed on a Strength or Dexterity saving throw, its choice (made with advantage if the item is being carried), or the object is yanked directly to you, landing in your free hand if you have one or at your feet otherwise.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

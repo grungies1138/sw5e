@@ -1,0 +1,24 @@
+{
+  "_id": "g7aWb5NK1X1ok0mm",
+  "_key": "!items!g7aWb5NK1X1ok0mm",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose Persuasion or Intimidation; you gain proficiency in it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Fireteam Specialist (Companion)",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

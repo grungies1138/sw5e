@@ -1,0 +1,24 @@
+{
+  "_id": "oIQ8svJMnYgtN32m",
+  "_key": "!items!oIQ8svJMnYgtN32m",
+  "name": "Fling People",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your grip is strong enough to fling a creature the way you'd fling a weapon: the instant you successfully grapple someone, you may immediately throw them.</p><p><strong>Throw Friend.</strong> If the grappled creature is a willing ally, you hurl them into any open space within 60 feet. They can immediately use their reaction to make one melee weapon attack, adding your Strength modifier to its damage roll.</p><p><strong>Throw Foe.</strong> If the grappled creature is hostile, you hurl them into any open space within 30 feet instead. They take damage equal to your Strength modifier and land prone.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Bloodstorm Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

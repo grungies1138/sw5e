@@ -1,0 +1,25 @@
+{
+  "_id": "F2u00Pvq9a54V5hA",
+  "name": "Targeted Strike",
+  "type": "shipmaneuver",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your ship makes a weapon attack against a target you have marked or already hit this combat, you may expend a Power Die from the Sensors pool and roll it, adding the result to the attack roll.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Operator Disruptions",
+    "deployment": "operator",
+    "rankRequired": 1,
+    "activation": "special",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

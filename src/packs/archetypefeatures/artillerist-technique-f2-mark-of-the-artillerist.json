@@ -1,0 +1,24 @@
+{
+  "_id": "GeLQJCxCvicok6ld",
+  "_key": "!items!GeLQJCxCvicok6ld",
+  "name": "Mark of the Artillerist",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can extend your Ranger's Quarry feature to cover a 10-foot cube within 60 feet that you can see, treating every creature inside as if marked; whenever one of them is hit by a tech attack or fails a save against a damaging tech power you cast, you may apply your Ranger's Quarry damage to it.</p><p>At 11th level, this cube grows to 15 feet on a side.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

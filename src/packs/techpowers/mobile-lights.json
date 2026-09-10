@@ -1,0 +1,45 @@
+{
+  "_id": "EBsPBUtFMUb9ApO3",
+  "_key": "!items!EBsPBUtFMUb9ApO3",
+  "name": "Mobile Lights",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Up to four motes of light spring into being within range and hover there for the duration, or you may merge them into a single vaguely humanoid glow of Medium size. Each mote (or the combined form) sheds dim light in a 10-foot radius.</p><p>As a bonus action, you can shift the lights up to 60 feet to a new location within range; each mote must stay within 20 feet of another, and any that strays beyond the power's range winks out.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

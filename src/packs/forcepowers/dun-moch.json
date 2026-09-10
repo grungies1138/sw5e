@@ -1,0 +1,45 @@
+{
+  "_id": "6L5HTiPGNxSry8GK",
+  "_key": "!items!6L5HTiPGNxSry8GK",
+  "name": "Dun Moch",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You needle a foe with intimidation, provoking it to attack you. One creature you can see within range must succeed on a Wisdom saving throw or be compelled toward you for the duration, gaining disadvantage on attacks against anyone but you and needing to succeed on a Wisdom save each time it tries to move more than 30 feet away from you (a success lets it move freely that turn).</p><p>The power ends early if you attack another creature, cast a power targeting a different hostile creature, if an ally damages or harms the target with a power, or if you end your turn more than 30 feet from it. Droids and constructs are unaffected.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 1",
+    "school": "darkside",
+    "level": 1,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

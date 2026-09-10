@@ -1,0 +1,45 @@
+{
+  "_id": "8XqtrqmMansiFYqm",
+  "_key": "!items!8XqtrqmMansiFYqm",
+  "name": "Force Sight",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your eyes empty of ordinary color as you look upon the world through the Force instead. For the duration you see all living creatures haloed in telltale light — light-siders glow blue, dark-siders glow red, and the unaligned glow yellow, the brightness reflecting the strength of their connection to the Force.</p><p>You also gain blindsight out to 30 feet, and you have advantage on sight-based Wisdom (Perception) checks made against living creatures within that range.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

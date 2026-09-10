@@ -1,0 +1,56 @@
+{
+  "_id": "dnmZcODkWKtrW62w",
+  "name": "Sniper Rifle",
+  "type": "weapon",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>A long-barreled, scope-mounted blaster rifle built for precision fire at extreme range, capable of dropping a target long before they know they're being watched.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 2500,
+      "denomination": "credits"
+    },
+    "weight": 9,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "martial",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d12",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 300,
+      "long": 1200,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed",
+      "heavy"
+    ],
+    "ammo": {
+      "type": "power cell",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

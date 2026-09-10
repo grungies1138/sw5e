@@ -1,0 +1,22 @@
+{
+  "_id": "N2cAY9TrpRi8Pvt2",
+  "name": "Gunning Style",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>You adopt a Gunning Style — Cannoneer, Heavy Gunner, or Payload Delivery — that grants a themed combat benefit matching your preferred weapon category (primary/secondary energy weapons, heavy kinetic weapons, or ordnance respectively). This choice determines which Gunning Mastery becomes available to you at 4th rank.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

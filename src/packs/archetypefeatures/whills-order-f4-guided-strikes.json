@@ -1,0 +1,24 @@
+{
+  "_id": "TpLge7VEbi9EXt15",
+  "_key": "!items!TpLge7VEbi9EXt15",
+  "name": "Guided Strikes",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The first ranged weapon attack and the first melee weapon attack you make each turn deal additional damage equal to your focus ability modifier (minimum +1).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Whills Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

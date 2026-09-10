@@ -1,0 +1,22 @@
+{
+  "_id": "wjLx9eSiIfx1olI2",
+  "_key": "!items!wjLx9eSiIfx1olI2",
+  "name": "Kyuzo Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Kyuzo Order elevates the thrown weapon to high art, drawing inspiration from native kyuzo warriors who wield their war helms as both armor and projectile.</p><p>Trained in this tradition, a monk turns whatever comes to hand into a deadly missile, striking from unexpected angles while standing ready to hurl a blade into the path of danger meant for an ally.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

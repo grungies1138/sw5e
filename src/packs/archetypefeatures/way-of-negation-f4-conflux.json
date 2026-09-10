@@ -1,0 +1,24 @@
+{
+  "_id": "xbYUk6TXI8JiVNMo",
+  "_key": "!items!xbYUk6TXI8JiVNMo",
+  "name": "Conflux",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you use Force Deflection, you can send a ripple of Force energy outward from yourself, dealing force damage equal to half your consular level to up to three creatures of your choice that you can see within 60 feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Negation",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

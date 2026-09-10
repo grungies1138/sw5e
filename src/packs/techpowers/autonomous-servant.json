@@ -1,0 +1,45 @@
+{
+  "_id": "8UKz39wxph14nvYE",
+  "_key": "!items!8UKz39wxph14nvYE",
+  "name": "Autonomous Servant",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch one Tiny, unenhanced, unattended object and animate it into a small servant construct under your control, until the power ends or it drops to 0 hit points. The servant has AC 15, 10 hit points (4d4), a walking speed of 30 feet and a climb speed of 30 feet, vulnerability to ion damage, resistance to necrotic, poison, and psychic damage, immunity to being charmed, deafened, exhausted, or poisoned, and blindsight 60 feet (blind beyond that range). It can make a melee Slam attack (+4 to hit) dealing 1d4 + 3 kinetic damage.</p><p>As a bonus action, you may nonverbally command any servants you control within 120 feet, directing their actions and movement or issuing a simple general task; a servant given no orders defends itself only. When a servant is reduced to 0 hit points, it reverts to its original object, and any excess damage carries over. The servant is a valid target for the tracker droid interface power.</p><p>Cast with a tech slot of 4th level or higher, you animate two additional objects for each slot level above 3rd. The power lasts until the end of your next short or long rest, whichever comes first.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

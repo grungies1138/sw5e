@@ -1,0 +1,45 @@
+{
+  "_id": "vsfYWLaMHV8I6mKd",
+  "_key": "!items!vsfYWLaMHV8I6mKd",
+  "name": "Slow Descent",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a reaction when you or a creature within 60 feet of you begins to fall, you slow the descent of up to five falling creatures within range to 60 feet per round until the power ends. A creature that lands before the power ends takes no falling damage and can land on its feet, and the power ends for that creature.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

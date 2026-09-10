@@ -1,0 +1,24 @@
+{
+  "_id": "gCbRkjd1QX32FYkE",
+  "_key": "!items!gCbRkjd1QX32FYkE",
+  "name": "Battlefront",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you use your Combat Tech feature, you and your turret can each make one weapon attack as part of that same bonus action.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique (Companion)",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

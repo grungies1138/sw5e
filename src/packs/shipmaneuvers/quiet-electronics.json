@@ -1,0 +1,25 @@
+{
+  "_id": "BNJ9xY9ZXJpoI85V",
+  "name": "Quiet Electronics",
+  "type": "shipmaneuver",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, roll your Tech Die. Until the start of your next turn, your ship's electronic signature is suppressed: any Wisdom (Scan) or Intelligence (Probe) check made to detect your ship is made with disadvantage, and the effective range at which your ship can be detected is reduced by the result &times; 50 feet.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Mechanic Techniques",
+    "deployment": "mechanic",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": false,
+    "formula": "@techDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "nRuFTyJw6qQYdGVK",
+  "_key": "!items!nRuFTyJw6qQYdGVK",
+  "name": "Detective Discoveries",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Selecting this pursuit grants access to discoveries shaped by your investigative work. Each time you gain a new discovery, you may take one from the list below instead, given alphabetically.</p><p><strong>Athletic.</strong> Choose a climbing, crawling, or swimming speed equal to your walking speed.</p><p><strong>Brawler Adept</strong> (5th level required). Your unarmed strike damage die steps up once (1 to d4, d4 to d6, or d6 to d8), and your unarmed strikes now count as enhanced for bypassing resistance or immunity to unenhanced attacks and damage.</p><p><strong>Eye for Attire</strong> (5th level required). As an action, you can instantly put on a suit of armor you touch — so long as no hostile creature is wearing or carrying it and you aren't already wearing armor.</p><p><strong>Eye for Detail.</strong> You can take the Search action as a bonus action.</p><p><strong>Ear for Deceit.</strong> On a Wisdom (Insight) check to catch a lie, any d20 roll of 7 or lower is instead treated as an 8.</p><p><strong>Fighting Style.</strong> Choose one fighting style option from Chapter 6 of the Player's Handbook to make your combat specialty.</p><p><strong>Scrapper's Armor</strong> (5th level required). You gain proficiency with medium armor — or, if you already have that proficiency, with heavy armor instead.</p><p><strong>Steady Eye</strong> (9th level required). On your turn, cutting your speed in half grants advantage on Wisdom (Perception) or Intelligence (Investigation) checks made before that turn ends — but only if you haven't already moved more than half your speed this turn.</p><p><strong>Thirst for Justice.</strong> Dropping a hostile creature to 0 hit points without killing it outright grants you temporary hit points equal to your scholar level, lasting 1 minute.</p><p><strong>Unerring Eye</strong> (15th level required). You perceive the true form of any shapechanger or illusion-concealed creature within 30 feet and in your line of sight.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Detective Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

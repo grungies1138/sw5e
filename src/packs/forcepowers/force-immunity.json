@@ -1,0 +1,45 @@
+{
+  "_id": "YYDVgVAPDGDAmQWM",
+  "_key": "!items!YYDVgVAPDGDAmQWM",
+  "name": "Force Immunity",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A faint, immobile shield of Force energy surrounds you for the duration, moving with you as you move. Any force power of 3rd level or lower cast from outside the barrier cannot affect you, even if cast with a higher-level slot; such a power may still target you, but has no effect, and the space within the barrier is likewise excluded from such a power's area.</p><p>Casting this power with a force slot of 5th level or higher raises the blocked power level by one for each slot level beyond 4th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

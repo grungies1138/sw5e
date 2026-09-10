@@ -1,0 +1,24 @@
+{
+  "_id": "KWpFSlYrBZqekjFp",
+  "_key": "!items!KWpFSlYrBZqekjFp",
+  "name": "Unhindered Charge",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you move at least 10 feet before making a melee weapon attack, that attack deals extra damage equal to your Strength modifier.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sokan Form",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

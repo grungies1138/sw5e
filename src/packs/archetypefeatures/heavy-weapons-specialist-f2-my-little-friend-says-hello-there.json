@@ -1,0 +1,24 @@
+{
+  "_id": "rRJq4gRxOl089SoX",
+  "_key": "!items!rRJq4gRxOl089SoX",
+  "name": "My Little Friend Says Hello There",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While wielding a weapon with the heavy or strength property, you may add your Strength modifier to any Charisma (Intimidation) check you make.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Heavy Weapons Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

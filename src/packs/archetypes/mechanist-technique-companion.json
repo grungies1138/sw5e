@@ -1,0 +1,22 @@
+{
+  "_id": "cUjRe7YLMLXCtm8J",
+  "_key": "!items!cUjRe7YLMLXCtm8J",
+  "name": "Mechanist Technique (Companion)",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every Mechanist works through raw techcasting alone; some pour their engineering talent into a single, devoted creation. This variant of the Mechanist Technique bonds the scout to a tracker droid companion, blending superior circuitry with a partner built to scout, sense, and strike alongside them.</p><p>Together, scout and droid compensate for whatever flesh and blood cannot provide, growing more capable with every level as the droid gains new traits and abilities. Where the companion leads, the Mechanist's overwhelming techcasting follows close behind.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

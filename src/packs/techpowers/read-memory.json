@@ -1,0 +1,45 @@
+{
+  "_id": "pKBjQgUT12itdPzc",
+  "_key": "!items!pKBjQgUT12itdPzc",
+  "name": "Read Memory",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You access the stored memory of an incapacitated droid or construct within range, provided its memory core or equivalent components remain intact. Over the next 10 minutes, you may pose up to five questions, and the target answers with whatever visual, audio, or text data it holds relevant to what it witnessed or knows. It cannot invent information it lacks or predict events that have not yet occurred.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 10,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

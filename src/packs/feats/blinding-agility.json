@@ -1,0 +1,30 @@
+{
+  "_id": "PBMiYanOLLO8dVLM",
+  "_key": "!items!PBMiYanOLLO8dVLM",
+  "name": "Blinding Agility",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your reflexes seem to anticipate danger before it arrives.</p><p>You gain proficiency in Dexterity saving throws, or expertise if already proficient. Any weapon you wield that lacks the two-handed or special property counts as having the finesse property for you. Opportunity attacks made against you are made with disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "12th level, Dexterity 20.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

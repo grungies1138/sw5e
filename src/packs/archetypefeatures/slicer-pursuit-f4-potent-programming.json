@@ -1,0 +1,24 @@
+{
+  "_id": "m3E9B9fXlEJWAmoG",
+  "_key": "!items!m3E9B9fXlEJWAmoG",
+  "name": "Potent Programming",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature succeeds on its save against a damaging at-will tech power you cast, it still takes half the power's damage, though it avoids any of the power's other effects.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Slicer Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

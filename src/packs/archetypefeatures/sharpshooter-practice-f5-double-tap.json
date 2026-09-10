@@ -1,0 +1,24 @@
+{
+  "_id": "cF1TAE8hPSwNQy5M",
+  "_key": "!items!cF1TAE8hPSwNQy5M",
+  "name": "Double Tap",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you take the Attack action and would make an attack roll with advantage, you can give up that advantage instead. Doing so lets you make one additional attack, at no action cost, against the same target or another creature within 5 feet of it, and both attacks are eligible for Sneak Attack damage, rather than just the one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Sharpshooter Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

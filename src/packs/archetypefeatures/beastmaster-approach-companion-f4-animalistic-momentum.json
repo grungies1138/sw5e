@@ -1,0 +1,24 @@
+{
+  "_id": "jzB5qKKgpygz16JU",
+  "_key": "!items!jzB5qKKgpygz16JU",
+  "name": "Animalistic Momentum",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your bond with your companion sharpens your instincts together. While it's within 10 feet of you: if either of you has a climbing or swimming speed that the other lacks, the other gains that speed at the same value; if you both already have it, you both instead use the higher of the two speeds, increased by a further 5 feet. Additionally, whenever your companion damages a hostile creature you can see on your turn, that counts as you taking a hostile action for the purpose of keeping your rage active. This range grows to 30 feet at 11th level and 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Beastmaster Approach (Companion)",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

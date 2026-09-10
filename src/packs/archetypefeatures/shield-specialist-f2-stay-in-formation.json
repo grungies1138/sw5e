@@ -1,0 +1,24 @@
+{
+  "_id": "ROoPx4r2KuCQDmA7",
+  "_key": "!items!ROoPx4r2KuCQDmA7",
+  "name": "Stay in Formation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>On your turn, you may take the Guard action as a bonus action.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shield Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

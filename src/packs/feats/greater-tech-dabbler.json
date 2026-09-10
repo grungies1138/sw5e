@@ -1,0 +1,30 @@
+{
+  "_id": "pQOHLogiUKSd18kw",
+  "_key": "!items!pQOHLogiUKSd18kw",
+  "name": "Greater Tech Dabbler",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your technical expertise deepens further. You learn one at-will tech power of your choice. You also learn one 4th-level tech power, which you can cast once without spending tech points, regaining the ability to do so after a long rest. Intelligence is your techcasting ability for these powers, and you need a wristpad to cast them.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "Ability to cast 3rd-level tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

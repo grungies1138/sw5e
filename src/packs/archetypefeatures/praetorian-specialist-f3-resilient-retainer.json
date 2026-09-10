@@ -1,0 +1,24 @@
+{
+  "_id": "JhRhlN9nouKzztmO",
+  "_key": "!items!JhRhlN9nouKzztmO",
+  "name": "Resilient Retainer",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in Persuasion. Additionally, your discipline grants proficiency in Wisdom saving throws &mdash; or, if you already have that proficiency, proficiency in Intelligence or Charisma saving throws instead, your choice.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Praetorian Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "NtWtmRRkvmvJny24",
+  "_key": "!items!NtWtmRRkvmvJny24",
+  "name": "Pull Earthward",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose a creature you can see within range. It must succeed on a Strength save or have its flying speed, if any, drop to 0 feet for the duration. A creature grounded this way while airborne falls at a rate of 60 feet per round until it lands or the power ends.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 300,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

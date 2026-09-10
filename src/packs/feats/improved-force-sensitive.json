@@ -1,0 +1,30 @@
+{
+  "_id": "kcS5dt2XUQ4323T3",
+  "_key": "!items!kcS5dt2XUQ4323T3",
+  "name": "Improved Force-Sensitive",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your connection to the Force grows stronger. You learn one at-will force power of your choice. You also learn one 3rd-level force power, which you can cast once without spending force points, regaining the ability to do so after a long rest. Wisdom or Charisma serves as your forcecasting ability for these powers, depending on each power's alignment.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "Ability to cast 2nd-level force powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

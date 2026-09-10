@@ -1,0 +1,22 @@
+{
+  "_id": "JICl7aeHTmynu40A",
+  "name": "Inspiring Display",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you grant yourself or one crewmate you can communicate with an Inspiring Display die (a d6, increasing to a d8 at 3rd rank, a d10 at 4th rank, and a d12 at 5th rank). Before the end of your next turn, the recipient can roll this die and add or subtract the result from any one d20 roll they make, replacing that roll's original result with the new total if it would help them. The die is expended once used or once the duration ends.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

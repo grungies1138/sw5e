@@ -1,0 +1,25 @@
+{
+  "_id": "YmnUVQbQ0LIH7SPD",
+  "name": "Penetrating Shot",
+  "type": "shipmaneuver",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your ship's weapon attack hits a target, you may expend a Power Die from the Weapons pool and roll it; a second ship directly behind the target and within the weapon's range also takes damage of the same type equal to the result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Gunner Gambits",
+    "deployment": "gunner",
+    "rankRequired": 1,
+    "activation": "special",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "bdwNVgGk7ECrHcmp",
+  "_key": "!items!bdwNVgGk7ECrHcmp",
+  "name": "Stun Dart",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You fire a tiny, crippling dart at a creature within 60 feet. If the target has 150 hit points or fewer, it becomes stunned; otherwise the dart has no effect.</p><p>At the end of each of its turns, the stunned target makes a Constitution saving throw, ending the effect on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 8",
+    "school": "tech",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

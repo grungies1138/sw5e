@@ -1,0 +1,57 @@
+{
+  "_id": "asr6P1l1Q08UnKPN",
+  "name": "Class IV Droid",
+  "type": "species",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Class IV droids are security and combat units, built with reinforced plating, weapon mounts, and combat-processing subroutines optimized for threat assessment and rapid response. Deployed as guards, enforcers, and battlefield units by militaries, corporations, and crime syndicates alike, Class IV droids are engineered to be intimidating first and diplomatic never.</p><p>A Class IV unit that achieves independent agency &mdash; whether through a damaged restraining bolt, a sympathetic owner, or its own initiative &mdash; often puts its considerable combat programming toward causes of its own choosing.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "str",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Binary"
+    ],
+    "traits": [
+      {
+        "name": "Droid Nature",
+        "description": "You do not need to eat, drink, sleep, or breathe. You are immune to disease and to poison damage, and you cannot gain exhaustion from lack of food, water, or rest."
+      },
+      {
+        "name": "Combat Plating",
+        "description": "Your reinforced chassis grants you resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks that don't come from an adamantine weapon."
+      },
+      {
+        "name": "Threat Assessment Subroutines",
+        "description": "Your combat processors are always weighing risk. You have advantage on initiative checks, and you cannot be surprised while active."
+      }
+    ],
+    "isDroid": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "BoTNz9F4xiCWppar",
+  "_key": "!items!BoTNz9F4xiCWppar",
+  "name": "Sovereign Protector",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending a bonus action, you can unlock the full extent of your discipline for 1 minute, gaining all of the following at once:</p><ul><li>Your speed doubles.</li><li>Your Armor Class increases by 2.</li><li>You have advantage on Dexterity saving throws.</li><li>Each of your turns grants you one extra action, usable only to Attack (a single weapon attack), Dash, Disengage, Hide, or Use an Object.</li></ul><p>Being incapacitated or dying ends the effect early. After using this feature you must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Crimson Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "d7ZAhGKVVDZJVf7G",
+  "_key": "!items!d7ZAhGKVVDZJVf7G",
+  "name": "Lesser Mislead",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You vanish from sight as an illusory duplicate of yourself springs up in the space you occupied. The duplicate persists until the end of your next turn, and your invisibility lasts until you attack or cast another power.</p><p>As an action, you can move the duplicate up to your speed and have it speak, gesture, or act as you direct. The duplicate dissolves the instant it is attacked or would take damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

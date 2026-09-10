@@ -1,0 +1,24 @@
+{
+  "_id": "9PYrjc6jtezvtmBV",
+  "_key": "!items!9PYrjc6jtezvtmBV",
+  "name": "Distracting Shot",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When an ally you can see within your weapon's normal range is targeted by a ranged attack, or forced to make a saving throw, and the source of that effect is also within your weapon's normal range, you can use your reaction to fire on the source. On a hit, deal no damage; instead, that attacker has disadvantage on its attack roll against your ally, or your ally gains advantage on the triggering save.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Sharpshooter Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "GCCf8nRX76Gk4jaa",
+  "_key": "!items!GCCf8nRX76Gk4jaa",
+  "name": "Potent Mixtures",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a tech power of 1st level or higher that grants temporary hit points, or deals acid or poison damage, you add your Intelligence modifier (at least +1) to the roll.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biochem Engineering",
+    "className": "Engineer",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

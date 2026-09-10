@@ -1,0 +1,57 @@
+{
+  "_id": "WwaNAoJu1ovgsMJo",
+  "name": "Togruta",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Togruta are a montral-crowned, brightly patterned humanoid species from the plains and forests of Shili, evolved as pack hunters who bring down prey through group tactics and coordinated ambush. A Togruta's hollow head-tails, called montrals, along with their trailing lekku, grant a limited form of echolocation, letting them sense the presence of creatures even without relying on sight.</p><p>Togruta society is built on clan and community, and Togruta rarely fight alone if they can help it, instinctively watching each other's flanks in a fight.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "wis",
+        "value": 2
+      },
+      {
+        "ability": "dex",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Togruti"
+    ],
+    "traits": [
+      {
+        "name": "Pack Hunter",
+        "description": "You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and that ally isn't incapacitated."
+      },
+      {
+        "name": "Montral Echolocation",
+        "description": "Your montrals grant a limited passive echolocation. You have advantage on Wisdom (Perception) checks made to detect creatures within 30 feet of you, even if you cannot see them, so long as the area isn't silenced."
+      },
+      {
+        "name": "Clan Instinct",
+        "description": "You have advantage on Wisdom (Insight) checks made to determine whether a creature intends to betray or abandon a group it has joined."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

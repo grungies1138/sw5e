@@ -1,0 +1,50 @@
+{
+  "_id": "xbxWNJCPp1Wfhks8",
+  "_key": "!items!xbxWNJCPp1Wfhks8",
+  "name": "Shock",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You loose a crackling bolt of Force lightning at a target within range, making a ranged force attack. On a hit, the target takes 1d10 lightning damage, and any flammable object in the area not worn or carried ignites.</p><p>The damage increases to 2d10 at 5th level, 3d10 at 11th level, and 4d10 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "StQG8ycnommulWdI",
+  "_key": "!items!StQG8ycnommulWdI",
+  "name": "Streetwise",
+  "type": "feat",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>You know how the galaxy's underworld actually works, and how to move through it without drawing unwanted attention. You gain proficiency in the Deception and Investigation skills, if you don't already have them, and advantage on Charisma checks made to gather rumors or find black-market goods and services in a settlement.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

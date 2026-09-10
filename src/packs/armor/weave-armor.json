@@ -1,0 +1,35 @@
+{
+  "_id": "7KNivyHnKrlnGaAU",
+  "name": "Weave Armor",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A dense woven plate matrix layered over key impact zones, striking a solid middle ground between medium armor's protection and its added bulk.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 900,
+      "denomination": "credits"
+    },
+    "weight": 18,
+    "equipped": false,
+    "proficient": true,
+    "type": "medium",
+    "armor": {
+      "value": 14,
+      "dex": 2
+    },
+    "strength": null,
+    "stealthDisadvantage": false,
+    "bulky": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

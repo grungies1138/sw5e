@@ -1,0 +1,47 @@
+{
+  "_id": "zRTD0g4fuzQnihH3",
+  "_key": "!items!zRTD0g4fuzQnihH3",
+  "name": "Office Worker",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You spent years inside the bureaucratic machinery of a government agency or a private enterprise, learning its rules, its regulations, and exactly which of them nobody actually enforces. Whatever you think of the systems you worked in, you function well within structure, and you still know how to navigate a chain of command.</p><p>You still keep contacts in that world, and you know exactly whose desk the real power in an office sits behind &mdash; it's rarely the one with the biggest title.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "inv",
+        "lor",
+        "prc"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Investigator",
+        "Loremaster",
+        "Perceptive",
+        "Competitor",
+        "Linguist",
+        "Feigned Confidence",
+        "Snappy Interjection"
+      ]
+    },
+    "equipment": "A set of common clothes, an expired data cylinder, a gaming set of your choice, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

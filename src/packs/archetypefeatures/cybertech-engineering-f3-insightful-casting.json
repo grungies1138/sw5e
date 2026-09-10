@@ -1,0 +1,24 @@
+{
+  "_id": "GCV6RbLpWKr9Tf66",
+  "_key": "!items!GCV6RbLpWKr9Tf66",
+  "name": "Insightful Casting",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can convert between your two resources.</p><p><strong>Creating Tech Points.</strong> As a bonus action, you may turn a single use of your Potent Aptitude into two tech points; these can push you above your normal maximum, but any created this way vanish once you finish a short rest.</p><p><strong>Creating Potent Aptitude.</strong> As a bonus action, you may spend two tech points to gain one use of your Potent Aptitude.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Cybertech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

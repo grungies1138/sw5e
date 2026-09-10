@@ -1,0 +1,45 @@
+{
+  "_id": "dlzVdKyI2QjYos5M",
+  "_key": "!items!dlzVdKyI2QjYos5M",
+  "name": "Force Weapon",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a weapon you're proficient with but that isn't already enhanced. While you wield it for the duration, it counts as an enhanced weapon that grants a +1 bonus to its attack and damage rolls, and you may substitute your forcecasting ability modifier for Strength or Dexterity when attacking with it.</p><p>Cast with a 5th-level slot, the bonus becomes +2; cast with a 7th-level slot or higher, it becomes +3.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 3",
+    "school": "universal",
+    "level": 3,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

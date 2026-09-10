@@ -1,0 +1,24 @@
+{
+  "_id": "9ClNaC67hYRHB1mU",
+  "_key": "!items!9ClNaC67hYRHB1mU",
+  "name": "Modified Lightsaber",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Over a long rest, using artificer's implements, you can rework an unenhanced lightsaber into your own creation. It becomes an enhanced item usable only by you, requires attunement, and serves as a tech focus for your tech powers while attuned. It starts with 4 modification slots, gaining more at higher levels per the engineer table's Modification Slots column. Each modification installed beyond your proficiency bonus reduces your tech point maximum by 1. During a long rest you may install, swap, or remove modifications up to your Intelligence modifier (minimum one), and any effect requiring a save uses your tech save DC.</p><p>At 9th level, you can maintain two differently modified lightsabers at once, splitting your total modification slots between them.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artificer Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

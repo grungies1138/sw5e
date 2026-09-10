@@ -1,0 +1,30 @@
+{
+  "_id": "W6xKio8Z2fliKhjB",
+  "_key": "!items!W6xKio8Z2fliKhjB",
+  "name": "Fanatic",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Landing a telling blow only fuels you further. Whenever you score a critical hit or reduce a creature to 0 hit points, you may immediately make one weapon attack as a bonus action.</p><p>Additionally, whenever a creature within 30 feet that you can see drops to 0 hit points, you surge with fervor and gain temporary hit points equal to 1d4 plus your Constitution modifier.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

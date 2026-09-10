@@ -1,0 +1,45 @@
+{
+  "_id": "virfzMc8L3ZGa9Gc",
+  "_key": "!items!virfzMc8L3ZGa9Gc",
+  "name": "Master Force Immunity",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A faintly shimmering, 10-foot-radius barrier springs up around you and travels with you, centered on your position, for the duration. Within it, powers cannot be cast and enhanced items become ordinary. Powers and other enhanced effects already active on a creature or object inside the sphere are suppressed while they remain there, and no enhanced effect can extend into the sphere from outside; a slot spent to cast a power that is suppressed this way is still consumed, and suppressed time still counts against an effect's duration.</p><p>Enhanced weapons and ammunition lose their bonuses and special properties while used against a target inside the sphere or while wielded by an attacker inside it, regaining them the instant they fully leave the sphere. Teleportation and portals fail to function while either endpoint lies within the sphere. A creature or object summoned or created by a power winks out of existence if it would occupy space inside the sphere, reappearing once that space is no longer enclosed. Powers and effects such as tech override or sever force have no effect on the sphere itself, and overlapping spheres from other such powers do not cancel one another.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 8",
+    "school": "universal",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "u7CZjzgNsrtByIQo",
+  "_key": "!items!u7CZjzgNsrtByIQo",
+  "name": "Jet of Flame",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A small flame flickers into being in your hand, harmless to you and your gear, shedding bright light out to 10 feet and dim light 10 feet beyond; it lasts for the duration until you dismiss it as an action or cast the power again.</p><p>You may instead hurl the flame at a creature within 30 feet, ending the power in the process—either immediately upon casting or later as an action. Make a ranged tech attack; a hit deals 1d8 fire damage and ignites unattended flammable material nearby.</p><p>This power's damage rises to 2d8 at 5th level, 3d8 at 11th level, and 4d8 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

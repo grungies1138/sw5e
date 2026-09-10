@@ -1,0 +1,45 @@
+{
+  "_id": "ZJCxgfnW3njbgo1A",
+  "_key": "!items!ZJCxgfnW3njbgo1A",
+  "name": "Force Project",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure an intangible, illusory double of yourself that lasts for the duration, appearing anywhere you have previously seen regardless of intervening obstacles. It looks and sounds exactly like you, replicating your mannerisms, but disappears, ending the power, if it takes any damage.</p><p>As an action, you may move the double up to twice your speed and direct its speech and gestures however you like. You perceive through its senses as though standing in its space, and as a bonus action on your turn you may swap between its senses and your own; while using the double's senses you are blinded and deafened to your own surroundings.</p><p>Physical contact passes through the double, revealing the illusion, and a creature that spends its action examining it can identify it as an illusion with a successful Intelligence (Investigation) check against your force save DC, after which the creature sees through it and hears its sounds as hollow.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 7",
+    "school": "universal",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

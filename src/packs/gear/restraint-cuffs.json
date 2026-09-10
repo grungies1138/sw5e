@@ -1,0 +1,29 @@
+{
+  "_id": "I1umllOFgLlQkCtj",
+  "name": "Restraint Cuffs",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>A pair of high-tensile binders that clamp shut around the wrists and resist all but the most determined escape attempts, standard issue for law enforcement and bounty hunters alike.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 15,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

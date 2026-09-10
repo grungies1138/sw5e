@@ -1,0 +1,50 @@
+{
+  "_id": "v01Ojma0xGXtXy9B",
+  "_key": "!items!v01Ojma0xGXtXy9B",
+  "name": "Incendiary Cloud",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Centered on a point within range, a 20-foot-radius sphere of smoke and burning embers billows into being, spreading around corners and heavily obscuring its area; it persists for the duration or until winds of at least 10 miles per hour scatter it. Every creature inside when it forms, or that enters or ends its turn there afterward, must make a Dexterity saving throw, taking 10d8 fire damage on a failure or half as much on a success.</p><p>At the start of each of your turns, the cloud drifts 10 feet in a direction you choose, away from you.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 8",
+    "school": "tech",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "10d8",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

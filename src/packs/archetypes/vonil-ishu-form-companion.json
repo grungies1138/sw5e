@@ -1,0 +1,22 @@
+{
+  "_id": "iIFrjGZHJRJs00CV",
+  "_key": "!items!iIFrjGZHJRJs00CV",
+  "name": "Vonil/Ishu Form (Companion)",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>This version of Vonil/Ishu forgoes a party member for a bonded partner of the guardian's own making — a warpair built from the ground up rather than assembled out of whoever happens to be standing nearby. The two move, strike, and shield each other with a familiarity no improvised alliance can match.</p><p>Where the standard Unity Form adapts to whichever ally is at hand, this variant is built entirely around one specific companion, letting guardian and partner refine their teamwork over time into something closer to a single fighter with two bodies.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

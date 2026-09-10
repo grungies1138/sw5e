@@ -1,0 +1,24 @@
+{
+  "_id": "mr9D83s20mwANCjh",
+  "_key": "!items!mr9D83s20mwANCjh",
+  "name": "Improved Techcasting",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your command of techcasting grows substantially more powerful.</p><p><strong>Improved Tech Powers Known.</strong> You know 7 tech powers of your choice rather than 5, learning more at higher levels per the Tech Powers Known column of the Mechanist Technique Techcasting table. You still can't learn a tech power above your Max Power Level.</p><p><strong>Improved Tech Points.</strong> Your tech points equal one and a half times your scout level (per the Tech Points column of the Mechanist Technique Techcasting table) rather than your scout level alone, plus your Intelligence modifier. You spend these to cast tech powers, and regain them all on finishing a short or long rest.</p><p><strong>Improved Max Power Level.</strong> Your Max Power Level starts at 2nd instead of 1st, rising further at higher levels per the Mechanist Technique Techcasting table.</p><p>You can cast a 5th, 6th, or 7th-level tech power only once between long rests, rather than a 4th- or 5th-level one, regaining that ability after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mechanist Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

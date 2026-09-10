@@ -1,0 +1,22 @@
+{
+  "_id": "kfc7nXrOWdRPjfWY",
+  "_key": "!items!kfc7nXrOWdRPjfWY",
+  "name": "Juggernaut",
+  "type": "archetype",
+  "img": "icons/svg/skull.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Juggernaut archetype is a Berserker who has stopped trying to avoid damage at all, instead learning to absorb and redirect it. Where other Berserkers dance around the edges of a brawl, the Juggernaut wades to its center and stays there, becoming an immovable wall of muscle, durasteel plating, and unrelenting momentum that enemy fire simply cannot bring down fast enough.</p><p>Juggernauts gain the ability to shrug off conditions that would stagger a lesser warrior, convert incoming punishment into fuel for their rage, and physically bully their way through enemy lines — dragging the fight to wherever they happen to be standing.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

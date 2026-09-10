@@ -1,0 +1,47 @@
+{
+  "_id": "rSeYjbOGZd2CcAqT",
+  "_key": "!items!rSeYjbOGZd2CcAqT",
+  "name": "Holonet Technician",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You kept the holonet running, whether on the payroll of a corporation, a government, or a syndicate that preferred its work stay off the books. That access meant you saw more of the traffic passing through the network than you were ever supposed to.</p><p>You still hold the codes to at least one distributor station, and tuning in on the right day can turn up information nobody meant to broadcast that widely.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "inv",
+        "ste",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "Choose two from mechanic's kit, security kit, and slicer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Investigator",
+        "Stealthy",
+        "Techie",
+        "Specialist",
+        "Keen Mind",
+        "Practiced",
+        "Tech Dabbler"
+      ]
+    },
+    "equipment": "A set of common clothes, an old transceiver antenna, two tools of your choice, and a belt pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

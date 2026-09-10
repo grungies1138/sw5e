@@ -1,0 +1,22 @@
+{
+  "_id": "gCrg4P90HzdHPrVT",
+  "name": "Ship Technician",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with mechanic's tools if you don't already have it, and you add double your proficiency bonus to any Intelligence (Mechanics) check you make involving your ship's systems.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

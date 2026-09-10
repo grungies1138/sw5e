@@ -1,0 +1,30 @@
+{
+  "_id": "nzj0uqc4woKQcxtf",
+  "_key": "!items!nzj0uqc4woKQcxtf",
+  "name": "Unnatural Resilience",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your constitution is the stuff of legend.</p><p>You become proficient in Constitution saving throws; if you already had that proficiency, you gain expertise in it instead.</p><p>When an enhanced healing effect — such as a power or a medpac — would restore hit points to you, it restores no less than half your character level plus your Constitution modifier; if that minimum would exceed the maximum the effect could otherwise restore, you instead recover that effect's normal maximum.</p><p>You can add your Constitution modifier to death saving throws you make.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "12th level, Constitution 20.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

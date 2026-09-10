@@ -1,0 +1,44 @@
+{
+  "_id": "Pcc41Va9ZKywqAl4",
+  "name": "Tractor Beam Projector",
+  "type": "starshipweapon",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>A specialized utility weapon that projects a gravitic beam to seize and hold a target ship rather than damage it &mdash; a successful hit imposes the grappled condition on the target instead of dealing a damage roll, dragging its speed to zero until it breaks free or the beam is released.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 5000,
+      "denomination": "credits"
+    },
+    "category": "secondary",
+    "hardpoint": "turret",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": []
+    },
+    "range": {
+      "value": 1000,
+      "long": 2000,
+      "units": "ft"
+    },
+    "properties": [
+      "spc"
+    ],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

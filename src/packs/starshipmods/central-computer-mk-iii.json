@@ -1,0 +1,30 @@
+{
+  "_id": "2La4p6GyAS1uWR6p",
+  "name": "Central Computer Mk III",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>A military-spec computer core with hardened logic circuits resistant to ionizing interference, keeping the ship's critical systems synchronized even under sustained fire.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 22000,
+      "denomination": "credits"
+    },
+    "category": "universal",
+    "grade": 3,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

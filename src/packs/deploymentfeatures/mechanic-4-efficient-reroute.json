@@ -1,0 +1,22 @@
+{
+  "_id": "bGsQhaTev8tbuXhY",
+  "name": "Efficient Reroute",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you use Reroute Power, only one of the two non-favored systems suffers its usual penalty (your choice, made when you activate the feature) instead of both.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

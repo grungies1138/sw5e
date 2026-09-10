@@ -1,0 +1,24 @@
+{
+  "_id": "KzJbUySxQ8k6XCWC",
+  "_key": "!items!KzJbUySxQ8k6XCWC",
+  "name": "Luck of the Fool",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you would make an ability check, attack roll, or saving throw with disadvantage, you may spend 2 focus points to have advantage on it instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Trickster Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

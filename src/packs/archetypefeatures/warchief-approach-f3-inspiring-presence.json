@@ -1,0 +1,24 @@
+{
+  "_id": "eG5Cb1U1R1U1k4oM",
+  "_key": "!items!eG5Cb1U1R1U1k4oM",
+  "name": "Inspiring Presence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you rage, choose up to three allies you can see within 30 feet; each gains temporary hit points equal to half your berserker level plus your Charisma modifier (minimum +1).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Warchief Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

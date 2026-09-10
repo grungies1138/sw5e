@@ -1,0 +1,24 @@
+{
+  "_id": "l4oZE8OXdsFfTnsD",
+  "_key": "!items!l4oZE8OXdsFfTnsD",
+  "name": "Skilled Grappler",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When an unarmed strike against a creature you're grappling deals Sneak Attack damage, you can give up two of those dice to pull off a grappling technique instead. The save DC for these is 8 plus your proficiency bonus plus your Strength modifier.</p><p><strong>Constrict.</strong> The target attempts a Constitution save or is restrained until the end of your next turn. If you sustain the hold for a full minute, the target instead falls unconscious for an hour, though droids and constructs are immune to being knocked out this way.</p><p><strong>Disarm.</strong> The target attempts a Strength save or drops the object it's holding; you catch it if your hand is free, otherwise it lands at your feet.</p><p><strong>Hip Toss.</strong> The target attempts a Dexterity save or is shoved back 5 feet, knocked prone, and stunned until the start of your next turn, and the grapple ends.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Disabling Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

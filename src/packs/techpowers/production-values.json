@@ -1,0 +1,45 @@
+{
+  "_id": "MGjNRruPYUqfpRlB",
+  "_key": "!items!MGjNRruPYUqfpRlB",
+  "name": "Production Values",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You create a minor sensory effect within range. Choose one: your voice booms up to three times its normal volume for 1 minute, and you may reshape its tone to suit your purpose; unenhanced electric lights flicker, brighten, dim, or shift color for 1 minute; harmless tremors shake the ground for 1 minute; a sound of your choosing, from a whisper to a scream, plays within range for up to 1 minute; an unlocked door or window instantly flies open or slams shut; the appearance of your eyes changes for 1 minute; or an illusory image of an object no larger than a 5-foot cube appears, purely visual in nature.</p><p>Casting this power repeatedly lets you sustain up to three of its 1-minute effects at once, any of which you may dismiss as an action. A creature that witnesses an effect may spend its action on an Intelligence (Investigation) check against your tech save DC to recognize it as illusory, after which the effect appears faint to that creature.</p><p>The maximum number of simultaneous effects rises to 6 at 5th level, 9 at 11th level, and 12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

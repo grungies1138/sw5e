@@ -1,0 +1,22 @@
+{
+  "_id": "SvldXmNH6A0BMSKN",
+  "name": "Cunning Avoidance",
+  "type": "deploymentFeature",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, when your ship would make a saving throw or an attacker would determine your ship's Armor Class, you can substitute a Dexterity (Maneuvering) check result you rolled this round in place of the saving throw or in place of your ship's Armor Class for that attack.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Pilot",
+    "deployment": "pilot",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

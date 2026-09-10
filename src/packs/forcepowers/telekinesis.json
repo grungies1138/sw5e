@@ -1,0 +1,45 @@
+{
+  "_id": "n8oLiIaU8cDZwgVe",
+  "_key": "!items!n8oLiIaU8cDZwgVe",
+  "name": "Telekinesis",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain the ability to move creatures and objects with your mind. When you cast this power, and as your action on each subsequent turn for the duration, you exert your will on one creature or object you can see within range; you can retarget to a new creature or object at any time, releasing your prior target.</p><p>Creature: you can attempt to move a Huge or smaller creature, which must succeed on a Strength saving throw or be moved up to 30 feet in any direction (including upward), within the power's range, and restrained in your telekinetic grip until the end of your next turn; a creature suspended aloft simply hangs there. On later rounds you can use your action to try to maintain your grip by repeating the save.</p><p>Object: you can move an unattended object weighing up to 2,500 pounds up to 30 feet in any direction within range, and can exert fine manipulation, such as operating a simple device, opening a door or container, or pouring out a vial's contents.</p><p>When cast using a force slot of 6th level or higher, the maximum object weight increases by 2,500 pounds for each slot level above 5th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

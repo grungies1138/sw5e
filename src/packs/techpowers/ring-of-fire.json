@@ -1,0 +1,50 @@
+{
+  "_id": "IcQ9jj78XsNHvSNa",
+  "_key": "!items!IcQ9jj78XsNHvSNa",
+  "name": "Ring of Fire",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Flames burst from the ground around you, forming a ring 15 feet in radius and 10 feet tall. A creature that starts its turn within the ring or passes through it during its turn takes 1d6 fire damage. A creature inside the ring who tries to push through the flames to leave must first succeed on a Wisdom saving throw, though anything immune to fear or fire passes automatically.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 2nd level or higher, the fire damage increases by 1d6 for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "QPc5zhehfCP7XZZu",
+  "_key": "!items!QPc5zhehfCP7XZZu",
+  "name": "Maximum Output",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Attack action while wielding a weapon with the heavy or strength property, you may give up one or more of your attacks. Doing so means the next time you deal damage with that weapon before the start of your next turn, you add extra damage of the weapon's own damage type &mdash; 1d12 plus half your fighter level for each attack given up. If that hit would affect multiple creatures, apply the bonus damage to only one of them.</p><p>If your first attack roll before the end of your next turn misses, or a target succeeds on the save against your weapon's burst or rapid property, you deal only the weapon's normal damage instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Heavy Weapons Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

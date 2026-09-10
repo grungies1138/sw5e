@@ -1,0 +1,57 @@
+{
+  "_id": "HIw1evPFVC11CU1A",
+  "name": "Chiss",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Chiss are a blue-skinned, red-eyed humanoid species from the Unknown Regions world of Csilla, renowned for their rigorous military culture, tactical brilliance, and unnervingly cool demeanor under pressure. Raised within the disciplined structure of the Chiss Ascendancy, Chiss are trained from childhood to observe, calculate, and act with ruthless efficiency.</p><p>Their eyes, adapted to the dim red sun of their homeworld, see clearly into the infrared spectrum, letting them track heat signatures in total darkness.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "int",
+        "value": 2
+      },
+      {
+        "ability": "dex",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Cheunh"
+    ],
+    "traits": [
+      {
+        "name": "Infrared Vision",
+        "description": "Your eyes perceive heat as well as light. Your darkvision functions even through smoke, fog, or other heavily obscuring effects that do not block infrared radiation, at the GM's discretion."
+      },
+      {
+        "name": "Disciplined Mind",
+        "description": "You have advantage on saving throws against being charmed or frightened, a product of rigorous Chiss military conditioning."
+      },
+      {
+        "name": "Tactical Mind",
+        "description": "You are proficient in the Investigation skill, and you add double your proficiency bonus, instead of your normal proficiency bonus, to Intelligence (Investigation) checks made to analyze a battlefield or an enemy's tactics."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

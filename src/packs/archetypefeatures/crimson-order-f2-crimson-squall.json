@@ -1,0 +1,24 @@
+{
+  "_id": "okofmKSLYDDGvr4W",
+  "_key": "!items!okofmKSLYDDGvr4W",
+  "name": "Crimson Squall",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>By spending a bonus action and 1 focus point while holding a monk weapon, you turn the ground within 5 feet of yourself into difficult terrain for hostile creatures for 1 minute. The zone moves along with you, and any hostile creature caught inside it is unable to make opportunity attacks.</p><p>The radius of this effect grows to 15 feet at 11th level and to 30 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Crimson Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

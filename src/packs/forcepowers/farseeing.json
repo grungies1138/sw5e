@@ -1,0 +1,45 @@
+{
+  "_id": "lEmD1ZWf4ggunxtk",
+  "_key": "!items!lEmD1ZWf4ggunxtk",
+  "name": "Farseeing",
+  "type": "power",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>You open your mind to the currents of the Force, sensing danger before it arrives. For the duration, you have advantage on Wisdom (Perception) checks made to sense your surroundings, and you can't be surprised while conscious.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, At-Will",
+    "school": "lightside",
+    "level": 0,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

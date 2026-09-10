@@ -1,0 +1,22 @@
+{
+  "_id": "2tVHDrxIVOPzxfL1",
+  "name": "Supreme Boost",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per short or long rest, as an action, you cause your ship's reactor to immediately produce a number of power dice equal to the result of your Tech Die; any dice produced beyond the ship's storage capacity instead deal hull damage equal to one Hull Die plus the ship's Strength modifier, unless the ship's Constitution (Regulation) check meets or exceeds 10 plus the Tech Die result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "DRyiecKWzg4okaeu",
+  "_key": "!items!DRyiecKWzg4okaeu",
+  "name": "Spirit Blade Assault",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you form a blade of spectral energy and strike a creature within 5 feet of you, spending between 1 and 10 focus points to fuel the blow. The target must succeed on a Constitution saving throw against your focus save DC or take 2d10 necrotic damage per focus point spent (half as much on a success).</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Nightsister Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

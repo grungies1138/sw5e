@@ -1,0 +1,45 @@
+{
+  "_id": "yEU7qfwDrrFQbMhJ",
+  "_key": "!items!yEU7qfwDrrFQbMhJ",
+  "name": "Enhance Droid",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a droid or construct and enhance one of its systems, choosing one of the following benefits, which lasts until the power ends:</p><p><strong>Servomotor.</strong> Advantage on Strength checks and doubled carrying capacity.</p><p><strong>Motivator.</strong> Advantage on Dexterity checks, and immunity to falling damage from falls of 20 feet or less while not incapacitated.</p><p><strong>Power Core.</strong> Advantage on Constitution checks and 2d6 temporary hit points, lost when the power ends.</p><p><strong>Databanks.</strong> Advantage on Intelligence checks.</p><p><strong>Sensors.</strong> Advantage on Wisdom checks.</p><p><strong>Relations Protocols.</strong> Advantage on Charisma checks.</p><p>Cast with a tech slot of 3rd level or higher, you can affect one additional droid or construct for each slot level above 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,49 @@
+{
+  "_id": "dOcLNtawBg4g1GrN",
+  "name": "Cluster Mine Dispenser",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>Ejects a spread of proximity-fused mines into the ship's wake, each drifting roughly 100 feet per round until it finds a target or its charge decays. Effective for denying pursuit through an asteroid field or debris cloud.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 1700,
+      "denomination": "credits"
+    },
+    "category": "quaternary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "range": {
+      "value": 500,
+      "long": 1000,
+      "units": "ft"
+    },
+    "properties": [
+      "exp"
+    ],
+    "ammo": {
+      "value": 6,
+      "max": 6
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

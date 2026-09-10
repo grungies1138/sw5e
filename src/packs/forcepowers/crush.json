@@ -1,0 +1,50 @@
+{
+  "_id": "YyA7KaNbgkmy4ufB",
+  "_key": "!items!YyA7KaNbgkmy4ufB",
+  "name": "Crush",
+  "type": "power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You close an invisible fist around a creature's body and squeeze. The target must make a Constitution saving throw, taking 6d8 force damage on a failed save, or half as much damage on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 4",
+    "school": "darkside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "6d8",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

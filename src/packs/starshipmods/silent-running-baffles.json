@@ -1,0 +1,30 @@
+{
+  "_id": "UePrlvo4Z2ifKemI",
+  "name": "Silent Running Baffles",
+  "type": "starshipmod",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>Thermal and acoustic dampening plating that can be activated once per encounter to impose disadvantage on enemy attempts to detect the ship via passive scan.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 3800,
+      "denomination": "credits"
+    },
+    "category": "operation",
+    "grade": 2,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

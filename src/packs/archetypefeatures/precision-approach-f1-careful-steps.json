@@ -1,0 +1,24 @@
+{
+  "_id": "xgMX6568h4RGttyw",
+  "_key": "!items!xgMX6568h4RGttyw",
+  "name": "Careful Steps",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in your choice of Acrobatics or Stealth, and while raging you have advantage on checks made with whichever skill you picked.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Precision Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

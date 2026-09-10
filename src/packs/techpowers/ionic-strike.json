@@ -1,0 +1,50 @@
+{
+  "_id": "lXpOaL7e5mJxkgOp",
+  "_key": "!items!lXpOaL7e5mJxkgOp",
+  "name": "Ionic Strike",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action spent casting this power, you make a melee weapon attack against a creature within reach; the power fails without a hit. On a hit, the attack's normal effects apply, and the target becomes wreathed in ionic charge: if it willingly takes a reaction before the start of your next turn, it immediately takes 1d6 ion damage and the power ends.</p><p>At 5th level, the melee attack itself deals an extra 1d6 ion damage, and the reaction-triggered damage rises to 2d6; both increase by another 1d6 at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "ion"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

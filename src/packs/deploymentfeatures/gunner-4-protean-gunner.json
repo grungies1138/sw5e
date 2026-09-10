@@ -1,0 +1,22 @@
+{
+  "_id": "Ks2tHyASvdiPxJvL",
+  "name": "Protean Gunner",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can switch which Gunning Style benefit is active for you at the start of each of your turns, rather than being locked into a single style, letting you adapt to whichever weapon the moment calls for.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

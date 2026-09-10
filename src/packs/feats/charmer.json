@@ -1,0 +1,32 @@
+{
+  "_id": "qSRm3ISCcL5zdfR6",
+  "_key": "!items!qSRm3ISCcL5zdfR6",
+  "name": "Charmer",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have refined the art of winning people over. Increase your Charisma score by 1, to a maximum of 20.</p><p>You gain proficiency in the Persuasion skill, or expertise if already proficient. After conversing with someone who understands you for at least 1 minute, you may make a Charisma (Persuasion) check opposed by the target's Wisdom (Insight) check (this check automatically fails if you or your allies are fighting the creature). Success charms the target for as long as it stays within 60 feet of you, plus 1 minute after it leaves that range.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

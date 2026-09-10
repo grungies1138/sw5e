@@ -1,0 +1,32 @@
+{
+  "_id": "hVOwoQOxdzOHVC7C",
+  "_key": "!items!hVOwoQOxdzOHVC7C",
+  "name": "Silver-Tongued",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've refined your ability to mislead others in conversation. Increase your Charisma score by 1, to a maximum of 20.</p><p>You gain proficiency in the Deception skill, or expertise in it if you're already proficient. When you take the Attack action, you may forgo one attack to try to deceive a humanoid within 30 feet who can see and hear you, making a Charisma (Deception) check contested by its Wisdom (Insight) check. If you succeed, your movement doesn't provoke opportunity attacks from that target and your attacks against it have advantage, both lasting until the end of your next turn or until you use this ability on someone else. If you fail, that target can't be fooled by this ability again for 1 hour.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

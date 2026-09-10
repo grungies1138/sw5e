@@ -1,0 +1,228 @@
+<section class="wizard-body">
+
+  {{#if showAbilityScores}}
+  <fieldset class="wizard-section">
+    <legend>{{sw5eLabel 'SW5E.WizardAbilityScores'}}</legend>
+    <div class="wizard-row method-row">
+      <label><input type="radio" name="abilityMethod" value="manual" {{#if (sw5eEq state.abilityMethod "manual")}}checked{{/if}}> {{sw5eLabel 'SW5E.WizardMethodManual'}}</label>
+      <label><input type="radio" name="abilityMethod" value="standardArray" {{#if (sw5eEq state.abilityMethod "standardArray")}}checked{{/if}}> {{sw5eLabel 'SW5E.WizardMethodStandardArray'}}</label>
+      <label><input type="radio" name="abilityMethod" value="pointBuy" {{#if (sw5eEq state.abilityMethod "pointBuy")}}checked{{/if}}> {{sw5eLabel 'SW5E.WizardMethodPointBuy'}}</label>
+    </div>
+
+    {{#if (sw5eEq state.abilityMethod "manual")}}
+    <div class="wizard-grid abilities-grid">
+      {{#each config.abilities as |a key|}}
+      <label>{{sw5eLabel a.label}} <input type="number" name="abilities.{{key}}" value="{{lookup ../state.abilities key}}"></label>
+      {{/each}}
+    </div>
+    {{/if}}
+
+    {{#if (sw5eEq state.abilityMethod "standardArray")}}
+    <p class="hint">{{sw5eLabel 'SW5E.WizardStandardArrayHint'}}</p>
+    <div class="wizard-grid abilities-grid">
+      {{#each config.abilities as |a key|}}
+      <label>{{sw5eLabel a.label}}
+        <select name="standardArray.{{key}}">
+          <option value="">-</option>
+          {{#each ../standardArrayValues as |v|}}
+          <option value="{{v}}" {{#if (sw5eEq (lookup ../../state.standardArray key) (concat v ""))}}selected{{/if}}>{{v}}</option>
+          {{/each}}
+        </select>
+      </label>
+      {{/each}}
+    </div>
+    {{/if}}
+
+    {{#if (sw5eEq state.abilityMethod "pointBuy")}}
+    <p class="hint">{{sw5eLabel 'SW5E.WizardPointBuyHint'}} — {{pointBuySpent}} / {{pointBuyBudget}}</p>
+    <div class="wizard-grid abilities-grid">
+      {{#each config.abilities as |a key|}}
+      <label>{{sw5eLabel a.label}} <input type="number" name="abilities.{{key}}" min="8" max="15" value="{{lookup ../state.abilities key}}"></label>
+      {{/each}}
+    </div>
+    {{/if}}
+  </fieldset>
+  {{/if}}
+
+  {{#if showSpecies}}
+  <fieldset class="wizard-section">
+    <legend>{{sw5eLabel 'SW5E.Species'}}</legend>
+    <select name="speciesUuid">
+      <option value="">{{sw5eLabel 'SW5E.WizardChoose'}}</option>
+      {{#each speciesOptions as |s|}}
+      <option value="{{s.uuid}}" {{#if (sw5eEq ../state.speciesUuid s.uuid)}}selected{{/if}}>{{s.name}}{{#if s.system.restricted}} ({{sw5eLabel 'SW5E.Restricted'}}){{/if}}</option>
+      {{/each}}
+    </select>
+    {{#if selectedSpecies}}
+    <div class="wizard-preview">
+      <p>{{sw5eLabel 'SW5E.AbilityBonuses'}}: {{sw5eAbilityBonuses selectedSpecies.system.abilityBonuses}}</p>
+      <p>{{sw5eLabel 'SW5E.Speed'}}: {{selectedSpecies.system.speed.walk}} ft{{#if selectedSpecies.system.speed.fly}}, {{sw5eLabel 'SW5E.SpeedFly'}} {{selectedSpecies.system.speed.fly}} ft{{/if}}</p>
+      <p>{{sw5eLabel 'SW5E.Languages'}}: {{sw5eJoin selectedSpecies.system.languages}}</p>
+    </div>
+    {{/if}}
+  </fieldset>
+  {{/if}}
+
+  {{#if showBackground}}
+  <fieldset class="wizard-section">
+    <legend>{{sw5eLabel 'SW5E.Background'}}</legend>
+    <select name="backgroundUuid">
+      <option value="">{{sw5eLabel 'SW5E.WizardChoose'}}</option>
+      {{#each backgroundOptions as |b|}}
+      <option value="{{b.uuid}}" {{#if (sw5eEq ../state.backgroundUuid b.uuid)}}selected{{/if}}>{{b.name}}</option>
+      {{/each}}
+    </select>
+    {{#if selectedBackground}}
+    <div class="wizard-preview">
+      <p class="hint">{{sw5eLabel 'SW5E.WizardChooseSkills'}} ({{selectedBackground.system.skillProficiencies.number}})</p>
+      <div class="wizard-checkrow">
+        {{#each bgSkillOptions as |o|}}
+        <label><input type="checkbox" name="bgSkill.{{o.code}}" {{#if (lookup ../state.bgSkill o.code)}}checked{{/if}}> {{o.label}}</label>
+        {{/each}}
+      </div>
+      {{#if selectedBackground.system.grantedFeat.number}}
+      <p class="hint">{{sw5eLabel 'SW5E.WizardChooseFeat'}} ({{selectedBackground.system.grantedFeat.number}})</p>
+      <div class="wizard-checkrow">
+        {{#each bgFeatOptions as |o|}}
+        <label class="{{#unless o.available}}unavailable{{/unless}}"><input type="checkbox" name="bgFeat.{{o.name}}" {{#unless o.available}}disabled{{/unless}} {{#if (lookup ../state.bgFeat o.name)}}checked{{/if}}> {{o.name}}{{#unless o.available}} ({{sw5eLabel 'SW5E.WizardNotInCompendium'}}){{/unless}}</label>
+        {{/each}}
+      </div>
+      {{/if}}
+      <p class="hint">{{sw5eLabel 'SW5E.WizardEquipmentRef'}}: {{selectedBackground.system.equipment}}</p>
+    </div>
+    {{/if}}
+  </fieldset>
+  {{/if}}
+
+  <fieldset class="wizard-section">
+    <legend>{{sw5eLabel 'SW5E.WizardClassLevel'}}</legend>
+    <div class="wizard-row method-row">
+      <label><input type="radio" name="classMode" value="existing" {{#if (sw5eEq state.classMode "existing")}}checked{{/if}}> {{sw5eLabel 'SW5E.WizardLevelExisting'}}</label>
+      <label><input type="radio" name="classMode" value="new" {{#if (sw5eEq state.classMode "new")}}checked{{/if}}> {{sw5eLabel 'SW5E.WizardAddNewClass'}}</label>
+    </div>
+
+    {{#if (sw5eEq state.classMode "existing")}}
+    <select name="classItemId">
+      <option value="">{{sw5eLabel 'SW5E.WizardChoose'}}</option>
+      {{#each existingClasses as |c|}}
+      <option value="{{c.id}}" {{#if (sw5eEq ../state.classItemId c.id)}}selected{{/if}}>{{c.name}} ({{sw5eLabel 'SW5E.Level'}} {{c.system.levels}})</option>
+      {{/each}}
+    </select>
+    {{else}}
+    <select name="newClassUuid">
+      <option value="">{{sw5eLabel 'SW5E.WizardChoose'}}</option>
+      {{#each newClassOptions as |c|}}
+      <option value="{{c.uuid}}" {{#if (sw5eEq ../state.newClassUuid c.uuid)}}selected{{/if}}>{{c.name}}</option>
+      {{/each}}
+    </select>
+    {{/if}}
+
+    {{#if classDoc}}
+    <label class="wizard-row">{{sw5eLabel 'SW5E.WizardTargetLevel'}}
+      <input type="number" name="targetLevel" min="{{oldLevel}}" max="20" value="{{targetLevel}}" style="width:4em">
+    </label>
+
+    {{#if showClassSkillChoice}}
+    <p class="hint">{{sw5eLabel 'SW5E.WizardChooseSkills'}} ({{classSkillNumber}})</p>
+    <div class="wizard-checkrow">
+      {{#each classSkillOptions as |o|}}
+      <label><input type="checkbox" name="classSkill.{{o.code}}" {{#if (lookup ../state.classSkill o.code)}}checked{{/if}}> {{o.label}}</label>
+      {{/each}}
+    </div>
+    {{/if}}
+    {{/if}}
+  </fieldset>
+
+  {{#if showArchetype}}
+  <fieldset class="wizard-section">
+    <legend>{{sw5eLabel 'SW5E.WizardChooseArchetype'}}</legend>
+    <select name="archetypeUuid">
+      <option value="">{{sw5eLabel 'SW5E.WizardChoose'}}</option>
+      {{#each archetypeOptions as |a|}}
+      <option value="{{a.uuid}}" {{#if (sw5eEq ../state.archetypeUuid a.uuid)}}selected{{/if}}>{{a.name}}</option>
+      {{/each}}
+    </select>
+  </fieldset>
+  {{/if}}
+
+  {{#if autoFeatures.length}}
+  <fieldset class="wizard-section wizard-auto">
+    <legend>{{sw5eLabel 'SW5E.WizardAutoFeatures'}}</legend>
+    <ul class="wizard-auto-list">
+      {{#each autoFeatures as |f|}}
+      <li>{{f.name}} <span class="levels">{{sw5eLabel 'SW5E.Level'}} {{f.system.level}}</span></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  {{/if}}
+
+  {{#each asiSteps as |step|}}
+  <fieldset class="wizard-section">
+    <legend>{{sw5eLabel 'SW5E.WizardAsiTitle'}} — {{sw5eLabel 'SW5E.Level'}} {{step.level}}</legend>
+    <div class="wizard-row method-row">
+      <label><input type="radio" name="asi.{{step.level}}.type" value="asi" {{#if (sw5eEq step.type "asi")}}checked{{/if}}> {{sw5eLabel 'SW5E.WizardAsiOption'}}</label>
+      <label><input type="radio" name="asi.{{step.level}}.type" value="feat" {{#if (sw5eEq step.type "feat")}}checked{{/if}}> {{sw5eLabel 'SW5E.WizardFeatOption'}}</label>
+    </div>
+
+    {{#if (sw5eEq step.type "asi")}}
+    <p class="hint">{{sw5eLabel 'SW5E.WizardAsiHint'}}</p>
+    <div class="wizard-grid abilities-grid">
+      {{#each ../config.abilities as |a key|}}
+      <label>{{sw5eLabel a.label}} <input type="number" name="asi.{{step.level}}.abilities.{{key}}" min="0" max="2" value="{{lookup (lookup (lookup ../../state.asi step.level) "abilities") key}}"></label>
+      {{/each}}
+    </div>
+    {{else}}
+    <select name="asi.{{step.level}}.featUuid">
+      <option value="">{{sw5eLabel 'SW5E.WizardChoose'}}</option>
+      {{#each ../allFeats as |f|}}
+      <option value="{{f.uuid}}" {{#if (sw5eEq (lookup (lookup ../../state.asi step.level) "featUuid") f.uuid)}}selected{{/if}}>{{f.name}}</option>
+      {{/each}}
+    </select>
+    {{#if step.selectedFeat.system.description.value}}
+    <div class="wizard-preview">{{{step.selectedFeat.system.description.value}}}</div>
+    {{/if}}
+    {{#if step.featAbilityOptions}}
+    <p class="hint">{{sw5eLabel 'SW5E.WizardChooseAbilities'}} ({{step.featAbilityNumber}})</p>
+    <div class="wizard-checkrow">
+      {{#each step.featAbilityOptions as |o|}}
+      <label><input type="checkbox" name="asi.{{step.level}}.abilities.{{o.code}}" {{#if (lookup (lookup (lookup ../../state.asi step.level) "abilities") o.code)}}checked{{/if}}> {{o.label}}</label>
+      {{/each}}
+    </div>
+    {{/if}}
+    {{/if}}
+  </fieldset>
+  {{/each}}
+
+  {{#each powerSteps as |step|}}
+  <fieldset class="wizard-section">
+    <legend>{{sw5eLabel step.label}} — {{sw5eLabel 'SW5E.WizardNewlyKnown'}}</legend>
+    <p class="hint">{{sw5eLabel 'SW5E.WizardPickUpTo'}} {{step.newlyGained}} ({{step.picked}} {{sw5eLabel 'SW5E.WizardSelected'}}) — {{sw5eLabel 'SW5E.WizardMaxPowerLevel'}} {{step.maxPowerLevel}}</p>
+    <div class="wizard-checkrow wizard-power-list">
+      {{#each step.options as |p|}}
+      <label><input type="checkbox" name="powerPick.{{step.school}}.{{p.id}}" {{#if (lookup (lookup ../state.powerPick step.school) p.id)}}checked{{/if}}> <span class="pwr-level">[{{p.system.level}}]</span> {{p.name}}</label>
+      {{/each}}
+    </div>
+  </fieldset>
+  {{/each}}
+
+  {{#if maneuverStep}}
+  <fieldset class="wizard-section">
+    <legend>{{sw5eLabel 'SW5E.Maneuvers'}} — {{sw5eLabel 'SW5E.WizardNewlyKnown'}}</legend>
+    <p class="hint">{{sw5eLabel 'SW5E.WizardPickUpTo'}} {{maneuverStep.newlyGained}} ({{maneuverStep.picked}} {{sw5eLabel 'SW5E.WizardSelected'}})</p>
+    <div class="wizard-checkrow wizard-power-list">
+      {{#each maneuverStep.options as |m|}}
+      <label><input type="checkbox" name="maneuverPick.{{m.id}}" {{#if (lookup ../state.maneuverPick m.id)}}checked{{/if}}> {{m.name}}</label>
+      {{/each}}
+    </div>
+  </fieldset>
+  {{/if}}
+
+  <fieldset class="wizard-section wizard-footer-note">
+    <p class="hint">{{sw5eLabel 'SW5E.WizardNotAutomatedNote'}}</p>
+  </fieldset>
+
+  <div class="wizard-actions">
+    <button type="button" data-action="applyWizard"><i class="fas fa-check"></i> {{sw5eLabel 'SW5E.WizardApply'}}</button>
+  </div>
+
+</section>

@@ -1,0 +1,24 @@
+{
+  "_id": "rDy67Kb9Wfm0f2g6",
+  "_key": "!items!rDy67Kb9Wfm0f2g6",
+  "name": "Placed Shots",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you deal Sneak Attack damage, you can give up two of those dice to instead line up a placed shot. Several placed shots call for a save with a DC equal to 8 plus your proficiency bonus plus your Dexterity modifier.</p><p><strong>Disarming Shot.</strong> The target attempts a Strength save. On a failure, it drops one item you designate that it was holding, and the item falls at its feet.</p><p><strong>Penetrating Shot.</strong> Pick a second target within 15 feet, standing directly beyond your original target. If your attack roll would also hit that second target, it takes two Sneak Attack dice of damage of the same type as your original attack.</p><p><strong>Suppressive Shot.</strong> The target attempts a Wisdom save. On a failure, it becomes frightened of you until the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Sharpshooter Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

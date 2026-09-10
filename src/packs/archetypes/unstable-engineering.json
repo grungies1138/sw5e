@@ -1,0 +1,22 @@
+{
+  "_id": "xpKI1T3P3I8JKiBo",
+  "_key": "!items!xpKI1T3P3I8JKiBo",
+  "name": "Unstable Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Unstable engineers treat safety protocols as a starting suggestion rather than a rule. They fuse volatile components and untested science into their tools, chasing bigger effects than the manuals allow and accepting that things might go sideways in return.</p><p>Wielding a jury-rigged tinkercannon, they blast, zap, and mutate the battlefield with equal enthusiasm, never quite sure whether the next surge of power will end the fight or simply turn their hair blue. Either way, they keep pulling the trigger.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

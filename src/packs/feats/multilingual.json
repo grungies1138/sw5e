@@ -1,0 +1,26 @@
+{
+  "_id": "3QAItxbDiNOXUHyL",
+  "_key": "!items!3QAItxbDiNOXUHyL",
+  "name": "Multilingual",
+  "type": "feat",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your ear for languages and dialects is exceptional. You learn to speak, read, and write three languages of your choice, and you have advantage on Intelligence (Investigation) checks made to decipher unfamiliar text, codes, or partial transmissions.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

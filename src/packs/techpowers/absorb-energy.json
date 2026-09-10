@@ -1,0 +1,50 @@
+{
+  "_id": "oh1lALbxs35ipwIW",
+  "_key": "!items!oh1lALbxs35ipwIW",
+  "name": "Absorb Energy",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take acid, cold, energy, fire, ion, kinetic, lightning, or sonic damage, you can convert some of that incoming force into a charge for your next strike. You gain resistance to the triggering damage type until the start of your next turn. The first time before then that you hit with a melee attack, the target takes an extra 1d6 damage of the same type, and the power ends.</p><p>Cast with a power slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": ""
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

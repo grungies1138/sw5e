@@ -1,0 +1,24 @@
+{
+  "_id": "A8NzKoHUmPUltnLB",
+  "_key": "!items!A8NzKoHUmPUltnLB",
+  "name": "Master Strike",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your assault can break even the most stalwart opponent. Once per turn, the third time you deal damage to a given creature, you may compel it to attempt a Constitution saving throw against your universal force save DC. Should it fail, the creature is stunned until the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of Focus",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

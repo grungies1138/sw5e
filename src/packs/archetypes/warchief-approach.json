@@ -1,0 +1,22 @@
+{
+  "_id": "aRS3MkSeoJf6XeMd",
+  "_key": "!items!aRS3MkSeoJf6XeMd",
+  "name": "Warchief Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some berserkers are born or bound to lead. The Warchief Approach channels rage into command rather than chaos, turning a fighter's fury into clear-eyed direction for everyone fighting beside them.</p><p>These warriors read the battlefield the way others read an opponent's stance, guiding allies' strikes and steadying their resolve — proof that fury and leadership aren't opposites, but two edges of the same blade.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "IHhCBndDYGu53vmx",
+  "_key": "!items!IHhCBndDYGu53vmx",
+  "name": "Projected Barrier",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain the ability to reshape your barrier's energy into three distinct combat effects: Projected Sphere, Projected Maelstrom, and Projected Wave. As an action, you may spend 3 of your barrier's remaining hit points to trigger one of them, choosing which each time you use this feature.</p><p>Any of these effects that calls for a saving throw uses your tech save DC. Should your barrier's hit points drop to 0, any Projected Barrier effect currently active ends at once.</p><p><strong>Projected Sphere.</strong> You conjure a protective 5-foot-radius sphere centered on a point you can see within 30 feet; it persists until the start of your next turn. Creatures inside gain three-quarters cover against attacks coming from outside the sphere. Paying one more barrier hit point at the start of each of your turns (requiring no action) keeps the sphere going.</p><p><strong>Projected Maelstrom.</strong> You summon a churning field of unstable energy filling a 5-foot cube at a point you can see within 30 feet, lasting until the start of your next turn. Any creature entering the area for the first time on a turn, or starting its turn there, takes 4d4 energy damage. Spending one additional barrier hit point at the start of each of your turns (no action needed) sustains the field. This damage rises to 5d4 at 11th level and 6d4 at 17th level.</p><p><strong>Projected Wave.</strong> You release a surge of barrier energy in a 15-foot cone. Every creature caught in it makes a Dexterity saving throw, taking 2d6 energy damage and being shoved to the cone's far edge on a failure, or half that damage with no push on a success. The damage rises to 3d6 at 11th level and 4d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Bulwark Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

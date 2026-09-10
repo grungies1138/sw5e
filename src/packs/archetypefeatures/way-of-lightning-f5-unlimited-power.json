@@ -1,0 +1,24 @@
+{
+  "_id": "6ODjSBONTpkc2C5N",
+  "_key": "!items!6ODjSBONTpkc2C5N",
+  "name": "Unlimited Power",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a force power of 1st through 6th level that deals lightning damage, you can choose to deal the maximum possible damage with it.</p><p>You can do this safely a number of times equal to your proficiency bonus (see the consular table) before needing a long rest. Every use beyond that limit burns you as well: immediately after casting, you take 2d12 true damage per level of the power, and this self-inflicted damage climbs by an additional 1d12 for each further use before you next complete a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Lightning",
+    "className": "Consular",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

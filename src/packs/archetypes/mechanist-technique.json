@@ -1,0 +1,22 @@
+{
+  "_id": "vCN4qvseZCyxcNbw",
+  "_key": "!items!vCN4qvseZCyxcNbw",
+  "name": "Mechanist Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some scouts are less warriors than inventors, brilliant tinkerers who trust the precision of circuitry and droid logic over fallible flesh. Followers of the Mechanist Technique push their techcasting to its limits, using superior engineering to compensate for whatever biology cannot provide.</p><p>Their mastery of tech powers deepens far beyond their peers, and their marked quarry learns to fear more than blaster fire; an ion pulse can cripple even the most hardened target. To a Mechanist, every problem on the battlefield has an elegant technological solution.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "XM9htOIiOIGokOX9",
+  "_key": "!items!XM9htOIiOIGokOX9",
+  "name": "Stun Droid",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose a droid or construct you can see within range. It must succeed on a Constitution saving throw or become paralyzed for the duration. At the start of each of its turns while paralyzed, it takes energy damage equal to your forcecasting ability modifier, and at the end of each of its turns it can repeat the saving throw to end the effect.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 2",
+    "school": "lightside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "fviQiBWHKs6i78yk",
+  "_key": "!items!fviQiBWHKs6i78yk",
+  "name": "Force Sensitivity",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have latent sensitivity to the Force, whether you have trained to use it or simply been touched by fate. You gain proficiency in the Lore skill, and advantage on Wisdom (Insight) checks made to sense the presence of other Force-sensitive creatures.</p><p>Once per long rest, you can call on this sensitivity to gain advantage on one saving throw of your choice, as an unseen instinct guides your reaction just in time. This feat does not grant access to Force powers on its own, but is a prerequisite many teachers look for in a prospective student.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

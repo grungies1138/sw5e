@@ -1,0 +1,25 @@
+{
+  "_id": "VlhUVM7cDfHB1aYB",
+  "name": "Riposte",
+  "type": "maneuver",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "savingThrow": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

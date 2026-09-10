@@ -1,0 +1,22 @@
+{
+  "_id": "vCrhGI4AzErPTxew",
+  "name": "Uncanny Dodge",
+  "type": "deploymentFeature",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>When an attacker you can see hits your ship with an attack, you can use your reaction to halve the attack's damage against you.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Pilot",
+    "deployment": "pilot",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

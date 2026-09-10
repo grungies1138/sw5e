@@ -1,0 +1,24 @@
+{
+  "_id": "wJJVxyoKRxd1peFY",
+  "_key": "!items!wJJVxyoKRxd1peFY",
+  "name": "Guarding Weapon",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While Saber Storm is active, you can have your animated weapon shield you from harm. When you take damage, use your reaction and spend up to your proficiency bonus in force points to have the weapon intercept the blow, reducing the damage you take by five times the number of points spent.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Manipulation",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

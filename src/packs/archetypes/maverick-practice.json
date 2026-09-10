@@ -1,0 +1,22 @@
+{
+  "_id": "z9hAobZamX6NTdw3",
+  "_key": "!items!z9hAobZamX6NTdw3",
+  "name": "Maverick Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every operative fits neatly into one specialty, and Maverick Practice adepts turn that refusal to specialize into their greatest strength. Drawing on a broad grab-bag of combat tricks, they adapt mid-fight, finding the unconventional answer the moment a conventional one fails.</p><p>What defines a Maverick isn't a single signature move but sheer versatility, the confidence to try something nobody expected, backed by just enough raw skill to make it work.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "whCPFfWa5E4DqMEG",
+  "_key": "!items!whCPFfWa5E4DqMEG",
+  "name": "Cybertech Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Cybertech engineers pour their genius into a single wristpad, turning what other engineers treat as a convenience item into the beating heart of their techcasting. Every circuit is tuned to squeeze more power, more precision, and more flexibility out of the powers they already know.</p><p>Their real gift is conversion: aptitude becomes tech points, tech points become aptitude, and a rival's own spell can be captured mid-cast and turned into ammunition. In their hands, a wristpad stops being a tool and becomes a second spellbook, always a subroutine away from doing something new.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

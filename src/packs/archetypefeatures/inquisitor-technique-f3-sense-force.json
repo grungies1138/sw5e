@@ -1,0 +1,24 @@
+{
+  "_id": "njH27JutmTuRg4o4",
+  "_key": "!items!njH27JutmTuRg4o4",
+  "name": "Sense Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can gain the benefits of the force sight force power until the end of your next turn. You can do this three times, gaining an additional use at 9th, 13th, and 17th level, and regain all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Inquisitor Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

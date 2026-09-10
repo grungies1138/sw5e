@@ -1,0 +1,45 @@
+{
+  "_id": "nDmuCHM8iBDkNFT5",
+  "_key": "!items!nDmuCHM8iBDkNFT5",
+  "name": "Dominate Monster",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You attempt to bend the will of a creature you can see within range, which must succeed on a Wisdom saving throw or become charmed by you for the duration; it has advantage on the save if you or your allies are fighting it. While charmed, you share a telepathic bond with the target as long as you remain within 1 mile of it, letting you issue simple commands with no action required, which it obeys to the best of its ability, defending itself if given no further direction. This power has no effect on droids or constructs.</p><p>As an action, you can seize total and precise control of the target until the end of your next turn, dictating every action it takes (and, at the cost of your own reaction, any reaction it makes). Each time the target takes damage, it may attempt a new Wisdom save, ending the power on a success.</p><p>Casting this power with a 9th-level slot extends the duration to concentration, up to 8 hours.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 8",
+    "school": "darkside",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "qzk8YBmEsvTjvE9W",
+  "_key": "!items!qzk8YBmEsvTjvE9W",
+  "name": "Fists of Fury",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your fury has honed your unarmed strikes into real weapons: their damage die steps up one size, from 1 to a d4, a d4 to a d6, or a d6 to a d8.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Brawling Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "RxJHndTMSk5vIIgr",
+  "_key": "!items!RxJHndTMSk5vIIgr",
+  "name": "Dark Arts",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you deal Sneak Attack damage, you can give up two of those dice to perform a dark art instead. The save DC for these is 8 plus your proficiency bonus plus your Intelligence modifier.</p><p><strong>Envenomed Art.</strong> The target attempts a Constitution save or is poisoned until the end of your next turn.</p><p><strong>Hallucinatory Art.</strong> The target attempts a Wisdom save or is blinded until the end of your next turn.</p><p><strong>Vanishing Art.</strong> The target attempts a Dexterity save. On a failure, you can move up to 10 feet without provoking an opportunity attack from it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Shadow Killer Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

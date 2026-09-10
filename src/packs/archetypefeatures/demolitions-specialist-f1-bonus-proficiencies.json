@@ -1,0 +1,24 @@
+{
+  "_id": "RetoLH9ojb9f4zkK",
+  "_key": "!items!RetoLH9ojb9f4zkK",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with demolitions kit, and installing a breaching charge now takes you only half the usual time.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Demolitions Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

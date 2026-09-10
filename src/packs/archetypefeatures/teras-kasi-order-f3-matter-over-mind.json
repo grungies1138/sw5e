@@ -1,0 +1,24 @@
+{
+  "_id": "hu4Dcw36IczgThjj",
+  "_key": "!items!hu4Dcw36IczgThjj",
+  "name": "Matter Over Mind",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While both your Forredari Stance and Steel Hands Form are active at once, you gain the following:</p><ul><li><strong>Dancing Dragonsnake.</strong> Taking force, lightning, or necrotic damage lets you use your reaction to deflect it, reducing the damage by 1d10 plus your focus ability modifier plus your monk level.</li><li><strong>Aryx Slash.</strong> Once per turn, hitting a target with an unarmed strike or monk weapon lets you roll your Martial Arts die and add the result as extra psychic damage.</li><li><strong>Piercing Gaze.</strong> Making an Insight check against a creature you know can use the Force, you may use your focus ability modifier for the roll and are treated as having expertise in Insight—or, if you already have expertise, you instead gain advantage on the check.</li></ul>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teras Kasi Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

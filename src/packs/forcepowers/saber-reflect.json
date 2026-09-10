@@ -1,0 +1,45 @@
+{
+  "_id": "KbsL9zZQw0NtiIF0",
+  "_key": "!items!KbsL9zZQw0NtiIF0",
+  "name": "Saber Reflect",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Reacting to an incoming ranged attack, you snap your weapon up to deflect it, reducing the damage you take by 1d6. If this reduces the damage to 0, and you're wielding a lightweapon or vibroweapon dealing energy or ion damage, you may redirect the blow as part of the same reaction: make a ranged force attack against a target within 20 feet (60 feet at long range) that you can see. On a hit, that target suffers the original attack's full damage.</p><p>The damage reduction rises to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

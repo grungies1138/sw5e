@@ -1,0 +1,24 @@
+{
+  "_id": "T40SResEemg1cwQT",
+  "_key": "!items!T40SResEemg1cwQT",
+  "name": "Prismatic Step",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Attack action, you can teleport up to 10 feet, to an unoccupied space you can see, before each attack you make. If you strike at least two different creatures during that action, you may make one more attack—requiring no action—against a third creature.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Aing-Tii Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

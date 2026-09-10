@@ -1,0 +1,54 @@
+{
+  "_id": "HJ7jT4nGvWx67zwn",
+  "_key": "!items!HJ7jT4nGvWx67zwn",
+  "name": "Master Force Scream",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You unleash a Force-amplified shriek at every creature you choose within 60 feet of you. Each must succeed on a Constitution saving throw or take 6d6 psychic damage and 6d6 sonic damage, be blinded and deafened for 1 minute, and fall prone; a successful save halves the damage and prevents the blindness, deafness, and knockdown.</p><p>A creature blinded by this power may attempt another Constitution saving throw at the end of each of its turns, ending the blindness on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 8",
+    "school": "darkside",
+    "level": 8,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "6d6",
+          "type": "psychic"
+        },
+        {
+          "formula": "6d6",
+          "type": "sonic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

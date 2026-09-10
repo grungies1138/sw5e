@@ -1,0 +1,24 @@
+{
+  "_id": "6mr5v3wo0jM6ydT4",
+  "_key": "!items!6mr5v3wo0jM6ydT4",
+  "name": "Extra Attack",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Attack action, you can attack twice instead of once. You may also deal Sneak Attack damage more than once per turn, choosing how many dice to apply each time, so long as the total dice applied in a turn never exceeds your full Sneak Attack dice pool.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Pugnacity Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

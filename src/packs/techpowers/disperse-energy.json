@@ -1,0 +1,45 @@
+{
+  "_id": "rqRl8VTMEdAzxRK4",
+  "_key": "!items!rqRl8VTMEdAzxRK4",
+  "name": "Disperse Energy",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain resistance to acid, cold, fire, lightning, and sonic damage for the duration.</p><p>Whenever you take damage of one of those types, you can use your reaction to convert your resistance into immunity to that damage type, applying even to the triggering damage; doing so ends the resistance to all five types, grants immunity until the end of your next turn, and then ends the power.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

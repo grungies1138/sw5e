@@ -1,0 +1,49 @@
+{
+  "_id": "Tomb6pJ2sbxhMi8f",
+  "name": "Homing Rocket Pod",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A cheap, high-volume launcher that dumps a swarm of self-guiding rockets at a locked target, sacrificing individual punch for sheer volume of fire and a generous magazine.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 1000,
+      "denomination": "credits"
+    },
+    "category": "tertiary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 1500,
+      "long": 4000,
+      "units": "ft"
+    },
+    "properties": [
+      "hom"
+    ],
+    "ammo": {
+      "value": 10,
+      "max": 10
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

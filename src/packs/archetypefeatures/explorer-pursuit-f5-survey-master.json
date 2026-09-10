@@ -1,0 +1,24 @@
+{
+  "_id": "f9KdyDiTIangPcpL",
+  "_key": "!items!f9KdyDiTIangPcpL",
+  "name": "Survey Master",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your Surveyed Area now covers a 30-foot cube instead of 15 feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Explorer Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "EQi2Ud2Jy0AMshHD",
+  "name": "Heavy Slug Railgun",
+  "type": "starshipweapon",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>A capital-scale evolution of the slug railgun, built into the spine or broadside of Huge-and-larger warships as a Tier 3 role feature. Its mass-driver coils are integral to the hull and typically need no separate hardpoint modification to install.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 45000,
+      "denomination": "credits"
+    },
+    "category": "secondary",
+    "hardpoint": "turret",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "7d12",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "range": {
+      "value": 3000,
+      "long": 8000,
+      "units": "ft"
+    },
+    "properties": [],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

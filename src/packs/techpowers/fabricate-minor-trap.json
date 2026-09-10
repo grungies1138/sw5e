@@ -1,0 +1,54 @@
+{
+  "_id": "T3kCCXEIDtqYONVt",
+  "_key": "!items!T3kCCXEIDtqYONVt",
+  "name": "Fabricate Minor Trap",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conceal a manually triggered trap within a 30-foot-radius sphere centered on yourself. It is well hidden — any creature that couldn't see the area when you cast this power must succeed on a Wisdom (Perception) check against your tech save DC to spot it before entering. Once, while the power lasts, you can use your reaction to trigger the trap against a creature you see enter or move within the warded area; you choose the trap's nature when you cast the power, and can sustain a number of such traps at once equal to your techcasting ability modifier.</p><p>A <strong>Blaster</strong> trap fires at the target, who takes 2d10 energy damage on a failed Dexterity saving throw or half as much on a success. A <strong>Pitfall</strong> trap opens a 5-foot-wide, 15-foot-deep hole beneath the target, who falls in on a failed Dexterity save or falls prone nearby on a success; flying creatures are unaffected, and the trap cannot form in manufactured terrain, though the resulting pit persists after the power ends. A <strong>Snare</strong> trap entangles the target in rope, wire, vine, or webbing; the target attempts a Strength saving throw (with advantage if Large or bigger), taking 1d6 kinetic damage and becoming restrained until the start of its next turn on a failure, or half damage and an end to its movement on a success.</p><p>Cast with a tech slot of 2nd level or higher, each trap's effect improves: a Blaster's damage increases by 1d10 per slot level above 1st, and at 3rd level or higher its area becomes a burst centered on the target with a radius of 5 feet per two slot levels above 1st; a Pitfall's depth increases by 5 feet per slot level above 1st, and at 3rd level or higher its diameter widens by 5 feet per two slot levels above 1st; a Snare's damage increases by 1d6 per slot level above 1st, and at 3rd level or higher the size category that loses advantage on the save increases by one step per two slot levels above 1st.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d10",
+          "type": "energy"
+        },
+        {
+          "formula": "1d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

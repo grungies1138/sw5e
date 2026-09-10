@@ -1,0 +1,24 @@
+{
+  "_id": "bYcAXWeOKdzmDSHP",
+  "_key": "!items!bYcAXWeOKdzmDSHP",
+  "name": "Ion Pulse",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can spend one or more of your tracker droid's Hit Dice to have it release a pulse of ion energy. Every creature within 5 feet of the droid attempts a Constitution save against your tech save DC, taking ion damage equal to the number of Hit Dice spent, rolled at the same die size as the droid's Hit Die, on a failure, or half that on a success. Any unworn, uncarried electronics caught in the blast are disabled until rebooted.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Saboteur Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

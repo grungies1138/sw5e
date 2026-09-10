@@ -1,0 +1,30 @@
+{
+  "_id": "6OKLgOWUI8ABpaaF",
+  "name": "Adaptive Ailerons",
+  "type": "starshipmod",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>Servo-actuated control surfaces that continuously recalibrate against atmospheric or gravitic conditions, granting the ship advantage on the next Dexterity (Maneuvering) check made immediately after a Hard Turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 3500,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

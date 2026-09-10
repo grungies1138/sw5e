@@ -1,0 +1,24 @@
+{
+  "_id": "cBQDRyWMnHhrzRrM",
+  "_key": "!items!cBQDRyWMnHhrzRrM",
+  "name": "Staggering Stratagem",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your telekinetic reach extends to creatures of Large size or smaller, both for your force powers and for your Way of Telekinetics features. Additionally, once per turn when you deal force or kinetic damage to a Large or smaller creature via a force power or class feature, you can choose to push it up to 10 feet away from you or pull it up to 10 feet toward you.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Telekinetics",
+    "className": "Consular",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

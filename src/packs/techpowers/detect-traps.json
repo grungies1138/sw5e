@@ -1,0 +1,45 @@
+{
+  "_id": "gEbCpMTxEvTsH2gn",
+  "_key": "!items!gEbCpMTxEvTsH2gn",
+  "name": "Detect Traps",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You become aware of the presence, rough location, and nature of any trap within 120 feet of you and within your line of sight — meaning any device or mechanism, deliberately built by its creator, that would trigger a sudden, harmful, or unwanted effect.</p><p>While this power lasts, you have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to locate traps within your line of sight.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

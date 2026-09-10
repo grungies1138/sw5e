@@ -1,0 +1,24 @@
+{
+  "_id": "zFOq2wqFYWYKXISY",
+  "_key": "!items!zFOq2wqFYWYKXISY",
+  "name": "Master of Domination",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You become a whirlwind of blades, cutting down all who come within your reach. Your Strength and Dexterity scores each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist kinetic, energy, and ion damage dealt by weapons.</li><li>Whenever you hit a creature with a melee weapon attack, you gain advantage on your next melee attack roll against it, and it provokes an opportunity attack from you even if it takes the Disengage action, until the end of your next turn.</li><li>Creatures provoke an opportunity attack from you simply by entering your reach.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Jar'Kai Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

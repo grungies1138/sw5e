@@ -1,0 +1,24 @@
+{
+  "_id": "rZMojbanJdFBQQ4j",
+  "_key": "!items!rZMojbanJdFBQQ4j",
+  "name": "Debilitating Barrage",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you hit a creature with an unarmed strike, you may spend 3 focus points to make it vulnerable to a damage type of your choice for 1 minute, or until it takes damage of that type, whichever comes first.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Jal Shey Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

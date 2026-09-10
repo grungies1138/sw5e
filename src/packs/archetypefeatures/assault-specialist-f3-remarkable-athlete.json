@@ -1,0 +1,24 @@
+{
+  "_id": "xXDtl6QjOjMy3yOU",
+  "_key": "!items!xXDtl6QjOjMy3yOU",
+  "name": "Remarkable Athlete",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your physical conditioning shows even in unpracticed tasks: whenever you make a Strength, Dexterity, or Constitution check that wouldn't normally benefit from your proficiency bonus, add half your proficiency bonus to it instead.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Assault Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

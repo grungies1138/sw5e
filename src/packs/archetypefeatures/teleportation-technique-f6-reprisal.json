@@ -1,0 +1,24 @@
+{
+  "_id": "4FciVCWIBe2p3oqW",
+  "_key": "!items!4FciVCWIBe2p3oqW",
+  "name": "Reprisal",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a weapon or tech power that requires a Dexterity saving throw or attack roll, and targets only you, would affect you, you can use your reaction to instantly open a pair of portals and reroute it toward another target within 30 feet. If it required a melee or ranged attack roll, make the appropriate melee or ranged tech attack roll against the new target; if it required a Dexterity save, the new target makes that save against your tech save DC instead.</p><p>Once used, you must finish a short or long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teleportation Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

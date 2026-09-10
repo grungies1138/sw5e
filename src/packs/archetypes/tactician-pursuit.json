@@ -1,0 +1,22 @@
+{
+  "_id": "2tbXBWHlwjk7S57u",
+  "_key": "!items!2tbXBWHlwjk7S57u",
+  "name": "Tactician Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Tacticians treat warfare as a science, breaking down engagements into angles, timing, and lines of fire the way other scholars parse a text. Where a duelist relies on instinct, the Tactician relies on preparation, turning cold study of strategy into decisive advantage before a shot is ever fired.</p><p>On the field, this discipline becomes leadership in action. A Tactician reads the flow of a fight and calls the exact strike that breaks it, coordinating allies into a single, devastating instrument aimed at whichever foe matters most.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

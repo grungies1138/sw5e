@@ -1,0 +1,24 @@
+{
+  "_id": "VTNvsyIH8oWJxQAk",
+  "_key": "!items!VTNvsyIH8oWJxQAk",
+  "name": "Industrious Tech",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can cast tech powers even while raging, so long as the power takes no more than 1 action and doesn't require concentration. While raging, a tech power you cast that calls for a tech attack roll or forces a saving throw deals extra damage equal to your rage damage, though a power hitting multiple targets only gets that bonus applied to one of them. Casting counts as an attack for maintaining your rage, and you can invoke Reckless Attack for advantage on a tech power that requires an attack roll.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Industrial Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

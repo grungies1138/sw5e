@@ -1,0 +1,24 @@
+{
+  "_id": "84ZvsM9XaSP6XuCS",
+  "_key": "!items!84ZvsM9XaSP6XuCS",
+  "name": "Sundered Defenses",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your bombardments are devastatingly accurate against fortified positions. When you cast a power requiring a tech attack roll or a Dexterity saving throw, it strips one step of partial cover from affected creatures (three-quarters becomes half, half becomes one-quarter); one-quarter cover is ignored entirely.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

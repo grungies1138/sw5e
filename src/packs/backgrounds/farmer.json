@@ -1,0 +1,47 @@
+{
+  "_id": "gfDVp8Z0jqpcdoTe",
+  "_key": "!items!gfDVp8Z0jqpcdoTe",
+  "name": "Farmer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You worked the land, whether that meant crops, livestock, moisture vaporators, or something stranger, far from any real population center. You know how to sell what you grow or gather &mdash; to a merchant, a middleman, or straight to the buyer, whichever pays and asks fewer questions.</p><p>Razor-thin margins taught you to work long, hard, and smart, and the common folk you grew up among will still shelter you if you ever need a place to lie low.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ani",
+        "nat",
+        "per",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "One instrument and one type of artisan's implements or bioanalysis kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Animal Handler",
+        "Naturalist",
+        "Charmer",
+        "Techie",
+        "Entertainer",
+        "Crafter",
+        "Specialist",
+        "Haggler"
+      ]
+    },
+    "equipment": "A rough instrument you are proficient with, a set of tools of your choice, a sturdy knife, a set of common clothes, and a belt pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

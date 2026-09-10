@@ -1,0 +1,30 @@
+{
+  "_id": "mUZmrHuosbNWeLby",
+  "name": "Escape Pod Bank",
+  "type": "starshipmod",
+  "img": "icons/svg/anchor.svg",
+  "system": {
+    "description": {
+      "value": "<p>A rack of ejectable escape pods sized to the ship's crew complement, giving the crew a fighting chance to abandon ship before a destruction save goes badly.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 2000,
+      "denomination": "credits"
+    },
+    "category": "operation",
+    "grade": 0,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

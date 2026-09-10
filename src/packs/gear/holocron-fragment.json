@@ -1,0 +1,29 @@
+{
+  "_id": "9To70vj4QPWcYdf7",
+  "name": "Holocron Fragment",
+  "type": "gear",
+  "img": "icons/svg/statue.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> A shattered shard of a holocron, still humming faintly with a captured gatekeeper intelligence. Spend 8 hours in quiet meditation or study with the fragment attuned to you, and you unlock a single fragmentary lesson: choose one 1st-level Force power you do not know from any class's list. You may cast that power once without expending a Force point; after that, the fragment's stored knowledge fades until you complete a long rest.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 25000,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "legendary",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

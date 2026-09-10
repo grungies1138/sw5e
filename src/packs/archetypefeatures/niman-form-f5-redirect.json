@@ -1,0 +1,24 @@
+{
+  "_id": "mPZUygt2xNJhaMGB",
+  "_key": "!items!mPZUygt2xNJhaMGB",
+  "name": "Redirect",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you alone would be affected by a weapon or force power that calls for a Dexterity save or an attack roll, you can use your reaction to send that effect toward a different target within 30 feet instead. If the effect required a melee or ranged attack roll, make that same kind of force attack against the new target; if it required a Dexterity save, the new target instead makes a Dexterity save against your universal force save DC.</p><p>You must complete a short or long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Niman Form",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

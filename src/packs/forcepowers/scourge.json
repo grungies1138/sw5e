@@ -1,0 +1,45 @@
+{
+  "_id": "UELzeWdSET4ARXy3",
+  "_key": "!items!UELzeWdSET4ARXy3",
+  "name": "Scourge",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your eyes turn to hollow pits of dread power for the duration. Choose a creature you can see within 60 feet; it must succeed on a Constitution save or fall under one of the following effects of your choosing for the duration. On each later turn, you may use your action to instead target a different creature, though a creature that has already saved successfully against this casting cannot be targeted again.</p><p><em>Asleep.</em> The target falls unconscious, waking if it takes damage or another creature spends its action to rouse it.</p><p><em>Panicked.</em> The target becomes frightened of you, forced to Dash away from you by the safest route available on each of its turns; the effect ends once it is at least 60 feet away and can no longer see you.</p><p><em>Sickened.</em> The target suffers disadvantage on attack rolls and ability checks, and may attempt a new Constitution save at the end of each of its turns to end the effect.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 6",
+    "school": "darkside",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

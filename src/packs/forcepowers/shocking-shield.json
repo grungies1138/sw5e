@@ -1,0 +1,50 @@
+{
+  "_id": "FTRQdeEFYe9WLz4M",
+  "_key": "!items!FTRQdeEFYe9WLz4M",
+  "name": "Shocking Shield",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Arcs of lightning wreathe your body, shedding bright light in a 10-foot radius and dim light for an additional 10 feet; you can end the power early with your action.</p><p>For the duration, any creature within 5 feet of you that hits you with a melee attack takes 2d8 lightning damage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 4",
+    "school": "darkside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

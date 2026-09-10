@@ -1,0 +1,24 @@
+{
+  "_id": "tfYP77Ty7bOFYpBM",
+  "_key": "!items!tfYP77Ty7bOFYpBM",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following Channel the Force options: Smite if you chose Vonil, or Shield if you chose Ishu.</p><p><strong>Smite.</strong> Once per turn, when your companion is within 10 feet of you and hits a creature with a melee weapon attack, you may spend a use of Channel the Force and spend force points to have it deal extra damage of the same type as the weapon's damage. Each point spent adds 1d8 of extra damage, up to the maximum shown in the Focused Strikes column of the guardian table. At 11th level, your companion need only be within 30 feet of you to benefit, and at 17th level, within 60 feet.</p><p><strong>Shield.</strong> When your companion is hit by a weapon attack while within 10 feet of you, you can use your reaction and spend a use of Channel the Force to try to divert that attack, reducing the damage your companion takes by 1d10 plus your Wisdom or Charisma modifier (your choice) plus your guardian level. At 11th level, your companion need only be within 30 feet of you to benefit, and at 17th level, within 60 feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Vonil/Ishu Form (Companion)",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

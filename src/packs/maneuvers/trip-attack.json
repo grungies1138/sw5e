@@ -1,0 +1,25 @@
+{
+  "_id": "80qL9fFjLINvqNTQ",
+  "name": "Trip Attack",
+  "type": "maneuver",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, you knock the target prone.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.13 Maneuvers",
+    "activation": {
+      "type": "special",
+      "cost": 0
+    },
+    "savingThrow": "str"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

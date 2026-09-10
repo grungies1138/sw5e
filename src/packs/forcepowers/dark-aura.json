@@ -1,0 +1,50 @@
+{
+  "_id": "ZKC9amoSbVI0QoNv",
+  "_key": "!items!ZKC9amoSbVI0QoNv",
+  "name": "Dark Aura",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You cloak yourself in a mantle of dark side energy for the duration. Any attack you make against a creature within 10 feet of you deals an extra 1d8 necrotic damage on a hit, and a creature damaged this way cannot regain hit points until the start of your next turn. Additionally, any creature you choose that starts its turn within 10 feet of you gains one slowed level until the start of your next turn.</p><p>Cast with a slot of 5th level or higher, the extra damage increases by 1d8 for every two slot levels beyond 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 3",
+    "school": "darkside",
+    "level": 3,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

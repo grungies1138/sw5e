@@ -1,0 +1,45 @@
+{
+  "_id": "ur0plW66ISxmrcvy",
+  "_key": "!items!ur0plW66ISxmrcvy",
+  "name": "Copy",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>By touching a source document or recording and a blank datapad or datacard you supply, you produce a perfect duplicate of written, drawn, or digital visual, audio, or text data, up to 10 pages of text or 10 minutes of audio or video per casting. Enhanced documents such as datacrons, blueprints, or encrypted files cannot be duplicated this way.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

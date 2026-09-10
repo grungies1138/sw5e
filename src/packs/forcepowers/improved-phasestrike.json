@@ -1,0 +1,50 @@
+{
+  "_id": "eTUvW2PMPiwcS4Mb",
+  "_key": "!items!eTUvW2PMPiwcS4Mb",
+  "name": "Improved Phasestrike",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You single out as many as five creatures you can see within range, striking each with a swift melee force attack. Every creature hit takes 6d10 force damage. Immediately afterward, you may blink to any unoccupied space you can see within 5 feet of one of the targets you struck.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 5",
+    "school": "universal",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "6d10",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

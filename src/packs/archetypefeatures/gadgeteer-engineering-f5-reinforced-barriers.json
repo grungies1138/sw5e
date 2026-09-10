@@ -1,0 +1,24 @@
+{
+  "_id": "2Au7y64Jr0aLPLBd",
+  "_key": "!items!2Au7y64Jr0aLPLBd",
+  "name": "Reinforced Barriers",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you cast a tech power while one of your barriers is active within 30 feet of you, you can mend it: it regains hit points equal to twice the power's level, or 1 hit point if the power is at-will, though never beyond its starting maximum. If you're maintaining more than one barrier, you decide how to split the healing between them.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gadgeteer Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

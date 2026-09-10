@@ -1,0 +1,24 @@
+{
+  "_id": "jefIq1MSLHqvI1EB",
+  "_key": "!items!jefIq1MSLHqvI1EB",
+  "name": "Tech Mastery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn one 5th-level tech power and can cast it once per long rest without spending tech points.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Rakatan Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

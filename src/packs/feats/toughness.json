@@ -1,0 +1,26 @@
+{
+  "_id": "0JjVzZy8P43SPYMu",
+  "_key": "!items!0JjVzZy8P43SPYMu",
+  "name": "Toughness",
+  "type": "feat",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your hit point maximum increases by an amount equal to twice your character level, and it increases by 2 again whenever you gain a level thereafter. Whether from a lifetime of hard labor, harsh training, or simple genetic fortune, your body shrugs off injuries that would fell others.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

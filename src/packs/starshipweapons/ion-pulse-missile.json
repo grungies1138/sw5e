@@ -1,0 +1,49 @@
+{
+  "_id": "x83uc0Y0nS4jZENe",
+  "name": "Ion Pulse Missile",
+  "type": "starshipweapon",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>Combines the guided-warhead delivery of a missile with an ionizing payload, saturating a target's systems with disabling energy on impact instead of tearing through its hull.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 1900,
+      "denomination": "credits"
+    },
+    "category": "tertiary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d10",
+          "type": "ion"
+        }
+      ]
+    },
+    "range": {
+      "value": 2500,
+      "long": 5000,
+      "units": "ft"
+    },
+    "properties": [
+      "ion"
+    ],
+    "ammo": {
+      "value": 6,
+      "max": 6
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

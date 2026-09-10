@@ -1,0 +1,56 @@
+{
+  "_id": "twh95OMcLchLONgw",
+  "name": "Vibroaxe",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A brutal, heavy-headed axe with a vibro-generator built into its haft, delivering crushing blows that shear through plating and bone alike.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 200,
+      "denomination": "credits"
+    },
+    "weight": 7,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "vibroweapon",
+    "proficiencyTier": "martial",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d12",
+          "type": "kinetic"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "heavy",
+      "two-handed"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

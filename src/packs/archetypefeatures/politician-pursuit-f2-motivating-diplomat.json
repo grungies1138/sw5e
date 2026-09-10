@@ -1,0 +1,24 @@
+{
+  "_id": "uyT18dGafwFQl3g0",
+  "_key": "!items!uyT18dGafwFQl3g0",
+  "name": "Motivating Diplomat",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you make yourself the target of your Critical Analysis, you and every ally within 10 feet gain a bonus to AC equal to half your Critical Analysis ability modifier.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Politician Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

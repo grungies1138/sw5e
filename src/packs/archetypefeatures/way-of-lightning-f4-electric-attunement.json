@@ -1,0 +1,24 @@
+{
+  "_id": "YnKqK97ERaOjAnf6",
+  "_key": "!items!YnKqK97ERaOjAnf6",
+  "name": "Electric Attunement",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You become resistant to lightning damage, and any force power you cast bypasses a target's resistance to lightning damage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Lightning",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

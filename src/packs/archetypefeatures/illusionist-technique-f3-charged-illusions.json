@@ -1,0 +1,24 @@
+{
+  "_id": "P69v07itJtWgcu9S",
+  "_key": "!items!P69v07itJtWgcu9S",
+  "name": "Charged Illusions",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature within 5 feet of an illusion you've created (via a tech power or class feature) sees through it, you may dispel that illusion with no action required, dealing energy damage to the creature equal to 1d10 plus half your scout level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Illusionist Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

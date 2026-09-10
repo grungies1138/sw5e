@@ -1,0 +1,22 @@
+{
+  "_id": "IAaxnedr4lUAKYhg",
+  "_key": "!items!IAaxnedr4lUAKYhg",
+  "name": "Whills Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Whills Order safeguards ancient truths of the Force and the relics that carry them, treating that knowledge as sacred. Its monks master ranged weaponry, often forging their own arms as a quiet homage to the Jedi's tradition of building their own lightweapons.</p><p>Every weapon a Whills monk carries is inseparable from their unarmed technique—drawn, fired, and reloaded with the same fluid discipline as any punch or kick.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

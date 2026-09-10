@@ -1,0 +1,22 @@
+{
+  "_id": "zzM7GeJVcxePXBIl",
+  "_key": "!items!zzM7GeJVcxePXBIl",
+  "name": "Armstech Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Armstech engineers are the artisans of the armory, forever taking apart blasters and vibroweapons to see how the next model could hit harder, faster, or truer. Where others see a finished weapon, they see a prototype waiting for the right modification.</p><p>Their signature creation always rides at their hip: a single weapon rebuilt again and again until it channels their own expertise. In combat they trust that weapon to close gaps, punch through defenses, and eventually turn a whole battlefield's worth of tech powers into a single well-aimed shot.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

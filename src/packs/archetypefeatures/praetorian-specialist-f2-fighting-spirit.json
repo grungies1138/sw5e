@@ -1,0 +1,24 @@
+{
+  "_id": "OpeKu3bxSKptVsil",
+  "_key": "!items!OpeKu3bxSKptVsil",
+  "name": "Fighting Spirit",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action on your turn, you can grant yourself advantage on all weapon attack rolls until the end of that turn, gaining 5 temporary hit points when you do. This temporary hit point total grows to 10 at 10th level and 15 at 15th level.</p><p>You have three uses of this feature, all restored by a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Praetorian Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

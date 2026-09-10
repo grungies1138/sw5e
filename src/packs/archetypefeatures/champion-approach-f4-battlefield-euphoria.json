@@ -1,0 +1,24 @@
+{
+  "_id": "3f7qvNQH4jOGEQJL",
+  "_key": "!items!3f7qvNQH4jOGEQJL",
+  "name": "Battlefield Euphoria",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, scoring a critical hit with a melee weapon attack, or dropping a hostile creature to 0 hit points with one, refunds you one spent superiority die.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Champion Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

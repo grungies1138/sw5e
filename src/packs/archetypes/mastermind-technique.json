@@ -1,0 +1,22 @@
+{
+  "_id": "XdftXpkN5Aka029C",
+  "_key": "!items!XdftXpkN5Aka029C",
+  "name": "Mastermind Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Victory, to some scouts, is won long before the first shot is fired. Followers of the Mastermind Technique treat every encounter as a puzzle to be solved in advance, arming themselves with contingencies, insight, and an unshakeable read on their enemies.</p><p>Where brute force fails, preparation succeeds; a Mastermind directs allies, exploits an opponent's exact weakness, and adapts their own toolkit overnight to fit tomorrow's battle. It's not raw power that makes them dangerous, but the certainty that they've already accounted for whatever comes next.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

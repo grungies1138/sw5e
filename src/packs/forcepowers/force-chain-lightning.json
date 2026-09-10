@@ -1,0 +1,50 @@
+{
+  "_id": "Lfeaqp7TRhSCuPVO",
+  "_key": "!items!Lfeaqp7TRhSCuPVO",
+  "name": "Force Chain Lightning",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You hurl a crackling bolt of lightning at a target you choose within range, from which up to three additional bolts arc outward to strike as many other targets within 30 feet of the first; each target, whether creature or object, can be struck by only one bolt.</p><p>Each target must succeed on a Dexterity saving throw or take 10d8 lightning damage, taking half as much on a success.</p><p>Casting this power with a force slot of 7th level or higher adds one additional branching bolt for each slot level beyond 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 6",
+    "school": "darkside",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "10d8",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

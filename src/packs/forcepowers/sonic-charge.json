@@ -1,0 +1,50 @@
+{
+  "_id": "vGS54bJ9dwYQZ3wA",
+  "_key": "!items!vGS54bJ9dwYQZ3wA",
+  "name": "Sonic Charge",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action used to cast this power, you make a melee weapon attack against a creature within your reach, or the power fails. On a hit, the attack deals its normal damage, and you begin to emit a disquieting hum until the start of your next turn; any hostile creature that ends its turn within 5 feet of you takes 1d4 sonic damage.</p><p>At 5th level, the melee attack deals an extra 1d8 sonic damage and the hum's damage increases by 1d4; both bonuses increase again at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "sonic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

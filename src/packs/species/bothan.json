@@ -1,0 +1,57 @@
+{
+  "_id": "MKk9dNe2H8nIjYWd",
+  "name": "Bothan",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Bothans are a fur-covered humanoid species native to Bothawui, famed across the galaxy for their extensive spy networks and their cunning, information-driven culture. Bothan society is built on clans that compete constantly for political and economic advantage, and every Bothan is raised to value secrets as a form of currency.</p><p>Whether serving as spies, information brokers, or simply shrewd negotiators, Bothans bring a sharp, calculating mind to everything they do &mdash; and are famous for the saying that many Bothans died to bring the galaxy its secrets.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "dex",
+        "value": 2
+      },
+      {
+        "ability": "int",
+        "value": 1
+      }
+    ],
+    "darkvision": 0,
+    "languages": [
+      "Galactic Basic",
+      "Bothese"
+    ],
+    "traits": [
+      {
+        "name": "Cunning",
+        "description": "You have advantage on Wisdom (Insight) checks made to detect deception, and on Intelligence (Investigation) checks made to uncover hidden information."
+      },
+      {
+        "name": "Information Broker",
+        "description": "You are proficient in the Deception or Persuasion skill, your choice, reflecting a lifetime spent trading favors and secrets."
+      },
+      {
+        "name": "Bothan Spynet Contacts",
+        "description": "You know how to find and cultivate informants. Once between long rests, you can spend ten minutes making contact with local information networks to learn one piece of true, useful rumor about a person, place, or organization in the region, at the GM's discretion."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

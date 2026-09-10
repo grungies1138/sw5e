@@ -1,0 +1,22 @@
+{
+  "_id": "5fDShpQJ4hPpKkfx",
+  "_key": "!items!5fDShpQJ4hPpKkfx",
+  "name": "Gadgeteer Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Gadgeteers see every gizmo and every tech power as parts of the same toolkit. Rather than settling on one killer app, they build a modular harness stuffed with small, clever inventions, forever adding another gadget wherever they find room.</p><p>What ties their inventory together is a knack for protecting the people around them: barriers of light and energy spring up to catch blows meant for their allies, and their whole approach to a fight involves layering just one more contingency onto whatever plan is already in motion.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

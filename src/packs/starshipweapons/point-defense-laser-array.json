@@ -1,0 +1,49 @@
+{
+  "_id": "LCQDiYCpILcu1QWq",
+  "name": "Point-Defense Laser Array",
+  "type": "starshipweapon",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>A turreted battery of short-range lasers automated to intercept incoming torpedoes, missiles, and boarding craft before they reach the hull. On Huge and larger ships it functions as a zone weapon, tracking targets within its envelope rather than a single locked-on contact.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 2000,
+      "denomination": "credits"
+    },
+    "category": "primary",
+    "hardpoint": "turret",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 500,
+      "long": 1500,
+      "units": "ft"
+    },
+    "properties": [
+      "zon"
+    ],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

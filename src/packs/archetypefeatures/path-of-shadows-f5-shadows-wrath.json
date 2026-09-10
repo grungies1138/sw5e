@@ -1,0 +1,24 @@
+{
+  "_id": "lv4Md95acOpbEzFC",
+  "_key": "!items!lv4Md95acOpbEzFC",
+  "name": "Shadow's Wrath",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your mastery of concealment lets you strike without giving yourself away. While hidden from your target, the first attack you make in a round no longer automatically betrays your location; instead, you contest your Dexterity (Stealth) against the target's Wisdom (Perception). If your check succeeds, you remain hidden, and if you were also invisible, you remain invisible as well.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of Shadows",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

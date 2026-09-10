@@ -1,0 +1,24 @@
+{
+  "_id": "pk1tGoaFiwwNnb3S",
+  "_key": "!items!pk1tGoaFiwwNnb3S",
+  "name": "Quantum Entanglement",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When using Personal Teleporter, you may place the portal that would normally appear within 5 feet of you anywhere within range that you can see instead. If a Huge or smaller creature or a Medium or smaller unsecured object occupies that space, it must succeed on a Dexterity saving throw against your tech save DC (objects automatically fail, and creatures may choose to fail). On a failure, a Medium or smaller creature or object drops through the portal, appearing prone within 5 feet of the linked portal; a Large or Huge creature instead simply falls prone in place.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teleportation Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

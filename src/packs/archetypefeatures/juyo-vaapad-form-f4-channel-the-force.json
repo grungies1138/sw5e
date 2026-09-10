@@ -1,0 +1,24 @@
+{
+  "_id": "U2LzmbFPHbsZKmbD",
+  "_key": "!items!U2LzmbFPHbsZKmbD",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following Channel the Force options: Snap Aggression if you chose Juyo, or Assertive Defense if you chose Vaapad.</p><p><strong>Snap Aggression.</strong> If you're surprised at the start of combat but aren't incapacitated, you may spend a use of Channel the Force to act normally on your first turn anyway.</p><p><strong>Assertive Defense.</strong> When you use the saber reflect power to reduce a force power's damage to 0 while wielding a lightweapon or vibroweapon you're proficient with, you may spend a use of Channel the Force to redirect that attack at a target within its range, regardless of the damage type involved.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Juyo/Vaapad Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

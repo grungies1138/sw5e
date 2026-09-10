@@ -1,0 +1,24 @@
+{
+  "_id": "rkskxJcuGfUFwhRV",
+  "_key": "!items!rkskxJcuGfUFwhRV",
+  "name": "Adaptive Techie",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>After a long rest, you may swap out a number of known tech powers, up to half your Intelligence modifier, for other tech powers of no higher level than your Max Power Level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mastermind Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

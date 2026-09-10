@@ -1,0 +1,47 @@
+{
+  "_id": "6rZcEs6T3nTBtIPt",
+  "_key": "!items!6rZcEs6T3nTBtIPt",
+  "name": "Spacer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You feel more at home in the cold hum of a ship's corridors than on any planet's surface. Most of your life has passed between stars, and whatever your job aboard &mdash; pilot, mechanic, support crew, or something else &mdash; you picked up a working understanding of how a ship holds together.</p><p>You know the safe hyperlanes from the dangerous ones, you can name a hull design at a glance, and you still catch yourself missing the low thrum of a drive at rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "inv",
+        "pil",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "Your choice of chef's kit, mechanic's kit, or one type of gaming set"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Investigator",
+        "Ace Pilot",
+        "Techie",
+        "Specialist",
+        "Competitor",
+        "Galvanizing Presence",
+        "Inspiring Leader"
+      ]
+    },
+    "equipment": "A set of tools or a gaming set of your choice, a set of common clothes, a small souvenir from your travels, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

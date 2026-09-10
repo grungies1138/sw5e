@@ -1,0 +1,45 @@
+{
+  "_id": "OzjYDktoDnPo9PbT",
+  "_key": "!items!OzjYDktoDnPo9PbT",
+  "name": "Mislead",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You vanish from sight as an illusory duplicate of yourself appears in the space you occupied. The duplicate lasts for the duration, and your invisibility persists until you attack or cast another power.</p><p>As an action, you can move the duplicate up to twice your speed and make it gesture, speak, or act as you choose. You can perceive through its senses as though you stood where it does, switching between its senses and your own as a bonus action on your turn; while using its senses you are blinded and deafened to your actual surroundings.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

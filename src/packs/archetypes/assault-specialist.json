@@ -1,0 +1,22 @@
+{
+  "_id": "yMk2P2AR0mJ5SqbD",
+  "_key": "!items!yMk2P2AR0mJ5SqbD",
+  "name": "Assault Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some warriors don't seek clever tricks or arcane secrets &mdash; they seek pure, punishing force. The Assault Specialist channels grueling conditioning and relentless drilling into a body built to end fights fast, turning every strike into a blow meant to break through armor, cover, and will alike.</p><p>What sets these warriors apart isn't just strength but staying power: they shrug off wounds that would fell lesser combatants and keep swinging when others would fall. On the battlefield, an Assault Specialist becomes an unstoppable engine of destruction, growing more dangerous and more resilient the longer a fight drags on.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

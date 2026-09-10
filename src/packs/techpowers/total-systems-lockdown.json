@@ -1,0 +1,45 @@
+{
+  "_id": "xcI2q9GcwPtYpj4T",
+  "_key": "!items!xcI2q9GcwPtYpj4T",
+  "name": "Total Systems Lockdown",
+  "type": "power",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You transmit a cascading shutdown command into a construct, droid, or vehicle. The target must succeed on an Intelligence saving throw or be paralyzed for the duration as its systems lock up completely. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 6",
+    "school": "tech",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

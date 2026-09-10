@@ -1,0 +1,24 @@
+{
+  "_id": "NmNUgc1F4iEG8V9q",
+  "_key": "!items!NmNUgc1F4iEG8V9q",
+  "name": "Sarlaac Sweep",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature moves within 5 feet of you, you can use your reaction to make a melee weapon attack against it. If that attack hits, you may also try to damage a second creature within 5 feet of the original target and within your reach: if the original attack roll would also have hit it, it takes damage equal to your Strength or Dexterity modifier (your choice), of the same type as the original attack.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Shii-Cho Form",
+    "className": "Guardian",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

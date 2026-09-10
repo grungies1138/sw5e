@@ -1,0 +1,30 @@
+{
+  "_id": "DH3E3RLyvUqrnJ9J",
+  "name": "Central Computer Mk II",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>A faster core with expanded memory banks over the Mk I, improving the accuracy of the ship's sensor suite and the reliability of its automated subroutines.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 12000,
+      "denomination": "credits"
+    },
+    "category": "universal",
+    "grade": 2,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

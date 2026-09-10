@@ -1,0 +1,45 @@
+{
+  "_id": "4S2FwGMhyvW9ZZgE",
+  "_key": "!items!4S2FwGMhyvW9ZZgE",
+  "name": "Diagnostic Scan",
+  "type": "power",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your focus feeds you a rapid readout of a target's defenses. Choose one creature you can see within range; you learn its AC, current hit points, and any damage resistances or immunities it has, and you have advantage on the next attack roll you make against it before the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

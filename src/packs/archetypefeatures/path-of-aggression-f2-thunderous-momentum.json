@@ -1,0 +1,24 @@
+{
+  "_id": "lkxHspbnO7jxca3a",
+  "_key": "!items!lkxHspbnO7jxca3a",
+  "name": "Thunderous Momentum",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your footing becomes nearly impossible to break. You are immune to the shocked condition, and each level of the slowed condition reduces your speed by only 5 feet instead of its normal amount, unless doing so would leave your speed unaffected at 0.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Aggression",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

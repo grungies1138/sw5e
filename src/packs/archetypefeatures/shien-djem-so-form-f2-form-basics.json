@@ -1,0 +1,24 @@
+{
+  "_id": "85qHjTVEWdMMlPBm",
+  "_key": "!items!85qHjTVEWdMMlPBm",
+  "name": "Form Basics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn either the Shien or Djem So lightsaber form (see Chapter 6). If you already know the one you pick, choose a different lightsaber form instead.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shien/Djem So Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

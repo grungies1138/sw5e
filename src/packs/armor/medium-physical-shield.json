@@ -1,0 +1,31 @@
+{
+  "_id": "Hl1eZ1b60QjInr3K",
+  "name": "Medium Physical Shield",
+  "type": "shield",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A one-hand alloy shield large enough to catch a blaster bolt or turn a vibroblade's edge, at the cost of tying up a hand that could otherwise hold a weapon.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 250,
+      "denomination": "credits"
+    },
+    "weight": 12,
+    "equipped": false,
+    "tier": "medium",
+    "variant": "physical",
+    "acBonus": 2,
+    "requiresFreeHand": true,
+    "obtrusive": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

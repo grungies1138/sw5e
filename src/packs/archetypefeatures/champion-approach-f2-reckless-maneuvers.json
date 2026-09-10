@@ -1,0 +1,24 @@
+{
+  "_id": "VLNuwGCpQIpw7y6J",
+  "_key": "!items!VLNuwGCpQIpw7y6J",
+  "name": "Reckless Maneuvers",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you invoke Reckless Attack, you also gain advantage on any superiority die rolls that would add to the attack or damage rolls of the attacks it affects.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Champion Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

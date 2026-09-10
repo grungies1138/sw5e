@@ -1,0 +1,45 @@
+{
+  "_id": "TaHQXwsDpK38FOYZ",
+  "_key": "!items!TaHQXwsDpK38FOYZ",
+  "name": "Force Armor",
+  "type": "power",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>You wrap yourself or a creature you touch in a lattice of protective Force energy. The target gains 2d6 temporary hit points, which last until depleted or until you finish a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 5,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

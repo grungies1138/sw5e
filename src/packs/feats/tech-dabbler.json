@@ -1,0 +1,30 @@
+{
+  "_id": "ZJRRWrfTR4u1RU6a",
+  "_key": "!items!ZJRRWrfTR4u1RU6a",
+  "name": "Tech Dabbler",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You pick up a pair of at-will tech powers. At 3rd level you learn a 1st-level tech power you can cast once per long rest, and at 5th level you learn a 2nd-level tech power you can likewise cast once per long rest. Intelligence is your techcasting ability for these powers, and casting them requires a wristpad.</p><p>If you had the Tech-Impaired trait, you no longer have it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

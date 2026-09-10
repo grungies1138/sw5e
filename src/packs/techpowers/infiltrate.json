@@ -1,0 +1,45 @@
+{
+  "_id": "7aWwZp0cN6I9ClJJ",
+  "_key": "!items!7aWwZp0cN6I9ClJJ",
+  "name": "Infiltrate",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A creature you touch turns invisible, along with anything it is wearing or carrying, until it attacks, casts a power, or takes another hostile action, or until the duration ends.</p><p><strong>Overcharge Tech.</strong> Casting with a slot above 2nd level lets you affect one additional creature per slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

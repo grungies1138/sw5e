@@ -1,0 +1,24 @@
+{
+  "_id": "ijkvSGAPMahkIdlc",
+  "_key": "!items!ijkvSGAPMahkIdlc",
+  "name": "Master of Perseverance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your strength is enough to break even the most stubborn foe. Your Strength and Constitution scores each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist kinetic and energy damage dealt by ordinary, non-enhanced weapons.</li><li>Once per turn, when a Strength-based melee weapon attack of yours hits, you may use your Force-Empowered Strikes feature as though you were 1st level, without spending force points, and gain temporary hit points equal to the extra damage dealt.</li><li>When a creature within 5 feet of you makes an attack roll against you, you can use your reaction to make one weapon attack against it with advantage; if that attack hits, the triggering attack roll suffers disadvantage.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shien/Djem So Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

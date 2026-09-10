@@ -1,0 +1,24 @@
+{
+  "_id": "gUzIL8QlQxsOr405",
+  "_key": "!items!gUzIL8QlQxsOr405",
+  "name": "Modified Tinkercannon",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Over a long rest, with tinker's implements in hand, you rebuild them into a wearable harness mounting a cannon. Whenever you cast a tech power of 1st level or higher while wielding it, your GM may roll a d20 behind the scenes; on a 1, you roll percentile dice on the Unstable Engineering Surge table for a random effect.</p><p>The tinkercannon also comes with four overrides, gaining more at higher levels per the engineer table's Modification Slots column. Each time a surge triggers, you may spend an override to reroll the percentile dice — you must keep the new result, and only one reroll is allowed per surge. Each override you spend beyond your proficiency bonus (the count resets on a long rest) lowers your maximum tech points by 1 until your next long rest. All spent overrides return after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Unstable Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

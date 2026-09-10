@@ -1,0 +1,24 @@
+{
+  "_id": "tA049GzbUFdrMLqu",
+  "_key": "!items!tA049GzbUFdrMLqu",
+  "name": "Follow Through",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you take the Attack action, you may spend 2 force points and give up one of your attacks to instead cast an at-will force power that calls for a melee weapon attack.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Iron",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

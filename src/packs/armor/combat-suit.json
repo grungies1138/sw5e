@@ -1,0 +1,35 @@
+{
+  "_id": "tElyTz7d9gJ5uiUF",
+  "name": "Combat Suit",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A durable jumpsuit reinforced with impact-resistant plating over the vital areas, light enough to move and fight freely while still turning aside glancing blows.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 150,
+      "denomination": "credits"
+    },
+    "weight": 8,
+    "equipped": false,
+    "proficient": true,
+    "type": "light",
+    "armor": {
+      "value": 11,
+      "dex": null
+    },
+    "strength": null,
+    "stealthDisadvantage": false,
+    "bulky": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "0ViuAkfuTkPKBE1i",
+  "_key": "!items!0ViuAkfuTkPKBE1i",
+  "name": "Infiltrator",
+  "type": "archetype",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Infiltrator archetype is an Operative who specializes in getting somewhere they are not supposed to be, and getting back out again before anyone notices they were ever there. Where other Operatives focus on the kill, the Infiltrator focuses on access — bypassing security, forging credentials, and moving through hostile territory like a ghost.</p><p>Infiltrators gain refined skills at bypassing locks, alarms, and checkpoints, an uncanny knack for slipping out of a tightening net, and the option to turn a botched infiltration into a decisive strike the moment stealth stops being an option.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

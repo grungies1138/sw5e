@@ -1,0 +1,45 @@
+{
+  "_id": "sq8y0Re3lfFA5hk2",
+  "_key": "!items!sq8y0Re3lfFA5hk2",
+  "name": "Hologram",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You create a purely visual image, no larger than a 15-foot cube, at a point within range for the duration; anything passing through it exposes it as false.</p><p>As an action, you may move the image anywhere else within range, altering its motion so it appears natural. A creature that spends its action studying the image can see through it with a successful Intelligence (Investigation) check against your tech save DC.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

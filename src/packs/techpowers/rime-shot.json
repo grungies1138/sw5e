@@ -1,0 +1,45 @@
+{
+  "_id": "FMhpMWzApxlC7hWP",
+  "_key": "!items!FMhpMWzApxlC7hWP",
+  "name": "Rime Shot",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action to cast this power, you make a ranged weapon attack against a target within your weapon's range, and the power fails if you don't. On a hit, the attack deals its normal damage, and frigid air clings to the target, giving it 1 slowed level until the end of its turn.</p><p>At 5th level you add 1d6 cold damage to the attack; this bonus rises to 2d6 at 11th level and 3d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

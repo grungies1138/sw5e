@@ -1,0 +1,24 @@
+{
+  "_id": "APp14Qf6aIv6oSUV",
+  "_key": "!items!APp14Qf6aIv6oSUV",
+  "name": "Elegant Maneuver",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make later that same turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ruffian Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

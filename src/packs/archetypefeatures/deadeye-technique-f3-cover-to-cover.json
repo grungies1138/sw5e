@@ -1,0 +1,24 @@
+{
+  "_id": "o1ZpqFChg0An6DxP",
+  "_key": "!items!o1ZpqFChg0An6DxP",
+  "name": "Cover to Cover",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Attacks made against you on your own turn are rolled with disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Deadeye Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

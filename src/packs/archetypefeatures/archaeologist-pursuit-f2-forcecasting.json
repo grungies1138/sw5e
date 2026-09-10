@@ -1,0 +1,24 @@
+{
+  "_id": "oaKZ9tWnLkFEpcwo",
+  "_key": "!items!oaKZ9tWnLkFEpcwo",
+  "name": "Forcecasting",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your research into peoples who once walked closely with the Force has left you able to wield some of its powers yourself. Chapter 10 covers the general rules for forcecasting, and chapter 11 lists the available force powers.</p><p><strong>Force Powers Known.</strong> You start out knowing 4 force powers of your choice, gaining more as you level per the Force Powers Known column of the Archaeologist Pursuit Forcecasting table. You can't learn any power whose level exceeds your Max Power Level, though you may learn a power the same moment you learn whatever it requires as a prerequisite.</p><p><strong>Force Points.</strong> Your pool of force points, spent to cast your powers, equals your scholar level (per the Force Points column of that same table) plus your Intelligence, Wisdom, or Charisma modifier — your choice which. All spent force points return after a long rest.</p><p><strong>Max Power Level.</strong> Many powers can be overpowered by spending extra force points for a stronger effect, up to a ceiling that rises as you level, shown in the Max Power Level column. Casting a power overpowered to 4th level is limited to once, regained after a long rest.</p><p><strong>Forcecasting Ability.</strong> Which ability governs your powers depends on their alignment: Intelligence or Wisdom (your choice) for light-side powers, Intelligence or Charisma (your choice) for dark-side powers, and Intelligence, Wisdom, or Charisma (your choice) for universal powers. Use this same ability whenever a power calls for your forcecasting ability, including when calculating a power's save DC or making an attack roll with it.</p><p><strong>Force save DC</strong> = 8 + your proficiency bonus + your forcecasting ability modifier</p><p><strong>Force attack modifier</strong> = your proficiency bonus + your forcecasting ability modifier</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Archaeologist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

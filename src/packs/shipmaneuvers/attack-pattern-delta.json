@@ -1,0 +1,25 @@
+{
+  "_id": "MeLyDKQD3sh4MRLp",
+  "name": "Attack Pattern Delta",
+  "type": "shipmaneuver",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, expend a Power Die from the Engines pool and roll it. Choose one allied ship within 100 feet; the next attack roll that ally's ship makes before the start of your next turn has advantage, and if it hits, the ally adds the result to the damage dealt.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Pilot Tactics",
+    "deployment": "pilot",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

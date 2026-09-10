@@ -1,0 +1,24 @@
+{
+  "_id": "4ijS3xmirtMiVD1H",
+  "_key": "!items!4ijS3xmirtMiVD1H",
+  "name": "Out of Touch",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can slip out of phase with reality for up to 1 minute. At the start of each of your turns during this time, roll a d20: on an 11 or higher, you and your gear become completely invisible to everyone except beings with truesight; on a 10 or lower, you instead appear only as a blurred shape of roughly your normal size, though truesight still reveals you clearly. Whichever result you get, for the duration your speed doubles, you gain a flying speed equal to your walking speed, and you may move freely through creatures and objects — you cannot affect them, nor they you, while doing so. You may end the effect early on your turn at no action cost. If the effect ends while you occupy a solid object or creature, you are immediately shunted to the nearest space you can occupy and take force damage equal to twice the distance moved.</p><p>The effect also ends early if you are incapacitated or die. Once used, this feature can't be used again until you finish a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Ethereality",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "m4k9rcui6zlCeSdw",
+  "_key": "!items!m4k9rcui6zlCeSdw",
+  "name": "Blade Dance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you damage a creature standing within 5 feet of you, you may immediately shift up to 10 feet without triggering opportunity attacks.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of Focus",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

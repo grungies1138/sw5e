@@ -1,0 +1,24 @@
+{
+  "_id": "mDdbwiLce1DHpiJG",
+  "_key": "!items!mDdbwiLce1DHpiJG",
+  "name": "Mighty Leap",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your jumping distance is doubled, and leaping out of a hostile creature's reach no longer exposes you to an opportunity attack.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Cyclone Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

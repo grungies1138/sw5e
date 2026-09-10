@@ -1,0 +1,24 @@
+{
+  "_id": "h1qYI2LXahDkwZoo",
+  "_key": "!items!h1qYI2LXahDkwZoo",
+  "name": "Neck Snap",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can force a creature you're grappling to attempt a Constitution save. On a failure, if it has 100 hit points or fewer, it dies outright; if it has more than 100, it instead takes 10d10 true damage immediately.</p><p>You need a short or long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Disabling Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "XSv3AJawI6QFEeml",
+  "_key": "!items!XSv3AJawI6QFEeml",
+  "name": "Blitz Attack",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you deal Sneak Attack damage, you can give up two of those dice to perform a blitz attack instead. The save DC for these is 8 plus your proficiency bonus plus your Strength or Dexterity modifier, your choice.</p><p><strong>Demoralizing Attack.</strong> The target attempts a Wisdom save or becomes frightened of you until the end of your next turn.</p><p><strong>Diverting Attack.</strong> Roll two Sneak Attack dice. The next time before the start of your next turn that the target would deal damage, reduce that damage by the amount rolled.</p><p><strong>Warmonger's Attack.</strong> If the target attacks you or an ally within 5 feet of you before the start of your next turn, you can use your reaction to make a melee weapon attack against it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Pugnacity Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

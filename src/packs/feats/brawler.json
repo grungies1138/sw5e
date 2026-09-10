@@ -1,0 +1,26 @@
+{
+  "_id": "Xk08nCy3SmyRMSz9",
+  "_key": "!items!Xk08nCy3SmyRMSz9",
+  "name": "Brawler",
+  "type": "feat",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are a master of grappling and unarmed combat. Your unarmed strikes deal 1d4 damage instead of the normal 1, and you can choose to deal bludgeoning, piercing, or slashing damage with them.</p><p>You have advantage on checks made to grapple a creature, and once per turn when you hit a creature with an unarmed strike, you can attempt to shove that creature 5 feet away or knock it prone as part of the same attack, with no additional action required.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

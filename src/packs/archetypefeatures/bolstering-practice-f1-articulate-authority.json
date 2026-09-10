@@ -1,0 +1,24 @@
+{
+  "_id": "xcxWAKQkibxAO34C",
+  "_key": "!items!xcxWAKQkibxAO34C",
+  "name": "Articulate Authority",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you spend your Cunning Action's bonus action to Dash, Disengage, or Hide, you can extend the benefit to your squad: a number of friendly creatures up to your Charisma modifier, within 30 feet and able to hear and understand you, can each use their reaction to gain an effect matching the action you took.</p><ul><li><strong>Dash:</strong> the creature may move up to half its speed, ending within 30 feet of you.</li><li><strong>Disengage:</strong> the creature may move up to 5 feet; any opportunity attack that movement would provoke is made with disadvantage.</li><li><strong>Hide:</strong> the creature gains advantage on the next attack roll it makes before the end of its following turn, against any creature you successfully hid from.</li></ul><p>You can use this feature twice, gaining one more use at each of 5th, 9th, 13th, and 17th level, and you regain all uses on finishing a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Bolstering Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

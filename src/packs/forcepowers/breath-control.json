@@ -1,0 +1,45 @@
+{
+  "_id": "ZePv2oMQAr33tngu",
+  "_key": "!items!ZePv2oMQAr33tngu",
+  "name": "Breath Control",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You slow your metabolism to resist toxins and forgo breathing entirely for the duration. Casting this power neutralizes one poison currently affecting you (your choice if more than one is present, otherwise randomly determined). For the duration, you have advantage on saving throws against poison, resistance to poison damage, and no need to breathe.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

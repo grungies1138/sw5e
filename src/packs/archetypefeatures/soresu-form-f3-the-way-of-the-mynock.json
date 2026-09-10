@@ -1,0 +1,24 @@
+{
+  "_id": "2OgDT39hGtV90Lvf",
+  "_key": "!items!2OgDT39hGtV90Lvf",
+  "name": "The Way of the Mynock",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can spend one minute in a defensive stance. As part of that bonus action, and again as a bonus action on later turns, you may cast the saber ward power. Whenever you do, you gain a number of special reactions equal to your proficiency bonus, usable only to cast the saber reflect force power.</p><p>The stance ends early if you're incapacitated or killed. You must finish a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Soresu Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

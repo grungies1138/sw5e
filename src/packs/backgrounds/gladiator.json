@@ -1,0 +1,47 @@
+{
+  "_id": "yy5cuxlu5oI3z9R9",
+  "_key": "!items!yy5cuxlu5oI3z9R9",
+  "name": "Gladiator",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are as much an entertainer as any musician or circus act, just with combat as your art form. Trained to turn a fight into a spectacle a crowd will pay to watch, you've bled for cheering audiences in arenas both licensed and illegal.</p><p>Wherever there's a pit or a ring that features combat as entertainment, you can find work &mdash; and more than a few strangers recognize your name, or at least your fighting style, from a bout they once watched.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "acr",
+        "ath",
+        "itm",
+        "prf"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of musical instrument"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Acrobat",
+        "Brawny",
+        "Threatening",
+        "Performer",
+        "Entertainer",
+        "Linguist",
+        "Athlete",
+        "Durable"
+      ]
+    },
+    "equipment": "A trophy earned through competition, clothing suitable to your profession, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

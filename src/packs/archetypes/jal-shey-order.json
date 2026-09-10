@@ -1,0 +1,22 @@
+{
+  "_id": "fgko4SsZHO8C69nt",
+  "_key": "!items!fgko4SsZHO8C69nt",
+  "name": "Jal Shey Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Keepers of the Jal Shey Archives dedicate themselves to a lifetime of study, treating knowledge itself as both shield and weapon. Novices arrive from every corner of the galaxy seeking clarity, and leave versed in the arts of observation, deduction, and quiet defense.</p><p>To wear the order's robes is to accept guardianship over secrets too dangerous for careless hands—and to turn a scholar's eye for detail into a fighter's uncanny insight into an opponent's weaknesses.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "dJcQqhTjQNiVi9Nf",
+  "_key": "!items!dJcQqhTjQNiVi9Nf",
+  "name": "Bountiful Luck",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Fortune seems to answer your will, and you have learned to share it with those beside you. As a reaction, when an ally within 30 feet that you can see rolls a 1 on the d20 for an attack roll, ability check, or saving throw, you may spend 1 luck point to force a reroll, and the ally must use the new result. After using this ability, you cannot spend luck points again until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level, Lucky feat.",
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

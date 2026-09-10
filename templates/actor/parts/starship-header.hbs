@@ -1,0 +1,61 @@
+<header class="sheet-header starship-header">
+  <img class="profile-img" src="{{actor.img}}" data-action="editImage" data-edit="img" alt="{{actor.name}}">
+  <div class="header-fields">
+    <input class="name-input" name="name" type="text" value="{{actor.name}}" placeholder="{{sw5eLabel 'SW5E.Name'}}">
+    <div class="header-row chassis-row">
+      <label>{{sw5eLabel 'SW5E.Size'}}
+        <select name="system.details.size">
+          {{#each config.starshipSizes as |cfg key|}}
+          <option value="{{key}}" {{#if (sw5eEq key ../system.details.size)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>
+          {{/each}}
+        </select>
+      </label>
+      <label>{{sw5eLabel 'SW5E.Tier'}}
+        <input type="number" name="system.details.tier" value="{{system.details.tier}}" min="0" max="5" style="width:3em">
+      </label>
+      <label>{{sw5eLabel 'SW5E.Role'}}
+        <input type="text" name="system.details.role" value="{{system.details.role}}">
+      </label>
+    </div>
+    <div class="header-row bars-row">
+      <div class="resource hull">
+        <label>{{sw5eLabel 'SW5E.HullPoints'}}</label>
+        <div class="bar-wrap">
+          <div class="bar-fill" style="width:{{sw5ePercent system.hull.value system.hull.max}}%"></div>
+          <input type="number" name="system.hull.value" value="{{system.hull.value}}">
+          <span>/ {{system.hull.max}}</span>
+        </div>
+      </div>
+      <div class="resource shield">
+        <label>{{sw5eLabel 'SW5E.ShieldPoints'}}</label>
+        <div class="bar-wrap">
+          <div class="bar-fill shield-fill" style="width:{{sw5ePercent system.shield.value system.shield.max}}%"></div>
+          <input type="number" name="system.shield.value" value="{{system.shield.value}}">
+          <span>/ {{system.shield.max}} (regen {{system.shield.regenRate}}/rd)</span>
+        </div>
+      </div>
+      <div class="resource ac">
+        <label>{{sw5eLabel 'SW5E.ArmorClass'}}</label>
+        <div class="ac-value">{{system.attributes.ac.value}}</div>
+        <span class="dr-note">{{sw5eLabel 'SW5E.DamageReduction'}} {{system.attributes.ac.dr}}</span>
+      </div>
+      <div class="resource speed">
+        <label>{{sw5eLabel 'SW5E.Speed'}}</label>
+        <div class="speed-value">{{system.attributes.speed.flyTotal}} ft <span class="turn-note">({{sw5eLabel 'SW5E.Turn'}} {{system.attributes.speed.turn}})</span></div>
+      </div>
+      <div class="resource rating" title="{{sw5eLabel 'SW5E.ShipRatingDefensive'}} {{system.rating.defensive}} / {{sw5eLabel 'SW5E.ShipRatingOffensive'}} {{system.rating.offensive}}">
+        <label>{{sw5eLabel 'SW5E.ShipRating'}}</label>
+        <div class="rating-value">{{system.rating.value}}</div>
+      </div>
+    </div>
+    <div class="header-row conditions-row">
+      <span class="pill">{{sw5eLabel 'SW5E.SystemDamage'}}: {{system.conditions.systemDamage}}/6</span>
+      <span class="pill">{{sw5eLabel 'SW5E.Slowed'}}: {{system.conditions.slowed}}/4</span>
+      {{#if system.attributes.skeletonCrewPenalty}}<span class="pill warn">{{sw5eLabel 'SW5E.SkeletonCrew'}} +{{system.attributes.skeletonCrewPenalty}}</span>{{/if}}
+      {{#if system.conditions.disabled}}<span class="pill warn">{{sw5eLabel 'SW5E.Disabled'}}</span>{{/if}}
+      {{#if system.conditions.destroyed}}<span class="pill destroyed">{{sw5eLabel 'SW5E.Destroyed'}}</span>{{/if}}
+      <button type="button" data-action="startTurn">{{sw5eLabel 'SW5E.BeginShipTurn'}}</button>
+      {{#if (sw5eEq system.hull.value 0)}}<button type="button" data-action="destructionSave">{{sw5eLabel 'SW5E.DestructionSave'}}</button>{{/if}}
+    </div>
+  </div>
+</header>

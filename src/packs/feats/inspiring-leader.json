@@ -1,0 +1,30 @@
+{
+  "_id": "t39QWzTj0j87JRhz",
+  "_key": "!items!t39QWzTj0j87JRhz",
+  "name": "Inspiring Leader",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending 10 minutes rallying your companions, you steel them for the battle ahead. Choose up to six friendly creatures within 30 feet of you (yourself included) who can see or hear you and understand your words; each one gains temporary hit points equal to your character level plus your Charisma modifier. A creature can't gain temporary hit points from this feat again until it completes a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Charisma 13.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

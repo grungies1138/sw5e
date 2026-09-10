@@ -1,0 +1,30 @@
+{
+  "_id": "UMYB0JxpOiBXPZzU",
+  "name": "Overcharged Capacitors",
+  "type": "starshipmod",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>Bulkier capacitor banks wired into the reactor's output stage, letting the ship bank an extra power die in central storage beyond its coupling's normal capacity.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 5500,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 2,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

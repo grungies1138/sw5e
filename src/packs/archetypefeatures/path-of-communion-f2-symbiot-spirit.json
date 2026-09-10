@@ -1,0 +1,24 @@
+{
+  "_id": "yvbXrjTyZ4TMBVjW",
+  "_key": "!items!yvbXrjTyZ4TMBVjW",
+  "name": "Symbiot Spirit",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>A Force ghost takes notice of you and can be drawn into lasting communion. Attuning to the spirit takes one hour, after which, while the bond holds, you gain the following:</p><ul><li>You can always see and hear your spirit; it can choose, with no action required, whether to be seen and heard by others, though beings with truesight always perceive it.</li><li>Your spirit cannot touch or affect the physical world, but ordinary walls and barriers likewise cannot block its movement.</li><li>Your spirit has a will of its own and follows your commands only when it chooses to. In combat it rolls its own initiative and acts on its own turn; it cannot attack, though it may take other actions normally.</li><li>While your spirit is within 100 feet of you, you share a telepathic link with it, and as an action you may see and hear through its senses until the start of your next turn — while doing so, you are deaf and blind to your own surroundings.</li><li>When you cast a force power with a range of touch, your spirit may deliver it for you as though it had cast the power itself, provided it is within 100 feet and spends its reaction to do so; if the power requires an attack roll, you use your own attack modifier.</li></ul><p>You may only be attuned to one spirit at a time; attuning to a new one immediately ends the bond with the old. Which spirit answers your call — a departed Jedi, a lingering Sith presence, a Nightsister's ghost, or some other figure from the Force's history — is something you work out together with your GM.</p><p>In time, your spirit also learns to briefly touch the physical world: when you would make a melee attack, it may instead deliver that attack on your behalf, provided it is within 100 feet of you and spends its reaction to do so, using your own attack and damage modifiers. You can use this ability twice, gaining one additional use at 5th, 9th, 13th, and 17th level, and regain all spent uses after a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Communion",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

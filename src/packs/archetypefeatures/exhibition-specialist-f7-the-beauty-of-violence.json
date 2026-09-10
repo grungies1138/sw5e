@@ -1,0 +1,24 @@
+{
+  "_id": "K5YbgTMHjB12gKhf",
+  "_key": "!items!K5YbgTMHjB12gKhf",
+  "name": "The Beauty of Violence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you mark a creature with In the Spotlight, you may empower that mark. For its duration, you gain these additional benefits:</p><ul><li>Add your full Charisma modifier, rather than half, to weapon damage rolls against the marked target that don't already include it.</li><li>Add half your Charisma modifier (minimum 1) to weapon attack rolls against the marked target that don't already include it.</li><li>If the marked target drops to 0 hit points, you may use your reaction to mark a new creature within 30 feet, carrying over the remaining duration of the old mark.</li></ul><p>This benefit ends early if you're incapacitated or die. Once used, it requires a long rest before you can use it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Exhibition Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

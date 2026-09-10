@@ -1,0 +1,24 @@
+{
+  "_id": "gADs5y7Ege0TA14I",
+  "_key": "!items!gADs5y7Ege0TA14I",
+  "name": "The Way of the Krayt Dragon",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can spend one minute in a threatening stance. While in the stance, the first time each turn you hit with a Strength-based melee weapon attack, you may deal extra damage equal to your Strength modifier. If another creature is within 5 feet of the original target and within your reach, you may instead try to deal that extra damage to the second creature: if the attack roll would also have hit it, it takes damage equal to your Strength modifier, of the same type as the original attack.</p><p>The stance ends early if you're incapacitated or killed. You must finish a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shien/Djem So Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

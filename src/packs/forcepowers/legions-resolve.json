@@ -1,0 +1,45 @@
+{
+  "_id": "rvASy9iVvZNZp2jn",
+  "_key": "!items!rvASy9iVvZNZp2jn",
+  "name": "Legion's Resolve",
+  "type": "power",
+  "img": "icons/svg/castle.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your presence steadies an entire company. Choose up to ten allies within 60 feet of you. For the duration, each of them gains a +2 bonus to attack rolls, damage rolls, and saving throws.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minutes"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

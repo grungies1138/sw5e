@@ -1,0 +1,27 @@
+{
+  "_id": "TlS11QVLM8hAx3YH",
+  "name": "Fortress Shield Generator",
+  "type": "starshipequipment",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A heavy-duty shield generator built for raw durability. Shield Capacity equals base Shield Points &times;1.5, but Shield Regeneration Rate is reduced to the maximum value of the Shield Die &times;2/3 (rounded).</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 0,
+      "denomination": "credits"
+    },
+    "kind": "shieldGenerator",
+    "configKey": "fortress",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "OK0vB5ZD9NAaySmV",
+  "_key": "!items!OK0vB5ZD9NAaySmV",
+  "name": "Crimson Armaments",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with light and medium armor; if you already had both, you instead gain proficiency with heavy armor. From now on, wearing armor no longer interferes with your Martial Arts or Unarmored Movement features, provided you carry no shield.</p><p>You also learn to bond with unfamiliar weapons through ritual practice. Spending an hour running through a kata—time that can overlap with a short rest—lets you attune to one weapon of your choice, granting you proficiency with it (if you lacked it) and making it a monk weapon for you. You can be attuned to only one such weapon at a time; attuning to a new one immediately breaks your proficiency with the previous choice.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Crimson Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

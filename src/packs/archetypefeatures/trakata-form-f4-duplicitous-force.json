@@ -1,0 +1,24 @@
+{
+  "_id": "DCZr7siD15H1MwPk",
+  "_key": "!items!DCZr7siD15H1MwPk",
+  "name": "Duplicitous Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you make a Dexterity (Sleight of Hand) check, you add a bonus equal to your Wisdom or Charisma modifier (your choice, minimum 1).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Trakata Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

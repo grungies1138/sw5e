@@ -1,0 +1,24 @@
+{
+  "_id": "48IWvGUN32DT6kZc",
+  "_key": "!items!48IWvGUN32DT6kZc",
+  "name": "Spiked Retribution",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a creature within 5 feet lands a melee hit on you, it takes kinetic damage equal to your Strength modifier in return, provided you're wearing your spiked armor and aren't incapacitated. If you're raging when this happens, add your rage damage bonus to that retaliatory damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Armored Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

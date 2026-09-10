@@ -1,0 +1,24 @@
+{
+  "_id": "TpriollYxTOJjZA1",
+  "_key": "!items!TpriollYxTOJjZA1",
+  "name": "Mighty Blast",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a force power of 1st level or higher that deals force or kinetic damage, one creature of your choice that the power damages must succeed on a Strength saving throw against your universal force save DC or be knocked prone. You can affect an additional creature at 11th level, and a third at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Telekinetics",
+    "className": "Consular",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

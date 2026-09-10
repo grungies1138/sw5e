@@ -1,0 +1,24 @@
+{
+  "_id": "RztYwqSUTxXZTTts",
+  "_key": "!items!RztYwqSUTxXZTTts",
+  "name": "Stormcaller",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to summon a raging storm in a 30-foot radius around yourself. As an action, you can gain the following for 1 minute: a flying speed equal to your walking speed; resistance to energy, lightning, and necrotic damage; and any hostile creature that enters the radius for the first time on a turn, or starts its turn there, takes 10 lightning damage.</p><p>The storm ends early if you are incapacitated or die. Once used, you can't use this feature again until you complete a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Witchcraft",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

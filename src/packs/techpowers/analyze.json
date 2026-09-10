@@ -1,0 +1,45 @@
+{
+  "_id": "E0wFWZSG8oo15SwT",
+  "_key": "!items!E0wFWZSG8oo15SwT",
+  "name": "Analyze",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>By touching an object throughout the minute-long casting of this power, you learn whether it is enhanced or modified, its properties and how to use them, whether it requires attunement, how many charges it has (if any), and whether any powers currently affect it (and which power created it, if it was power-made).</p><p>Touching a creature instead reveals what tech powers, if any, currently affect it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

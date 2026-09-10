@@ -1,0 +1,45 @@
+{
+  "_id": "NalDkGIFMlIlVKvs",
+  "_key": "!items!NalDkGIFMlIlVKvs",
+  "name": "Investigator",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You served with a settlement's watch or a similar body responsible for keeping the peace &mdash; not walking a beat so much as picking up the pieces afterward, tracing a crime back to whoever committed it. Few communities can spare more than one or two people with that particular knack, and you were one of them.</p><p>The discipline of that service stayed with you: a rigid sense of duty, a hard-won read on local law and local criminals alike, and more than a few unresolved cases you still think about.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "inv",
+        "prc",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Investigator",
+        "Perceptive",
+        "Survivalist",
+        "Linguist",
+        "Alert",
+        "Observant",
+        "Keen Mind"
+      ]
+    },
+    "equipment": "A uniform in the style of your former unit indicating your rank, a horn with which to summon help, a set of binders, and a pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "MXQDSPEqJdY5uTuG",
+  "name": "Luxury Quarters",
+  "type": "starshipmod",
+  "img": "icons/svg/statue.svg",
+  "system": {
+    "description": {
+      "value": "<p>Well-appointed staterooms fitted with private refreshers and entertainment systems, favored by diplomats, executives, and crime lords alike.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 8000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 2,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

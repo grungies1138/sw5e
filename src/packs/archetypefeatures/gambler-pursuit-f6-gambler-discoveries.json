@@ -1,0 +1,24 @@
+{
+  "_id": "mp1vtkCeaTMXRyE3",
+  "_key": "!items!mp1vtkCeaTMXRyE3",
+  "name": "Gambler Discoveries",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choosing this pursuit opens up a set of discoveries built around your grasp of chance. Each time you gain a new discovery, the options below are also available to you, alongside the usual list. They're presented here alphabetically.</p><p><strong>Ace Up Your Sleeve.</strong> When making a Dexterity (Sleight of Hand) or Charisma (Deception) check, you may spend a superiority die and add its roll to the check's total.</p><p><strong>Against the House.</strong> In place of a Charisma (Persuasion) check tied to bargaining, you can instead challenge your counterpart to a game of chance. Should they take you up on it, you make an ability check using a gaming set you have on hand; winning that contest counts as an automatic success on the Persuasion check.</p><p><strong>Ante Up.</strong> If you roll initiative, aren't surprised, and land at the very top of the order, your first turn of the encounter grants you one extra action in addition to your normal action and any bonus action.</p><p><strong>Calculated Bluff.</strong> For any ability check that would use Charisma, you may substitute your Intelligence or Wisdom modifier instead, your choice.</p><p><strong>Cold Read</strong> (5th level required). Spending your action, you can make a Wisdom (Insight) check opposed by a target's Charisma (Deception) check. Succeeding tells you what action the target plans to take next, provided circumstances don't shift substantially before then.</p><p><strong>Feeling the Pressure</strong> (13th level required). Whenever your Risk versus Reward wager comes up 4 or higher, your Critical Analysis target also suffers disadvantage on any attack rolls it makes against you until the start of your next turn.</p><p><strong>Take a Chance</strong> (9th level required). Before rolling an attack, you may spend a superiority die on the gamble. Miss, and the die is simply gone with no benefit. Hit, and you may apply two other maneuvers you know to the target at no additional superiority die cost.</p><p><strong>The Magic Number</strong> (7th level required). Any time you roll a natural 7 on an ability check or saving throw, you can reroll it, this time with advantage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gambler Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "TyK83fB3HUIELQZr",
+  "_key": "!items!TyK83fB3HUIELQZr",
+  "name": "Hex",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lay a curse on a creature within range. For the duration, whenever you hit the cursed target with an attack, it takes an extra 1d6 necrotic damage. You also name one ability when you cast the power; the target has disadvantage on checks made with that ability.</p><p>Should the target drop to 0 hit points before the power ends, you may use a bonus action on a later turn to shift the curse to a new target.</p><p>Cast with a 3rd- or 4th-level slot, you can sustain your concentration on the power for up to 8 hours; with a 5th-level slot or higher, for up to 24 hours.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 1",
+    "school": "darkside",
+    "level": 1,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

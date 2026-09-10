@@ -1,0 +1,25 @@
+{
+  "_id": "mtOEuZ0YkUZyQY5S",
+  "name": "Barrel Roll",
+  "type": "shipmaneuver",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Reaction.</strong> When your ship is targeted by an attack, expend a Power Die from the Engines pool and roll it; your ship immediately moves a number of feet equal to the result &times; 50, potentially avoiding the attack entirely (GM's discretion based on the new position).</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Pilot Tactics",
+    "deployment": "pilot",
+    "rankRequired": 1,
+    "activation": "reaction",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "79myyqZL2bWrPKVL",
+  "_key": "!items!79myyqZL2bWrPKVL",
+  "name": "Deceptive Strike",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While Saber Storm is active, you can cast a force power with a range of touch through your animated weapon: the weapon moves up to its normal travel distance and delivers the power as though it were the one casting it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Manipulation",
+    "className": "Consular",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "rkrsV78OEtfgBvnB",
+  "_key": "!items!rkrsV78OEtfgBvnB",
+  "name": "Sokan Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Sokan turns the battlefield itself into a weapon, pairing deliberate, grounded movement with sudden decisive strikes to keep an opponent's footing unstable. Its practitioners read terrain the way other guardians read a blade, herding enemies toward ledges, hazards, and choke points before finishing them off.</p><p>Persistence defines the style: a Sokan duelist plants themselves, resists being shoved or moved, and steadily maneuvers the fight onto ground of their own choosing.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

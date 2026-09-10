@@ -1,0 +1,50 @@
+{
+  "_id": "ggNk3Xy0Nq3er6MX",
+  "_key": "!items!ggNk3Xy0Nq3er6MX",
+  "name": "Overheat",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target a manufactured metal object you can see within range &mdash; a blaster, or a suit of medium or heavy metal armor, for example &mdash; causing it to glow white-hot. Any creature touching the object when you cast the power takes 2d8 fire damage, and for the duration you can use a bonus action on later turns to inflict this damage again.</p><p>If a creature wearing, wielding, or otherwise in contact with the object takes this damage, it must succeed on a Constitution saving throw or drop the object (if able); if it can't or doesn't drop it, it has disadvantage on attack rolls and ability checks until the start of your next turn.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 3rd level or higher, the damage increases by 1d8 per slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

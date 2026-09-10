@@ -1,0 +1,24 @@
+{
+  "_id": "rWw688TUgSn9Rj8e",
+  "_key": "!items!rWw688TUgSn9Rj8e",
+  "name": "Self-Sustain",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on death saving throws. Additionally, the next time you're stabilized, you regain 1 hit point; you can't benefit from that a second time until you finish a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sawbones Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

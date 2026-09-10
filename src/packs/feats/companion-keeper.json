@@ -1,0 +1,30 @@
+{
+  "_id": "IyDUnGzZPtqyurGj",
+  "_key": "!items!IyDUnGzZPtqyurGj",
+  "name": "Companion Keeper",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain a companion's aid. Choose one of the companion nature options described later in this chapter.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

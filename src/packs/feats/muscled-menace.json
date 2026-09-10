@@ -1,0 +1,32 @@
+{
+  "_id": "ofLnX42nvT4zBPwF",
+  "_key": "!items!ofLnX42nvT4zBPwF",
+  "name": "Muscled Menace",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Though built no larger than your peers, your strength surpasses theirs. Increase your Strength score by 1, to a maximum of 20, and your speed increases by 5 feet.</p><p>Your Dexterity can add no more than +3 to your Armor Class or to Dexterity saving throws. You also gain the Oversized trait: light and vibroweapons that lack the dexterity or light property count as having the heavy property for you, and the Strength requirement of blasters is lowered by one step (19 becomes 17, 17 becomes 15, 15 becomes 13, and 13 becomes 11); a requirement of 11 is disregarded entirely.</p>",
+      "chat": ""
+    },
+    "source": "Wretched Hive Feats",
+    "requirements": "Strength 13, Medium size.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "h5AuHiKLA3oPPeHX",
+  "_key": "!items!h5AuHiKLA3oPPeHX",
+  "name": "Master Malacia",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>One creature you can see within range is struck with overwhelming vertigo and nausea for the duration; creatures immune to being charmed are unaffected.</p><p>The afflicted creature must spend its entire movement writhing in place and suffers disadvantage on Dexterity saving throws and attack rolls, while attacks against it gain advantage. As an action, it may attempt a Wisdom saving throw to master itself, ending the power on a success. This power has no effect on droids or constructs.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 6",
+    "school": "universal",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

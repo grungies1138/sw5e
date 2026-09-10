@@ -1,0 +1,30 @@
+{
+  "_id": "DbgijdNOnn7yBuNj",
+  "name": "Command Center",
+  "type": "starshipmod",
+  "img": "icons/svg/statue.svg",
+  "system": {
+    "description": {
+      "value": "<p>A secondary bridge-like suite equipped with tactical displays and communication relays, allowing coordination of a larger fleet or ground operation from aboard ship.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 15000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 3,
+    "slots": 3,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

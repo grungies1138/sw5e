@@ -1,0 +1,25 @@
+{
+  "_id": "o8Y41JGiBMYk5wzp",
+  "name": "Power Distribution",
+  "type": "shipmaneuver",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, roll your Tech Die. You may move a number of Power Dice up to the result between the central pool and any system pools, or between two system pools, ignoring the ship's normal per-location storage capacity for this transfer (excess dice above capacity are lost if not placed within capacity by the end of the move).</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Mechanic Techniques",
+    "deployment": "mechanic",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": false,
+    "formula": "@techDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

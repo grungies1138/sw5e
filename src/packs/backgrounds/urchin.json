@@ -1,0 +1,47 @@
+{
+  "_id": "yngd9M5SJnzABEa6",
+  "_key": "!items!yngd9M5SJnzABEa6",
+  "name": "Urchin",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You grew up on the streets with no one watching over you, learning early how to provide for yourself when nobody else would. Rooftops and alleyways were your shelter, and cunning, speed, or sheer stubbornness kept you alive when the odds said otherwise.</p><p>Whatever finally broke you free of that desperate life, you still know a city's hidden patterns better than most people know their own homes, and you can find a way through urban sprawl that others would never spot.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "slt",
+        "ste"
+      ]
+    },
+    "toolProficiencies": [
+      "Disguise kit, security kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Quick-Fingered",
+        "Stealthy",
+        "Specialist",
+        "Alert",
+        "Athlete",
+        "Observant"
+      ]
+    },
+    "equipment": "A small knife, a map of the city you grew up in, a token to remember your parents by, a set of common clothes, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

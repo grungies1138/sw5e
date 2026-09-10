@@ -1,0 +1,30 @@
+{
+  "_id": "cZaGfgcgk3bOW698",
+  "_key": "!items!cZaGfgcgk3bOW698",
+  "name": "Power Adept",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose one damage type when you take this feat: acid, cold, fire, force, lightning, or necrotic. Powers you cast ignore resistance to damage of that type, and whenever you roll damage of that type for a power, you can treat a result of 1 on any damage die as a 2.</p><p>You can take this feat more than once, choosing a different damage type each time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level, ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

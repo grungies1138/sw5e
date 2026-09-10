@@ -1,0 +1,57 @@
+{
+  "_id": "3c4PfAq2TfYi6wUx",
+  "name": "Sith Pureblood",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Sith purebloods are the crimson-skinned, ridge-browed descendants of the original Sith species of Korriba, later intermingled with exiled Dark Jedi to found the ancient Sith Empire. Long-lived and naturally attuned to the dark side of the Force, Sith purebloods carry an innate ferocity and an ancestral memory of conquest that few other species can match.</p><p>Even those Sith purebloods who never train in the Force possess an unnerving resilience and an intimidating bearing that marks them as the scions of a warrior-sorcerer civilization.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "cha",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Sith"
+    ],
+    "traits": [
+      {
+        "name": "Sith Resilience",
+        "description": "Your ancient bloodline grants you resistance to necrotic damage and to poison damage."
+      },
+      {
+        "name": "Dark Side Legacy",
+        "description": "You have advantage on saving throws against being frightened, and against effects that would read your surface thoughts or emotions."
+      },
+      {
+        "name": "Imposing Presence",
+        "description": "You are proficient in the Intimidation skill, and creatures have disadvantage on the first saving throw they make against your attempts to frighten them."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

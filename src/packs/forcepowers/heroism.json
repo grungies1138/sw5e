@@ -1,0 +1,45 @@
+{
+  "_id": "ZofCjHUwIo8TAcKF",
+  "_key": "!items!ZofCjHUwIo8TAcKF",
+  "name": "Heroism",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature and fill it with courage. For the duration, it is immune to being frightened, and it gains temporary hit points equal to your forcecasting ability modifier at the start of each of its turns; any unused temporary hit points vanish when the power ends. Droids and constructs gain no benefit.</p><p>Cast with a 2nd-level slot or higher, you can affect one additional creature for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

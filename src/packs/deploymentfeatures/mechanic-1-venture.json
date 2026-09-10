@@ -1,0 +1,22 @@
+{
+  "_id": "w1398FRp1xN1t09O",
+  "name": "Venture",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you gain a rank in the Mechanic deployment (starting with this one), you may select a Venture for which you qualify, reflecting a specialized bit of shipboard know-how.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

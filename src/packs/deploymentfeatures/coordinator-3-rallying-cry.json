@@ -1,0 +1,22 @@
+{
+  "_id": "KPHitTVjtHfEjzVd",
+  "name": "Rallying Cry",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per long rest, as an action, you let out a rallying cry that removes the frightened condition from yourself and all crewmates who can hear you, and grants them advantage on saving throws against being frightened until the start of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "Jt6wXVGl7rkj6W4m",
+  "name": "Mesh Armor",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A fine chain of interlocking alloy links worn beneath a jacket or coat, providing solid protection without announcing itself as armor at all.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 600,
+      "denomination": "credits"
+    },
+    "weight": 15,
+    "equipped": false,
+    "proficient": true,
+    "type": "medium",
+    "armor": {
+      "value": 13,
+      "dex": 2
+    },
+    "strength": null,
+    "stealthDisadvantage": false,
+    "bulky": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

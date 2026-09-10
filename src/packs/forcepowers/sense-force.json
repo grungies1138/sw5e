@@ -1,0 +1,45 @@
+{
+  "_id": "6wxqGLsoNBJtWHZu",
+  "_key": "!items!6wxqGLsoNBJtWHZu",
+  "name": "Sense Force",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>For the duration, you become attuned to the Force's use nearby, or its lingering presence in an object within 30 feet. Whenever you sense it, you may use your action to pinpoint its direction, and if the source is in your line of sight, you perceive a faint aura surrounding it.</p><p><em>Force Potency.</em> Cast with a 3rd-level force slot, the range extends to 60 feet; with a 5th-level slot, to 500 feet; with a 7th-level slot, to 1 mile; and with a 9th-level slot, to 10 miles.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 1",
+    "school": "universal",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

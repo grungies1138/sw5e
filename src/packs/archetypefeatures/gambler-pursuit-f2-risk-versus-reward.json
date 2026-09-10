@@ -1,0 +1,24 @@
+{
+  "_id": "lUFranTJZ2jDpyFz",
+  "_key": "!items!lUFranTJZ2jDpyFz",
+  "name": "Risk versus Reward",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The first time each turn you attack the creature marked by your Critical Analysis, you may gamble on the outcome by rolling a d6. Rolling 4 or higher grants you advantage on attack rolls against that creature until the start of your next turn; rolling 3 or lower instead gives that creature advantage on attack rolls against you until the start of your next turn.</p><p>The die you roll for this wager grows larger as you gain levels: a d8 at 9th level, a d10 at 13th level, and a d12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gambler Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

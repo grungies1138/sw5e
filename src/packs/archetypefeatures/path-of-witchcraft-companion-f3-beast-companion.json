@@ -1,0 +1,24 @@
+{
+  "_id": "dK6FQ78B37wFAr4w",
+  "_key": "!items!dK6FQ78B37wFAr4w",
+  "name": "Beast Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You forge a powerful Force bond with a beast companion of your own, created following the Companions section of the Customization Options document for Expanded Content.</p><p>Beyond its usual traits and features, your bonded beast gains two extra traits, plus one more at 11th level; for every beast trait beyond your proficiency bonus, your force point maximum drops by 2.</p><p>Additionally, while your companion is bonded and within 10 feet of you, you may redirect a Force-Empowered Self option that would boost your own speed or armor class to your companion instead, and the two of you share telepathic communication, though your companion can only grasp and convey simple ideas. This range extends to 30 feet at 11th level and 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Witchcraft (Companion)",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

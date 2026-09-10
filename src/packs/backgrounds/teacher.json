@@ -1,0 +1,47 @@
+{
+  "_id": "fshZV15bbDZYjvsw",
+  "_key": "!items!fshZV15bbDZYjvsw",
+  "name": "Teacher",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You spent years instructing others, and you learned that knowing something is only half the job &mdash; the real skill is teaching it well enough that it spreads. Whatever discipline you taught, you built a reputation for making difficult ideas click for people who'd never grasped them before.</p><p>You've likely been underappreciated for it more than once, but a small collection of former students still remembers exactly who taught them, and one or two of them owe you more than they'll ever say.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "lor",
+        "nat",
+        "prf",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "One instrument or set of artisan's implements of your choice"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Loremaster",
+        "Naturalist",
+        "Performer",
+        "Techie",
+        "Entertainer",
+        "Crafter",
+        "Linguist",
+        "Feigned Confidence"
+      ]
+    },
+    "equipment": "A set of common clothes, an instrument or set of tools you are proficient with, a token from a former student, and a belt pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

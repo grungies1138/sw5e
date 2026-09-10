@@ -1,0 +1,50 @@
+{
+  "_id": "yN1PdDFdUYGIX5DR",
+  "_key": "!items!yN1PdDFdUYGIX5DR",
+  "name": "Acid Dart",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You launch a glob of acid at a target within range. Make a ranged tech attack; on a hit, the target takes 4d4 acid damage immediately and another 2d4 acid damage at the end of its next turn. A missed attack instead deals half the initial damage and no follow-up damage.</p><p>Cast with a tech slot of 3rd level or higher, both damage rolls increase by 1d4 for each slot level above 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d4",
+          "type": "acid"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "1Jo8h1t0eibF6XC0",
+  "name": "Break the Lock",
+  "type": "shipmaneuver",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Reaction.</strong> When your ship fails a Strength, Dexterity, or Constitution saving throw, expend a Power Die from the Engines pool and roll it, adding the result to the save. This can retroactively turn the failure into a success.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Pilot Tactics",
+    "deployment": "pilot",
+    "rankRequired": 1,
+    "activation": "reaction",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

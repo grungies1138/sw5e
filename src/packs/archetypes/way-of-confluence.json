@@ -1,0 +1,22 @@
+{
+  "_id": "gq6NdO1cqBBDLfVO",
+  "_key": "!items!gq6NdO1cqBBDLfVO",
+  "name": "Way of Confluence",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>All living things share a single thread of the Force, and those who walk the Way of Confluence have learned to pluck it. By reaching into the current that binds life to life, these consulars can siphon vigor from a dying foe or pour it into a fading ally, treating death and healing as two ends of the same connection.</p><p>The more they draw on this bond, the more it sustains them in turn, wrapping them in borrowed vitality that shields against harm and lets their own powers cut through resistance others cannot.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

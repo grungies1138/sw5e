@@ -1,0 +1,24 @@
+{
+  "_id": "iIXSK21exNEMFh21",
+  "_key": "!items!iIXSK21exNEMFh21",
+  "name": "Enforcer",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When an unarmed strike or improvised weapon attack of yours would have advantage, you can decline it. Doing so widens your critical hit range by 1 for that single attack, and a hit deals its maximum possible damage rather than a rolled result.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Brawling Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

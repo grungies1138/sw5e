@@ -1,0 +1,50 @@
+{
+  "_id": "rmWuakQbdEvAgWg1",
+  "_key": "!items!rmWuakQbdEvAgWg1",
+  "name": "Plasma Torrent",
+  "type": "power",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your focus vents a searing line of superheated plasma up to 60 feet long and 5 feet wide. Each creature in the line must make a Dexterity saving throw, taking 7d6 fire damage on a failed save, or half as much on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "7d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

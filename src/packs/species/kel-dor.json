@@ -1,0 +1,57 @@
+{
+  "_id": "P1wf9adVcljwvTAK",
+  "name": "Kel Dor",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Kel Dor are an orange-skinned humanoid species from the low-visibility, high-pressure world of Dorin, whose atmosphere is toxic to most other species and whose light Kel Dor eyes cannot tolerate unfiltered. Off-world, Kel Dor wear distinctive antiox breath masks and dark goggles to survive in standard atmospheres, and are known for their calm patience and unusually acute extrasensory perception.</p><p>Many Kel Dor gravitate toward contemplative or Force-sensitive traditions, their species showing a notably high incidence of Force sensitivity.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "wis",
+        "value": 2
+      },
+      {
+        "ability": "str",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Kel Dor"
+    ],
+    "traits": [
+      {
+        "name": "Antiox Breath Mask",
+        "description": "You must wear a breath mask to safely breathe standard atmospheres; without one, you suffer the effects of being in a poisonous atmosphere at the GM's discretion. While wearing your mask, you suffer no ill effects from airborne toxins or gases that rely on inhalation."
+      },
+      {
+        "name": "Danger Sense",
+        "description": "Kel Dor possess an unusually acute extrasensory perception of danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells."
+      },
+      {
+        "name": "Force Attuned",
+        "description": "You have advantage on any Wisdom (Insight) check made to sense the presence or intentions of a Force-sensitive creature."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

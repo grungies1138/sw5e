@@ -1,0 +1,22 @@
+{
+  "_id": "ARyarZFRBbEzcojC",
+  "_key": "!items!ARyarZFRBbEzcojC",
+  "name": "Inquisitor Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Throughout history, certain hunters have devoted themselves to a single purpose: tracking down those who wield the Force, whether Jedi, Sith, or otherwise. Followers of the Inquisitor Technique fuse scout technology with fragments of Force lore, becoming the deadliest predators such practitioners will ever face.</p><p>They learn to disrupt concentration, sense the currents of the Force, and shrug off its power entirely, turning every advantage a Force-user might hold into a liability. To their marked quarry, an Inquisitor is a slow, mounting nightmare, one that only grows more suffocating the longer the hunt continues.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

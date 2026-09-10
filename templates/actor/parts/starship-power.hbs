@@ -1,0 +1,45 @@
+<section class="tab power {{#if tabs.power.active}}active{{/if}}" data-tab="power" data-group="primary">
+  <div class="grid-2">
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.Reactor'}}</legend>
+      <select name="system.power.reactor">
+        {{#each config.reactors as |cfg key|}}
+        <option value="{{key}}" {{#if (sw5eEq key ../system.power.reactor)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>
+        {{/each}}
+      </select>
+      <p class="hint">{{sw5eLabel 'SW5E.PowerDie'}}: d{{system.power.die}}</p>
+    </fieldset>
+    <fieldset>
+      <legend>{{sw5eLabel 'SW5E.PowerCoupling'}}</legend>
+      <select name="system.power.coupling">
+        {{#each config.powerCouplings as |cfg key|}}
+        <option value="{{key}}" {{#if (sw5eEq key ../system.power.coupling)}}selected{{/if}}>{{sw5eLabel cfg.label}}</option>
+        {{/each}}
+      </select>
+    </fieldset>
+  </div>
+
+  <div class="power-pools">
+    <div class="power-pool central">
+      <h3>{{sw5eLabel 'SW5E.PowerCentral'}}</h3>
+      <div class="pool-value">{{system.power.central.value}} / {{system.power.central.max}}</div>
+    </div>
+    {{#each system.power.systems as |sys key|}}
+    <div class="power-pool system {{key}}">
+      <h3>{{sw5eLabel (lookup (lookup ../config.powerSystems key) "label")}}</h3>
+      <div class="pool-value">{{sys.value}} / {{sys.max}}</div>
+      <button type="button" data-action="reroute" data-system="{{key}}" class="reroute-btn {{#if (sw5eEq ../system.power.reroute.target key)}}active{{/if}}">
+        {{sw5eLabel 'SW5E.RerouteToggle'}}
+      </button>
+    </div>
+    {{/each}}
+  </div>
+  {{#if system.power.reroute.active}}
+  <p class="hint reroute-note">{{sw5eLabel 'SW5E.RerouteActiveNote'}}</p>
+  {{/if}}
+
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.TechDie'}} ({{sw5eLabel 'SW5E.DeploymentMechanic'}})</legend>
+    <p>d{{system.techDie.size}}</p>
+  </fieldset>
+</section>

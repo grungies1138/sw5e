@@ -1,0 +1,30 @@
+{
+  "_id": "Rbc9R40dQsXqYoKJ",
+  "_key": "!items!Rbc9R40dQsXqYoKJ",
+  "name": "Fighting Master",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have mastered a particular combat discipline. Choose one fighting mastery option, described later in this chapter.</p><p>This feat can be taken multiple times, each time granting a different fighting mastery.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

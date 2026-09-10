@@ -1,0 +1,45 @@
+{
+  "_id": "HnKOOjgNXIhYNVU1",
+  "_key": "!items!HnKOOjgNXIhYNVU1",
+  "name": "Scramble Interface",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You target one droid or construct you can see within range and corrupt its targeting protocols. It must succeed on an Intelligence saving throw, gaining a bonus equal to its pilot's Intelligence modifier if it has the Piloted trait and an active, unincapacitated pilot, or lose the ability to distinguish ally from foe, treating every creature it can see as an enemy for the duration. Each time it takes damage, it may attempt the save again, ending the effect on a success. While affected, it must choose its targets at random among the creatures it can see, and it must make any opportunity attack it is able to make.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

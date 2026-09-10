@@ -1,0 +1,47 @@
+{
+  "_id": "FSiyeuD0E0CvkIUj",
+  "_key": "!items!FSiyeuD0E0CvkIUj",
+  "name": "Jizz Wailer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are a professional musician in the improvisational Outer Rim style, an ensemble tradition built from a thousand different alien musical traditions and held together by nothing but groove and timing. Knowing when to push a riff and when to pull back is the whole art of it.</p><p>You've lived out of a suitcase for most of your career, playing the sleaziest cantinas the galaxy has to offer and loving every minute of it, because for you the music has always been as much about freedom as sound.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "prf",
+        "per",
+        "slt"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of musical instrument"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Performer",
+        "Charmer",
+        "Quick-Fingered",
+        "Entertainer",
+        "Linguist",
+        "Feigned Confidence",
+        "Snappy Interjection"
+      ]
+    },
+    "equipment": "A musical instrument of your choice, a distinctive hat, a set of common clothes, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

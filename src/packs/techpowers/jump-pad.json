@@ -1,0 +1,45 @@
+{
+  "_id": "vjObHHK0ESVMNgMA",
+  "_key": "!items!vjObHHK0ESVMNgMA",
+  "name": "Jump Pad",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure a springy 5-foot-square surface somewhere within range, designating any allies who may use it safely. For the duration, any other creature that steps onto the area must succeed on a Dexterity saving throw or be flung 10 feet into the air and 5 feet in a random horizontal direction (determine the direction by rolling a d8 and assigning a face to each compass point).</p><p>A creature you designated, or one that saved against the launch, can instead spend its reaction while standing on the surface to leap with its aid, multiplying its jump distance by 5.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

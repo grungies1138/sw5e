@@ -1,0 +1,56 @@
+{
+  "_id": "S8ui08a4PiROcgYh",
+  "name": "Bowcaster",
+  "type": "weapon",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>A Wookiee-forged crossbow-like launcher that hurls a searing energy quarrel with tremendous force, drawn by hand and requiring real strength to reload and aim quickly.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 700,
+      "denomination": "credits"
+    },
+    "weight": 7,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "martial",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 60,
+      "long": 240,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed",
+      "burst"
+    ],
+    "ammo": {
+      "type": "bowcaster quarrel",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

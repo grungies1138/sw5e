@@ -1,0 +1,49 @@
+{
+  "_id": "jjqpquEYQXJzo5Iy",
+  "name": "Mag-Pulse Cannon",
+  "type": "starshipweapon",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>A fixed-mount cannon that fires a compact electromagnetic pulse round, a lighter and cheaper alternative to a full ion cannon installation for ships that only need to occasionally scramble an enemy's systems.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 1300,
+      "denomination": "credits"
+    },
+    "category": "secondary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "ion"
+        }
+      ]
+    },
+    "range": {
+      "value": 1500,
+      "long": 5000,
+      "units": "ft"
+    },
+    "properties": [
+      "ion"
+    ],
+    "ammo": {
+      "value": null,
+      "max": null
+    },
+    "constitution": 12
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

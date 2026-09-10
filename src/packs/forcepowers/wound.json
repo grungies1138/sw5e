@@ -1,0 +1,50 @@
+{
+  "_id": "oup5gE1UpZBEM6At",
+  "_key": "!items!oup5gE1UpZBEM6At",
+  "name": "Wound",
+  "type": "power",
+  "img": "icons/svg/skull.svg",
+  "system": {
+    "description": {
+      "value": "<p>You tear directly at a creature's life force. The target must make a Constitution saving throw, taking 8d10 necrotic damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this power dies instantly, its connection to the Force severed.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 5",
+    "school": "darkside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "8d10",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

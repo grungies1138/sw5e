@@ -1,0 +1,24 @@
+{
+  "_id": "EYj2br6I75LS95yX",
+  "_key": "!items!EYj2br6I75LS95yX",
+  "name": "Wilderness Expert",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in Animal Handling and roll Wisdom (Animal Handling) checks with advantage; such checks can never be made at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Zoologist Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

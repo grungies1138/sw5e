@@ -1,0 +1,56 @@
+{
+  "_id": "nkgIN9he5qKvkCL1",
+  "name": "Wookiee",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Wookiees are a tall, immensely strong, fur-covered humanoid species from the forest world of Kashyyyk, renowned across the galaxy for their loyalty, their ferocity in battle, and their skill as pilots, warriors, and engineers. Wookiee society is built on a strict code of honor and life-debts, and a Wookiee who has sworn loyalty to a companion will rarely abandon them, even at great personal cost.</p><p>When a Wookiee's temper finally breaks, the resulting fury &mdash; sometimes called &ldquo;going into a rage&rdquo; &mdash; is a fearsome thing to behold, capable of tearing droids limb from limb.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 30
+    },
+    "abilityBonuses": [
+      {
+        "ability": "str",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic"
+    ],
+    "traits": [
+      {
+        "name": "Claws",
+        "description": "Your claws are natural weapons. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      {
+        "name": "Wookiee Rage",
+        "description": "When you take damage in combat, you can fly into a berserk rage as a bonus action. While raging, you have advantage on Strength checks and Strength saving throws, and you deal an extra 1d6 damage with melee weapon attacks using Strength, but you have disadvantage on Wisdom (Insight) and Charisma checks other than Intimidation. Your rage lasts 1 minute, ending early if you are knocked unconscious or your turn ends without your having attacked a hostile creature since your last turn. You can rage this way once per short or long rest."
+      },
+      {
+        "name": "Unbreakable Loyalty",
+        "description": "You have advantage on saving throws made to resist being charmed or frightened while an ally to whom you have sworn a life-debt is within 30 feet of you."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

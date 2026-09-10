@@ -1,0 +1,24 @@
+{
+  "_id": "nezmIrSpcvofsUtL",
+  "_key": "!items!nezmIrSpcvofsUtL",
+  "name": "Customized Armor",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You discover further ways to refit your spiked armor, and while wearing it you gain the benefit of one option below. A long rest with the armor and your implements in hand lets you swap to a different option.</p><p><strong>Defensive Field.</strong> As a bonus action, you gain temporary hit points equal to 1d12 plus your berserker level. You need a short or long rest before using this again.</p><p><strong>Deflective Layer.</strong> Your Armor Class increases by 1.</p><p><strong>Grappling Line.</strong> As a bonus action, you fire a grappling line at a creature you can see within 15 feet. It must succeed on a Strength save (DC = 8 + your proficiency bonus + your Strength modifier) or be hauled up to 10 feet in a straight line toward you, taking kinetic damage equal to your Strength modifier from your armor's spikes if it ends within 5 feet of you.</p><p><strong>Integrated Sonar.</strong> As an action, you grant yourself the effects of the true sight force power for 1 hour. You need a short or long rest before using this again.</p><p><strong>Neural Interface.</strong> You become immune to being charmed or frightened.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Armored Approach",
+    "className": "Berserker",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

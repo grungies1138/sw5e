@@ -1,0 +1,22 @@
+{
+  "_id": "te0Mh3WPOkDbt136",
+  "_key": "!items!te0Mh3WPOkDbt136",
+  "name": "Way of Negation",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>To master tutaminis is to master restraint, not merely one's own, but that of every Force-user nearby. Consulars who follow the Way of Negation study the raw grammar of Force energy well enough to blunt it, turning aside blows that would otherwise land and smothering the powers of rival wielders before they can fully take hold.</p><p>What they intercept, they do not waste: every deflection feeds a reservoir of stolen momentum they can unleash later as searing retaliation, making them as dangerous to press as they are difficult to strike down.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

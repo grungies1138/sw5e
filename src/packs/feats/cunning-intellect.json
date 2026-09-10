@@ -1,0 +1,30 @@
+{
+  "_id": "8dxFB6hX54fAeMR1",
+  "_key": "!items!8dxFB6hX54fAeMR1",
+  "name": "Cunning Intellect",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your intellect rivals that of the era's greatest scholars.</p><p>You gain proficiency in Intelligence saving throws, or expertise if already proficient. When resolving the Training downtime activity, you add your proficiency bonus to the check; if you'd already add it, you instead add double your proficiency bonus, and if you'd already add double, you instead have advantage on the check.</p><p>Whenever you make an ability check using Intelligence that doesn't already include your proficiency bonus, you add half your proficiency bonus (rounded down). Additionally, if the d20 roll on an Intelligence check comes up lower than half your level (rounded down), you can use your level as the roll instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "12th level, Intelligence 20.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

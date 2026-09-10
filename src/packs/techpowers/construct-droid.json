@@ -1,0 +1,45 @@
+{
+  "_id": "9kLCjJQ7ByLIVjOx",
+  "_key": "!items!9kLCjJQ7ByLIVjOx",
+  "name": "Construct Droid",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You assemble a droid ally in an unoccupied space you can see within range, choosing a Probe, Pyro, or Battle configuration; it resembles a Class IV droid and uses the Constructed Droid statistics, with AC 11 plus the power's level, hit points 20 (Probe) or 30 (Pyro and Battle) plus 10 for each slot level above 2nd, and a speed of 30 feet (Pyro and Battle) or a stationary flying speed of 60 feet (Probe).</p><p>The droid shares your initiative, acting immediately after you, and obeys your wordless commands without requiring an action; if given no orders, it takes the Dodge action. Its multiattack grants a number of attacks equal to half the power's level (rounded down). It can fire a blaster for 1d6 + 3 plus the power's level energy damage; a Battle droid can instead strike with a vibroweapon for 1d12 + 3 plus the power's level kinetic damage, while a Pyro droid can unleash a 15-foot flamethrower cone (Dexterity save against your tech save DC for half; 1d8 fire damage plus 1d8 per power level above 2nd), which cannot be combined with its multiattack.</p><p>The droid crumbles to pieces if reduced to 0 hit points or when the power ends, and is a valid target for the tracker droid interface power, requiring only 1 minute to synchronize with it.</p><p>Cast with a tech slot of 3rd level or higher, use the higher slot level for every level-based value in its statistics.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 10,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

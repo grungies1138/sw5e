@@ -1,0 +1,24 @@
+{
+  "_id": "5x9TeOy0hNH0DFSg",
+  "_key": "!items!5x9TeOy0hNH0DFSg",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain the following Channel the Force option.</p><p><strong>Force-Empowered Shots.</strong> Once per turn, when you hit a creature with a ranged weapon attack, you may spend a use of Channel the Force and spend force points to add extra damage of the same type as the weapon's damage. Each point spent adds 1d8 of extra damage, up to the maximum shown in the Focused Strikes column of the guardian table.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Ysannanite Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

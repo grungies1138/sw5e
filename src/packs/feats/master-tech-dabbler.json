@@ -1,0 +1,30 @@
+{
+  "_id": "EVGU16ZADNbneORL",
+  "_key": "!items!EVGU16ZADNbneORL",
+  "name": "Master Tech Dabbler",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reach the height of casual technical mastery. You learn one at-will tech power of your choice. You also learn one 5th-level tech power, which you can cast once without spending tech points, regaining the ability to do so after a long rest. Intelligence is your techcasting ability for these powers, and you need a wristpad to cast them.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "Ability to cast 4th-level tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

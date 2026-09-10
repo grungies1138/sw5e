@@ -1,0 +1,45 @@
+{
+  "_id": "ifV6W7uooCUzlxHq",
+  "_key": "!items!ifV6W7uooCUzlxHq",
+  "name": "Force Blinding",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel a searing flash of light from your palm. Roll 6d10; this total is the pool of hit points the flash can affect. Every creature within a 15-foot cone from you that can see and is conscious is affected in order from lowest current hit points to highest.</p><p>Starting with the lowest-hit-point creature, each affected creature is blinded until the power ends, and its hit point total is subtracted from the remaining pool before moving to the next creature; a creature is affected only if its hit points do not exceed what remains in the pool.</p><p>Casting this power with a force slot of 2nd level or higher adds 2d10 to the initial roll for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "i0vfjDejwFxUR7Qc",
+  "_key": "!items!i0vfjDejwFxUR7Qc",
+  "name": "Greater Kinetite",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A compressed, crackling sphere of lightning 5 feet across springs into being in an unoccupied space within range and persists for the duration. Each creature within 5 feet of it when it appears must succeed on a Dexterity saving throw or take 5d8 lightning damage, half as much on a success.</p><p>As a bonus action on your turn, you can drive the sphere up to 30 feet in any direction. If you crash it into a creature, that creature must succeed on a Dexterity saving throw or take 5d8 kinetic damage (half as much on a success), and the sphere halts for the remainder of that turn.</p><p>Cast with a 6th-level slot or higher, both the lightning and kinetic damage increase by 1d8 for each slot level above 5th.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Dark Side Powers, Level 5",
+    "school": "darkside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d8",
+          "type": "lightning"
+        },
+        {
+          "formula": "5d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

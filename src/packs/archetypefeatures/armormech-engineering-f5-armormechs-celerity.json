@@ -1,0 +1,24 @@
+{
+  "_id": "q3cjF4GYdtjwRK34",
+  "_key": "!items!q3cjF4GYdtjwRK34",
+  "name": "Armormech's Celerity",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you take the Attack action, or spend your action casting a tech power of 1st level or higher, you can follow up with a single weapon attack as a bonus action. You have five uses of this benefit, gaining a sixth at 17th level, and you recover all spent uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armormech Engineering",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

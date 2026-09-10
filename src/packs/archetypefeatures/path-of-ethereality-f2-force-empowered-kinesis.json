@@ -1,0 +1,24 @@
+{
+  "_id": "2p4GvkYTt8sEyN8w",
+  "_key": "!items!2p4GvkYTt8sEyN8w",
+  "name": "Force-Empowered Kinesis",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your bond with the Force lets you briefly shed your solidity. Whenever you use a Force-Empowered Self option, until your turn ends you may move through creatures and objects as though they were merely difficult terrain. If that movement leaves you occupying a solid object or creature's space, you are instantly pushed to the nearest space you can legally occupy and take true damage equal to twice the distance you were displaced.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Ethereality",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

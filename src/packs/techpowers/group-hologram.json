@@ -1,0 +1,45 @@
+{
+  "_id": "bjhmUar25P5uNuey",
+  "_key": "!items!bjhmUar25P5uNuey",
+  "name": "Group Hologram",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reshape the illusory appearance of any number of creatures you can see within range; an unwilling target may negate the effect with a successful Charisma saving throw. The disguise covers the body as well as clothing, gear, and weapons—each subject can look up to a foot taller or shorter and heavier or thinner, though its basic limb arrangement must remain the same. You control the details otherwise, and may end the effect early as an action; it otherwise lasts until the end of your next short or long rest, whichever comes first.</p><p>The illusion doesn't survive contact: touching a disguised feature reveals the truth beneath it. A creature may instead spend its action making an Intelligence (Investigation) check against your tech save DC to see through the disguise.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "cha",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

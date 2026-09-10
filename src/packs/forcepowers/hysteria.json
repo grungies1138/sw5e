@@ -1,0 +1,50 @@
+{
+  "_id": "UNa0lnFbPImgJmSb",
+  "_key": "!items!UNa0lnFbPImgJmSb",
+  "name": "Hysteria",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You draw on a creature's private nightmares within range, conjuring an illusion of its deepest fears visible only to it. It must succeed on a Wisdom saving throw or become frightened for the duration. At the end of each of its turns before the power ends, it must succeed on another Wisdom saving throw or take 4d10 psychic damage; a success ends the power. Droids and constructs are unaffected.</p><p>Cast with a 5th-level slot or higher, the damage increases by 1d10 for each slot level above 4th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 4",
+    "school": "darkside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "4d10",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

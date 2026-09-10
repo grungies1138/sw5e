@@ -1,0 +1,30 @@
+{
+  "_id": "I1nFKWu1MQd112SD",
+  "name": "Countermeasure Flares",
+  "type": "starshipmod",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>A dispenser of chaff and decoy flares that can be triggered as a reaction to impose disadvantage on a single incoming tertiary weapon attack that relies on a locked sensor track.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 2800,
+      "denomination": "credits"
+    },
+    "category": "operation",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

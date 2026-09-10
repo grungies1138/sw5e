@@ -1,0 +1,45 @@
+{
+  "_id": "tOOeIjoKQbPdG2KX",
+  "_key": "!items!tOOeIjoKQbPdG2KX",
+  "name": "Battlemind",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Through a rudimentary battle-sense, you anticipate incoming attacks. While you wear no armor and carry no shield, you gain a +2 bonus to AC against melee attacks and a +3 bonus to AC against ranged attacks. This bonus does not apply against attacks from droids, constructs, or creatures resistant or immune to psychic damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

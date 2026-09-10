@@ -1,0 +1,24 @@
+{
+  "_id": "LsFsWpq6pkPyzuOD",
+  "_key": "!items!LsFsWpq6pkPyzuOD",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with one type of artisan's implements of your choice, and crafting with tinker's implements now takes half the normal time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Unstable Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

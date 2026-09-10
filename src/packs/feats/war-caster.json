@@ -1,0 +1,30 @@
+{
+  "_id": "vy0QcYX2dBW1LVtK",
+  "_key": "!items!vy0QcYX2dBW1LVtK",
+  "name": "War Caster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've practiced casting powers even in the chaos of battle.</p><p>You have advantage on Constitution saving throws made to maintain concentration on a power when you take damage.</p><p>Once per round, when a hostile creature's movement would provoke an opportunity attack from you, you can use your reaction to cast a power at it instead of making that attack, provided the power has a casting time of 1 action and targets only that creature.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level, ability to cast force or tech powers.",
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

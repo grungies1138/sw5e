@@ -1,0 +1,47 @@
+{
+  "_id": "fdF7ijVm2UU95BKq",
+  "_key": "!items!fdF7ijVm2UU95BKq",
+  "name": "Bodyguard",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You worked as a licensed protector, standing between your charge and whatever threat came looking for them. Maybe your family served a powerful patron for generations, maybe you owe a life debt to the person you once guarded &mdash; either way, your loyalty was never in question, and neither was your willingness to act on it.</p><p>Years spent scanning rooms for exits and reading crowds for trouble have left you constantly, quietly alert, even when you're the one who needs watching over now.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "ins",
+        "inv",
+        "prc"
+      ]
+    },
+    "toolProficiencies": [
+      "Your choice of demolitions kit, disguise kit, or security kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Empathic",
+        "Investigator",
+        "Perceptive",
+        "Specialist",
+        "Linguist",
+        "Athlete",
+        "Durable"
+      ]
+    },
+    "equipment": "A set of clandestine clothes, a tool kit matching your training, a trauma kit, and a belt pouch containing 75 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "5HFjQUBQ1mxoRiUj",
+  "name": "Dependable Gunner",
+  "type": "deploymentFeature",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>A number of times per long rest equal to your Gunner rank, you can reroll one damage die from an attack you made with a ship's weapon, and must use the new result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Gunner",
+    "deployment": "gunner",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

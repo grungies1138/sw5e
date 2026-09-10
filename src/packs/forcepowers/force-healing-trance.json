@@ -1,0 +1,45 @@
+{
+  "_id": "oXsR44jokzjplm3Q",
+  "_key": "!items!oXsR44jokzjplm3Q",
+  "name": "Force Healing Trance",
+  "type": "power",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lay a hand upon a creature and knit its wounds with the light side of the Force. The target regains 4d8 + your casting ability modifier hit points, and is cured of one disease or one condition among blinded, deafened, paralyzed, or poisoned.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 4",
+    "school": "lightside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 5,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

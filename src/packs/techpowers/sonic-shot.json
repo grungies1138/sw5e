@@ -1,0 +1,45 @@
+{
+  "_id": "KE7iROE5Tqe5kxGm",
+  "_key": "!items!KE7iROE5Tqe5kxGm",
+  "name": "Sonic Shot",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action to cast this power, you make a ranged weapon attack against a target within your weapon's range, and the power fails if you don't. On a hit, the attack deals its normal damage, and a crackling sonic field wraps the target until the start of your next turn. If the target willingly moves before then, it immediately takes sonic damage equal to your techcasting ability modifier, becomes deafened until the start of your next turn, and the field collapses.</p><p>At 5th level the ranged attack deals an extra 1d6 sonic damage, and the damage for moving becomes 1d6 plus your techcasting ability modifier; both increase by a further 1d6 at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

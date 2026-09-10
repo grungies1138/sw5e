@@ -1,0 +1,32 @@
+{
+  "_id": "fuZgAJD49g8T6diJ",
+  "_key": "!items!fuZgAJD49g8T6diJ",
+  "name": "Tough",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Heroic vitality runs in your blood. Increase your Constitution score by 1, to a maximum of 20.</p><p>Whenever you take the Dodge action in combat, you can spend one Hit Die to recover hit points: roll the die, add your Constitution modifier, and heal that total (minimum 1).</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "4th level, Durable feat.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "con"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

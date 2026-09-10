@@ -1,0 +1,30 @@
+{
+  "_id": "zptgmbs6dHfvByKL",
+  "_key": "!items!zptgmbs6dHfvByKL",
+  "name": "Close Quarters Caster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've trained to cast powers effectively at melee range.</p><p>Making a ranged force or tech attack while a hostile creature is within 5 feet of you no longer imposes disadvantage. Your ranged force and tech attacks ignore half and three-quarters cover against targets within 30 feet of you.</p><p>You learn one at-will power that requires an attack roll; your casting ability for it is Wisdom or Charisma (matching the power's alignment) for a force power, or Intelligence for a tech power.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level, the ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

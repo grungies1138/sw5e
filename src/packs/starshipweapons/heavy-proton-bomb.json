@@ -1,0 +1,49 @@
+{
+  "_id": "mJJsdIfIZV2IaMEF",
+  "name": "Heavy Proton Bomb",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A capital-scale bombardment charge built for Huge and Gargantuan hulls, doubling the yield of the standard proton bomb. Still resolves against a DC 15 Dexterity save for half damage across its blast radius.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 9000,
+      "denomination": "credits"
+    },
+    "category": "quaternary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "8d10",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 500,
+      "long": 1000,
+      "units": "ft"
+    },
+    "properties": [
+      "exp"
+    ],
+    "ammo": {
+      "value": 4,
+      "max": 4
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

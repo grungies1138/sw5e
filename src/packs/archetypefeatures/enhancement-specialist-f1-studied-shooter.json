@@ -1,0 +1,24 @@
+{
+  "_id": "GlcmaKhzM4s6Gwn8",
+  "_key": "!items!GlcmaKhzM4s6Gwn8",
+  "name": "Studied Shooter",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your study of the enhancement trade grants you proficiency in your choice of the Lore or Technology skill. You also learn either the <em>encrypted message</em> or <em>minor hologram</em> tech power, your choice, using Intelligence as your techcasting ability for it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Enhancement Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

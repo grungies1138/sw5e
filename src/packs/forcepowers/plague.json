@@ -1,0 +1,45 @@
+{
+  "_id": "Eclws9D3SVZnkEcd",
+  "_key": "!items!Eclws9D3SVZnkEcd",
+  "name": "Plague",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You mark up to six creatures of your choosing within a 40-foot cube in range with a wasting affliction. Each must succeed on a Constitution saving throw or suffer its effects for the duration.</p><p>An afflicted creature gains 1 slowed level, suffers a -2 penalty to AC and Dexterity saves, and loses the ability to take reactions. On its turn it may take either an action or a bonus action, never both, and regardless of its abilities or gear it can make no more than one melee or ranged attack per turn.</p><p>Should the creature try to cast a power with a 1-action casting time, roll a d20; on an 11 or better the power is delayed until its next turn, requiring its action to complete, or being lost entirely if it can't act then.</p><p>At the end of each of its turns, the afflicted creature may attempt another Constitution save, ending the effect on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 3",
+    "school": "darkside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

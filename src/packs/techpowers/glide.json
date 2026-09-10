@@ -1,0 +1,45 @@
+{
+  "_id": "L0Tj1pmWyw6Yme1s",
+  "_key": "!items!L0Tj1pmWyw6Yme1s",
+  "name": "Glide",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Reacting as you or a creature within 30 feet begins to fall, you grant one willing falling creature controlled descent: for the duration it falls only 30 feet per round and can shift up to 30 feet horizontally on its turn. Should it reach the ground before the duration ends, it lands safely on its feet without taking falling damage, and the power ends for it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "647jj05VadxSk3V3",
+  "_key": "!items!647jj05VadxSk3V3",
+  "name": "Firestorm",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with martial blasters that have the burst or rapid property, and you learn to pour your rage into gunplay. While wielding a blaster you're proficient with, you may use either your Strength or your Dexterity modifier (your choice, but the same one for both) for its attack and damage rolls against any target within 30 feet of you. You're also treated as proficient whenever you fire a blaster as an improvised weapon.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Ballistic Approach",
+    "className": "Berserker",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

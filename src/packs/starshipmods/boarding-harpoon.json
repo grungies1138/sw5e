@@ -1,0 +1,30 @@
+{
+  "_id": "dBJNlllsgBcXrvuR",
+  "name": "Boarding Harpoon",
+  "type": "starshipmod",
+  "img": "icons/svg/anchor.svg",
+  "system": {
+    "description": {
+      "value": "<p>A magnetically tipped harpoon and winch cable fired at a target hull, drawing the two ships together for a forced boarding action once the line goes taut. Requires a dedicated weapon hardpoint to mount.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 3000,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "Fixed Hardpoint",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

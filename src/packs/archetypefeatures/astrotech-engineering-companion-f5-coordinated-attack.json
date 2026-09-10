@@ -1,0 +1,24 @@
+{
+  "_id": "ynOSBQASpZMJZZok",
+  "_key": "!items!ynOSBQASpZMJZZok",
+  "name": "Coordinated Attack",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cause an effect that forces other creatures to make a saving throw and your droid is among them, you may have it automatically succeed. Likewise, when your droid causes such an effect and you're among the targets, you may automatically succeed on your own save.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering (Companion)",
+    "className": "Engineer",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

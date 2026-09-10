@@ -1,0 +1,45 @@
+{
+  "_id": "5sPYv2NMgldI7BMP",
+  "_key": "!items!5sPYv2NMgldI7BMP",
+  "name": "Horror",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure a vision of a creature's deepest terror. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop what it's holding and become frightened for the duration. Droids and constructs are unaffected.</p><p>A frightened creature must use the Dash action and flee from you by the safest route available on each of its turns, unless there is nowhere to go. If it ends a turn unable to see you, it may attempt a Wisdom saving throw, ending the power on itself on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 3",
+    "school": "darkside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

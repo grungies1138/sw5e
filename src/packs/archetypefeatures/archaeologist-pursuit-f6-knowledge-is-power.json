@@ -1,0 +1,24 @@
+{
+  "_id": "tzIeiqraR6fNcwWV",
+  "_key": "!items!tzIeiqraR6fNcwWV",
+  "name": "Knowledge is Power",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to seize a rival forcecaster's knowledge mid-cast. When a hostile creature casts a force power targeting a friendly creature within the range of your Critical Analysis, you may use your reaction to make that friendly creature your Critical Analysis target, forcing the caster to attempt a Wisdom or Charisma saving throw (your choice) against your universal force save DC. On a success, the power proceeds normally.</p><p>On a failure, the power's effect is negated entirely, and if the power is 1st level or higher and within your casting capability, you steal knowledge of it: for the next 8 hours you know that power and can cast it using your own force points, while the original caster is barred from casting it again until those 8 hours pass.</p><p>You must finish a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Archaeologist Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

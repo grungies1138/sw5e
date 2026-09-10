@@ -1,0 +1,24 @@
+{
+  "_id": "w2BIhk14ODPCl4CT",
+  "_key": "!items!w2BIhk14ODPCl4CT",
+  "name": "Quickslice",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature you can see casts a tech power of a level you could cast, you may use your reaction to try copying it into your wristpad, making an ability check with your techcasting ability (with proficiency) against a DC of 10 plus twice the power's level. Success stores the power for later use; failure stores nothing. Powers stored this way can be cast as though you'd learned them, and they don't count against your tech powers known.</p><p>You can't use this feature again on the same creature until you complete a short or long rest. At any time you can hold a combined number of power levels equal to your engineer level, and each time you use this feature you may also swap out or drop one or more previously stored powers.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Cybertech Engineering",
+    "className": "Engineer",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

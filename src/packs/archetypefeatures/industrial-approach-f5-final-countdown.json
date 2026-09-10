@@ -1,0 +1,24 @@
+{
+  "_id": "upww9RhbtDS1Eoih",
+  "_key": "!items!upww9RhbtDS1Eoih",
+  "name": "Final Countdown",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If you're reduced to 0 hit points without being killed outright and still have at least one tech point, you may, at no action cost, spend every remaining tech point to instead drop to 1 hit point. Doing so forces every creature within 30 feet to make a Dexterity save against your tech save DC, taking 1d12 acid, cold, fire, ion, or lightning damage (your choice) for each tech point you spent on a failure, or half that on a success.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Industrial Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

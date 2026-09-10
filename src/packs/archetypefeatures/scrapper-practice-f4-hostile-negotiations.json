@@ -1,0 +1,24 @@
+{
+  "_id": "pgZqFWP9SPlaet9z",
+  "_key": "!items!pgZqFWP9SPlaet9z",
+  "name": "Hostile Negotiations",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in Intimidation or Persuasion. While wielding a weapon you're proficient with, your Charisma (Intimidation) and Charisma (Persuasion) checks can't be made with disadvantage, and any contested check the target makes against you can't be made with advantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Scrapper Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

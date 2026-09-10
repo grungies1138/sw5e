@@ -1,0 +1,24 @@
+{
+  "_id": "E0cxmZfvS4XyEFUA",
+  "_key": "!items!E0cxmZfvS4XyEFUA",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain the following Channel the Force option.</p><p><strong>Twin Strike.</strong> Once per turn, when a melee weapon attack of yours misses, you may spend a use of Channel the Force to immediately make another melee weapon attack against the same target, with no action required.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Jar'Kai Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

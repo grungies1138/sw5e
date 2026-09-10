@@ -1,0 +1,45 @@
+{
+  "_id": "1CVJdnwY5WLux9T6",
+  "_key": "!items!1CVJdnwY5WLux9T6",
+  "name": "Locate Creature",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Naming or describing a creature you know, you sense the direction to it, so long as it lies within 1000 feet of you, along with the direction it is moving if any. This power can pinpoint a specific creature you know, or the nearest of a general kind if you have observed one of that kind from within 30 feet. It fails against a creature under a different form, and cannot trace across a direct path blocked by at least 10 feet of running water.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

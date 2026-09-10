@@ -1,0 +1,45 @@
+{
+  "_id": "fGmAO7wQ5IXlqY3f",
+  "_key": "!items!fGmAO7wQ5IXlqY3f",
+  "name": "Toxin Purge",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a creature, curing it of one poison or disease afflicting it (your choice if more than one is present, or at random if unknown). For the duration, the target has advantage on saving throws against being poisoned or diseased and has resistance to poison damage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

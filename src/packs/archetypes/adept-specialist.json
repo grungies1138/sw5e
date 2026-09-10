@@ -1,0 +1,22 @@
+{
+  "_id": "ipF5lx2HtSPpeRm5",
+  "_key": "!items!ipF5lx2HtSPpeRm5",
+  "name": "Adept Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>A rare few fighters find that their connection to the Force doesn't call them toward meditation or diplomacy, but toward violence given wings. The Adept Specialist fuses a fighter's discipline with a trickle of Force sensitivity, using it to accelerate their body far beyond what muscle alone allows.</p><p>Weaving in and out of melee in short, ferocious bursts, they strike before an enemy can react and vanish before a counterblow lands. To watch an Adept fight is to watch someone who is never quite where you expect them to be.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

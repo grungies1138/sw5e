@@ -1,0 +1,26 @@
+{
+  "_id": "nAicpJeyLYxlJSRv",
+  "_key": "!items!nAicpJeyLYxlJSRv",
+  "name": "Deadeye",
+  "type": "feat",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your precision with ranged weapons is unmatched. Before you make an attack with a ranged weapon, you can choose to take a -5 penalty to the attack roll; if the attack hits, you add +10 to the attack's damage. You must be proficient with the weapon to use this benefit.</p><p>You also treat any weapon with the Long Range property as if it did not have disadvantage on attacks made at long range, so long as you have not moved during your turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Proficiency with at least one ranged weapon.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

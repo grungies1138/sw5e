@@ -1,0 +1,56 @@
+{
+  "_id": "MwEFarbQwf3eBG9t",
+  "name": "Doublesaber",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A lightsaber hilt doubled in length with an emitter at each end, allowing a skilled duelist to keep foes at bay on both sides in a whirling storm of plasma.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 4500,
+      "denomination": "credits"
+    },
+    "weight": 3,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "lightweapon",
+    "proficiencyTier": "martial",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "two-handed",
+      "double"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

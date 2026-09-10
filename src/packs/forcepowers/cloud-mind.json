@@ -1,0 +1,45 @@
+{
+  "_id": "fs5snGStloPSqGZF",
+  "_key": "!items!fs5snGStloPSqGZF",
+  "name": "Cloud Mind",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You roll 5d8, the total representing hit points of effect this power can distribute among creatures within 20 feet of a point you choose, applied starting with the creature with the lowest current hit points. Each affected creature falls unconscious, waking if the power ends, if it takes damage, or if someone uses an action to rouse it. Subtract each affected creature's hit points from the pool before moving to the creature with the next-lowest total; a creature is only affected if its hit points do not exceed what remains. This power has no effect on droids or constructs.</p><p>Cast with a slot of 2nd level or higher, roll an additional 2d8 for each slot level beyond 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 1",
+    "school": "lightside",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

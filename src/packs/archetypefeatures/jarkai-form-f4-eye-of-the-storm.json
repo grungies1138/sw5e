@@ -1,0 +1,24 @@
+{
+  "_id": "f6U8ZxQ2tscAZOa8",
+  "_key": "!items!f6U8ZxQ2tscAZOa8",
+  "name": "Eye of the Storm",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you score a critical hit with a melee weapon attack, you recover one expended use of Channel the Force.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Jar'Kai Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

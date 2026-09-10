@@ -1,0 +1,50 @@
+{
+  "_id": "yNeZ1rMxRhTOXTN9",
+  "_key": "!items!yNeZ1rMxRhTOXTN9",
+  "name": "Ion Blast",
+  "type": "power",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>You fire a focused pulse of ion energy at a target, disrupting its electronics and nervous system alike. The target must make a Constitution saving throw, taking 2d6 ion damage on a failed save, or half as much on a successful one; on a failed save, it also has disadvantage on its next attack roll.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "ion"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

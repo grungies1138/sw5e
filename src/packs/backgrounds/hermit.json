@@ -1,0 +1,47 @@
+{
+  "_id": "jrsbgDytia25G5D2",
+  "_key": "!items!jrsbgDytia25G5D2",
+  "name": "Hermit",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lived in seclusion for a formative stretch of your life, whether alone or in a small isolated community, and that solitude changed you. Cut off from the noise of civilization, you found quiet, discipline, and a discovery that most people never get close enough to see.</p><p>Whatever you learned out there &mdash; a truth about the Force, a forgotten fact, or something that could still cause trouble for whoever sent you into exile &mdash; it's part of why you've returned to the wider galaxy now.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ani",
+        "lor",
+        "med",
+        "nat"
+      ]
+    },
+    "toolProficiencies": [
+      "Bioanalysis kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Animal Handler",
+        "Loremaster",
+        "Medic",
+        "Naturalist",
+        "Specialist",
+        "Alert",
+        "Dungeon Delver",
+        "Healer"
+      ]
+    },
+    "equipment": "A diary of your experiences, a winter blanket, a set of common clothes, and 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

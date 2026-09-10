@@ -1,0 +1,27 @@
+{
+  "_id": "hB6O6Z9cKKbbssWe",
+  "name": "Fuel Cell Reactor",
+  "type": "starshipequipment",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>The baseline starship reactor: reliable and simple to maintain. It consumes fuel at the standard rate and regenerates <strong>1 Power Die</strong> at the start of your ship's turn.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 4500,
+      "denomination": "credits"
+    },
+    "kind": "reactor",
+    "configKey": "fuelCell",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

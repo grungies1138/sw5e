@@ -1,0 +1,24 @@
+{
+  "_id": "xSDyA5EvTkX5RLij",
+  "_key": "!items!xSDyA5EvTkX5RLij",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following Channel the Force options: Blade Barrier if you chose Shien, or Falling Avalanche if you chose Djem So.</p><p><strong>Blade Barrier.</strong> On your turn, when you deal melee weapon damage that includes your Strength modifier, you may give up adding that modifier to the damage roll, spend a use of Channel the Force (no action required), and halve your speed. Doing so reduces the energy and kinetic weapon damage you take before the end of your next turn by an amount equal to your Strength modifier. You can't use this feature in a turn where you've already moved more than half your speed.</p><p><strong>Falling Avalanche.</strong> On your turn, you may spend a use of Channel the Force (no action required) and halve your speed to gain advantage on the next Strength check or Strength-based attack roll you make before the end of your next turn. You can't use this feature in a turn where you've already moved more than half your speed.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shien/Djem So Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

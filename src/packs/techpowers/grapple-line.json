@@ -1,0 +1,45 @@
+{
+  "_id": "K7hsqsBrwBFmQKvn",
+  "_key": "!items!K7hsqsBrwBFmQKvn",
+  "name": "Grapple Line",
+  "type": "power",
+  "img": "icons/svg/anchor.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your focus fires a magnetized tether line at a point, an object, or a creature within range. You can pull yourself up to 30 feet toward the anchor point, or pull an unattended object of up to 50 pounds to your position; a creature can instead be pulled 10 feet toward you if it fails a Strength saving throw.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

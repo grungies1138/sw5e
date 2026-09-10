@@ -1,0 +1,30 @@
+{
+  "_id": "rWjaS6NYgzVAbTQn",
+  "name": "Scanner Suite Mk I",
+  "type": "starshipmod",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>An upgraded array of long-range sensors bolted onto the standard hull sensor package, extending the ship's effective detection range.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 3000,
+      "denomination": "credits"
+    },
+    "category": "universal",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

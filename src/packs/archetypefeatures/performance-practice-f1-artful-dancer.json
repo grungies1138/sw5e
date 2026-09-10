@@ -1,0 +1,24 @@
+{
+  "_id": "7fVCzo4vc3w45SBT",
+  "_key": "!items!7fVCzo4vc3w45SBT",
+  "name": "Artful Dancer",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in the Performance skill and with one musical instrument of your choice. Additionally, while you wear no armor and carry no medium or heavy shield, you can add half your Charisma modifier to your AC, provided it isn't already factored in.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Performance Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

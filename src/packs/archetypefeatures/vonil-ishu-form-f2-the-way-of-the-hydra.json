@@ -1,0 +1,24 @@
+{
+  "_id": "mpYnIhlWENWTDeIk",
+  "_key": "!items!mpYnIhlWENWTDeIk",
+  "name": "The Way of the Hydra",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can enter a synchronized stance with one willing ally within 10 feet of you for 1 minute. While the stance lasts, once per turn when you hit a creature with an attack, that ally gains advantage on its next attack against the same target before the end of your next turn; likewise, once per turn when the chosen ally hits a creature with an attack, you gain advantage on your next attack against that same target before the end of your next turn.</p><p>The stance ends early if either of you is incapacitated or killed, or if the ally is ever more than 10 feet from you. You must complete a long rest before using this feature again.</p><p>At 11th level, the ally need only stay within 30 feet of you to benefit, and at 17th level, within 60 feet.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Vonil/Ishu Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

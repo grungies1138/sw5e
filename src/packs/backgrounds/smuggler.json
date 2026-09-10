@@ -1,0 +1,47 @@
+{
+  "_id": "L024m0TFIoe5ZcVu",
+  "_key": "!items!L024m0TFIoe5ZcVu",
+  "name": "Smuggler",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've spent your life moving cargo that customs officials weren't meant to see, making deals in the dark behind closed doors. Whether you're in it for the thrill or working off a debt to someone you'd rather not name, you know how to deliver almost anything &mdash; for the right price.</p><p>You'd rather talk or buy your way past trouble than sneak around it, and a few close brushes with the law have taught you exactly which officials can be bought and which can't.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "pil",
+        "slt",
+        "ste"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Ace Pilot",
+        "Quick-Fingered",
+        "Stealthy",
+        "Competitor",
+        "Specialist",
+        "Feigned Confidence",
+        "Force of Personality"
+      ]
+    },
+    "equipment": "A fusion cutter, a set of dark common clothes including a hood, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

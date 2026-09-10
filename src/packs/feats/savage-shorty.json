@@ -1,0 +1,32 @@
+{
+  "_id": "JcgKJW0lf7hmn6q0",
+  "_key": "!items!JcgKJW0lf7hmn6q0",
+  "name": "Savage Shorty",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your small stature does nothing to diminish your might. Increase your Strength score by 1, to a maximum of 20, and your speed increases by 5 feet.</p><p>You no longer have the Undersized trait.</p>",
+      "chat": ""
+    },
+    "source": "Wretched Hive Feats",
+    "requirements": "Strength 13, Small size.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

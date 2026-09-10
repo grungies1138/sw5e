@@ -1,0 +1,25 @@
+{
+  "_id": "9J9NeCNvgp6MZT6j",
+  "name": "Snap Roll",
+  "type": "shipmaneuver",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Reaction.</strong> When your ship takes damage, expend a Power Die from the Engines pool and roll it, reducing the damage taken by the result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Pilot Tactics",
+    "deployment": "pilot",
+    "rankRequired": 1,
+    "activation": "reaction",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

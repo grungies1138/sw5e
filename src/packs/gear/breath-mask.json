@@ -1,0 +1,29 @@
+{
+  "_id": "FH17PGmHQP3P8gja",
+  "name": "Breath Mask",
+  "type": "gear",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>A lightweight rebreather covering the mouth and nose, filtering toxins and thin atmosphere well enough to keep its wearer conscious in most hostile environments.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 30,
+      "denomination": "credits"
+    },
+    "weight": 0.5,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

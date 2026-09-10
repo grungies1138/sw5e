@@ -1,0 +1,32 @@
+{
+  "_id": "R7CwK7KnlWXg2Obh",
+  "_key": "!items!R7CwK7KnlWXg2Obh",
+  "name": "Perceptive",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your senses have grown remarkably keen. Increase your Wisdom score by 1, to a maximum of 20.</p><p>You gain proficiency in the Perception skill, or expertise in it if you're already proficient. Being in a lightly obscured area no longer imposes disadvantage on your Wisdom (Perception) checks, so long as you can both see and hear.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "wis"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

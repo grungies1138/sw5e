@@ -1,0 +1,50 @@
+{
+  "_id": "7aF9BG9mgS0dY9yf",
+  "_key": "!items!7aF9BG9mgS0dY9yf",
+  "name": "Burst",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>The ground erupts violently from beneath your feet. Every creature within range other than you must succeed on a Dexterity saving throw or take 1d8 kinetic damage.</p><p>This power's damage increases by 1d8 at 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

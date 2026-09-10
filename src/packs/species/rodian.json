@@ -1,0 +1,57 @@
+{
+  "_id": "f1b4jPofEazI1bRN",
+  "name": "Rodian",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Rodians are a green-skinned, multi-eyed humanoid species from the jungle world of Rodia, whose culture places tremendous prestige on hunting prowess. Rodian society is built around clans that compete for honor through the tracking and capture of prey, a tradition that has made Rodians famous &mdash; and infamous &mdash; as some of the galaxy's most capable bounty hunters.</p><p>A Rodian's large compound eyes and multi-jointed fingers make them exceptional trackers and climbers, equally at home stalking prey through dense jungle or the crowded levels of a Core World city.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "dex",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Rodese"
+    ],
+    "traits": [
+      {
+        "name": "Expert Tracker",
+        "description": "You are proficient in the Survival skill, and you have advantage on Wisdom (Survival) checks made to track a creature."
+      },
+      {
+        "name": "Multi-Jointed Fingers",
+        "description": "Your unusually flexible fingers grant you advantage on checks made to escape being grappled or restrained, and on Dexterity checks made to pick locks or pockets."
+      },
+      {
+        "name": "Hunter's Patience",
+        "description": "You have advantage on initiative checks made during the first round of a combat you have been observing for at least one minute beforehand."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

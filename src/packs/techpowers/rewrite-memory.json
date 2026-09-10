@@ -1,0 +1,45 @@
+{
+  "_id": "uiS1n0FPMcNRmjxZ",
+  "_key": "!items!uiS1n0FPMcNRmjxZ",
+  "name": "Rewrite Memory",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You attempt to rewrite the memories of one droid or construct you can see. It must make a Wisdom saving throw, with advantage if you are currently fighting it. On a failure, it is charmed by you for the duration, incapacitated and oblivious to its surroundings though still able to hear you; any damage or targeting by another power ends the charm and prevents any memory change.</p><p>While the charm holds, you may erase, sharpen, distort, or fabricate the target's memory of one event it experienced within the last 24 hours, so long as that event lasted no more than 10 minutes. Details you leave unspecified are filled in by the target's own mind. If the power ends before you finish shaping the memory, nothing changes; otherwise the new memory takes hold once the power ends. A memory that clashes badly with the target's core programming or convictions may simply be rejected as a glitch, at the GM's discretion. *Remove virus* or a similar effect restores the target's true memories.</p><p><em>Overcharge Tech.</em> Cast with a 6th-level slot or higher, you may reach back further: up to 7 days at 6th level, 30 days at 7th level, 1 year at 8th level, or any point in the target's past at 9th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

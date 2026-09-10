@@ -1,0 +1,24 @@
+{
+  "_id": "Mqx7WSAs1DcnsJQK",
+  "_key": "!items!Mqx7WSAs1DcnsJQK",
+  "name": "Know a Bit",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can add half your proficiency bonus to any ability check you make that wouldn't otherwise include it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Maverick Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

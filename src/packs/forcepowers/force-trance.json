@@ -1,0 +1,45 @@
+{
+  "_id": "GxECu2wEyaVsdLyB",
+  "_key": "!items!GxECu2wEyaVsdLyB",
+  "name": "Force Trance",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>With a soothing gesture you settle up to three willing creatures you can see within range into a deep, restorative slumber for the duration. The power ends early for a target that takes damage or is shaken or slapped awake. A target that remains asleep for the full duration gains the benefit of a short rest and cannot be affected by this power again until it completes a long rest. Droids and constructs are unaffected.</p><p>Cast with a 4th-level slot or higher, you can affect one additional willing creature for each slot level above 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 3",
+    "school": "lightside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

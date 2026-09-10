@@ -1,0 +1,45 @@
+{
+  "_id": "2a3zj7i1ClCsUGZg",
+  "_key": "!items!2a3zj7i1ClCsUGZg",
+  "name": "Force Vision",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You glimpse a thread of possible fate and share it with yourself or one willing creature you can see within range. Before the power ends, the chosen creature may, in response to making an ability check, attack roll, or saving throw, spend the power to roll an extra d20 and use either result. It may likewise spend the power when targeted by an attack, rolling a d20 and choosing between that roll and the attacker's own.</p><p>If the original roll already had advantage or disadvantage applied, the extra d20 is rolled only afterward.</p><p>Cast with a 3rd-level slot or higher, you can grant this benefit to one additional creature for each slot level above 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

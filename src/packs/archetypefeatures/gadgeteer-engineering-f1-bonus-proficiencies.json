@@ -1,0 +1,24 @@
+{
+  "_id": "GiRSUpYQWxFMDVaZ",
+  "_key": "!items!GiRSUpYQWxFMDVaZ",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with gadgeteer's implements, and crafting with them now takes half the normal time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Gadgeteer Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

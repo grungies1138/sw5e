@@ -1,0 +1,24 @@
+{
+  "_id": "GrvUcBRC7F9edvpN",
+  "_key": "!items!GrvUcBRC7F9edvpN",
+  "name": "The Thrill",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on ability checks and saving throws made to resist being charmed or frightened, and no creature can gain advantage on such checks or saves against an effect that you yourself control.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Champion Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

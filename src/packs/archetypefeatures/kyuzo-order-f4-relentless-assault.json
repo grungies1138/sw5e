@@ -1,0 +1,24 @@
+{
+  "_id": "LFJlQBWs6vszKAgt",
+  "_key": "!items!LFJlQBWs6vszKAgt",
+  "name": "Relentless Assault",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you make multiple thrown-weapon attacks against the same target on your turn, each attack beyond the first gains a cumulative +1 bonus to its attack roll, up to a maximum of +6.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kyuzo Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

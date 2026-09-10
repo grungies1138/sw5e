@@ -1,0 +1,29 @@
+{
+  "_id": "0F3PKMYOov9L6q3W",
+  "name": "Ionization Capacitor",
+  "type": "gear",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> This attachment routes a portion of a blaster's discharge through a charged ion capacitor before it fires. While installed, once per turn when the weapon hits a droid or a target protected by a shield's AC bonus, it deals an extra 1d6 ion damage.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 400,
+      "denomination": "credits"
+    },
+    "weight": 0.5,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "prototype",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

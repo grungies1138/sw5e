@@ -1,0 +1,24 @@
+{
+  "_id": "QPC5hrfatLrSnk8w",
+  "_key": "!items!QPC5hrfatLrSnk8w",
+  "name": "Silver Tongue",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn two languages of your choice and gain proficiency in one Charisma skill of your choice. Checks made with that skill are never rolled with disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Politician Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

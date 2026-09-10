@@ -1,0 +1,24 @@
+{
+  "_id": "P7znyOPPRpIf6UrC",
+  "_key": "!items!P7znyOPPRpIf6UrC",
+  "name": "Disruptive Shock",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, when you hit a creature with a melee weapon attack while you have advantage on the roll, or the creature fails a save against an effect you control, you can roll your Martial Arts die and add the result as extra psychic damage. You can use this feature a number of times equal to your proficiency bonus, regaining all uses after a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kage Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

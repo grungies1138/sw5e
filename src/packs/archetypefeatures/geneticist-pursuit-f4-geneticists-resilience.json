@@ -1,0 +1,24 @@
+{
+  "_id": "KtrWj3aQYUk4NH6T",
+  "_key": "!items!KtrWj3aQYUk4NH6T",
+  "name": "Geneticist's Resilience",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your altered genetics grant immunity to poison and disease, along with resistance to poison damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Geneticist Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

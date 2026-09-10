@@ -1,0 +1,24 @@
+{
+  "_id": "I3Z8uUeUwZOpD8WJ",
+  "_key": "!items!I3Z8uUeUwZOpD8WJ",
+  "name": "Upheld by the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Force strengthens your body directly, granting you the following benefits:</p><ul><li>Your hit point maximum increases by 3, plus another 1 each time you gain a level in this class.</li><li>Your base AC becomes 13 plus your Constitution modifier.</li><li>When a force power you cast requires a melee weapon attack, you may use Wisdom or Charisma (your choice) in place of Strength for both the attack and damage rolls.</li></ul><p>Additionally, as an action you can gain resistance to kinetic and energy damage for 1 minute. This resistance ends early if you end it as a bonus action, become incapacitated, or don armor other than a shield. You can use this feature twice, regaining all uses after a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Endurance",
+    "className": "Consular",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

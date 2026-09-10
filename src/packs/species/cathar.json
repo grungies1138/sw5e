@@ -1,0 +1,57 @@
+{
+  "_id": "jms791yCGbe9fgqf",
+  "name": "Cathar",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Cathar are a leonine, digitigrade species from the temperate world of Cathar, prized throughout the galaxy for their speed, strength, and fierce loyalty to their clan and pride. Their society was nearly wiped out by Mandalorian slavers generations ago, and surviving Cathar carry both a deep-seated wariness of outsiders and a fierce determination to rebuild what was lost.</p><p>Cathar are natural athletes, able to leap great distances and fight with tooth and claw when weapons fail them.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "str",
+        "value": 2
+      },
+      {
+        "ability": "dex",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Catharese"
+    ],
+    "traits": [
+      {
+        "name": "Claws",
+        "description": "Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      {
+        "name": "Feline Agility",
+        "description": "Your feline reflexes let you move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
+      },
+      {
+        "name": "Pride Instincts",
+        "description": "You have advantage on saving throws against being frightened while an ally is within 10 feet of you."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

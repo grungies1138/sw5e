@@ -1,0 +1,24 @@
+{
+  "_id": "XjOR47IkOmJe5FSP",
+  "_key": "!items!XjOR47IkOmJe5FSP",
+  "name": "The Way of the Monkey-Lizard",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you can spend one minute in a confusing stance. As part of that bonus action, and again as a bonus action on later turns, whenever you take the Dodge action you may also make one melee weapon attack against a creature within range. When you do, you may flourish your weapon to try to distract that target: make a Dexterity (Sleight of Hand) check contested by its Wisdom (Perception) check. On a success, you make the attack roll with advantage.</p><p>The stance ends early if you're incapacitated or killed. You must finish a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Trakata Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

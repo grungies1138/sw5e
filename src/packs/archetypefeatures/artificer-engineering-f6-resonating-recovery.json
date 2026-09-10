@@ -1,0 +1,24 @@
+{
+  "_id": "snBMrzY9Q9zqKA2u",
+  "_key": "!items!snBMrzY9Q9zqKA2u",
+  "name": "Resonating Recovery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, dropping a hostile creature to 0 hit points restores one use of your Potent Aptitude, though your total uses can never exceed your Intelligence modifier.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artificer Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

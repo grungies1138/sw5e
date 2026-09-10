@@ -1,0 +1,24 @@
+{
+  "_id": "aiNAP2jG4LRNajC6",
+  "_key": "!items!aiNAP2jG4LRNajC6",
+  "name": "Strength Flows from the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a power that affects only your companion, you can treat it as though cast at your Max Power Level. You can do this a number of times equal to your proficiency bonus (per the consular table), with all uses restored on a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Tutelage",
+    "className": "Consular",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

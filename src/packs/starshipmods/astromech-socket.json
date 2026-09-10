@@ -1,0 +1,30 @@
+{
+  "_id": "ib8Qs8G501UobFZk",
+  "name": "Astromech Socket",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Adds a dedicated docking socket, wired directly into the ship's primary systems, for an astromech droid to plug in and assist with repairs, navigation, and system diagnostics from outside the cockpit.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 1000,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 0,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

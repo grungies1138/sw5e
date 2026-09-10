@@ -1,0 +1,24 @@
+{
+  "_id": "zC6HpErdQVkMHE5r",
+  "_key": "!items!zC6HpErdQVkMHE5r",
+  "name": "Unstoppable Adventurer",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Water and sheer surfaces are no obstacle for you: you gain swimming and climbing speeds equal to your walking speed. As long as you have those speeds, you can also use your Sage Advice feature to teach friendly creatures how to swim or climb, granting them a matching swimming or climbing speed for that feature's full duration.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Explorer Pursuit",
+    "className": "Scholar",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

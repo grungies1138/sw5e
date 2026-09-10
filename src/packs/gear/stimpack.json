@@ -1,0 +1,29 @@
+{
+  "_id": "Et2IsVOohj7KtvU1",
+  "name": "Stimpack",
+  "type": "gear",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A single-use adrenal auto-injector that dulls pain and floods the bloodstream with combat stimulants. As an action, a creature can inject a stimpack to gain advantage on the next ability check, attack roll, or saving throw it makes before the end of its next turn.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 30,
+      "denomination": "credits"
+    },
+    "weight": 0.1,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

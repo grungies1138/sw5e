@@ -1,0 +1,24 @@
+{
+  "_id": "BZPaCWSoVEgHpb9w",
+  "_key": "!items!BZPaCWSoVEgHpb9w",
+  "name": "Animalistic Momentum",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain either a climbing or a swimming speed (your choice) equal to your walking speed. While raging, that choice grants an added benefit: with a climbing speed, you scale even difficult or inverted surfaces — ceilings included — without needing an ability check; with a swimming speed, you can spend a bonus action to Dash or Disengage while submerged.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Beastmaster Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

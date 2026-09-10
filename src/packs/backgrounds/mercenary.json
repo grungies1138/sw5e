@@ -1,0 +1,47 @@
+{
+  "_id": "wvknPsFZtKSaIJwF",
+  "_key": "!items!wvknPsFZtKSaIJwF",
+  "name": "Mercenary",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You fought for coin, not for a cause &mdash; a sell-sword who risked life and limb wherever the pay was good enough. Whether you rode with a large outfit or a ragtag band of freelancers, you know the ins and outs of that life: the emblems, the commanders, the cantinas where the next job gets posted.</p><p>You're done taking orders from a company banner, but the instincts of that life &mdash; and the willingness to fight for a fair price &mdash; haven't left you.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "inv",
+        "per",
+        "pil"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Investigator",
+        "Charmer",
+        "Ace Pilot",
+        "Competitor",
+        "Linguist",
+        "Weapon Expert",
+        "Durable"
+      ]
+    },
+    "equipment": "A uniform of your former company, an insignia of your rank, a gaming set of your choice, and a pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

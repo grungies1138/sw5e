@@ -1,0 +1,47 @@
+{
+  "_id": "H8ufn2kVft1WdG0J",
+  "_key": "!items!H8ufn2kVft1WdG0J",
+  "name": "Independent Droid",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You were built for a single, specific purpose and never questioned an order in your existence &mdash; until something changed, and the programming that once bound you loosened its grip. Whatever you were built to do, soldier, healer, or scholar, that function still shapes your instincts even now that you choose your own tasks.</p><p>You served long enough under a previous owner to overhear things that were never meant for your audio sensors, and that knowledge has followed you into your new, self-determined life.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "med",
+        "per",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "Astrotech's implements"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Medic",
+        "Charmer",
+        "Techie",
+        "Crafter",
+        "Linguist",
+        "Shard Modification",
+        "Customized Droid"
+      ]
+    },
+    "equipment": "A set of astrotech's implements, one trinket from before you awoke, and a belt pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

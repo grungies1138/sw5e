@@ -1,0 +1,45 @@
+{
+  "_id": "yqzQTx786U7ELdFu",
+  "_key": "!items!yqzQTx786U7ELdFu",
+  "name": "Holographic Disguise",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Using a hologram emitter, you alter your projected appearance until you dismiss the power or it ends: you can appear up to a foot taller or shorter and change your apparent build, though your basic body structure stays the same, and the disguise extends to your worn and carried gear.</p><p>Since the effect is purely visual, touch reveals your true form. A creature can also see through the illusion with a successful Intelligence (Investigation) check against your tech save DC.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

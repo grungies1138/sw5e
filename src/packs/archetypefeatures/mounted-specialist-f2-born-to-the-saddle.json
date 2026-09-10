@@ -1,0 +1,24 @@
+{
+  "_id": "Ym3bb8Jl3PgBEuD0",
+  "_key": "!items!Ym3bb8Jl3PgBEuD0",
+  "name": "Born to the Saddle",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your riding skill shows: you gain advantage on saving throws to avoid falling off your mount, and if you do fall and drop no more than 10 feet, you land on your feet so long as you aren't incapacitated.</p><p>Mounting or dismounting a creature or vehicle now costs only 5 feet of movement instead of half your speed.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mounted Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

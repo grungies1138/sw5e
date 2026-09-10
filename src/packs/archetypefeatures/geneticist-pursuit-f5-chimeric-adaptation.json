@@ -1,0 +1,24 @@
+{
+  "_id": "Qxtu3rh5GFpFYeu5",
+  "_key": "!items!Qxtu3rh5GFpFYeu5",
+  "name": "Chimeric Adaptation",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your gene-splicing reaches its peak. On finishing a short or long rest, you select one of the aspects below; while transformed by Mutagenic Transformation, you also gain that aspect's benefits for the duration. You can hold only one such aspect at a time.</p><p><strong>Aspect of the Terentatek.</strong> You gain proficiency in Wisdom and Charisma saving throws, plus advantage on saves against force powers. When a creature within 30 feet casts a force power, you may use your reaction to close up to half your speed toward it (ending nearer than you started); if that puts you within 5 feet, you get a free melee attack against it, no action required.</p><p><strong>Aspect of the Rancor.</strong> You gain proficiency in Strength and Constitution saving throws and immunity to being frightened. Weapon or unarmed strike damage you deal can be boosted by an extra 1d8 of the same damage type.</p><p><strong>Aspect of the Varactyl.</strong> You gain proficiency in Dexterity and Intelligence saving throws, your speed increases by 10 feet, your attack rolls can never suffer disadvantage, no creature can gain advantage attacking you, and each slowed level reduces your speed by only 5 feet (unless doing so would bring it to 0).</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Geneticist Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

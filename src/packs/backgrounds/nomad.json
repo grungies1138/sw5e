@@ -1,0 +1,47 @@
+{
+  "_id": "lzvWH1kzFz72GYzi",
+  "_key": "!items!lzvWH1kzFz72GYzi",
+  "name": "Nomad",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You grew up far from durasteel cities and comm towers, out where herds migrate across whole horizons and the nearest settlement is a rumor. Whether you lived as a wanderer, a hunter-gatherer, a recluse, or something closer to a raider, the wilds shaped you more than any city ever could.</p><p>Even on a world you've never set foot on, you know how to read weather, track game, and find water &mdash; the wild speaks a language you never had to be taught.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ani",
+        "ath",
+        "med",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of musical instrument"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Animal Handler",
+        "Brawny",
+        "Medic",
+        "Survivalist",
+        "Entertainer",
+        "Linguist",
+        "Dungeon Delver",
+        "Observant"
+      ]
+    },
+    "equipment": "A walking stick, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

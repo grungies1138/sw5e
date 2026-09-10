@@ -1,0 +1,45 @@
+{
+  "_id": "N1jFUek4GbdEnryJ",
+  "_key": "!items!N1jFUek4GbdEnryJ",
+  "name": "Coerce Mind",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You plant a short, reasonable-sounding suggestion in the mind of a creature within range that can see, hear, and understand you; creatures immune to being charmed are unaffected, and a suggestion that would obviously harm the target fails automatically. The target must succeed on a Wisdom saving throw or spend the duration pursuing the course of action you described to the best of its ability, ending early if the task is completed. You may attach a triggering condition to the suggestion, though the described activity is not performed if that condition never arises before the power ends. The power ends immediately if you or an ally harms the target, and it has no effect on droids or constructs.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "8",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

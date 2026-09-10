@@ -1,0 +1,29 @@
+{
+  "_id": "112nO0GJ7kSC1zYZ",
+  "name": "Cortosis-Weave Gauntlet",
+  "type": "gear",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> Threads of rare cortosis ore are woven through this reinforced gauntlet, a metal that shorts out a lightsaber blade on contact. Once per short rest, when you would be hit by a melee attack from a lightweapon, you can use your reaction to interpose the gauntlet: the attack automatically misses, and the attacking lightweapon's blade flickers out until the start of its wielder's next turn.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 2500,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "advanced",
+    "attuned": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

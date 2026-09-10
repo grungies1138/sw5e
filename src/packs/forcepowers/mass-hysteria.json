@@ -1,0 +1,50 @@
+{
+  "_id": "uDlD1pmljUvr22Cz",
+  "_key": "!items!uDlD1pmljUvr22Cz",
+  "name": "Mass Hysteria",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Drawing on a group's deepest fears, you conjure phantom horrors visible only to them. Every creature within a 30-foot-radius sphere becomes frightened for the duration. At the end of each affected creature's turn, it must succeed on a Wisdom saving throw or take 5d10 psychic damage; success ends the power for that creature. Droids and constructs are unaffected.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 9",
+    "school": "darkside",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d10",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

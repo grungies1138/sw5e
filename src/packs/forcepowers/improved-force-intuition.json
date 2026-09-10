@@ -1,0 +1,45 @@
+{
+  "_id": "x44wwDK5RR6jLEqf",
+  "_key": "!items!x44wwDK5RR6jLEqf",
+  "name": "Improved Force Intuition",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Force warns you of coming violence just in time to answer it. You make your initiative check with advantage and gain a +2 bonus to AC until the power ends; until the end of your first turn of combat, your speed also increases by 10 feet and you add 1d4 to your attack rolls. The power ends early if you fail a saving throw or are struck by an attack.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "reaction",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

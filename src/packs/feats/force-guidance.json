@@ -1,0 +1,33 @@
+{
+  "_id": "TUwYplXs6zBu7bXK",
+  "_key": "!items!TUwYplXs6zBu7bXK",
+  "name": "Force Guidance",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to channel your connection to the Force to bolster a specific specialty. Increase your Wisdom or Charisma score by 1, to a maximum of 20.</p><p>Choose one skill or tool in which you have proficiency. When making a check with it that doesn't already use your Wisdom or Charisma modifier, you may add half that modifier (your choice of ability, minimum 1). You can do this a number of times equal to your proficiency bonus, regaining all uses after a long rest.</p><p>This feat can be taken multiple times, choosing a different skill or tool each time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "Ability to cast force powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

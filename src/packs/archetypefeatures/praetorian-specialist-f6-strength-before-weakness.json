@@ -1,0 +1,24 @@
+{
+  "_id": "VHqjqLznhFwueA7g",
+  "_key": "!items!VHqjqLznhFwueA7g",
+  "name": "Strength Before Weakness",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If damage drops you to 0 hit points, you may use your reaction to stave off unconsciousness and immediately take an extra turn. During that turn, while at 0 hit points, taking damage still inflicts death saving throw failures as usual, and three failures can still kill you. Once the extra turn ends, you fall unconscious if you're still at 0 hit points.</p><p>Once used, this feature requires a long rest before you can use it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Praetorian Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

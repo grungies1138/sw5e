@@ -1,0 +1,22 @@
+{
+  "_id": "QDAy08EGGradUUou",
+  "_key": "!items!QDAy08EGGradUUou",
+  "name": "Aing-Tii Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Aing-Tii fuse an intimate connection to the Force with a monk's trained concentration, letting them dissolve into pure motion the instant combat begins.</p><p>Where other orders refine the body alone, these monks let the Force flow through every strike and step, blurring the boundary between martial technique and mystical power until the two become indistinguishable in the heat of a fight.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

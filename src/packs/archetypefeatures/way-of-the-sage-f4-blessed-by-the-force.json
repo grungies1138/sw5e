@@ -1,0 +1,24 @@
+{
+  "_id": "fXNkIvoXDPD6AwTG",
+  "_key": "!items!fXNkIvoXDPD6AwTG",
+  "name": "Blessed by the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action while below half your hit points, you can recover a number of hit points equal to half your hit point maximum. You must finish a long rest before doing this again.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of the Sage",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

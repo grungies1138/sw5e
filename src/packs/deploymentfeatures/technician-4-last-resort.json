@@ -1,0 +1,22 @@
+{
+  "_id": "cobkR8kxq5W7xG7Y",
+  "name": "Last Resort",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>You add your Constitution modifier to your ship's destruction saving throws. In addition, whenever your ship rolls a Hull Die or Shield Die, the die's result is treated as no lower than twice your Constitution modifier.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

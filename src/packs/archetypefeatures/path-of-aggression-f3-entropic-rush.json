@@ -1,0 +1,24 @@
+{
+  "_id": "wrqschaOSWkfRkns",
+  "_key": "!items!wrqschaOSWkfRkns",
+  "name": "Entropic Rush",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to combine speed and precision into a devastating discharge. If you move at least half your speed before casting <em>lightning charge</em>, you make its attack roll with advantage. On a hit, the lightning can also arc a second time, striking either a third creature within range or leaping back to the original target.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Aggression",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

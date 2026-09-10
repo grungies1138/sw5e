@@ -1,0 +1,50 @@
+{
+  "_id": "YYqtvYxIEwkuiqSU",
+  "_key": "!items!YYqtvYxIEwkuiqSU",
+  "name": "Call Lightning",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Attuning yourself to nature through the Force, you summon a storm cloud 60 feet in radius and 10 feet tall, centered above a point you choose within range, with yourself beneath it. The power fails if there isn't room for the cloud where you are. As part of casting, and again with your action on later turns while the power persists, you choose a point beneath the cloud and call down a bolt of lightning: each creature within 5 feet of that point must succeed on a Dexterity saving throw or take 3d10 lightning damage, half as much on a success.</p><p>If you are already outdoors in a storm when you cast this power, it instead gives you command of the existing storm, and the lightning damage increases by 1d10.</p><p>Cast with a slot of 4th level or higher, the damage increases by 1d10 for each slot level beyond 3rd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 3",
+    "school": "lightside",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d10",
+          "type": "lightning"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

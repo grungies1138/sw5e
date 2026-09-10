@@ -1,0 +1,24 @@
+{
+  "_id": "ibARlqCcePNhUuKN",
+  "_key": "!items!ibARlqCcePNhUuKN",
+  "name": "Growing Momentum",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You may cast <em>burst of speed</em> on yourself at its 1st-level version without spending any force points. Starting at 10th level, doing so adds an extra 10 feet to your speed, and at 18th level it adds another 10 feet on top of that.</p><p>This feature has two uses, with one more gained at 5th, 9th, 13th, and 17th level. A long rest refills all spent uses.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Adept Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "1cjRDU8S0tlHWuFK",
+  "_key": "!items!1cjRDU8S0tlHWuFK",
+  "name": "Dive For Cover",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, when you're targeted by a ranged attack or subjected to an effect that lets you make a Dexterity save, and cover exists within 10 feet of you, you can move up to 10 feet at no action cost, provided you end that movement in cover.</p><p>You can use this feature twice, gaining one more use at each of 5th, 9th, 13th, and 17th level, and you regain all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Gunslinger Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

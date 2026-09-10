@@ -1,0 +1,50 @@
+{
+  "_id": "0TXlOGEiIi27zh3G",
+  "_key": "!items!0TXlOGEiIi27zh3G",
+  "name": "Master Feedback",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You lash out with raw psychic force, targeting as many as ten creatures you choose within range; any target with an Intelligence score of 2 or lower is unaffected. Each must attempt an Intelligence saving throw, taking 14d6 psychic damage and becoming stunned on a failure, or half as much damage with no stun on a success.</p><p>A stunned target may attempt a Wisdom saving throw at the end of each of its turns, ending the stun on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 9",
+    "school": "darkside",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "14d6",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

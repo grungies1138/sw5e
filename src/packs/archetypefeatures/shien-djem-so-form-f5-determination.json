@@ -1,0 +1,24 @@
+{
+  "_id": "JGXxjx5gRahKrORF",
+  "_key": "!items!JGXxjx5gRahKrORF",
+  "name": "Determination",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain one of the following features: Aggressive Negotiations if you chose Shien, or Reliable Vigor if you chose Djem So.</p><p><strong>Aggressive Negotiations.</strong> You gain proficiency in Intimidation or Persuasion. While wielding a weapon you're proficient with, your Charisma (Intimidation) and Charisma (Persuasion) checks can never suffer disadvantage, and if a target of one of those checks would make a contested check against you, its check can't have advantage.</p><p><strong>Reliable Vigor.</strong> Whenever a d20 roll for a Strength check or saving throw comes up lower than your guardian level, you may use your guardian level as the result instead. You have three uses of this feature, gaining one more at 9th, 13th, and 17th level, and you regain all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shien/Djem So Form",
+    "className": "Guardian",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

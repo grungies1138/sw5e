@@ -1,0 +1,22 @@
+{
+  "_id": "z7JmYFNGn3lHNbwG",
+  "_key": "!items!z7JmYFNGn3lHNbwG",
+  "name": "Shadow Guard",
+  "type": "archetype",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Shadow Guard archetype is a Sentinel whose personal Ideal is vigilance without recognition, a quiet watcher who would rather prevent a disaster unseen than be thanked for stopping one in the open. Shadow Guards specialize in tailing threats, striking from concealment, and vanishing again before the dust settles.</p><p>They develop an affinity for Force techniques that mask their presence and movement, punishing strikes delivered from hiding, and the discipline to hold back — sometimes for a very long time — until the exact right moment to intervene.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Sentinel"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

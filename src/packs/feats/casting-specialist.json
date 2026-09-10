@@ -1,0 +1,30 @@
+{
+  "_id": "EKKKJnQtm4pNQOW5",
+  "_key": "!items!EKKKJnQtm4pNQOW5",
+  "name": "Casting Specialist",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose forcecasting or techcasting. You gain a +1 bonus to the save DC and attack modifier for your chosen casting type.</p><p>Once per turn, when you cast a power of that type requiring an attack roll or a saving throw, you can grant advantage on one attack roll you make with it, or force one affected creature to have advantage or disadvantage (your choice) on its save; each option can only be used once per power until you finish a short or long rest, and once per creature until you finish a short or long rest.</p><p>Once per turn, when you cast a power of that type that requires a die roll but no ability check, attack roll, or saving throw, you can set the result of that die to its maximum or minimum; if multiple dice are rolled, you may affect a number of them up to half your proficiency bonus (rounded up), and each power can only be affected this way once until you finish a short or long rest.</p><p>You can take this feat twice, choosing the other casting type the second time.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level, the ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

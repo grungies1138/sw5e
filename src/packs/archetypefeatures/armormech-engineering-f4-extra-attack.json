@@ -1,0 +1,24 @@
+{
+  "_id": "OFiswH7esI8W2rFb",
+  "_key": "!items!OFiswH7esI8W2rFb",
+  "name": "Extra Attack",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you take the Attack action, you can strike twice rather than once, provided you're wearing your modified armor or carrying your modified shield.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armormech Engineering",
+    "className": "Engineer",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

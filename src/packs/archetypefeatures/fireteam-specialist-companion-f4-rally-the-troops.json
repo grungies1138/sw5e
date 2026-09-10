@@ -1,0 +1,24 @@
+{
+  "_id": "LOOxKXplEJhaXLMi",
+  "_key": "!items!LOOxKXplEJhaXLMi",
+  "name": "Rally the Troops",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If your companion is within 10 feet of you when you use Second Wind, it both regains hit points and gains temporary hit points equal to your fighter level. This range grows to 30 feet at 11th level and 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Fireteam Specialist (Companion)",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "CJn0Ka4cjyP7Y2vs",
+  "_key": "!items!CJn0Ka4cjyP7Y2vs",
+  "name": "Alert",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Danger rarely catches you off guard. You gain proficiency in Initiative checks, cannot be surprised while conscious, and no longer grant attackers advantage on the basis of being unseen by you.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

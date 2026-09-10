@@ -1,0 +1,24 @@
+{
+  "_id": "k1XnAqkAdwan719o",
+  "_key": "!items!k1XnAqkAdwan719o",
+  "name": "Kinetic Ward",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a melee weapon attack damages you, you may use your reaction to deflect the blow, reducing the damage taken by 1d10 plus your Dexterity modifier plus your sentinel level. If this reduces the damage to 0 and you're holding a weapon capable of the feat, you can redirect the blow: by spending 1 force point as part of the same reaction, you make a melee weapon attack against a target within 5 feet of you, treating yourself as proficient with the weapon regardless of your actual proficiencies. A hit deals damage using your Kinetic Combat die, and the attack roll has advantage if <em>saber ward</em> is currently active.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Tenacity",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

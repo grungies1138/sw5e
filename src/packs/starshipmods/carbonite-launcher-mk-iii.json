@@ -1,0 +1,30 @@
+{
+  "_id": "sVmJaySteV39v5wK",
+  "name": "Carbonite Launcher Mk III",
+  "type": "starshipmod",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p>A mid-line carbonite launcher with redundant freezing coils, reducing the odds of a botched partial freeze that leaves a target only slowed rather than immobilized.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 10000,
+      "denomination": "credits"
+    },
+    "category": "weapon",
+    "grade": 3,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "Fixed Hardpoint",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

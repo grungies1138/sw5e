@@ -1,0 +1,50 @@
+{
+  "_id": "lJybz6U3Cfk3nCK8",
+  "_key": "!items!lJybz6U3Cfk3nCK8",
+  "name": "Saber Onslaught",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You settle into an aggressive stance. Until the end of your turn, your movement doesn't provoke opportunity attacks, and each time you move within 5 feet of a creature for the first time this turn, you may make one melee weapon attack against it. A hit deals an extra 1d6 damage of the weapon's type, and forces a Strength save on the target — on a failure, you may knock it prone or push it 5 feet away from you.</p><p><em>Force Potency.</em> Cast with a force slot of 5th level or higher, the bonus weapon damage increases by 1d6 for each slot level above 4th.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 4",
+    "school": "universal",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

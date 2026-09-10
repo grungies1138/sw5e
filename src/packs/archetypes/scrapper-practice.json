@@ -1,0 +1,22 @@
+{
+  "_id": "UJ9RRI9hgykSMQGH",
+  "_key": "!items!UJ9RRI9hgykSMQGH",
+  "name": "Scrapper Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Scrapper Practice operatives don't bother with fair fights, a fair fight just means somebody planned poorly. They favor close-range blaster work laced with dirty tricks, closing the gap fast and making sure the other side never gets its footing back.</p><p>Loud, brash, and utterly practical, these operatives blend suppressive fire with shoves, trips, and well-timed insults, leaving opponents rattled long before the fight is actually over.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

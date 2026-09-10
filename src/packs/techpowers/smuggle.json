@@ -1,0 +1,45 @@
+{
+  "_id": "L34vxCnmU94R7Y86",
+  "_key": "!items!L34vxCnmU94R7Y86",
+  "name": "Smuggle",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You muffle sound, dim light, and mask scent around yourself and those nearby. Each creature you choose within 30 feet of you, yourself included, gains a +10 bonus to Dexterity (Stealth) checks for the duration and cannot be tracked by non-enhanced means while within that radius, leaving no trace of its passing.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

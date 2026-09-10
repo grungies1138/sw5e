@@ -1,0 +1,45 @@
+{
+  "_id": "29SIRo7857b3MdZ9",
+  "_key": "!items!29SIRo7857b3MdZ9",
+  "name": "Awe",
+  "type": "power",
+  "img": "icons/svg/skull.svg",
+  "system": {
+    "description": {
+      "value": "<p>You radiate a wave of dark side malice. Choose one creature you can see within range. It must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "lSXTE2HgZhH6UfK7",
+  "_key": "!items!lSXTE2HgZhH6UfK7",
+  "name": "General Practice",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency in Medicine, using your Intelligence modifier instead of Wisdom for checks with it. You can also spend one use of a traumakit during a short rest to aid recovery: if you or any friendly creature within 30 feet regains hit points at the end of that rest by spending Hit Dice, each of them regains an extra 1d6 hit points.</p><p>That bonus die grows as you gain levels: to 1d8 at 9th level, 1d10 at 13th level, and 1d12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sawbones Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

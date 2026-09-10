@@ -1,0 +1,24 @@
+{
+  "_id": "Ih2P01ftHNucsHjH",
+  "_key": "!items!Ih2P01ftHNucsHjH",
+  "name": "Flow-Walking",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can cast the <em>phasestrike</em> power without spending force points. The bonus damage of the attack made during <em>phasestrike</em> rises to 2d8 at 11th level and to 3d8 at 17th level.</p><p>Additionally, whenever you spend your action casting an at-will force power, you may also use your Martial Arts or Focus features. You can combine these uses a total of three times, gaining one more at 9th, 13th, and 17th level, and you regain all spent uses after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Aing-Tii Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

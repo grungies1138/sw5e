@@ -1,0 +1,50 @@
+{
+  "_id": "zBh0PsxeRGRmPabN",
+  "_key": "!items!zBh0PsxeRGRmPabN",
+  "name": "Shocking Ray",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure three bolts of ionic energy and hurl them at one target or split them among several within range. Make a separate ranged tech attack for each bolt; each one that hits deals 2d4 ion damage.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 3rd level or higher, you create one additional bolt for each slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d4",
+          "type": "ion"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

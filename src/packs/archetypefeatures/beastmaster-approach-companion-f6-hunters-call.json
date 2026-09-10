@@ -1,0 +1,24 @@
+{
+  "_id": "28SY27B20A7wjDjt",
+  "_key": "!items!28SY27B20A7wjDjt",
+  "name": "Hunter's Call",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you enter your rage, you may choose up to five allies you can see within 30 feet, and you gain 5 temporary hit points for each of them. For the rest of the rage, once on each of their turns, an affected ally may add your rage damage bonus to a weapon attack's damage roll.</p><p>You can call on this ability five times, gaining a sixth use at 17th level, and all expended uses return after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Beastmaster Approach (Companion)",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

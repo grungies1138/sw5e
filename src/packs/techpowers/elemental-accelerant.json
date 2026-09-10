@@ -1,0 +1,50 @@
+{
+  "_id": "5cZdSyaObLOOksZW",
+  "_key": "!items!5cZdSyaObLOOksZW",
+  "name": "Elemental Accelerant",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You choose one creature you can see and one damage type — acid, cold, fire, lightning, or sonic. The target must succeed on a Constitution saving throw or, until the power ends, the first time it takes damage of that type on a turn it takes an extra 2d6 damage of the same type, and it loses any resistance to that damage type.</p><p>Cast with a tech slot of 5th level or higher, you can target one additional creature within 30 feet of the others for each slot level above 4th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

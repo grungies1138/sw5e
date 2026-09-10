@@ -1,0 +1,24 @@
+{
+  "_id": "5BBxfot30mS2wg4Y",
+  "_key": "!items!5BBxfot30mS2wg4Y",
+  "name": "Systems Hijack",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Also starting at 3rd level: if your Critical Analysis target is a droid, a construct, or is carrying or wearing a techcasting focus, it becomes a valid target for any touch-range tech power you cast. Additionally, when that target casts a tech power, you may use your reaction to identify which power it is and at what level it's being cast.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Slicer Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

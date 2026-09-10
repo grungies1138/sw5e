@@ -1,0 +1,16 @@
+This Foundry Virtual Tabletop game system implementation is an unofficial,
+independently-built fan work based on the free "Star Wars 5e" tabletop
+ruleset published at https://sw5e.com, itself a fan conversion of 5th
+edition rules. It is not affiliated with, endorsed by, or sponsored by
+Lucasfilm Ltd., Disney, or Wizards of the Coast.
+
+"Star Wars" and all related characters, vehicles, and settings are
+trademarks of Lucasfilm Ltd. This is a non-commercial fan project.
+
+Code (module/, templates/, styles/, lang/, scripts/, sw5e.mjs, system.json)
+is provided as-is. You are free to use, modify, and redistribute it for
+non-commercial tabletop-gaming purposes, with attribution.
+
+Compendium content under src/packs/ and packs/ transcribes and adapts rules
+text and numeric tables from the free, publicly-available sw5e.com ruleset;
+that underlying ruleset remains the work of its own contributors.

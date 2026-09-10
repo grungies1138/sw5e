@@ -1,0 +1,57 @@
+{
+  "_id": "oP15MYSxwmTe3o9A",
+  "name": "Devaronian",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Devaronians are a horned, sharp-featured humanoid species from the volcanic world of Devaron, known throughout the galaxy for their restless wanderlust and their striking sexual dimorphism &mdash; males possess prominent curling horns and a fierce visage, while females are smooth-skinned and often go unrecognized as members of the same species.</p><p>Devaronian culture prizes travel and new experience above nearly everything else; many Devaronians leave home as soon as they are able and never look back.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "cha",
+        "value": 2
+      },
+      {
+        "ability": "con",
+        "value": 1
+      }
+    ],
+    "darkvision": 60,
+    "languages": [
+      "Galactic Basic",
+      "Devaronese"
+    ],
+    "traits": [
+      {
+        "name": "Horns",
+        "description": "Devaronian males possess sharp horns that serve as natural weapons. If you have horns, you can use them to make unarmed strikes; if you hit with them, you deal 1d4 + your Strength modifier piercing damage instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      {
+        "name": "Nomadic Nature",
+        "description": "You are proficient in the Survival skill, reflecting a lifetime spent on the move across unfamiliar worlds."
+      },
+      {
+        "name": "Silver Tongue",
+        "description": "You have advantage on Charisma (Deception) checks made against creatures who have not met a Devaronian before."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

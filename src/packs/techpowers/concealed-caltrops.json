@@ -1,0 +1,50 @@
+{
+  "_id": "0zljAOuxgfCkyWmg",
+  "_key": "!items!0zljAOuxgfCkyWmg",
+  "name": "Concealed Caltrops",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You scatter a wide spread of near-invisible caltrops across the ground in a 20-foot radius centered on a point within range, turning the area into difficult terrain for the duration. A creature moving into or within the area takes 2d4 kinetic damage for every 5 feet it travels there.</p><p>A creature that couldn't see the area when you cast the power must succeed on a Wisdom (Perception) check against your tech save DC to notice the caltrops before stepping into them.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d4",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

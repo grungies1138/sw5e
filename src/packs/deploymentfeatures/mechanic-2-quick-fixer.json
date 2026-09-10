@@ -1,0 +1,22 @@
+{
+  "_id": "rYg5oOMgrUS7c05A",
+  "name": "Quick Fixer",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on Constitution (Patch) checks made to repair your ship's Hull Points.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

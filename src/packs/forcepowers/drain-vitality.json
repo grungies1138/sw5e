@@ -1,0 +1,50 @@
+{
+  "_id": "KoJDQipJTyIBXut7",
+  "_key": "!items!KoJDQipJTyIBXut7",
+  "name": "Drain Vitality",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reach into a creature you can see within range and pull at its willpower. Make a ranged force attack against it; on a hit, the target takes 2d6 necrotic damage, and until the power ends its Strength-based weapon attacks deal only half damage. At the end of each of its turns, the target may attempt a Constitution saving throw, ending the power on a success.</p><p>Casting this power with a force slot of 3rd level or higher increases the damage by 1d6 for each slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d6",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

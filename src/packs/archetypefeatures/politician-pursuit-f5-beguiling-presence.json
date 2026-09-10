@@ -1,0 +1,24 @@
+{
+  "_id": "yJLPZrLzMR8yChcA",
+  "_key": "!items!yJLPZrLzMR8yChcA",
+  "name": "Beguiling Presence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your presence overwhelms nearby minds: any humanoid within 60 feet of you rolls saving throws at disadvantage against charm or fear effects that you create.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Politician Pursuit",
+    "className": "Scholar",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

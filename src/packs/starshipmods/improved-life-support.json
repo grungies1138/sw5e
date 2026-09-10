@@ -1,0 +1,30 @@
+{
+  "_id": "U5BpUKHNzSDQUCkQ",
+  "name": "Improved Life Support",
+  "type": "starshipmod",
+  "img": "icons/svg/heal.svg",
+  "system": {
+    "description": {
+      "value": "<p>An expanded atmosphere recycling and thermal regulation system, extending how long the crew can survive on internal reserves if resupply is cut off.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 2800,
+      "denomination": "credits"
+    },
+    "category": "universal",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

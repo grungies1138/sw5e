@@ -1,0 +1,45 @@
+{
+  "_id": "XPyER97BDyQAI47P",
+  "_key": "!items!XPyER97BDyQAI47P",
+  "name": "Improved Heal",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A wave of restorative energy rolls out from a point you choose within range. Choose up to six creatures within a 30-foot-radius sphere centered there; each regains hit points equal to 3d8 plus your forcecasting ability modifier. Droids and constructs gain no benefit.</p><p>Cast with a 6th-level slot or higher, the healing increases by 1d8 for each slot level above 5th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 5",
+    "school": "lightside",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "VxlEGpXyjFakOVVh",
+  "_key": "!items!VxlEGpXyjFakOVVh",
+  "name": "Precision Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some berserkers discover that fury doesn't have to be blunt. The Precision Approach hones rage into a razor's edge, teaching its followers to fight with a speed and accuracy that seems almost supernatural for something born of anger.</p><p>These warriors move like predators stalking prey — light-footed, watchful, and lethal the instant an opening appears.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

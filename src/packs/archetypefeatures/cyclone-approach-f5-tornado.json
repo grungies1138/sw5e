@@ -1,0 +1,24 @@
+{
+  "_id": "cJkn5J9ZdrwI34Yb",
+  "_key": "!items!cJkn5J9ZdrwI34Yb",
+  "name": "Tornado",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once on each of your turns, you can whirl into a storm of steel. When you take the Attack action, you may give up one of your normal attacks to instead swing at every creature within 5 feet of you, rolling a separate attack roll against each. If you're wielding a separate melee weapon in each hand, every hit scored this way deals damage equal to both weapons' damage dice combined, plus your relevant ability modifier and any other applicable modifiers.</p><p>You can call on this fury five times, gaining a sixth use at 17th level, and you recover all spent uses whenever you finish a short or long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Cyclone Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

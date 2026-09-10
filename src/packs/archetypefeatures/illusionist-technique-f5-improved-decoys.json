@@ -1,0 +1,24 @@
+{
+  "_id": "tjHqBdqdqdDNI4NC",
+  "_key": "!items!tjHqBdqdqdDNI4NC",
+  "name": "Improved Decoys",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your Holographic Decoy feature can now produce up to four duplicates at once instead of just one, and when you spend a bonus action to move one decoy, you may move any number of your active decoys with that same action.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Illusionist Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

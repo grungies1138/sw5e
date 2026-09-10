@@ -1,0 +1,24 @@
+{
+  "_id": "VB9JMSCiI4X4ZgIJ",
+  "_key": "!items!VB9JMSCiI4X4ZgIJ",
+  "name": "Tutaminis Mastery",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When using a Force-Empowered Casting option, you can spend one power surge instead of paying the usual additional force points for it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Negation",
+    "className": "Consular",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "ZfVGjbtLNQfsB0kT",
+  "_key": "!items!ZfVGjbtLNQfsB0kT",
+  "name": "Customized Droid",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Modifications set you apart from droids fresh off the line. Increase one ability score of your choice by 1, to a maximum of 20.</p><p>Choose and install one standard-rarity droid customization from Appendix A. It does not count against the number of customizations you can normally support, though it still counts toward your maximum parts or protocols, whichever applies.</p>",
+      "chat": ""
+    },
+    "source": "Wretched Hive Feats",
+    "requirements": "Droid type.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 1,
+      "options": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "omKGKbvBgfxZvZrU",
+  "_key": "!items!omKGKbvBgfxZvZrU",
+  "name": "Faction Artisan",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You trained as an apprentice under a master artisan, sponsored by a faction of fellow crafters, until you earned mastery of your own trade. That faction membership made you part of the mercantile world in good standing, free of the constraints that bind unaffiliated tradespeople.</p><p>Your fellow members still look out for you, and their factionhalls remain a reliable place to find patrons, allies, or hired help &mdash; as long as your dues stay paid.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "ins",
+        "per",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of artisan's implements, biochemist's kit, or chef's kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Empathic",
+        "Charmer",
+        "Techie",
+        "Crafter",
+        "Specialist",
+        "Linguist",
+        "Haggler"
+      ]
+    },
+    "equipment": "A set of tools of your choice, a letter of introduction from your faction, a set of traveler's clothes, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

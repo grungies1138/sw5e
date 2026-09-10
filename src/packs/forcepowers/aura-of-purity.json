@@ -1,0 +1,45 @@
+{
+  "_id": "0bkDiMhGDzDe7cca",
+  "_key": "!items!0bkDiMhGDzDe7cca",
+  "name": "Aura of Purity",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A field of cleansing light radiates 30 feet from you and travels with you for the duration. Every non-hostile creature within the aura, yourself included, cannot contract disease, has resistance to poison damage, and gains advantage on saving throws against effects that would blind, charm, deafen, frighten, paralyze, poison, or stun it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 4",
+    "school": "lightside",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

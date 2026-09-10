@@ -1,0 +1,423 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700;800&family=Share+Tech+Mono&display=swap');
+
+/* ============================================================
+   SW5E — Star Wars 5e system styling
+   "Holo-terminal" theme: a starship-computer / holoprojector
+   console look — glowing cyan readouts, angular HUD framing.
+   Original sci-fi styling, not a reproduction of any specific
+   franchise logo or trademark.
+
+   Lands in Foundry's "system" CSS cascade layer automatically
+   (declared via system.json's `styles`), which already outranks
+   core's built-in layers, so no !important hacks are needed.
+
+   Follows Foundry's own light/dark UI theme toggle (Configure
+   Settings > Interface): Foundry stamps `theme-dark` or
+   `theme-light` on <body>, and every sheet window is a direct
+   child of <body>, so the dark palette below is the default and
+   the `body.theme-light` block near the bottom re-points the same
+   custom properties to a bright "daylight console" variant instead
+   of hand-overriding every rule twice.
+   ============================================================ */
+
+:root {
+  --sw5e-color-accent: #35e0f2;
+  --sw5e-color-accent-dark: #14838f;
+  --sw5e-color-accent-dim: rgba(53, 224, 242, 0.35);
+  --sw5e-color-danger: #ff5252;
+  --sw5e-color-danger-dim: rgba(255, 82, 82, 0.35);
+  --sw5e-color-warn: #ffb454;
+  --sw5e-color-warn-dim: rgba(255, 180, 84, 0.35);
+  --sw5e-color-bg: #060a10;
+  --sw5e-color-panel: #0c141c;
+  --sw5e-color-panel-raised: #101b24;
+  --sw5e-color-border: #1f4750;
+  --sw5e-color-border-bright: #2d7d8a;
+  --sw5e-color-text: #d9f6fb;
+  --sw5e-color-text-muted: #6e94a0;
+  --sw5e-color-shield: #6a4fd6;
+  --sw5e-color-shield-bright: #9d8cf0;
+  --sw5e-bg-scanline: rgba(53, 224, 242, 0.02);
+  --sw5e-bg-glow: rgba(53, 224, 242, 0.06);
+  --sw5e-bg-hover: rgba(53, 224, 242, 0.04);
+  --sw5e-radius: 2px;
+  --sw5e-font-display: "Orbitron", "Segoe UI", sans-serif;
+  --sw5e-font-mono: "Share Tech Mono", "Consolas", monospace;
+  --sw5e-font-body: "Signika", sans-serif;
+  --sw5e-corner: 9px;
+}
+
+/* ---------- Base ---------- */
+
+.sw5e.sheet {
+  background:
+    repeating-linear-gradient(180deg, var(--sw5e-bg-scanline) 0px, var(--sw5e-bg-scanline) 1px, transparent 1px, transparent 3px),
+    radial-gradient(ellipse at top left, var(--sw5e-bg-glow), transparent 60%),
+    var(--sw5e-color-bg);
+  color: var(--sw5e-color-text);
+  font-family: var(--sw5e-font-body);
+}
+
+.sw5e.sheet ::selection { background: var(--sw5e-color-accent); color: #041014; }
+
+.sw5e.sheet a { color: var(--sw5e-color-accent); }
+
+.sw5e.sheet input, .sw5e.sheet select, .sw5e.sheet textarea {
+  background: var(--sw5e-color-panel);
+  color: var(--sw5e-color-text);
+  border: 1px solid var(--sw5e-color-border);
+  border-radius: var(--sw5e-radius);
+  padding: 2px 5px;
+  font-family: var(--sw5e-font-mono);
+}
+.sw5e.sheet input:focus, .sw5e.sheet select:focus, .sw5e.sheet textarea:focus {
+  outline: none;
+  border-color: var(--sw5e-color-accent);
+  box-shadow: 0 0 6px var(--sw5e-color-accent-dim);
+}
+.sw5e.sheet input:disabled { color: var(--sw5e-color-text-muted); border-color: var(--sw5e-color-border); opacity: 0.85; }
+
+.sw5e.sheet fieldset {
+  position: relative;
+  border: 1px solid var(--sw5e-color-border);
+  border-radius: var(--sw5e-radius);
+  margin-bottom: 0.6em;
+  padding: 0.6em 0.6em 0.5em;
+  background: linear-gradient(180deg, var(--sw5e-color-panel), var(--sw5e-color-bg));
+}
+.sw5e.sheet fieldset::before, .sw5e.sheet fieldset::after {
+  content: ""; position: absolute; width: var(--sw5e-corner); height: var(--sw5e-corner); pointer-events: none;
+}
+.sw5e.sheet fieldset::before { top: -1px; left: -1px; border-top: 2px solid var(--sw5e-color-accent); border-left: 2px solid var(--sw5e-color-accent); }
+.sw5e.sheet fieldset::after { bottom: -1px; right: -1px; border-bottom: 2px solid var(--sw5e-color-accent); border-right: 2px solid var(--sw5e-color-accent); }
+.sw5e.sheet fieldset legend {
+  padding: 0 6px;
+  font-family: var(--sw5e-font-display);
+  font-weight: 600;
+  font-size: 0.8em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--sw5e-color-accent);
+  text-shadow: 0 0 6px var(--sw5e-color-accent-dim);
+}
+
+.sw5e.sheet button {
+  background: var(--sw5e-color-panel-raised);
+  border: 1px solid var(--sw5e-color-border-bright);
+  border-radius: 0;
+  clip-path: polygon(6px 0, 100% 0, 100% calc(100% - 6px), calc(100% - 6px) 100%, 0 100%, 0 6px);
+  color: var(--sw5e-color-text);
+  font-family: var(--sw5e-font-display);
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  padding: 3px 10px;
+  transition: box-shadow 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+.sw5e.sheet button:hover:not(:disabled) {
+  border-color: var(--sw5e-color-accent);
+  color: var(--sw5e-color-accent);
+  box-shadow: 0 0 8px var(--sw5e-color-accent-dim);
+}
+.sw5e.sheet button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.sw5e.sheet h1, .sw5e.sheet h2, .sw5e.sheet h3 {
+  font-family: var(--sw5e-font-display);
+  letter-spacing: 0.05em;
+  color: var(--sw5e-color-accent);
+}
+
+/* ---------- Header ---------- */
+
+.sw5e .sheet-header {
+  position: relative;
+  display: flex; gap: 0.75em; padding: 0.6em;
+  background: linear-gradient(180deg, var(--sw5e-color-panel-raised), var(--sw5e-color-panel));
+  border-bottom: 1px solid var(--sw5e-color-border-bright);
+}
+.sw5e .sheet-header::before, .sw5e .sheet-header::after {
+  content: ""; position: absolute; width: 16px; height: 16px; pointer-events: none;
+}
+.sw5e .sheet-header::before { top: 4px; left: 4px; border-top: 2px solid var(--sw5e-color-accent); border-left: 2px solid var(--sw5e-color-accent); }
+.sw5e .sheet-header::after { top: 4px; right: 4px; border-top: 2px solid var(--sw5e-color-accent); border-right: 2px solid var(--sw5e-color-accent); }
+
+.sw5e .sheet-header .profile-img {
+  width: 96px; height: 96px;
+  border: 2px solid var(--sw5e-color-border-bright);
+  border-radius: 0;
+  box-shadow: 0 0 10px var(--sw5e-color-accent-dim);
+  object-fit: cover;
+}
+.sw5e .header-fields { flex: 1; display: flex; flex-direction: column; gap: 0.4em; }
+.sw5e .name-input {
+  font-family: var(--sw5e-font-display);
+  font-size: 1.4em; font-weight: 700; letter-spacing: 0.03em;
+  border: none; border-bottom: 2px solid var(--sw5e-color-accent);
+  background: transparent; color: var(--sw5e-color-text);
+  text-shadow: 0 0 8px var(--sw5e-color-accent-dim);
+}
+.sw5e .header-row { display: flex; gap: 0.75em; align-items: center; flex-wrap: wrap; }
+.sw5e .header-row label {
+  display: flex; flex-direction: column; gap: 2px;
+  font-size: 0.72em; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--sw5e-color-text-muted);
+}
+.sw5e .item-type {
+  align-self: flex-start;
+  font-family: var(--sw5e-font-display);
+  font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.12em;
+  color: var(--sw5e-color-text-muted);
+  border: 1px solid var(--sw5e-color-border);
+  padding: 1px 8px;
+}
+
+.sw5e .resource { display: flex; flex-direction: column; min-width: 90px; gap: 2px; }
+.sw5e .resource label { font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.08em; color: var(--sw5e-color-text-muted); }
+.sw5e .bar-wrap {
+  position: relative; display: flex; align-items: center; gap: 2px;
+  background: var(--sw5e-color-bg); border: 1px solid var(--sw5e-color-border);
+  padding: 2px 5px;
+}
+.sw5e .bar-fill {
+  position: absolute; left: 0; top: 0; bottom: 0;
+  background: linear-gradient(90deg, var(--sw5e-color-accent-dark), var(--sw5e-color-accent));
+  opacity: 0.3; box-shadow: 0 0 8px var(--sw5e-color-accent-dim) inset;
+}
+.sw5e .bar-fill.shield-fill { background: linear-gradient(90deg, var(--sw5e-color-shield), var(--sw5e-color-shield-bright)); }
+.sw5e .bar-wrap input, .sw5e .bar-wrap span { position: relative; z-index: 1; }
+.sw5e .bar-wrap input {
+  width: 3.5em; background: transparent; border: none;
+  text-align: right; font-family: var(--sw5e-font-mono); font-weight: 700; font-size: 1.05em;
+  text-shadow: 0 0 6px var(--sw5e-color-accent-dim);
+}
+.sw5e .bar-wrap span { color: var(--sw5e-color-text-muted); font-family: var(--sw5e-font-mono); }
+
+.sw5e .ac-value, .sw5e .speed-value {
+  font-family: var(--sw5e-font-mono); font-size: 1.3em; font-weight: 700;
+  color: var(--sw5e-color-accent); text-shadow: 0 0 6px var(--sw5e-color-accent-dim);
+}
+.sw5e .dr-note, .sw5e .turn-note { font-size: 0.75em; color: var(--sw5e-color-text-muted); }
+
+.sw5e .conditions-row .pill {
+  background: var(--sw5e-color-panel); border: 1px solid var(--sw5e-color-border-bright);
+  border-radius: 999px; padding: 2px 10px; font-size: 0.8em; font-family: var(--sw5e-font-mono);
+}
+.sw5e .conditions-row .pill.warn { border-color: var(--sw5e-color-warn); color: var(--sw5e-color-warn); box-shadow: 0 0 6px var(--sw5e-color-warn-dim); }
+.sw5e .conditions-row .pill.destroyed { border-color: var(--sw5e-color-danger); color: var(--sw5e-color-danger); font-weight: 700; box-shadow: 0 0 8px var(--sw5e-color-danger-dim); }
+
+.sw5e .death-row span { font-family: var(--sw5e-font-mono); font-size: 0.85em; color: var(--sw5e-color-text-muted); }
+
+/* ---------- Abilities ---------- */
+
+.sw5e .abilities-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.5em; padding: 0.6em; }
+.sw5e .ability-box {
+  position: relative;
+  display: flex; flex-direction: column; align-items: center; gap: 0.25em;
+  border: 1px solid var(--sw5e-color-border); padding: 0.5em 0.4em;
+  background: linear-gradient(180deg, var(--sw5e-color-panel-raised), var(--sw5e-color-panel));
+}
+.sw5e .ability-box::before, .sw5e .ability-box::after { content: ""; position: absolute; width: 7px; height: 7px; pointer-events: none; }
+.sw5e .ability-box::before { top: -1px; left: -1px; border-top: 1px solid var(--sw5e-color-accent); border-left: 1px solid var(--sw5e-color-accent); }
+.sw5e .ability-box::after { bottom: -1px; right: -1px; border-bottom: 1px solid var(--sw5e-color-accent); border-right: 1px solid var(--sw5e-color-accent); }
+.sw5e .ability-box label { font-family: var(--sw5e-font-display); font-size: 0.75em; letter-spacing: 0.1em; color: var(--sw5e-color-text-muted); }
+.sw5e .ability-box input[type="number"] { width: 3em; text-align: center; }
+.sw5e .ability-box .mod {
+  font-family: var(--sw5e-font-mono); font-size: 1.3em; font-weight: 700;
+  color: var(--sw5e-color-accent); text-shadow: 0 0 6px var(--sw5e-color-accent-dim);
+  background: none; border: none; clip-path: none; padding: 0;
+}
+.sw5e .ability-box .save-btn {
+  font-family: var(--sw5e-font-mono); font-size: 0.7em; padding: 1px 6px;
+}
+.sw5e .prof-toggle input { accent-color: var(--sw5e-color-accent); }
+
+.sw5e .skills-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.15em 1em; padding: 0.5em; }
+.sw5e .skill-row { display: flex; align-items: center; gap: 0.5em; }
+.sw5e .skill-row input[type="checkbox"] { accent-color: var(--sw5e-color-accent); }
+.sw5e .skill-row button {
+  background: none; border: none; clip-path: none; padding: 1px 2px;
+  color: var(--sw5e-color-text); font-family: var(--sw5e-font-body); letter-spacing: normal; text-align: left;
+}
+.sw5e .skill-row button:hover:not(:disabled) { color: var(--sw5e-color-accent); box-shadow: none; text-shadow: 0 0 6px var(--sw5e-color-accent-dim); }
+.sw5e .skill-row .mod { margin-left: auto; font-family: var(--sw5e-font-mono); font-weight: 700; }
+
+/* ---------- Grids ---------- */
+
+.sw5e .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6em; padding: 0.3em 0.6em; }
+.sw5e .grid-2 label { display: flex; flex-direction: column; gap: 3px; font-size: 0.72em; text-transform: uppercase; letter-spacing: 0.06em; color: var(--sw5e-color-text-muted); }
+.sw5e .grid-2 span { font-family: var(--sw5e-font-mono); color: var(--sw5e-color-text); text-transform: none; letter-spacing: normal; font-size: 1.1em; }
+
+/* ---------- Item lists ---------- */
+
+.sw5e .item-list { list-style: none; margin: 0; padding: 0; }
+.sw5e .item-list li {
+  display: flex; align-items: center; gap: 0.5em; padding: 0.3em 0.4em;
+  border-bottom: 1px solid var(--sw5e-color-border);
+  border-left: 2px solid transparent;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.sw5e .item-list li:hover { border-left-color: var(--sw5e-color-accent); background: var(--sw5e-bg-hover); }
+.sw5e .item-list li .name { flex: 1; cursor: pointer; }
+.sw5e .item-list li .name:hover { color: var(--sw5e-color-accent); text-shadow: 0 0 6px var(--sw5e-color-accent-dim); text-decoration: none; }
+.sw5e .item-list li .levels { font-family: var(--sw5e-font-mono); font-size: 0.8em; color: var(--sw5e-color-text-muted); }
+.sw5e .item-list a { color: var(--sw5e-color-text-muted); }
+.sw5e .item-list a:hover { color: var(--sw5e-color-accent); }
+
+.sw5e .species-traits { margin-top: 0.75em; }
+.sw5e .species-traits h3 { margin: 0 0 0.3em; }
+.sw5e .species-traits .item-list li { display: block; line-height: 1.4; }
+.sw5e .species-traits .item-list li strong { color: var(--sw5e-color-accent); }
+
+.sw5e .restricted-toggle { color: var(--sw5e-color-warning, #c9782f); }
+
+.sw5e .species-restricted {
+  color: var(--sw5e-color-warning, #c9782f);
+  font-size: 0.8em;
+  font-family: var(--sw5e-font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* ---------- Starship: power dice pools ---------- */
+
+.sw5e .power-pools { display: flex; flex-wrap: wrap; gap: 0.6em; padding: 0.6em; }
+.sw5e .power-pool {
+  position: relative;
+  flex: 1; min-width: 110px; padding: 0.6em; text-align: center;
+  border: 1px solid var(--sw5e-color-border);
+  background: linear-gradient(180deg, var(--sw5e-color-panel-raised), var(--sw5e-color-panel));
+}
+.sw5e .power-pool::before, .sw5e .power-pool::after { content: ""; position: absolute; width: 8px; height: 8px; pointer-events: none; }
+.sw5e .power-pool::before { top: -1px; left: -1px; border-top: 1px solid var(--sw5e-color-accent); border-left: 1px solid var(--sw5e-color-accent); }
+.sw5e .power-pool::after { bottom: -1px; right: -1px; border-bottom: 1px solid var(--sw5e-color-accent); border-right: 1px solid var(--sw5e-color-accent); }
+.sw5e .power-pool h3 { margin: 0 0 0.4em; font-size: 0.75em; letter-spacing: 0.1em; text-transform: uppercase; color: var(--sw5e-color-text-muted); }
+.sw5e .power-pool .pool-value {
+  font-family: var(--sw5e-font-mono); font-size: 1.6em; font-weight: 700;
+  color: var(--sw5e-color-accent); text-shadow: 0 0 8px var(--sw5e-color-accent-dim);
+}
+.sw5e .power-pool.central { border-color: var(--sw5e-color-accent); box-shadow: 0 0 10px var(--sw5e-color-accent-dim) inset; }
+.sw5e .power-pool button {
+  display: block; width: 100%; box-sizing: border-box;
+  margin-top: 0.6em; font-size: 0.65em; letter-spacing: 0.02em;
+  padding: 4px 4px; line-height: 1.3; white-space: normal;
+}
+.sw5e .reroute-btn.active { background: var(--sw5e-color-accent); color: #041014; border-color: var(--sw5e-color-accent); box-shadow: 0 0 10px var(--sw5e-color-accent-dim); }
+.sw5e .reroute-note { color: var(--sw5e-color-warn); font-style: italic; }
+
+/* ---------- Starship: crew ---------- */
+
+.sw5e .crew-table { width: 100%; border-collapse: collapse; margin-bottom: 0.75em; background: var(--sw5e-color-bg); }
+.sw5e .crew-table thead, .sw5e .crew-table tr, .sw5e .crew-table tbody tr:nth-child(even) {
+  background: transparent; color: var(--sw5e-color-text);
+}
+.sw5e .crew-table th {
+  font-family: var(--sw5e-font-display); font-size: 0.7em; letter-spacing: 0.1em; text-transform: uppercase;
+  background: var(--sw5e-color-panel-raised);
+  color: var(--sw5e-color-text-muted); text-align: left; border-bottom: 1px solid var(--sw5e-color-border-bright); padding: 4px 6px;
+}
+.sw5e .crew-table td { padding: 4px 6px; border-bottom: 1px solid var(--sw5e-color-border); text-align: left; background: transparent; }
+.sw5e .crew-table .linked-name { display: inline-flex; align-items: center; gap: 0.35em; font-weight: 600; }
+.sw5e .crew-table .linked-name .fa-link { color: var(--sw5e-color-accent); }
+.sw5e .crew-table .linked-prof { font-weight: 400; font-size: 0.85em; color: var(--sw5e-color-text-muted); }
+.sw5e .deployment-maneuvers { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5em; }
+.sw5e .maneuver-list { list-style: none; margin: 0; padding: 0; }
+.sw5e .maneuver-list li {
+  display: flex; align-items: center; gap: 0.5em; padding: 0.4em 0.3em;
+  background: var(--sw5e-color-panel); border-bottom: 1px solid var(--sw5e-color-border);
+}
+.sw5e .maneuver-list .name { flex: 1; font-weight: 600; color: var(--sw5e-color-text); }
+.sw5e .maneuver-list .rank { font-family: var(--sw5e-font-mono); font-size: 0.8em; color: var(--sw5e-color-text-muted); }
+.sw5e .maneuver-list button { font-size: 0.75em; padding: 2px 8px; }
+
+/* ---------- Starship: actions ---------- */
+
+.sw5e .action-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.6em; padding: 0.6em; }
+.sw5e .action-grid fieldset button { margin: 2px; }
+.sw5e .hint { font-size: 0.8em; font-style: italic; color: var(--sw5e-color-text-muted); margin: 0.3em 0 0; }
+
+/* ---------- Tabs ---------- */
+
+.sw5e .tabs {
+  display: flex; gap: 0.15em; border-bottom: 1px solid var(--sw5e-color-border-bright);
+  padding: 0 0.5em; background: var(--sw5e-color-panel);
+}
+.sw5e .tabs .item {
+  padding: 0.5em 1em; cursor: pointer;
+  font-family: var(--sw5e-font-display); font-size: 0.8em; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--sw5e-color-text-muted); border-bottom: 2px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.sw5e .tabs .item:hover { color: var(--sw5e-color-text); }
+.sw5e .tabs .item.active {
+  color: var(--sw5e-color-accent); border-bottom-color: var(--sw5e-color-accent);
+  text-shadow: 0 0 6px var(--sw5e-color-accent-dim);
+}
+.sw5e .tab { padding: 0.6em; }
+
+/* ---------- Prose editor content ---------- */
+
+.sw5e .editor-content, .sw5e .editor-content p { color: var(--sw5e-color-text); line-height: 1.5; }
+.sw5e .editor-content strong { color: var(--sw5e-color-accent); }
+
+/* ============================================================
+   Light theme — "daylight console" variant
+   Foundry stamps `theme-light` on <body> when the user's
+   Interface setting (or their OS, on "Automatic") resolves to
+   light mode. Every sheet window is a direct child of <body>,
+   so this one block re-points the same custom properties used
+   everywhere above to a bright, high-contrast palette instead
+   of restating every rule. Glows are dialed way down here —
+   a bright cyan blur that reads as a "holo" glow on a near-black
+   panel just looks like a smudge on white, so the dim/glow
+   tokens below use much lower alpha than their dark-theme values.
+   ============================================================ */
+
+body.theme-light .sw5e.sheet {
+  --sw5e-color-accent: #0f8fa3;
+  --sw5e-color-accent-dark: #0b6b7a;
+  --sw5e-color-accent-dim: rgba(15, 143, 163, 0.18);
+  --sw5e-color-danger: #c23b3b;
+  --sw5e-color-danger-dim: rgba(194, 59, 59, 0.16);
+  --sw5e-color-warn: #a8671f;
+  --sw5e-color-warn-dim: rgba(168, 103, 31, 0.16);
+  --sw5e-color-bg: #eef3f5;
+  --sw5e-color-panel: #ffffff;
+  --sw5e-color-panel-raised: #e1edf0;
+  --sw5e-color-border: #b7ccd1;
+  --sw5e-color-border-bright: #1c8494;
+  --sw5e-color-text: #10262b;
+  --sw5e-color-text-muted: #587480;
+  --sw5e-color-shield: #5b3fc0;
+  --sw5e-color-shield-bright: #8b74e0;
+  --sw5e-bg-scanline: rgba(15, 143, 163, 0.02);
+  --sw5e-bg-glow: rgba(15, 143, 163, 0.05);
+  --sw5e-bg-hover: rgba(15, 143, 163, 0.06);
+}
+
+/* -------------------------------------------- */
+/*  Character Wizard                             */
+/* -------------------------------------------- */
+
+.sw5e.character-wizard { background: var(--sw5e-color-bg); color: var(--sw5e-color-text); font-family: var(--sw5e-font-body); }
+.sw5e .wizard-body { padding: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem; }
+.sw5e .wizard-section { border: 1px solid var(--sw5e-color-border); border-radius: 4px; padding: 0.6rem 0.8rem; margin: 0; }
+.sw5e .wizard-section legend { font-family: var(--sw5e-font-display); color: var(--sw5e-color-accent); padding: 0 0.4em; }
+.sw5e .wizard-row { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.4rem; }
+.sw5e .method-row label { display: flex; align-items: center; gap: 0.3em; }
+.sw5e .wizard-grid.abilities-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; }
+.sw5e .wizard-grid.abilities-grid label { display: flex; flex-direction: column; font-size: 0.85em; color: var(--sw5e-color-text-muted); gap: 0.2em; }
+.sw5e .wizard-grid.abilities-grid input { width: 100%; }
+.sw5e .wizard-checkrow { display: flex; flex-wrap: wrap; gap: 0.6rem 1rem; margin: 0.3rem 0; }
+.sw5e .wizard-checkrow label { display: flex; align-items: center; gap: 0.3em; }
+.sw5e .wizard-checkrow label.unavailable { color: var(--sw5e-color-text-muted); font-style: italic; }
+.sw5e .wizard-preview { margin-top: 0.4rem; padding: 0.4rem 0.6rem; background: var(--sw5e-color-panel-raised); border-radius: 3px; font-size: 0.9em; }
+.sw5e .wizard-auto-list { list-style: none; margin: 0; padding: 0; }
+.sw5e .wizard-auto-list li { display: flex; justify-content: space-between; padding: 0.2rem 0; border-bottom: 1px dashed var(--sw5e-color-border); }
+.sw5e .wizard-auto-list .levels { color: var(--sw5e-color-text-muted); font-family: var(--sw5e-font-mono); font-size: 0.85em; }
+.sw5e .wizard-footer-note { border-style: dashed; }
+.sw5e .wizard-actions { display: flex; justify-content: flex-end; padding-top: 0.4rem; }
+.sw5e .wizard-actions button { font-family: var(--sw5e-font-display); background: var(--sw5e-color-accent); color: #041014; border: none; border-radius: 4px; padding: 0.5em 1.2em; cursor: pointer; }
+.sw5e .wizard-actions button:hover { background: var(--sw5e-color-accent-dark); }
+.sw5e .hint { color: var(--sw5e-color-text-muted); font-size: 0.85em; margin: 0.3rem 0; }
+.sw5e .wizard-power-list { max-height: 220px; overflow-y: auto; display: block; }
+.sw5e .wizard-power-list label { display: block; margin-bottom: 0.2rem; }
+.sw5e .wizard-power-list .pwr-level { font-family: var(--sw5e-font-mono); color: var(--sw5e-color-text-muted); }

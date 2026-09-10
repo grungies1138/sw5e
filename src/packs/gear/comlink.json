@@ -1,0 +1,29 @@
+{
+  "_id": "trD6wmvkpDECzjOr",
+  "name": "Comlink",
+  "type": "gear",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>A palm-sized short-range communicator. Two comlinks tuned to the same frequency let their users talk clearly across a starship, a building, or a few kilometers of open ground.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 25,
+      "denomination": "credits"
+    },
+    "weight": 0.5,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

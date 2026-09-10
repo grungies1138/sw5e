@@ -1,0 +1,22 @@
+{
+  "_id": "p8wCLl3Qr9o1KQ6K",
+  "_key": "!items!p8wCLl3Qr9o1KQ6K",
+  "name": "Deadeye Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Every war produces stories of a single, impossible shot, the one that turned a battle or ended a legend. Followers of the Deadeye Technique live for that moment, honing focus and reflexes until the impossible becomes routine. When one shot has to count, this is the scout you want holding the blaster.</p><p>Unlike marksmen who simply shoot well, Deadeyes have refined a whole discipline of maneuvers around the perfect trigger pull, drawing on trained instinct to make ranged weapons deadlier in their hands than in anyone else's. Speed, precision, and nerve combine into a technique built entirely around the decisive first strike.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

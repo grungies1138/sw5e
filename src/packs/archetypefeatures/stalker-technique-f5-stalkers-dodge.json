@@ -1,0 +1,24 @@
+{
+  "_id": "NyR526OoHNzYi1i7",
+  "_key": "!items!NyR526OoHNzYi1i7",
+  "name": "Stalker's Dodge",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a creature attacks you without advantage, you can use your reaction to impose disadvantage on that attack roll, choosing to do so at any point before the outcome of the roll is known.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Stalker Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "UaSzeV3hQxfpIJTX",
+  "_key": "!items!UaSzeV3hQxfpIJTX",
+  "name": "Sleight of Foot",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature moves to within 5 feet of you, you can use your reaction to retreat up to half your speed without provoking opportunity attacks, as long as you end up farther from that creature than when you started.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Scrapper Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

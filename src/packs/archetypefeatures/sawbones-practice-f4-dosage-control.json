@@ -1,0 +1,24 @@
+{
+  "_id": "TDfZLsI9OZUlW93r",
+  "_key": "!items!TDfZLsI9OZUlW93r",
+  "name": "Dosage Control",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Given an hour's careful work, which can overlap with a rest, you can portion out the doses in a medpac within reach so that it yields two uses before being consumed. Your GM may allow the same trick on other pacs, stims, or adrenals, likely requiring an ability check to pull off.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Sawbones Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

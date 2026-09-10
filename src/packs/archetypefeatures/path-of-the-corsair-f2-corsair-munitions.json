@@ -1,0 +1,24 @@
+{
+  "_id": "m5wHTmZFWmqe3itG",
+  "_key": "!items!m5wHTmZFWmqe3itG",
+  "name": "Corsair Munitions",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Throwing a grenade or planting a mine now takes only a bonus action rather than your action. When you throw a grenade, you may substitute Wisdom or Charisma for Strength in figuring your throwing range. Additionally, whenever you're setting the save DC for a charge, grenade, mine, missile, or rocket under your control, you may use your universal force save DC instead if it is the higher value.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of the Corsair",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

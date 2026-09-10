@@ -1,0 +1,27 @@
+{
+  "_id": "Zv7GNEOFaiq0dQeh",
+  "name": "Direct Power Coupling",
+  "type": "starshipequipment",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Routes all generated power into a single central reservoir holding up to <strong>4 Power Dice</strong>, usable by any deployment's maneuvers. Simple and flexible, but offers no dedicated per-system storage.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 4100,
+      "denomination": "credits"
+    },
+    "kind": "coupling",
+    "configKey": "direct",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

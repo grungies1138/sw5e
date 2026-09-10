@@ -1,0 +1,50 @@
+{
+  "_id": "nLthiiyVAUaCT8Ig",
+  "_key": "!items!nLthiiyVAUaCT8Ig",
+  "name": "Saber Strike",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action used to cast this power, you may move up to your speed and make one melee weapon attack. A hit deals an extra 1d10 damage of the weapon's type, and forces a Strength save on the target — a failure knocks it prone.</p><p><em>Force Potency.</em> Cast with a force slot of 4th level or higher, the bonus weapon damage increases by 1d10 for every two slot levels above 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d10",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

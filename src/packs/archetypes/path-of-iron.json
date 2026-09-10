@@ -1,0 +1,22 @@
+{
+  "_id": "aurf3oZF3HBIsWu2",
+  "_key": "!items!aurf3oZF3HBIsWu2",
+  "name": "Path of Iron",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every sentinel's answer to danger lies solely in cunning or subtlety. Those who walk the Path of Iron forge their bodies into weapons every bit as reliable as their blade, training until pain and fatigue mean little against the mission at hand.</p><p>Sturdy, hard-hitting, and difficult to put down, these sentinels marry raw physical conditioning to the Force's subtler gifts, becoming as capable of shrugging off a beating as delivering one.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Sentinel"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

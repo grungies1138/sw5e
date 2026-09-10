@@ -1,0 +1,24 @@
+{
+  "_id": "bir2mwZaHXwRMksq",
+  "_key": "!items!bir2mwZaHXwRMksq",
+  "name": "Mark of the Artillerist",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, when your turret damages the creature marked by your Ranger's Quarry, you may roll your Ranger's Quarry die and add it to the damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique (Companion)",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

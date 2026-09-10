@@ -1,0 +1,24 @@
+{
+  "_id": "ZUqPsmmZsMUvQV3t",
+  "_key": "!items!ZUqPsmmZsMUvQV3t",
+  "name": "Poisoner",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Creatures can't gain advantage on saves against your poisons, and you have advantage on Dexterity (Sleight of Hand) checks made to hide the act of applying one. When you coat a weapon or its ammunition with poison, that dose now lasts for one additional hit or covers one additional piece of ammunition, and when a Sneak Attack you deal would also deal poison damage, you can convert the Sneak Attack damage into poison damage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Shadow Killer Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

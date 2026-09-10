@@ -1,0 +1,22 @@
+{
+  "_id": "hwX4P74GlzwKBat4",
+  "_key": "!items!hwX4P74GlzwKBat4",
+  "name": "Frenzied Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>For some berserkers, rage isn't a means of protecting anyone — it's violence for its own sake. The Frenzied Approach embraces that untrammeled fury completely, reveling in the chaos of a fight without a single thought spared for personal safety.</p><p>These warriors throw themselves at danger with total abandon, drawing terrifying intensity from a rage that recognizes no limit but the body's own breaking point.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "VYb4OQv92Pmo3idw",
+  "_key": "!items!VYb4OQv92Pmo3idw",
+  "name": "Toxic Cloud",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure a 20-foot-radius sphere of poisonous yellow-green fog centered on a point you choose within 120 feet. The fog spreads around corners and heavily obscures its area, lasting for the duration or until dispersed by strong wind.</p><p>A creature that enters the cloud for the first time on a turn, or starts its turn there, must make a Constitution saving throw, taking 5d8 poison damage on a failure or half as much on a success; this occurs even if the creature holds its breath or does not need to breathe.</p><p>At the start of each of your turns, the cloud rolls 10 feet away from you along the ground, sinking into low areas and openings as it moves.</p><p><strong>Overcharge Tech.</strong> Cast with a tech slot of 6th level or higher, the poison damage increases by 1d8 for each slot level beyond 5th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 120,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d8",
+          "type": "poison"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "vwd5QT2h3JglcPFV",
+  "_key": "!items!vwd5QT2h3JglcPFV",
+  "name": "Far Traveler",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Most people never leave the system they were born in, let alone the sector. You are the exception &mdash; you come from a world so distant that few people you meet have done more than hear its name, and fewer still know anything true about it.</p><p>Everywhere you go, you're a curiosity: your manner, your assumptions, and your accent all mark you as an outsider, for better or worse, wherever your travels have taken you.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "inv",
+        "prc",
+        "per"
+      ]
+    },
+    "toolProficiencies": [
+      "One musical instrument or gaming set of your choice"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Investigator",
+        "Perceptive",
+        "Charmer",
+        "Entertainer",
+        "Competitor",
+        "Linguist",
+        "Practiced"
+      ]
+    },
+    "equipment": "A set of traveler's clothes, a musical instrument or gaming set you are proficient with, worn maps from your homeland, a small piece of jewelry worth 100 credits, and a pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

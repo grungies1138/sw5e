@@ -1,0 +1,50 @@
+{
+  "_id": "SC93Htm5ZQx78Xoq",
+  "_key": "!items!SC93Htm5ZQx78Xoq",
+  "name": "Probe Mind",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>For the duration you can listen in on certain minds. When you cast this power, and again as your action on each subsequent turn, you may fix your attention on one creature you can see within 30 feet; a target with Intelligence 3 or lower, or one that speaks no language, is unaffected.</p><p>You immediately perceive the target's surface thoughts — whatever occupies it in the moment. As an action you can either move your focus to a new creature or dig deeper into the same mind. Digging deeper forces a Wisdom save; on a failure the target takes 1d6 psychic damage as you glimpse its reasoning, emotional state, and something weighing heavily on it, while on a success the power ends instead. Either way the target senses the intrusion, and unless you've since shifted focus elsewhere, it may spend its action contesting your forcecasting ability check with an Intelligence check; success on its part ends the power.</p><p>On later turns after successfully digging deeper, you may spend your action to inflict 1d6 psychic damage on the same target automatically, no save required.</p><p>Verbal questioning of the target naturally channels its thoughts, making this power especially suited to interrogation.</p><p>You can also use this power to detect nearby thinking creatures you cannot see: as your action, search within 30 feet, penetrating physical barriers. Creatures of Intelligence 3 or lower, or those without language, remain undetectable. Once located, such a creature can be read as above even without line of sight, so long as it stays in range.</p><p>Droids and other constructs are immune to this power.</p><p><em>Force Potency.</em> Cast with a force slot of 3rd level or higher, the initial psychic damage from the first deep probe increases by 1d6 for every slot level above 2nd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Dark Side Powers, Level 2",
+    "school": "darkside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "wis",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "yhIV022dkxHzRJD9",
+  "_key": "!items!yhIV022dkxHzRJD9",
+  "name": "Adaptive Camouflage",
+  "type": "power",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your focus bends light and sound around your body, rendering you heavily obscured to sight. For the duration, you have advantage on Dexterity (Stealth) checks, and creatures have disadvantage on the first attack roll they make against you each turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minutes"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

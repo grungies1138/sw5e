@@ -1,0 +1,45 @@
+{
+  "_id": "W7JmlQ7eSKxUNKWP",
+  "_key": "!items!W7JmlQ7eSKxUNKWP",
+  "name": "Ruin",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Drawing on the dark side, you curse a creature you can see within range with waves of agony. If the target has 100 hit points or fewer it suffers crippling pain; otherwise the power has no effect.</p><p>While gripped by the pain, the target's speed cannot exceed 10 feet, and it suffers disadvantage on attack rolls, ability checks, and all saving throws except Constitution. If it attempts to cast a power, it must first succeed on a Constitution save or the casting fails and the power is lost.</p><p>At the end of each of its turns, the suffering creature may attempt a Constitution save, ending the pain on a success.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 7",
+    "school": "darkside",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

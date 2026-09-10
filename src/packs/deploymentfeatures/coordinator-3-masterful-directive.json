@@ -1,0 +1,22 @@
+{
+  "_id": "NpbsF7h5PfsGTniJ",
+  "name": "Masterful Directive",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can use Uplifting Directive twice per short or long rest instead of once, and may choose an additional crewmate as a recipient each time you use it.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

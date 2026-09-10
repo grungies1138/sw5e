@@ -1,0 +1,24 @@
+{
+  "_id": "upeaxFZGKuu9s956",
+  "_key": "!items!upeaxFZGKuu9s956",
+  "name": "Extra Attack",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Taking the Attack action on your turn now lets you attack twice instead of once.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Detective Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

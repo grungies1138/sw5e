@@ -1,0 +1,31 @@
+{
+  "_id": "lCVvU4OaJ3KUkV2I",
+  "name": "Heavy Physical Shield",
+  "type": "shield",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A tower of layered plate large enough to cover most of the body, unmatched for stopping power but so cumbersome it demands a light weapon in the other hand and gives away the wielder's position at every turn.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 500,
+      "denomination": "credits"
+    },
+    "weight": 20,
+    "equipped": false,
+    "tier": "heavy",
+    "variant": "physical",
+    "acBonus": 3,
+    "requiresFreeHand": true,
+    "obtrusive": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

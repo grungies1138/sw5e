@@ -1,0 +1,24 @@
+{
+  "_id": "5Wuaz2fced9EG7Bp",
+  "_key": "!items!5Wuaz2fced9EG7Bp",
+  "name": "Direct Controller",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a power that can only affect droids or constructs, and every creature you actually affect with it is a droid, you may treat the power as though cast at your Max Power Level. You have three uses of this, gaining an additional use at 9th, 13th, and 17th level, all restored after a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering",
+    "className": "Engineer",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

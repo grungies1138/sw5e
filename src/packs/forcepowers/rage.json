@@ -1,0 +1,50 @@
+{
+  "_id": "B2Nw3bkPtEUWfKfx",
+  "_key": "!items!B2Nw3bkPtEUWfKfx",
+  "name": "Rage",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel the Force into a surge of martial fury. For the duration, you cannot cast powers, but you gain the following: 50 temporary hit points (any that remain when the power ends are lost); advantage on attack rolls made with lightweapons and vibroweapons; an extra 2d12 force damage whenever a weapon attack of yours connects; proficiency with all armor, lightweapons, and vibroweapons; proficiency in Strength and Constitution saving throws; and the ability to attack twice instead of once when you take the Attack action (this doesn't stack with an existing extra-attack feature).</p><p>The instant the power ends, you must succeed on a DC 15 Constitution save or gain one level of exhaustion.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, Level 6",
+    "school": "darkside",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d12",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "7mhFxsCBNAbJ6iy4",
+  "_key": "!items!7mhFxsCBNAbJ6iy4",
+  "name": "Calm Emotions",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You quell strong emotions among a group. Each humanoid within a 20-foot-radius sphere centered on a point you choose within range must succeed on a Charisma saving throw (though a creature may choose to fail) or be affected by one of two effects you select: you may suppress an existing charmed or frightened effect on the target for the duration, with the suppressed effect resuming when this power ends if its own duration hasn't already expired; or you may render the target indifferent toward creatures you designate that it was hostile to, an effect that ends if the target is harmed or attacked, or witnesses an ally being harmed. When the power ends, a creature affected by the second option returns to hostility unless the GM decides otherwise.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 2",
+    "school": "lightside",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "cha",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

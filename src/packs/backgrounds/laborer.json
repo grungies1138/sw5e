@@ -1,0 +1,47 @@
+{
+  "_id": "nq1yjBA0GDW1yyZo",
+  "_key": "!items!nq1yjBA0GDW1yyZo",
+  "name": "Laborer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You worked with your hands your whole life, in construction, droid repair, shipping, or whatever trade needed strong backs and steady focus. Little of the respect went your way, but the work got done, and you take genuine pride in that.</p><p>The camaraderie you built with your fellow laborers runs deep, and you still know who to call when you need to requisition tools or materials most people can't get their hands on.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ani",
+        "ath",
+        "sur",
+        "tec"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of gaming set and one set of artisan's implements"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Animal Handler",
+        "Brawny",
+        "Survivalist",
+        "Techie",
+        "Competitor",
+        "Crafter",
+        "Athlete",
+        "Durable"
+      ]
+    },
+    "equipment": "A set of common clothes, a sturdy knife, a gaming set of your choice, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

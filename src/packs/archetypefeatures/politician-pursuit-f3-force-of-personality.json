@@ -1,0 +1,24 @@
+{
+  "_id": "dVjORtzXWm2hcYPy",
+  "_key": "!items!dVjORtzXWm2hcYPy",
+  "name": "Force of Personality",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Spending your action, you can plant a brief, reasonable-sounding suggestion — no more than a sentence or two — in the mind of a creature within range that can see, hear, and understand you. A creature immune to being charmed is unaffected. The suggestion cannot ask for anything obviously self-destructive, such as harming or killing itself; framing it that way simply ends the attempt.</p><p>The target resists with a Wisdom saving throw against your maneuver save DC. Failure charms it, and it pursues your suggested course of action as best it can for up to 24 hours, or until it completes what you asked (whichever comes first). You may also attach a triggering condition to a later action — for example, telling a guard to hand over her weapon to the first smuggler she meets — and if that condition never arises before the duration ends, the action simply never happens. The charm ends immediately if you or any of your companions deal damage to the target.</p><p>You can use this feature three times, gaining one additional use at 9th, 13th, and 17th level, and you regain all spent uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Politician Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

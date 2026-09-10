@@ -1,0 +1,24 @@
+{
+  "_id": "1Vigh1NXhwZ055xg",
+  "_key": "!items!1Vigh1NXhwZ055xg",
+  "name": "Subtle Presence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can spend 10 minutes weaving the Force into a cloak around yourself, choosing one of the three effects below to persist for the duration. You can invoke each of the three cloaks once, all uses returning after a long rest.</p><p><strong>Cloak of Fright.</strong> You designate any creatures within 60 feet; each must succeed on a Wisdom saving throw against your universal force save DC or be frightened for 1 minute, repeating the save at the end of its turns to end the effect early on a success.</p><p><strong>Cloak of Invisibility.</strong> You and your gear turn invisible to creatures you designate. If you damage or otherwise affect one of them with a force power, it may attempt a Wisdom saving throw against your universal force save DC to see through your concealment, ending your invisibility toward it on a success.</p><p><strong>Cloak of Memory.</strong> Any creature that sees you or allies within 30 feet of you during this time cannot recall your appearance, mannerisms, or other identifying traits. Anyone (other than creatures you choose to exempt) who interacts with you must make a Wisdom saving throw against your universal force save DC once the interaction is over; on a failure, they forget the interaction's details entirely, inventing their own explanation for its outcome.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Suggestion",
+    "className": "Consular",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

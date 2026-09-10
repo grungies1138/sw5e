@@ -1,0 +1,42 @@
+{
+  "_id": "kgRQK66mNyK4VTEs",
+  "name": "Scholar",
+  "type": "class",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Scholar is a battlefield controller whose weapon is understanding: a working knowledge of physics, tactics, xenobiology, and technology sharp enough to turn any fight into a puzzle they have already solved. Drawing on a shared pool of tactical Maneuvers alongside the Fighter, the Scholar directs allies, exploits enemy weaknesses, and reshapes the terms of engagement through applied knowledge rather than brute force or the Force itself.</p><p>As a Scholar advances, their Discoveries let them stack ever more esoteric expertise atop their Maneuvers — battlefield calculations, improvised countermeasures, and hard-won lore — making them equally valuable planning a siege and surviving one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes",
+    "levels": 1,
+    "hitDice": "d6",
+    "casterProgression": "maneuver",
+    "castingAbility": "int",
+    "primaryAbility": [
+      "int"
+    ],
+    "savingThrows": [
+      "int",
+      "wis"
+    ],
+    "skillChoices": {
+      "number": 2,
+      "options": [
+        "inv",
+        "lor",
+        "med",
+        "nat",
+        "prc"
+      ]
+    },
+    "archetypeLevel": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

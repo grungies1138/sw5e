@@ -1,0 +1,24 @@
+{
+  "_id": "iwXjWVOnWTWrgvon",
+  "_key": "!items!iwXjWVOnWTWrgvon",
+  "name": "Force Resonance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, when you strike a creature with your modified lightsaber, you can spend one use of your Potent Aptitude to add an extra 2d6 damage of the same type. This bonus damage grows to 3d6 at 5th level, 5d6 at 11th level, and 8d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artificer Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

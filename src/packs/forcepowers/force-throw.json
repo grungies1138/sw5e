@@ -1,0 +1,50 @@
+{
+  "_id": "A2z9pf0xuUvaTzwD",
+  "_key": "!items!A2z9pf0xuUvaTzwD",
+  "name": "Force Throw",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You seize a Large or smaller creature or object that isn't worn or carried and hurl it through the air. The target makes a Strength saving throw (an object automatically fails). On a failure it flies a distance set by its size — 90 feet for Tiny, 60 for Small, 30 for Medium, or 10 for Large — in a direction you choose. If it strikes something else at the end of that movement, both it and what it struck take 2d8 force damage.</p><p>Cast with a 3rd-level slot or higher, the maximum throwing distance increases by 10 feet (to a cap of 90 feet) and the damage increases by 1d8.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

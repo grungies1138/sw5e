@@ -1,0 +1,50 @@
+{
+  "_id": "yOZA3cCjTK9N2FbA",
+  "_key": "!items!yOZA3cCjTK9N2FbA",
+  "name": "Force Push",
+  "type": "power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You thrust a hand outward, unleashing a burst of telekinetic force that hurls a creature or object away from you. Choose one creature or unattended object you can see within range. The target must succeed on a Strength saving throw or take force damage and be pushed 10 feet directly away from you. If the push slams the target into a solid surface, it takes an additional 1d6 force damage and its movement stops.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d6",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "str",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

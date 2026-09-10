@@ -1,0 +1,24 @@
+{
+  "_id": "qOH9z0AkmQ8Y1ev6",
+  "_key": "!items!qOH9z0AkmQ8Y1ev6",
+  "name": "Clinch Strike",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As long as you're not wearing heavy armor or carrying a medium or heavy shield, you gain the following benefits.</p><ul><li>Your unarmed strikes and natural weapons deal damage one die size larger than normal (a flat 1 becomes a d4, a d4 becomes a d6, a d6 becomes a d8), and you can apply Sneak Attack to an unarmed strike even though it lacks the finesse property.</li><li>You no longer need advantage on the attack roll to apply Sneak Attack when your target is a creature you're grappling; every other rule for Sneak Attack still applies.</li><li>You can spend the bonus action from your Cunning Action to make an unarmed strike against a creature you're grappling.</li></ul>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Disabling Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

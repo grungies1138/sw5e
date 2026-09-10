@@ -1,0 +1,24 @@
+{
+  "_id": "ELnck76LXCZ8EQ7k",
+  "_key": "!items!ELnck76LXCZ8EQ7k",
+  "name": "Retaliatory Strike",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature within 5 feet of you lands a hit against you, you may use your reaction to cast <em>lightning charge</em> at that creature.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Aggression",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

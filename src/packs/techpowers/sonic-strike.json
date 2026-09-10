@@ -1,0 +1,50 @@
+{
+  "_id": "UwBHYODiu8Y1Pimo",
+  "_key": "!items!UwBHYODiu8Y1Pimo",
+  "name": "Sonic Strike",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of the action to cast this power, you make a melee weapon attack against a target within your reach, and the power fails if you don't. On a hit, the attack deals its normal damage, and you begin emitting an unsettling hum. Any hostile creature that ends its turn within 5 feet of you before the start of your next turn takes 1d4 sonic damage.</p><p>At 5th level the melee attack deals an extra 1d8 sonic damage, and the hum's damage increases by 1d4; both bonuses grow again by 1d8 and 1d4, respectively, at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "sonic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

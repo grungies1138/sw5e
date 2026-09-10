@@ -1,0 +1,24 @@
+{
+  "_id": "tqu1tfGkd0wWdU10",
+  "_key": "!items!tqu1tfGkd0wWdU10",
+  "name": "Vigilant Sentinel",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you spend your turn watching your surroundings, you may choose to stay rooted in place instead of moving. Doing so grants you a +10 bonus to Wisdom (Perception) checks until the start of your next turn. Moving or ending up prone—whether by choice or by an outside effect—immediately ends this benefit.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Crimson Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

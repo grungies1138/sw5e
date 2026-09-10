@@ -1,0 +1,22 @@
+{
+  "_id": "py9oSlcxQHfQGCGd",
+  "_key": "!items!py9oSlcxQHfQGCGd",
+  "name": "Path of Focus",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some sentinels turn inward, sharpening their concentration until every swing of the blade and every pulse of the Force lands with pinpoint intent. Followers of the Path of Focus treat combat as a puzzle to be solved through patient pressure, chaining strike after strike until an enemy's guard collapses under the strain.</p><p>Rather than overwhelming a foe with raw power, these sentinels wear down resolve and stamina alike, using bursts of psychic and kinetic force to leave rivals reeling. Their calm, methodical approach makes them especially dangerous in prolonged duels, where composure wins out over brute strength.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Sentinel"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

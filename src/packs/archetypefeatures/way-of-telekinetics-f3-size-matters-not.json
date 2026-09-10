@@ -1,0 +1,24 @@
+{
+  "_id": "7HWkxtTjbu7Emle6",
+  "_key": "!items!7HWkxtTjbu7Emle6",
+  "name": "Size Matters Not",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your telekinetic reach now extends to creatures of Huge size or smaller. Additionally, whenever you spend your action casting a force power, you can also use a bonus action to fly up to 10 feet without provoking opportunity attacks.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Telekinetics",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

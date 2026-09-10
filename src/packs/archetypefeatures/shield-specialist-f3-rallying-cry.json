@@ -1,0 +1,24 @@
+{
+  "_id": "lcVySBft8CfSSemG",
+  "_key": "!items!lcVySBft8CfSSemG",
+  "name": "Rallying Cry",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you use Second Wind, you may also designate up to three allies within 60 feet who can see or hear you; each one recovers hit points equal to your fighter level.</p><p>You may add one more ally to this at 9th, 13th, and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Shield Specialist",
+    "className": "Fighter",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

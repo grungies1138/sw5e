@@ -1,0 +1,24 @@
+{
+  "_id": "63PLleayRR1AYepI",
+  "_key": "!items!63PLleayRR1AYepI",
+  "name": "Spinning Flourish",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can target one creature within 60 feet with a flourish of your weapon, forcing a Wisdom save (DC = 8 + your proficiency bonus + your Dexterity modifier). On a failure, it becomes charmed or frightened by you, your choice, until the end of your next turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Gunslinger Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "BpUEnrkz4h6YnlRM",
+  "name": "Jamming Suite",
+  "type": "starshipmod",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>An active countermeasure system that can be triggered once per encounter to impose disadvantage on all Wisdom (Scan) checks made to detect the ship for one round.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 4500,
+      "denomination": "credits"
+    },
+    "category": "operation",
+    "grade": 2,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

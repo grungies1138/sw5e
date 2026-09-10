@@ -1,0 +1,45 @@
+{
+  "_id": "2tH34YGPOXSHDXKk",
+  "_key": "!items!2tH34YGPOXSHDXKk",
+  "name": "Lawyer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You presided over a court or tribunal before you ever picked up an adventurer's life, managing proceedings and handing down sentences fit for the crime &mdash; or at least fit for whatever passed as justice where you worked. Clear-cut cases and morally grey ones alike passed through your hands.</p><p>Whatever pushed you away from the bench, be it a case beyond the law's reach or a system you stopped believing in, you still know the letter of the law cold, and how to find its loopholes.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "inv",
+        "prf",
+        "per"
+      ]
+    },
+    "toolProficiencies": [],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Investigator",
+        "Performer",
+        "Charmer",
+        "Linguist",
+        "Actor",
+        "Observant",
+        "Keen Mind"
+      ]
+    },
+    "equipment": "Documentation of your former station, a book of law, a formal uniform for court, a set of common clothes, and a belt pouch containing 100 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

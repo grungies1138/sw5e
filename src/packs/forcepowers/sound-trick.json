@@ -1,0 +1,45 @@
+{
+  "_id": "xZeLPETToSNBgRN1",
+  "_key": "!items!xZeLPETToSNBgRN1",
+  "name": "Sound Trick",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You conjure a minor sensory trick with the Force, creating one of the following effects within range: your voice booms up to three times louder than normal and you can alter its tone, for 1 minute; you cause harmless tremors in the ground for 1 minute; you produce an instantaneous sound, such as a peal of thunder or a whispered voice, originating from a point you choose; you gain the ability to speak in a language you know despite lacking the physical capacity to, for 1 minute; or you create an instantaneous, harmless sensory effect, such as a puff of wind or a flicker of unpowered light, within range.</p><p>A wary creature can spend its action making an Intelligence (Investigation) check against your force save DC to discern that the effect is illusory. You can have up to three of the 1-minute effects active at once, and can dismiss one as an action.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "ojJw1GzigLP60qgh",
+  "_key": "!items!ojJw1GzigLP60qgh",
+  "name": "Weapon Master",
+  "type": "archetype",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Weapon Master archetype represents the pinnacle of personal-arms training, a Fighter who has dedicated themselves to true mastery of a chosen weapon category — blaster, lightweapon, or vibroweapon — until its use becomes an extension of instinct rather than conscious thought.</p><p>Weapon Masters develop signature techniques unique to their chosen arms, gain the ability to swap between multiple mastered weapons without missing a beat, and eventually reach a level of precision that lets them turn even a glancing blow into a decisive one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

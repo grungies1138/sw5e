@@ -1,0 +1,45 @@
+{
+  "_id": "aFTF9LMMrbylSgMm",
+  "_key": "!items!aFTF9LMMrbylSgMm",
+  "name": "Wall Run",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Until the end of the turn, you gain a climbing speed equal to your walking speed and advantage on Dexterity (Acrobatics) and Strength (Athletics) checks involving movement. You can move up, down, and across vertical surfaces while keeping your hands free, though you still can't move upside down along ceilings.</p><p>If you lose your climbing speed while on a vertical surface, you immediately fall unless you have another way to remain there.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "lTCu53ufeHmlnggY",
+  "_key": "!items!lTCu53ufeHmlnggY",
+  "name": "Archaeologist",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn about fallen civilizations by digging through what they left behind &mdash; ruins, tombs, forgotten holocrons, the bones of empires nobody remembers the names of anymore. Crumbled temples and buried dungeons across the galaxy have taught you more history than any archive.</p><p>You know how to read a half-collapsed structure for who built it and why, and you've never once been able to walk past an unexplored ruin without wondering what's still buried inside.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "inv",
+        "lor",
+        "prc",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "Surveyor's implements or scavenging kit"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Investigator",
+        "Loremaster",
+        "Perceptive",
+        "Survivalist",
+        "Crafter",
+        "Specialist",
+        "Linguist",
+        "Dungeon Delver"
+      ]
+    },
+    "equipment": "A map (physical or digital) to a ruin or dig site, a lantern, a vibropick, a set of traveler's clothes, a shovel, a two-person tent, and a pouch containing 250 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

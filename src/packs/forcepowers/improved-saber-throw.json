@@ -1,0 +1,50 @@
+{
+  "_id": "MX4IGIYDB5OG9k3G",
+  "_key": "!items!MX4IGIYDB5OG9k3G",
+  "name": "Improved Saber Throw",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>As part of casting this power, you must make a ranged force attack with a lightweapon or vibroweapon against a target within range, or the power fizzles. On a hit, the target takes 2d8 damage of the weapon's damage type and must succeed on a Constitution saving throw or gain 1 slowed level until the end of its next turn; the weapon then flies back to your hand. If it fails the save, the next attack to hit the target before the end of its next turn deals an extra 1d10 force damage. If it succeeds, that bonus damage is instead halved and no other effect applies, and the weapon returns to your hand regardless.</p><p>Cast with a slot of 3rd level or higher, the bonus force damage increases by 1d10 for every slot level beyond 2nd.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "kinetic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

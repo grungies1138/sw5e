@@ -1,0 +1,30 @@
+{
+  "_id": "JxekqgW5MjO6gknX",
+  "_key": "!items!JxekqgW5MjO6gknX",
+  "name": "Sniping Caster",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've trained to strike accurately with powers from far away.</p><p>Any power you cast that requires an attack roll has its range doubled.</p><p>Your ranged force and tech attacks disregard three-quarters, half, and one-quarter cover.</p><p>You also learn one at-will power that requires an attack roll, using Wisdom or Charisma (depending on the power's alignment) if it's a force power, or Intelligence if it's a tech power.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "4th level, ability to cast force or tech powers.",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

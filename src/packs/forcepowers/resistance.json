@@ -1,0 +1,45 @@
+{
+  "_id": "jyfm1MfKLdOolBHt",
+  "_key": "!items!jyfm1MfKLdOolBHt",
+  "name": "Resistance",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature, granting it a reserve of protective luck. Once before the power ends, the target may roll a d4 and add the result to one saving throw of its choice, after which the power ends.</p><p>The die improves with level: a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

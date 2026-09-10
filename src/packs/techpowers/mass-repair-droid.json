@@ -1,0 +1,45 @@
+{
+  "_id": "UVioCMrJqkObFRWS",
+  "_key": "!items!UVioCMrJqkObFRWS",
+  "name": "Mass Repair Droid",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>Choose up to six droids or constructs within a 30-foot-radius sphere centered on a point you choose within range. Each restores 3d8 plus your techcasting ability modifier hit points. This power affects only droids and constructs.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 6th level or higher, the healing increases by 1d8 per slot level beyond 5th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "WyNkuRVpzN3fb6U4",
+  "_key": "!items!WyNkuRVpzN3fb6U4",
+  "name": "Elemental Attunement",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can bend the elements to your will. As an action, you create one of the following effects of your choice at a point within 10 feet of yourself (30 feet at 11th level, 60 feet at 17th level):</p><ul><li>A harmless, instantaneous sensory effect tied to air, earth, fire, or water—a burst of sparks, a puff of wind, a light mist, or a low rumble of stone.</li><li>Instantly light or extinguish a candle, torch, or small campfire.</li><li>Warm or chill up to a pound of nonliving matter for up to an hour.</li><li>Cause up to a cubic foot of earth, fire, water, or mist to hold a crude shape you choose for 1 minute.</li></ul><p>You can also spend 1 focus point as a bonus action to conjure a weapon formed from one of the four elements, lasting 1 minute. It takes whatever appearance you choose, only you can wield it, and you cannot be disarmed of it while conscious. You are proficient with it, it counts as a monk weapon for you, and it uses your Martial Arts die for damage. Summoning a new elemental weapon instantly dismisses any prior one.</p><p><strong>Air.</strong> Your weapon whistles as it flies. It has the returning and thrown (range 20/60) properties, deals sonic damage, and deafens any creature it hits until the end of that creature's next turn.</p><p><strong>Earth.</strong> Your weapon is shaped from living stone and deals kinetic damage. On a hit, you can force a Strength saving throw; failure pushes the target 5 feet away. While the weapon persists, you may also use Strength in place of Dexterity for your AC, if Dexterity isn't already factored in.</p><p><strong>Fire.</strong> Your weapon burns, shedding bright light 10 feet and dim light for another 10, and deals fire damage; a hit adds extra damage equal to half your focus ability modifier (minimum 1).</p><p><strong>Water.</strong> Your weapon has reach, deals cold damage, and lets you substitute your focus ability modifier for Strength or Dexterity on both its attack and damage rolls (you must pick one score for both). Instead of a melee attack with it, you may soak a 5-foot square within its reach, turning it into difficult terrain; any creature that starts its turn there or enters for the first time on a turn must succeed on a Dexterity save or fall prone.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Kro Var Order",
+    "className": "Monk",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

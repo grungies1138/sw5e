@@ -1,0 +1,24 @@
+{
+  "_id": "rOeh2EouYt9fYCMx",
+  "_key": "!items!rOeh2EouYt9fYCMx",
+  "name": "Spitting Rawl",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>On your turn, once a creature has taken damage from you three times, you may make up to three more unarmed strikes against it with no action required. The first extra strike costs 1 focus point and, on a hit, deals an extra 1d12 psychic damage; each further strike costs one more focus point than the last and deals an additional cumulative 1d12 psychic damage on a hit.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teras Kasi Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

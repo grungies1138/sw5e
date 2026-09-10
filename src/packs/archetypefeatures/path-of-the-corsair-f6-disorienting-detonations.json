@@ -1,0 +1,24 @@
+{
+  "_id": "5eHOtbXmnEWW3b2a",
+  "_key": "!items!5eHOtbXmnEWW3b2a",
+  "name": "Disorienting Detonations",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When a creature fails its save against one of your Force-Empowered Detonators, you may pay 2 force points to inflict one of the following conditions on it until the end of your next turn: blinded, deafened, ignited (1d12), shocked, or slowed.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of the Corsair",
+    "className": "Sentinel",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

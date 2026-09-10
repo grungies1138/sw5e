@@ -1,0 +1,40 @@
+<section class="tab inventory {{#if tabs.inventory.active}}active{{/if}}" data-tab="inventory" data-group="primary">
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.Weapons'}}</legend>
+    <ul class="item-list">
+      {{#each weapons as |i|}}
+      <li>
+        <span class="name">{{i.name}}</span>
+        <span class="category">{{sw5eLabel (lookup (lookup ../config.starshipWeaponCategories i.system.category) "label")}}</span>
+        <a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a>
+        <a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a>
+      </li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.ModificationsTitle'}}</legend>
+    <ul class="item-list">
+      {{#each mods as |i|}}
+      <li>
+        <span class="name">{{i.name}}</span>
+        <span class="category">{{sw5eLabel (lookup (lookup ../config.modificationCategories i.system.category) "label")}} (Gr. {{i.system.grade}})</span>
+        <a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a>
+        <a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a>
+      </li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.Equipment'}}</legend>
+    <ul class="item-list">
+      {{#each equipment as |i|}}
+      <li>
+        <span class="name">{{i.name}}</span>
+        <a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a>
+        <a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a>
+      </li>
+      {{/each}}
+    </ul>
+  </fieldset>
+</section>

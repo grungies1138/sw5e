@@ -1,0 +1,24 @@
+{
+  "_id": "GzvKO0n0D7A9bAk3",
+  "_key": "!items!GzvKO0n0D7A9bAk3",
+  "name": "Humanoid Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain a humanoid companion, a squadmate placed under your command. Build it following the Companions rules in the Customization Options document for Expanded Content.</p><p>While bonded to you, your companion gains extra benefits beyond its normal traits and features:</p><ul><li>It gains two additional traits, plus one more once you reach 11th level. For every trait it holds beyond your proficiency bonus, the number of your Hit Dice you can spend to heal is reduced by 1.</li><li>While the companion is bonded to you and within 10 feet of you, it can draw on your superiority dice and maneuvers as though it knew them itself. This range extends to 30 feet at 11th level and 60 feet at 17th level.</li></ul>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Fireteam Specialist (Companion)",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

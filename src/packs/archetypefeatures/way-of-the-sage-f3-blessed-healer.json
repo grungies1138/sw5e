@@ -1,0 +1,24 @@
+{
+  "_id": "pJTjMgRNRrHJJoUQ",
+  "_key": "!items!pJTjMgRNRrHJJoUQ",
+  "name": "Blessed Healer",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Healing others heals you in turn: whenever you cast a force power that restores hit points to someone other than yourself, you also regain hit points equal to 2 plus the power's level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of the Sage",
+    "className": "Consular",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

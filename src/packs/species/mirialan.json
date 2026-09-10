@@ -1,0 +1,57 @@
+{
+  "_id": "r8qYl9kpx4aCuCgH",
+  "name": "Mirialan",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Mirialans are a green-skinned, near-human species from the temperate world of Mirial, culturally defined by elaborate geometric tattoos earned through rites of passage that mark significant achievements and personal milestones. Mirialan society places great emphasis on discipline, self-improvement, and meditation, and the species shows an unusually high incidence of Force sensitivity.</p><p>Patient and contemplative by nature, Mirialans often gravitate toward monastic, scholarly, or Force-sensitive traditions, though their steady hands and steadier minds serve them equally well as artisans and physicians.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "wis",
+        "value": 2
+      },
+      {
+        "ability": "dex",
+        "value": 1
+      }
+    ],
+    "darkvision": 0,
+    "languages": [
+      "Galactic Basic",
+      "Mirialan"
+    ],
+    "traits": [
+      {
+        "name": "Meditative Focus",
+        "description": "You have advantage on saving throws against being charmed, a product of rigorous meditative discipline."
+      },
+      {
+        "name": "Steady Hands",
+        "description": "You are proficient with one type of artisan's tools of your choice, and you have advantage on Wisdom (Medicine) checks."
+      },
+      {
+        "name": "Tattooed Discipline",
+        "description": "You have advantage on Charisma (Persuasion) checks made against other Mirialans who recognize the significance of your ritual tattoos."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

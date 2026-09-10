@@ -1,0 +1,27 @@
+{
+  "_id": "DBH66OAYJnY1tPTY",
+  "name": "Reinforced Armor",
+  "type": "starshipequipment",
+  "img": "icons/svg/statue.svg",
+  "system": {
+    "description": {
+      "value": "<p>Armor Class equals 10 + the ship's Dexterity modifier (maximum +0). Grants <strong>6 points of Damage Reduction</strong> against attack-roll damage to hull or shields, but imposes disadvantage on the ship's Dexterity (Conceal) checks.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 3700,
+      "denomination": "credits"
+    },
+    "kind": "armor",
+    "configKey": "reinforced",
+    "equipped": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

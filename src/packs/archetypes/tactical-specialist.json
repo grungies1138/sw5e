@@ -1,0 +1,22 @@
+{
+  "_id": "nbcoJOK1y55pCyoj",
+  "_key": "!items!nbcoJOK1y55pCyoj",
+  "name": "Tactical Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>War, to the Tactical Specialist, is a discipline to be studied as rigorously as any craft. They pore over old campaigns, master unfamiliar tools, and drill until every maneuver becomes second nature, treating the battlefield as a puzzle to be solved rather than a chaos to be endured.</p><p>This scholarly devotion pays off in versatility: a Tactical Specialist reads an opponent's strengths and weaknesses at a glance and answers with exactly the right technique. Their true gift lies not in raw power, but in knowing precisely how and when to apply it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

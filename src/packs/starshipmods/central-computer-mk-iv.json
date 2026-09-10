@@ -1,0 +1,30 @@
+{
+  "_id": "Vi0MmZtVGPgp3IrX",
+  "name": "Central Computer Mk IV",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>The top of the Central Computer line, a self-optimizing core capable of running full battle-management simulations in real time and feeding tactical suggestions to the bridge crew.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 38000,
+      "denomination": "credits"
+    },
+    "category": "universal",
+    "grade": 4,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

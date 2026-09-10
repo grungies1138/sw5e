@@ -1,0 +1,30 @@
+{
+  "_id": "P3HnzvyC5dZO8j9Z",
+  "_key": "!items!P3HnzvyC5dZO8j9Z",
+  "name": "Overwhelming Presence",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your bearing commands the same respect as history's great leaders.</p><p>You become proficient in Charisma saving throws; if you already had that proficiency, you gain expertise in it instead.</p><p>While conscious, you can grant up to five friendly creatures within 30 feet who can see or hear and understand you a bonus equal to your Charisma modifier on one Intelligence, Wisdom, or Charisma saving throw each makes. Once a creature benefits this way, it can't do so again until it finishes a short or long rest.</p><p>As an action, you can try to distract up to five creatures you can see within 30 feet. Each target that isn't immune to being charmed must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier); a creature has advantage on this save if it or an ally of yours is currently fighting it. A creature that fails has disadvantage for the next minute on Wisdom (Perception) checks made to notice anyone other than you, until it can no longer see or hear you, or until you are incapacitated or die.</p>",
+      "chat": ""
+    },
+    "source": "EC Feats",
+    "requirements": "12th level, Charisma 20.",
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "LLglDEDocQU6UU09",
+  "_key": "!items!LLglDEDocQU6UU09",
+  "name": "Mutate/Augment",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You reshape your own body with tech, gaining three of the following properties for the duration (you cannot pick the same one twice unless noted otherwise):</p><p>Your body becomes pliable, granting advantage on ability checks and saving throws against being grappled or restrained, and letting you ignore difficult terrain and squeeze through tight spaces freely. You sprout an extra limb usable as an arm and hand (selectable twice, to a maximum of two extra limbs); you can only benefit from items held in two arms at once, switching which pair benefits once per round with no action required. You grow antennae granting tremorsense out to 30 feet. Your limbs lengthen, extending your reach by 5 feet for melee attacks and for grappling, shoving, or tripping. You gain a burrowing speed equal to your walking speed. Your flesh hardens, setting your AC to a minimum of 16 regardless of armor worn. You gain one benefit of the <em>alter self</em> power (selectable multiple times, choosing a different benefit each time). You gain the effect of the <em>magnetic hold</em> power, except you can affix to any surface rather than only metal, with a climbing speed equal to your walking speed. You gain one effect of the <em>force enlightenment</em> power.</p><p><em>Overcharge Tech.</em> Cast with a tech slot of 4th level or higher, you may select one additional property per slot level beyond 3rd.</p>",
+      "chat": ""
+    },
+    "source": "EC Powers — Tech Powers, Level 3",
+    "school": "tech",
+    "level": 3,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

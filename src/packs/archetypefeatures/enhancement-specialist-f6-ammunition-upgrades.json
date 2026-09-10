@@ -1,0 +1,24 @@
+{
+  "_id": "zspgRGeulVzC5OvJ",
+  "_key": "!items!zspgRGeulVzC5OvJ",
+  "name": "Ammunition Upgrades",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Each ammunition enhancement you know grows more potent, as detailed in their individual descriptions.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Enhancement Specialist",
+    "className": "Fighter",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

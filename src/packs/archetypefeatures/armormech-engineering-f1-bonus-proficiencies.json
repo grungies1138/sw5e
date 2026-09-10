@@ -1,0 +1,24 @@
+{
+  "_id": "SWTsmUKcV2vSxmkw",
+  "_key": "!items!SWTsmUKcV2vSxmkw",
+  "name": "Bonus Proficiencies",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You become trained with armormech's implements as well as medium and heavy armor. Whenever you craft using armormech's implements, you finish the work in half the usual time.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armormech Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

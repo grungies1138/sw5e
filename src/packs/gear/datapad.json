@@ -1,0 +1,29 @@
+{
+  "_id": "g8pnH1i5RhFOlSKu",
+  "name": "Datapad",
+  "type": "gear",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>A handheld data terminal for reading, writing, and storing documents, star charts, and technical manuals, with a basic connector for pulling files from most droids and terminals.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 40,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

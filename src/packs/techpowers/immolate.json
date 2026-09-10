@@ -1,0 +1,50 @@
+{
+  "_id": "fSVtEKOFWZo2nhDf",
+  "_key": "!items!fSVtEKOFWZo2nhDf",
+  "name": "Immolate",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A creature you can see within range is wrapped in flame and must make a Dexterity saving throw, taking 8d6 fire damage on a failure or half as much on a success. A creature that fails also continues to burn for the duration, shedding bright light out to 30 feet and dim light 30 feet beyond that; at the end of each of its turns it repeats the save, taking 4d6 fire damage on a failure or extinguishing the flames on a success. Mundane means cannot put out this fire.</p><p>A creature slain by this power's damage is reduced to ash.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "8d6",
+          "type": "fire"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

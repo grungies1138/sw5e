@@ -1,0 +1,22 @@
+{
+  "_id": "TQLr713fQHSTCvYK",
+  "_key": "!items!TQLr713fQHSTCvYK",
+  "name": "Totem Specialist",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Long before starships and blasters, warriors called upon primal spirits to guide their blows &mdash; and the Totem Specialist keeps that old tradition alive. Drawing on a faint attunement to the Force, they craft talismans imbued with the essence of legendary creatures, wearing that power into every battle.</p><p>Each totem becomes a conduit to something greater than the warrior alone: the ferocity of a predator, the resilience of a beast of legend, the clarity of a hunter's instinct. Through ritual and reverence, the Totem Specialist fights not merely as themselves, but as an echo of everything their totems represent.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Fighter"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

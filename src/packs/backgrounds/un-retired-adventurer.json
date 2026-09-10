@@ -1,0 +1,47 @@
+{
+  "_id": "4ooITfNwnFJ2fahs",
+  "_key": "!items!4ooITfNwnFJ2fahs",
+  "name": "(Un)Retired Adventurer",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You already lived the adventuring life once, whether as part of a famous company or an outfit nobody remembers, and you thought you were done with it. You picked up a working knowledge of nearly every skill an adventurer needs to survive, usually the hard way.</p><p>The years since haven't been kind to some of those old friendships, and a few of your former contacts might not answer the comm the way they used to &mdash; but the instincts from that life never really left, and neither did the itch to use them again.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ath",
+        "ins",
+        "lor",
+        "sur"
+      ]
+    },
+    "toolProficiencies": [
+      "One type of artisan's implements"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Brawny",
+        "Empathic",
+        "Loremaster",
+        "Survivalist",
+        "Crafter",
+        "Linguist",
+        "Athlete",
+        "Observant"
+      ]
+    },
+    "equipment": "A grappling hook, one tool with which you are proficient, a memento of an unsuccessful expedition, and a pouch containing 50 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

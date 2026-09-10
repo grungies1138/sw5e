@@ -1,0 +1,30 @@
+{
+  "_id": "ITsoB21zfkv9jIaW",
+  "_key": "!items!ITsoB21zfkv9jIaW",
+  "name": "Class Proficiencies",
+  "type": "feat",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Some classes grant proficiency with an entire category of weapons — fighters, for example, gain all blasters and vibroweapons, while guardians gain all lightweapons and vibroweapons. Other classes, such as monks, operatives, scholars, and sentinels, are instead granted proficiency only with martial weapons meeting specific criteria (for instance, an operative's martial weapon proficiencies exclude blasters with the auto, special, strength, or two-handed properties, and are limited to vibroweapons with the finesse property). If an item or feature adds or removes a qualifying property from a weapon after the fact, that change does not retroactively grant or revoke the class's proficiency with it — adding finesse to a vibroweapon, or removing strength from a blaster, does not by itself make an operative proficient with that weapon.</p>",
+      "chat": ""
+    },
+    "source": "Wretched Hive Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    },
+    "abilityScoreIncrease": {
+      "number": 0,
+      "options": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "VTvI92QhuN1Wpagx",
+  "_key": "!items!VTvI92QhuN1Wpagx",
+  "name": "Marauder Approach",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Few sights unsettle a battlefield like a berserker who has learned to channel the Force through unrestrained rage. Followers of the Marauder Approach tap a wellspring of primal power buried beneath their fury, turning brute strength into something closer to a force of nature — fire, blade, and blood woven together by instinct rather than discipline.</p><p>Because this power rises from chaos rather than control, marauders walk a dangerous edge: many are drawn to the dark side's promise of raw strength, and even those who resist still hear its voice whispering beneath their anger.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Berserker"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

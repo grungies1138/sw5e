@@ -1,0 +1,22 @@
+{
+  "_id": "lkkK2ogD7bNiH3By",
+  "name": "Supreme Save",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per long rest, when your ship would be reduced to 0 Hull Points by damage that isn't enough to destroy it outright, you can instead reduce it to 1 Hull Point.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

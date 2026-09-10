@@ -1,0 +1,50 @@
+{
+  "_id": "sRnE0dUweyLKTdCT",
+  "_key": "!items!sRnE0dUweyLKTdCT",
+  "name": "Corrosive Sphere",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You hurl a glob of acid to a point within range, where it bursts into a 20-foot-radius sphere. Each creature in the area makes a Dexterity saving throw, taking 10d4 acid damage immediately and another 5d4 acid damage at the end of its next turn on a failure, or half the initial damage and no follow-up damage on a success.</p><p>Cast with a tech slot of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 4",
+    "school": "tech",
+    "level": 4,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 150,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "10d4",
+          "type": "acid"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

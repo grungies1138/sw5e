@@ -1,0 +1,22 @@
+{
+  "_id": "GMO8HQq6BR74T7nt",
+  "_key": "!items!GMO8HQq6BR74T7nt",
+  "name": "Teleportation Technique",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whether recovered from ancient ruins or built through relentless tinkering, the devices at the heart of the Teleportation Technique let a scout tear open brief portals wherever the fight demands. Followers of this path treat the battlefield less as a fixed space and more as a set of doors waiting to be opened.</p><p>They strike, vanish, and reappear somewhere the enemy never expected, using linked rifts to redirect attacks, punish anyone caught between them, and even hurl incoming danger back at a different foe entirely. To fight a Teleportation specialist is to never be quite sure where the next blow will come from.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

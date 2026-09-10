@@ -1,0 +1,22 @@
+{
+  "_id": "RCIeZ629T5J2JwcB",
+  "name": "Quick Regen",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on Strength (Boost) checks made to regenerate your ship's Shield Points.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

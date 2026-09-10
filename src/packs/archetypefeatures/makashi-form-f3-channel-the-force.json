@@ -1,0 +1,24 @@
+{
+  "_id": "EmzfO30eWD6Tbksm",
+  "_key": "!items!EmzfO30eWD6Tbksm",
+  "name": "Channel the Force",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain the following Channel the Force option.</p><p><strong>Makashi Riposte.</strong> When a creature hits you with a melee attack, you may spend a use of Channel the Force and your reaction to try to turn the blow aside. Doing so lowers the damage you take by 1d10 plus your Dexterity modifier plus your guardian level.</p><p>Should that reduction bring the damage to 0, you may follow through with a single melee weapon attack against the attacker as part of the same reaction.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Makashi Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "m3nWsm2Slul0OQa7",
+  "_key": "!items!m3nWsm2Slul0OQa7",
+  "name": "Vicious Hunting",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your beast's strikes now count as enhanced for bypassing resistance or immunity to unenhanced attacks and damage. Additionally, whenever it makes an attack roll, ability check, or saving throw, you may spend a superiority die to apply one of your known maneuvers to that roll, exactly as though you had taken the triggering action yourself.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Zoologist Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

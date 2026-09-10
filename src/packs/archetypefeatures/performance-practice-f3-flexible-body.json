@@ -1,0 +1,24 @@
+{
+  "_id": "ESzNWzDjTdyz9zLr",
+  "_key": "!items!ESzNWzDjTdyz9zLr",
+  "name": "Flexible Body",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The bonus action from your Cunning Action can now be used to shove or trip a creature, substituting a Dexterity (Acrobatics) check for the usual Strength (Athletics) check. You also ignore difficult terrain, can move freely through spaces held by hostile creatures, and can squeeze into smaller spaces without spending extra movement to do it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Performance Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "F4MX4d7Sc4U878Id",
+  "_key": "!items!F4MX4d7Sc4U878Id",
+  "name": "Ion Cascade",
+  "type": "power",
+  "img": "icons/svg/lightning.svg",
+  "system": {
+    "description": {
+      "value": "<p>You trigger a chain reaction of ionized energy that arcs between nearby targets in a 20-foot radius centered on a point you choose within range. Each creature and unattended electronic device in the area must make a Constitution saving throw, taking 9d6 ion damage on a failed save, or half as much on a successful one.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 5",
+    "school": "tech",
+    "level": 5,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 90,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "9d6",
+          "type": "ion"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

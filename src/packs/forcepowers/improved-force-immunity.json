@@ -1,0 +1,45 @@
+{
+  "_id": "X1rcXDRl2oBagVJJ",
+  "_key": "!items!X1rcXDRl2oBagVJJ",
+  "name": "Improved Force Immunity",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>A faint, unmoving barrier springs up in a 15-foot radius around you and travels with you for the duration. Any force power of 5th level or lower cast from outside the barrier cannot affect creatures or objects inside it, even if empowered by a higher-level slot — such a power may still target something within, but has no effect, and the barrier's interior is likewise excluded from any area the power would otherwise cover.</p><p>Cast with a 7th-level slot or higher, the barrier blocks powers one level higher for each slot level above 6th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 6",
+    "school": "universal",
+    "level": 6,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": true,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "qh4NuspAn3j3NTob",
+  "_key": "!items!qh4NuspAn3j3NTob",
+  "name": "Sawbones Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Sawbones Practice operatives know the body from every angle, where a blade opens a wound, and exactly how to close one again after. That dual mastery makes them uniquely dangerous and uniquely valuable, able to drop a target with surgical precision and then patch up a squadmate minutes later.</p><p>Untroubled by squeamishness, they chase medical knowledge wherever it leads, however unsavory the source. On the battlefield that expertise cuts both ways: healing allies fast enough to keep the fight going, and finding exactly the wound that ends it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

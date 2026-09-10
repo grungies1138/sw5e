@@ -1,0 +1,50 @@
+{
+  "_id": "9bigTkR41r9NCRyO",
+  "name": "Proton Torpedo",
+  "type": "starshipweapon",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A guided warhead-tipped torpedo launched from a dedicated tube; it resolves against a target's Dexterity save rather than an attack roll, and a natural 1 on that save means the torpedo deals maximum damage. Limited by the number of torpedoes racked aboard.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 1600,
+      "denomination": "credits"
+    },
+    "category": "tertiary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d10",
+          "type": "energy"
+        }
+      ]
+    },
+    "range": {
+      "value": 2500,
+      "long": 5000,
+      "units": "ft"
+    },
+    "properties": [
+      "exp",
+      "keen"
+    ],
+    "ammo": {
+      "value": 8,
+      "max": 8
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

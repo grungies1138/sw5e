@@ -1,0 +1,24 @@
+{
+  "_id": "mVGj6oxLPmrfNAWQ",
+  "_key": "!items!mVGj6oxLPmrfNAWQ",
+  "name": "Field Surgeon",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you spend a superiority die to restore hit points or grant temporary hit points, you may roll an extra d6 and include it in the total. That bonus die grows over time: a d8 at 9th level, a d10 at 13th level, and a d12 at 17th level.</p><p>Furthermore, if the creature you're healing this way is also the target of your Critical Analysis, you can instead take the maximum result on both dice rather than rolling them. This benefit is limited to once between rests until 11th level, when you gain a second use — though never more than one on a single turn.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Physician Pursuit",
+    "className": "Scholar",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

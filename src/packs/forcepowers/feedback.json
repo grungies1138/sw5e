@@ -1,0 +1,50 @@
+{
+  "_id": "bPeunr7WV3gdaR42",
+  "_key": "!items!bPeunr7WV3gdaR42",
+  "name": "Feedback",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You loose a burst of psychic force at a creature within range that can hear you. It must succeed on an Intelligence saving throw or take 1d4 psychic damage and suffer disadvantage on its next attack roll before the end of its next turn.</p><p>This damage increases by 1d4 at 5th level (2d4 total), 11th level (3d4 total), and 17th level (4d4 total).</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 60,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "psychic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "int",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

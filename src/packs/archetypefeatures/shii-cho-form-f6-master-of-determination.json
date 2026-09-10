@@ -1,0 +1,24 @@
+{
+  "_id": "USmR5yEDjuKmXkil",
+  "_key": "!items!USmR5yEDjuKmXkil",
+  "name": "Master of Determination",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your erratic, flowing movement bewilders even the most single-minded foe. Your Strength or Dexterity score (your choice) and your Wisdom or Charisma score (your choice) each rise by 2, as do their maximums. You may also spend your action to gain the following, all lasting for 1 minute:</p><ul><li>You resist kinetic, energy, and ion damage dealt by weapons.</li><li>Attack rolls against you can never have advantage.</li><li>When more than one creature is within 5 feet of you, your Armor Class gains a bonus equal to the number of such creatures, up to your Wisdom or Charisma modifier (your choice, minimum 1).</li><li>When you use your Sarlaac Sweep feature, you have advantage on the attack roll, and you can apply its bonus damage to every creature within 5 feet of you.</li></ul><p>This benefit ends early if you're incapacitated or killed. You must complete a long rest before using it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Shii-Cho Form",
+    "className": "Guardian",
+    "level": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

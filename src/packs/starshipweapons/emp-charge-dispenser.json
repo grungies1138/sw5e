@@ -1,0 +1,49 @@
+{
+  "_id": "lwYE4oDELal3pl4L",
+  "name": "EMP Charge Dispenser",
+  "type": "starshipweapon",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>Drops a stationary charge that erupts in a wide ionizing pulse, designed to cripple a pursuing squadron's systems rather than destroy them outright. Like all ion-based weapons, it can disable but never destroy its target.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 2400,
+      "denomination": "credits"
+    },
+    "category": "quaternary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "3d8",
+          "type": "ion"
+        }
+      ]
+    },
+    "range": {
+      "value": 500,
+      "long": 1000,
+      "units": "ft"
+    },
+    "properties": [
+      "ion"
+    ],
+    "ammo": {
+      "value": 6,
+      "max": 6
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

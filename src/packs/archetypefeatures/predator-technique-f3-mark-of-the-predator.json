@@ -1,0 +1,24 @@
+{
+  "_id": "A4vMslOgyxIHnMpx",
+  "_key": "!items!A4vMslOgyxIHnMpx",
+  "name": "Mark of the Predator",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If the creature marked by your Ranger's Quarry can see you, up to a number of friendly creatures equal to your Intelligence modifier (your choice) gain advantage on Dexterity (Stealth) checks to hide from it.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Predator Technique",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

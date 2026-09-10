@@ -1,0 +1,24 @@
+{
+  "_id": "ma5il35q1boJAr7a",
+  "_key": "!items!ma5il35q1boJAr7a",
+  "name": "Shattering Strikes",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>While raging, your unarmed strikes and improvised weapons count as enhanced for the purpose of bypassing resistance or immunity to unenhanced attacks and damage, and your unarmed strikes deal double damage to structures.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Brawling Approach",
+    "className": "Berserker",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

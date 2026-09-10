@@ -1,0 +1,30 @@
+{
+  "_id": "UajqIJJPkQNlK6VQ",
+  "name": "Armory",
+  "type": "starshipmod",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>A secured suite of weapon racks, ammunition lockers, and armor stands sized to outfit the ship's complement of troopers and away-team personnel before a boarding action or planetside excursion.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 4000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 1,
+    "slots": 1,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

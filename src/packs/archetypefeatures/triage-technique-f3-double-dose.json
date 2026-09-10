@@ -1,0 +1,24 @@
+{
+  "_id": "6TyIWATMUAzCdaWj",
+  "_key": "!items!6TyIWATMUAzCdaWj",
+  "name": "Double Dose",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Healing others no longer costs you your own recovery: when you restore hit points or grant temporary hit points to another creature via a tech power or class feature, you gain the same amount for yourself. You can use this three times, gaining an additional use at 9th, 13th, and 17th level, and regain all uses on finishing a long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Triage Technique",
+    "className": "Scout",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "tZET5Otj3YrHSflH",
+  "_key": "!items!tZET5Otj3YrHSflH",
+  "name": "Ysannanite Form",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Ysannanite refuses to choose between lightsaber and blaster, weaving the two together until switching from one to the other is as natural as breathing. Its practitioners cut and shoot in the same fluid motion, treating every duel as an opportunity to strike from whichever range is momentarily open.</p><p>Guided by the Force, a guardian trained in this style aims as unerringly with a blaster bolt as with a blade's edge, closing the old divide between marksman and swordsman into one unorthodox, unpredictable fighter.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Guardian"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

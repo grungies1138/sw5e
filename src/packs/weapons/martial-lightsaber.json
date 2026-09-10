@@ -1,0 +1,55 @@
+{
+  "_id": "Aw0tr8thPLawCCBS",
+  "name": "Martial Lightsaber",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": {
+      "value": "<p>A heavier, unorthodox lightsaber hilt with an extended emitter matrix, delivering harder strikes for those willing to sacrifice some of the standard hilt's precision.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 3000,
+      "denomination": "credits"
+    },
+    "weight": 2,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "lightweapon",
+    "proficiencyTier": "martial",
+    "actionType": "mwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "energy"
+        }
+      ],
+      "versatile": "1d10"
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "properties": [
+      "versatile"
+    ],
+    "ammo": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

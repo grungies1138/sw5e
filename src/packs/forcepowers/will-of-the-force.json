@@ -1,0 +1,45 @@
+{
+  "_id": "TZeAt9n9zanuKAOR",
+  "_key": "!items!TZeAt9n9zanuKAOR",
+  "name": "Will of the Force",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You surrender yourself to the will of the Force to reshape the galaxy around you. At its simplest, this power duplicates any other light side or universal force power of 8th level or lower, ignoring that power's normal requirements.</p><p>Alternatively, you can choose one of the following effects: summon an unattended object worth up to 250,000 credits and no larger than 300 feet in any dimension into an unoccupied space you can see; restore all hit points to up to twenty creatures you can see and end all effects on them that the improved restoration power would end; grant up to ten creatures you can see resistance to a damage type of your choice; grant up to ten creatures you can see immunity to a single power or specific enhanced effect for 8 hours; or force a reroll, with advantage or disadvantage of your choosing, of any single roll made within the last round, choosing whether the new result or the original stands.</p><p>You may also attempt an effect beyond these examples by describing your wish to the GM as precisely as you can; the scope of the wish determines how faithfully it is granted, with grander wishes more likely to be altered, incomplete, or to carry unintended consequences. Casting this power for any purpose other than duplicating another power exacts a toll: until you finish a long rest, each power you cast deals you 1d10 necrotic damage per level of that power, which can't be reduced or prevented, and your Strength drops to 3 (if it is not already lower) for 2d4 days, reduced by 2 days for each full day you spend resting. There is also a 33 percent chance that you can never cast this power again. If this necrotic damage reduces you to 0 hit points, or if you die before recovering from the Strength loss, your body dissolves into the living Force and cannot be restored to life.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Light Side Powers, Level 9",
+    "school": "lightside",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "TsHtg5FE7N47ZbiZ",
+  "_key": "!items!TsHtg5FE7N47ZbiZ",
+  "name": "Occultist Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Occultists dig into the practices the rest of the galaxy dismisses as superstition, tracing the traditions of witches, shamans, and sorcerers back to something real and usable. What others mock as folklore, these scholars treat as an untapped field of study.</p><p>Once mastered, that same knowledge becomes a weapon of misdirection and dread. An Occultist unsettles the minds of their foes with hexes and curses, twisting fear and hesitation into openings their allies can exploit.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

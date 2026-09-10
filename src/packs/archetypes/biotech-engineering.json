@@ -1,0 +1,22 @@
+{
+  "_id": "8fPD7TRCOqGelsLH",
+  "_key": "!items!8fPD7TRCOqGelsLH",
+  "name": "Biotech Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Biotech engineers look at the limits of flesh and bone and simply replace them. An eye becomes a sensor suite, an arm becomes a hydraulic ram, a torso becomes armor plating grown into the ribs — each swap chosen with the same deliberate craft as any piece of hardware.</p><p>Living as a hybrid of technology and biology, they draw on their own cybernetics to channel tech powers and shrug off wounds that would stagger anyone still running on original parts. To them, the body isn't sacred; it's just the platform due for its next upgrade.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "amWjMeLAidtDiUBq",
+  "_key": "!items!amWjMeLAidtDiUBq",
+  "name": "Energetic Burst",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>A creature you touch gains 10 temporary hit points, and while it retains any of them, it can add 1d4 to its saving throws. Any of these temporary hit points still remaining are lost when the power ends.</p><p>Cast with a tech slot of 3rd level or higher, the target gains 5 more temporary hit points for each slot level above 2nd; cast at 4th level or higher, the bonus die grows every two slot levels beyond 2nd, becoming a d6 at 4th level, a d8 at 6th level, and a d10 at 8th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 2",
+    "school": "tech",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

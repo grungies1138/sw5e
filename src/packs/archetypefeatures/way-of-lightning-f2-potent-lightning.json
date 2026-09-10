@@ -1,0 +1,24 @@
+{
+  "_id": "wzkVTC3oxzxQ4D77",
+  "_key": "!items!wzkVTC3oxzxQ4D77",
+  "name": "Potent Lightning",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Any lightning damage you deal with a force power gains a bonus equal to your governing ability modifier (minimum +1), as long as that modifier isn't already factored into the damage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Way of Lightning",
+    "className": "Consular",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

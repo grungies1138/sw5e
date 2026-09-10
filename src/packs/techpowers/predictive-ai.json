@@ -1,0 +1,45 @@
+{
+  "_id": "uwxwT95KjbBoRkmp",
+  "_key": "!items!uwxwT95KjbBoRkmp",
+  "name": "Predictive AI",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You touch a willing creature and link it to a limited predictive AI companion. For the duration, the target cannot be surprised and has advantage on attack rolls, ability checks, and saving throws, while other creatures have disadvantage on attack rolls made against it.</p><p>Casting this power again before the duration ends immediately ends the earlier casting.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 9",
+    "school": "tech",
+    "level": 9,
+    "activation": {
+      "type": "special",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "",
+      "units": "special"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

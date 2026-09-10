@@ -1,0 +1,30 @@
+{
+  "_id": "ackOTsc49hOAyGzC",
+  "name": "Anti-Boarding System",
+  "type": "starshipmod",
+  "img": "icons/svg/skull.svg",
+  "system": {
+    "description": {
+      "value": "<p>A network of automated turrets, blast doors, and shock-grid deck plates wired into corridors and airlocks, designed to punish hostile boarders who breach the hull without a friendly transponder code.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 5500,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 2,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

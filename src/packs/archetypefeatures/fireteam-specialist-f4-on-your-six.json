@@ -1,0 +1,24 @@
+{
+  "_id": "xKBdOTYRU2dMBupo",
+  "_key": "!items!xKBdOTYRU2dMBupo",
+  "name": "On Your Six",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Using your bonus action, you can begin a coordinated maneuver with an ally within 5 feet of you. For the next minute, as long as you and that ally stay within 5 feet of each other and neither of you wields a shield, you each gain a bonus to AC equal to half your proficiency bonus.</p><p>When your chosen ally moves on their turn, you may spend your reaction to move alongside them, ending your movement within 5 feet of them; this movement can't exceed your own speed.</p><p>The effect ends early if either of you is incapacitated or dies. Once used, this feature requires a long rest before you can use it again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Fireteam Specialist",
+    "className": "Fighter",
+    "level": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "363fFndlnqYQdW8K",
+  "_key": "!items!363fFndlnqYQdW8K",
+  "name": "Armormech Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Armormech engineers pour their expertise into personal protection, treating a suit of armor or a shield less like equipment and more like a canvas for invention. They study alloys, plating, and shield generators until they can bend hard metal and circuitry to their will, turning ordinary battle gear into something closer to a second skin.</p><p>In the field, these engineers stay close to danger, trusting their modified plating to absorb blows that would fell an unprepared soldier. Every upgrade they bolt on serves a singular purpose: keeping the wearer standing, mobile, and dangerous no matter how the fight turns against them.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

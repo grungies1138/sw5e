@@ -1,0 +1,24 @@
+{
+  "_id": "MHlIciY7UAS3wg25",
+  "_key": "!items!MHlIciY7UAS3wg25",
+  "name": "War Chant",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When you enter your rage, you may also enter a commanding rage lasting 1 minute. For its duration, at the start of this turn and each of your turns, you gain a number of special reactions equal to your proficiency bonus, usable only to fuel your Commanding Rage feature — reactions spent this way don't draw from that feature's normal pool, and you can still only use one reaction per turn. While this commanding rage lasts, whenever an enemy within 10 feet makes an attack roll against an ally, you may spend a reaction to reduce that attack roll by your Charisma modifier.</p><p>Once you've entered a commanding rage this way, you need a long rest before doing so again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Warchief Approach",
+    "className": "Berserker",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "DXdNTAg3UY7AKFkm",
+  "_key": "!items!DXdNTAg3UY7AKFkm",
+  "name": "Artificer Engineering",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Artificer engineers treat the lightsaber not merely as a weapon but as a puzzle in living crystal. By coaxing new properties from kyber and its housing, they refine a blade until its hum carries a signature all their own, and in the process they brush against the same current of the Force that gives every lightsaber its life.</p><p>That closeness to the crystal opens a door few other engineers ever find: fragments of true Force training seep into their work, letting them wield a handful of powers alongside their bladework. The result is a duelist as comfortable bending the Force as bending metal.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Engineer"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

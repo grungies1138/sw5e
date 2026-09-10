@@ -1,0 +1,22 @@
+{
+  "_id": "UsjGTM09ZjooE4yB",
+  "name": "Paragon Tech",
+  "type": "deploymentFeature",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per round, you can use a d4 in place of your Tech Die without triggering its growth or shrink properties.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Mechanic",
+    "deployment": "mechanic",
+    "rank": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

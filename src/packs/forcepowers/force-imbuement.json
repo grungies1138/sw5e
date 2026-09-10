@@ -1,0 +1,45 @@
+{
+  "_id": "BNXw76amEGPoliW9",
+  "_key": "!items!BNXw76amEGPoliW9",
+  "name": "Force Imbuement",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel the Force into a simple lightweapon, simple vibroweapon, or improvised weapon you hold. For the duration, you may use your forcecasting ability instead of Strength for that weapon's melee attack and damage rolls, and its damage die becomes 1d8. The weapon also counts as enhanced, if not already, and you gain proficiency with it, if you lacked it. The power ends if you cast it again or release the weapon.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, At-Will",
+    "school": "universal",
+    "level": 0,
+    "activation": {
+      "type": "bonus",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

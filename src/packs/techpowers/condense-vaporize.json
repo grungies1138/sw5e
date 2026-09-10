@@ -1,0 +1,45 @@
+{
+  "_id": "06zKrufWjCts3DlU",
+  "_key": "!items!06zKrufWjCts3DlU",
+  "name": "Condense/Vaporize",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You create up to 10 gallons of drinkable water in an open container, or summon a rain that fills a 30-foot cube and douses open flames within it. Alternatively, you may destroy an equal amount of water in an open container, or clear away a 30-foot cube of fog.</p><p>Cast with a tech slot of 2nd level or higher, the water created increases by 10 gallons, or the cube's size increases by 5 feet, for each slot level above 1st.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 1",
+    "school": "tech",
+    "level": 1,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 30,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

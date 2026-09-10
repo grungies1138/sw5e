@@ -1,0 +1,25 @@
+{
+  "_id": "M2PyStcXcZYuduBc",
+  "name": "Remote Sensors",
+  "type": "shipmaneuver",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, expend a Power Die from the Sensors pool and roll it. Your ship may make a Wisdom (Scan) or Intelligence (Probe) check against a target beyond its normal sensor range, adding the result as a bonus to the check.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Operator Disruptions",
+    "deployment": "operator",
+    "rankRequired": 1,
+    "activation": "action",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

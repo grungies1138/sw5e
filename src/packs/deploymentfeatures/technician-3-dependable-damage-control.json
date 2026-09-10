@@ -1,0 +1,22 @@
+{
+  "_id": "Zp1y2KDPFEbfqO85",
+  "name": "Dependable Damage Control",
+  "type": "deploymentFeature",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>A number of times per long rest equal to your Technician rank, when you roll a die as part of a Stratagem, you can reroll it and use either result.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Technician",
+    "deployment": "technician",
+    "rank": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

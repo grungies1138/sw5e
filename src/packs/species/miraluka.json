@@ -1,0 +1,57 @@
+{
+  "_id": "fDsi7HBoItkOY9g5",
+  "name": "Miraluka",
+  "type": "species",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": {
+      "value": "<p>Miraluka are a near-human species born without functioning eyes, instead perceiving their surroundings through an innate, low-level Force sense that lets them &ldquo;see&rdquo; the shapes, life, and even emotional undertones of the world around them. Native to Alpheridia, Miraluka almost universally wear blindfolds or veils, both out of modesty and cultural tradition regarding their sightless eyes.</p><p>Because their perception flows through the Force rather than conventional sight, Miraluka show among the highest rates of Force sensitivity of any known species, and many pursue lives as seers, scholars, or Force adepts.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.2 Species",
+    "size": "med",
+    "speed": {
+      "walk": 30,
+      "fly": 0,
+      "swim": 0,
+      "climb": 0
+    },
+    "abilityBonuses": [
+      {
+        "ability": "wis",
+        "value": 2
+      },
+      {
+        "ability": "cha",
+        "value": 1
+      }
+    ],
+    "darkvision": 30,
+    "languages": [
+      "Galactic Basic",
+      "Miralukese"
+    ],
+    "traits": [
+      {
+        "name": "Force Sight",
+        "description": "You are blind, but you perceive your surroundings through the Force out to a radius equal to your darkvision score, which functions as blindsight rather than normal vision, and is not blocked by darkness. Effects that specifically target sight-based perception, such as bright light or gases, do not hinder you, but you are still fooled by illusions or effects that specifically deceive the Force."
+      },
+      {
+        "name": "Force Attuned",
+        "description": "You have advantage on Wisdom (Insight) checks made to sense the presence or general emotional state of another creature within line of your Force Sight."
+      },
+      {
+        "name": "Unshakeable Calm",
+        "description": "You have advantage on saving throws against being blinded or frightened."
+      }
+    ],
+    "isDroid": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,42 @@
+<section class="tab features {{#if tabs.features.active}}active{{/if}}" data-tab="features" data-group="primary">
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.NpcTraits'}}
+      <a data-action="itemCreate" data-type="feat"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.traits as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.NpcActions'}}
+      <a data-action="itemCreate" data-type="feat"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.actions as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.NpcReactions'}}
+      <a data-action="itemCreate" data-type="feat"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.reactions as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.NpcLegendaryActions'}}
+      <a data-action="itemCreate" data-type="feat"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.legendary as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+</section>

@@ -1,0 +1,24 @@
+{
+  "_id": "OpUIWNX0wB4DRTFz",
+  "_key": "!items!OpUIWNX0wB4DRTFz",
+  "name": "Focused Burst",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You add the <em>burst</em> force power to your repertoire without it counting against your number of powers known. When you cast it as your action, you may apply your Double Strike Force-Empowered Self option to it, though if the power would affect several creatures, only a single target suffers the extra damage. You also add your Wisdom or Charisma modifier (whichever you prefer, minimum +1) to its damage rolls, and any creature that succeeds on its saving throw takes half damage rather than none.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of Focus",
+    "className": "Sentinel",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

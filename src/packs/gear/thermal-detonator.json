@@ -1,0 +1,29 @@
+{
+  "_id": "vTNuhBpiWFUyvAyk",
+  "name": "Thermal Detonator",
+  "type": "gear",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "description": {
+      "value": "<p>A spherical explosive charge notorious across the galaxy for its lethality. As an action, a creature can arm and throw a thermal detonator up to 60 feet; each creature within 20 feet of where it lands must make a Dexterity saving throw, taking 6d6 fire damage on a failed save or half as much on a success.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 2000,
+      "denomination": "credits"
+    },
+    "weight": 1,
+    "quantity": 1,
+    "isEnhanced": false,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

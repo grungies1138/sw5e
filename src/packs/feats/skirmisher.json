@@ -1,0 +1,26 @@
+{
+  "_id": "HiqDea5TvSG3JwC9",
+  "_key": "!items!HiqDea5TvSG3JwC9",
+  "name": "Skirmisher",
+  "type": "feat",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>You move through a battlefield like water, never staying still long enough to become an easy target. Your walking speed increases by 10 feet, and moving through difficult terrain no longer costs you extra movement.</p><p>Additionally, opportunity attacks made against you have disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "PHB Feats",
+    "requirements": "",
+    "activation": {
+      "type": "none",
+      "cost": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

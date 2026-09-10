@@ -1,0 +1,24 @@
+{
+  "_id": "ihdEP0ZdQSe4VsTp",
+  "_key": "!items!ihdEP0ZdQSe4VsTp",
+  "name": "Techcasting",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your wristpad channels powers drawn from technical schematics, following the general techcasting rules and the tech powers list.</p><p><strong>Tech Powers Known.</strong> You start knowing 3 tech powers of your choice, learning more at higher levels per the Tech Powers Known column of the Saboteur Practice Techcasting table. You can't learn a power whose level exceeds your current Max Power Level.</p><p><strong>Tech Points.</strong> Your pool of tech points equals half your operative level (per the Tech Points column of the table) plus your Intelligence modifier. Casting a tech power spends these points, and you regain them all on finishing a short or long rest.</p><p><strong>Max Power Level.</strong> Some tech powers can be overcharged, spending extra points for a stronger effect, up to a ceiling that rises with level per the Max Power Level column. You can only overcharge a power to 4th level once between long rests.</p><p><strong>Techcasting Ability.</strong> Intelligence governs your tech powers; use it whenever a power references your techcasting ability, and for setting both your save DC and attack bonus with tech powers.</p><p>Tech save DC = 8 + your proficiency bonus + your Intelligence modifier</p><p>Tech attack modifier = your proficiency bonus + your Intelligence modifier</p><p><strong>Techcasting Focus.</strong> You use a wristpad as your techcasting focus.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Saboteur Practice",
+    "className": "Operative",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

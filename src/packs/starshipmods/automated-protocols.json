@@ -1,0 +1,30 @@
+{
+  "_id": "1ZTZpYedMlAzp3kx",
+  "name": "Automated Protocols",
+  "type": "starshipmod",
+  "img": "icons/svg/cog.svg",
+  "system": {
+    "description": {
+      "value": "<p>A suite of pre-programmed subroutines that let the ship's computer handle basic piloting, targeting, and damage-control tasks unattended, reducing (but not eliminating) the effective minimum crew complement.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 7000,
+      "denomination": "credits"
+    },
+    "category": "engineering",
+    "grade": 2,
+    "slots": 2,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

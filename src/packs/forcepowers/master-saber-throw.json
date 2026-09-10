@@ -1,0 +1,54 @@
+{
+  "_id": "vMYKcxAJDO2bVIf5",
+  "_key": "!items!vMYKcxAJDO2bVIf5",
+  "name": "Master Saber Throw",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You must be wielding at least one lightweapon or vibroweapon to cast this power, or it fails. You may throw two weapons, each carving a 90-foot-long, 5-foot-wide line from yourself, or throw a single weapon along one such line and redirect it into a second identical line within range. Every creature in an affected line must succeed on a Dexterity saving throw or take 5d8 damage of the weapon's type plus 5d8 force damage, halved on a success; a creature caught in more than one line is affected only once. The weapons then return to your hand.</p><p>Cast with a slot of 8th level or higher, both the weapon damage and the force damage increase by 1d8 per slot level beyond 7th.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 7",
+    "school": "universal",
+    "level": 7,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "5d8",
+          "type": "kinetic"
+        },
+        {
+          "formula": "5d8",
+          "type": "force"
+        }
+      ]
+    },
+    "save": {
+      "ability": "dex",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

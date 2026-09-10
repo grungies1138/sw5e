@@ -1,0 +1,30 @@
+{
+  "_id": "g1W2nFqUu1yZ7QIh",
+  "name": "Docking Bay",
+  "type": "starshipmod",
+  "img": "icons/svg/circle.svg",
+  "system": {
+    "description": {
+      "value": "<p>An internal hangar sized to store and service a small craft or a handful of speeders, complete with a repair gantry and fuel line.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.4 Modifications",
+    "price": {
+      "value": 12000,
+      "denomination": "credits"
+    },
+    "category": "suite",
+    "grade": 2,
+    "slots": 3,
+    "equipped": true,
+    "prerequisite": "",
+    "suiteCapacity": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

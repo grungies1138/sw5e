@@ -1,0 +1,50 @@
+{
+  "_id": "PCRGXYyYOrKrTSAb",
+  "_key": "!items!PCRGXYyYOrKrTSAb",
+  "name": "Carbonite Explosion",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You detonate a burst of cryogenic energy in a 60-foot-radius sphere centered on a point you can see within range. Each creature in the area makes a Constitution saving throw, taking 8d6 + 20 cold damage and becoming restrained for 1 minute, encased in carbonite, on a failure, or half as much damage and restrained only until the end of its next turn on a success.</p><p>As an action, a restrained creature may make a Strength check against your tech save DC, ending the restraint on itself on a success. A creature reduced to 0 hit points by this power dies instantly as its carbonite shell shatters.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, Level 9",
+    "school": "tech",
+    "level": 9,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 250,
+      "units": "ft"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "8d6 + 20",
+          "type": "cold"
+        }
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

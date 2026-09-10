@@ -1,0 +1,24 @@
+{
+  "_id": "sZdUmuC2vy1rRjKt",
+  "_key": "!items!sZdUmuC2vy1rRjKt",
+  "name": "Isolate",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>If you damage a creature while Saber Storm is active and that damage causes it to fail its Constitution save to maintain concentration on a force power, you can seize the escaping power. Until the end of your next turn, you choose whether you or that creature instead experiences the power's effects.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Manipulation",
+    "className": "Consular",
+    "level": 14
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "4Gs5hidewoGaNWMj",
+  "_key": "!items!4Gs5hidewoGaNWMj",
+  "name": "Kinetic Bulwark",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your Kinetic Ward can now protect an ally within 5 feet of you: when that creature is struck by a melee weapon attack, you may extend the ward to it, with any damage the ward doesn't reduce to 0 falling on the warded creature.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Tenacity",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

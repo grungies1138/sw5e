@@ -1,0 +1,24 @@
+{
+  "_id": "XTMnSzaMrCXqw6lg",
+  "_key": "!items!XTMnSzaMrCXqw6lg",
+  "name": "Human Shield",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Dragging along a grappled creature your size or smaller no longer costs you half your speed, and a grappled creature that would normally grant you half cover now grants three-quarters cover instead. When an attack hits you while you're grappling a creature, you can use your reaction to redirect that hit onto the creature you're holding.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Disabling Practice",
+    "className": "Operative",
+    "level": 9
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

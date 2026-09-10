@@ -1,0 +1,22 @@
+{
+  "_id": "arLC5iVHEaiQmp23",
+  "name": "Venture",
+  "type": "deploymentFeature",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you gain a rank in the Coordinator deployment (starting with this one), you may select a Venture for which you qualify, reflecting a trained habit of leadership under fire.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Coordinator",
+    "deployment": "coordinator",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

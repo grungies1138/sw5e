@@ -1,0 +1,24 @@
+{
+  "_id": "VnYG93V5lNTdmkdb",
+  "_key": "!items!VnYG93V5lNTdmkdb",
+  "name": "Invasive Presence",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your spirit gains the power to slip into another being. As an action, it may touch a creature within 5 feet of itself, forcing a Wisdom saving throw against your universal force save DC; the target has advantage on this save if it is currently fighting you or your allies.</p><p>Should the save fail, your spirit takes up residence within that creature's body for 1 minute. While possessed, the creature has disadvantage on the first attack roll, ability check, or saving throw it makes each of its turns, and it repeats the saving throw at the end of each of its turns — success expels the spirit and grants immunity to this feature for the next 24 hours.</p><p>You must complete a long rest before using this feature again.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Path of Communion",
+    "className": "Sentinel",
+    "level": 7
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

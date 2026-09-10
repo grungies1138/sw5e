@@ -1,0 +1,24 @@
+{
+  "_id": "Ir8jGbwk5yiXkO9X",
+  "_key": "!items!Ir8jGbwk5yiXkO9X",
+  "name": "Steel Hands Form",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, you enter a second stance—optionally entering your Forredari Stance in the same action—lasting 1 minute and granting the following while active:</p><ul><li><strong>Charging Wampa.</strong> Once per round, being forced to save against a force power increases your speed by 10 feet until the end of your next turn.</li><li><strong>Nexu Grin.</strong> When a creature within 10 feet of you makes a force attack roll against you or an ally by casting a force power, you may spend 1 focus point as a reaction to impose disadvantage on that roll; if it still misses and the higher of the two dice would also have missed, the caster can't cast that power again until it completes a short or long rest.</li><li><strong>Screaming Squill.</strong> Once per turn, if a creature you hit is forced to make a Constitution save to maintain concentration on a force power, the DC equals your focus save DC instead, unless the normal DC would be higher.</li></ul><p>Being incapacitated or dying ends these effects early. You can use this feature once between long rests; once spent, you may instead pay 1 focus point to use it again, though your maximum focus points then drop by 1 until your next long rest.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Teras Kasi Order",
+    "className": "Monk",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

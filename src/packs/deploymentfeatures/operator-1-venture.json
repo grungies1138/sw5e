@@ -1,0 +1,22 @@
+{
+  "_id": "Tm5CtXLA4nM7jozV",
+  "name": "Venture",
+  "type": "deploymentFeature",
+  "img": "icons/svg/eye.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you gain a rank in the Operator deployment (starting with this one), you may select a Venture for which you qualify, sharpening some facet of your sensor and countermeasure work.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Operator",
+    "deployment": "operator",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

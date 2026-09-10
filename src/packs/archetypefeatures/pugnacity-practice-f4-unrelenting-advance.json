@@ -1,0 +1,24 @@
+{
+  "_id": "oWS43m4x76oCAb35",
+  "_key": "!items!oWS43m4x76oCAb35",
+  "name": "Unrelenting Advance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on ability checks and saving throws made against effects that would grapple or restrain you. If you're grappled or restrained and could spend your action trying to break free, you can spend a bonus action instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Pugnacity Practice",
+    "className": "Operative",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "saTiKNFqrRFDeV6o",
+  "_key": "!items!saTiKNFqrRFDeV6o",
+  "name": "Regenerative Shielding",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Whenever an enemy's effect forces you to make a saving throw and you succeed, your Personal Barrier recovers hit points equal to your Intelligence modifier.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Bulwark Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

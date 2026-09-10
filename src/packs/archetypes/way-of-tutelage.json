@@ -1,0 +1,22 @@
+{
+  "_id": "MKBhPBaE9M5iEga5",
+  "_key": "!items!MKBhPBaE9M5iEga5",
+  "name": "Way of Tutelage",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Wisdom shared outlasts wisdom kept. The Way of Tutelage draws consulars who see partnership as strength in itself, taking on an apprentice and pouring their understanding of the Force into a bond that grows sturdier with every trial faced together.</p><p>What begins as simple companionship becomes a true union: powers meant for one now touch both, protection meant for one now shields both, and by the end of their training the student stands ready to lead in the master's place, if only for a moment.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Consular"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "7NkMoTn6eNiaBzFI",
+  "_key": "!items!7NkMoTn6eNiaBzFI",
+  "name": "Modified Biochemist's Pack",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Over a long rest, with a biochemist's kit, a poisoner's kit, and raw materials on hand, you fuse both kits into a portable laboratory. The pack becomes an enhanced item usable only by you, requires attunement, and serves as a tech focus for your tech powers while attuned. It starts with 4 modification slots, gaining more at higher levels per the engineer table's Modification Slots column. Each modification beyond your proficiency bonus reduces your tech point maximum by 1. During a long rest you may install, swap, or remove modifications up to your Intelligence modifier (minimum one), and any effect requiring a save uses your tech save DC.</p><p>The pack also comes with a chemical distributor offering three mixtures — corrosive, invigorating, and noxious. As an action, you can trigger it against a creature within 30 feet, with the effect determined by the mixture chosen.</p><p><strong>Corrosive Mixture.</strong> The target makes a Dexterity save or takes 1d6 plus your Intelligence modifier acid damage. This damage grows to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.</p><p><strong>Invigorating Mixture.</strong> The target gains 1d6 plus your Intelligence modifier temporary hit points, lasting until the end of your next turn. This amount grows to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.</p><p><strong>Noxious Mixture.</strong> The target makes a Constitution save or takes 1d6 plus your Intelligence modifier poison damage. This damage grows to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Biochem Engineering",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

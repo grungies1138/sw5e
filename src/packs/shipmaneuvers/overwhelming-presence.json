@@ -1,0 +1,25 @@
+{
+  "_id": "OJL0fvTQ65RGT6ec",
+  "name": "Overwhelming Presence",
+  "type": "shipmaneuver",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": {
+      "value": "<p>As an action, expend a Power Die from the Comms pool and roll it. Make a Charisma (Impress) or Charisma (Menace) check against one creature or crew you can communicate with within range, adding the result, contested by the target's Wisdom (Insight) check.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Coordinator Collaborations",
+    "deployment": "coordinator",
+    "rankRequired": 1,
+    "activation": "action",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

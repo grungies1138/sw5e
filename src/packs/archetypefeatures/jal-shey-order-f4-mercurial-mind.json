@@ -1,0 +1,24 @@
+{
+  "_id": "Y3fbZSa1LzNT1BeM",
+  "_key": "!items!Y3fbZSa1LzNT1BeM",
+  "name": "Mercurial Mind",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, if you have already used your reaction, you may spend 1 focus point to take one more—though you still may not take more than a single reaction on any given turn.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Jal Shey Order",
+    "className": "Monk",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

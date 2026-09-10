@@ -1,0 +1,50 @@
+{
+  "_id": "uFFxNZUVl8ZiAFwp",
+  "_key": "!items!uFFxNZUVl8ZiAFwp",
+  "name": "Pheromone Burst",
+  "type": "power",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "description": {
+      "value": "<p>You release a cloud of mood-altering pheromones in a 5-foot sphere around yourself. Every other creature within range must succeed on a Charisma saving throw or take 1d4 poison damage and become frightened of you until the start of its next turn; a creature immune to being poisoned is likewise immune to the fright.</p><p>The damage increases to 2d4 at 5th level, 3d4 at 11th level, and 4d4 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Tech Powers, At-Will",
+    "school": "tech",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "self"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": true,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d4",
+          "type": "poison"
+        }
+      ]
+    },
+    "save": {
+      "ability": "cha",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

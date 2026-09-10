@@ -1,0 +1,24 @@
+{
+  "_id": "IrUFE9gB0oAIbLNh",
+  "_key": "!items!IrUFE9gB0oAIbLNh",
+  "name": "Master of Ordnance",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can spend two uses of Modular Munitions on a single tech power to apply two empowerment effects at once, instead of one. You also gain three new empowerment options:</p><ul><li><strong>Confusion.</strong> Each creature damaged must make a Charisma saving throw; on a failure, on its next turn it must use its action to make a melee attack against a randomly chosen creature within its reach, or do nothing if none is in reach.</li><li><strong>Knockout.</strong> Each creature damaged must succeed on a Strength saving throw or fall prone.</li><li><strong>Static.</strong> Each creature damaged must succeed on an Intelligence saving throw or become shocked until the start of your next turn.</li></ul><p>Additionally, spending 1 tech point to apply an empowerment effect no longer reduces your maximum tech points.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

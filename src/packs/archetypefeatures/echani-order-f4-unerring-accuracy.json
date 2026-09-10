@@ -1,0 +1,24 @@
+{
+  "_id": "nSPmBjD6uDwjuPux",
+  "_key": "!items!nSPmBjD6uDwjuPux",
+  "name": "Unerring Accuracy",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, if an attack roll you make on your turn with a monk weapon misses, you may reroll it.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Echani Order",
+    "className": "Monk",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

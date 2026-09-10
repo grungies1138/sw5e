@@ -1,0 +1,24 @@
+{
+  "_id": "1lwTDcng3yG0EtCg",
+  "_key": "!items!1lwTDcng3yG0EtCg",
+  "name": "Armstech's Salvo",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your Targeting Matrix would apply to a power that could hit more than one creature, you can instead attack every creature that would have been in the power's area, rolling a separate attack against each. Any target you hit suffers the effects of a failed save.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Armstech Engineering",
+    "className": "Engineer",
+    "level": 18
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

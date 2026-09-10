@@ -1,0 +1,22 @@
+{
+  "_id": "YcdMqBTR1hbrm1zk",
+  "_key": "!items!YcdMqBTR1hbrm1zk",
+  "name": "Artillerist Technique (Companion)",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Not every artillery specialist works alone; some prefer to bring their own gun crew. This variant of the Artillerist Technique channels a scout's engineering talent into building and bonding with a dedicated turret companion, letting them coordinate devastating firepower rather than deliver it single-handedly.</p><p>Where the solitary Artillerist relies on delayed detonations, this scout invests in a mechanical partner that fights, shields, and strikes alongside them, growing more capable and more dangerous the longer the bond endures. Together, scout and turret turn any battlefield into a kill zone.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Scout"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

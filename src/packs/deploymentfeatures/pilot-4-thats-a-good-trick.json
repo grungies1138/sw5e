@@ -1,0 +1,22 @@
+{
+  "_id": "T5YaN4JyDsZ0k0tv",
+  "name": "That's a Good Trick",
+  "type": "deploymentFeature",
+  "img": "icons/svg/wing.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per long rest, as a reaction when a creature you can see makes an attack roll, you can impose disadvantage on that attack roll by executing an unpredictable evasive maneuver.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.2 Deployments — Pilot",
+    "deployment": "pilot",
+    "rank": 4
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

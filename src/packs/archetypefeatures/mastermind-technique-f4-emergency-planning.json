@@ -1,0 +1,24 @@
+{
+  "_id": "NgHe0jxNRSPG7qPD",
+  "_key": "!items!NgHe0jxNRSPG7qPD",
+  "name": "Emergency Planning",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You've learned to draft a plan and see it through. As an action, choose up to six creatures (yourself included) that you can see within 60 feet, assigning each one a category, ability check, attack roll, or saving throw. Each gains an Emergency Planning die (a d8).</p><p>Within the next 10 minutes, each creature may, once, add its Emergency Planning die to a roll of the assigned category; it can wait until after rolling the d20 to decide, but must choose before the outcome is announced. The die is spent once used, and a creature can hold only one such die at a time.</p><p>Once you use this feature, you must finish a short or long rest before using it again. The die grows to 1d10 at 13th level and 1d12 at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Mastermind Technique",
+    "className": "Scout",
+    "level": 11
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

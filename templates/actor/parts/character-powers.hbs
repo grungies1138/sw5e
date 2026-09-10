@@ -1,0 +1,43 @@
+<section class="tab powers {{#if tabs.powers.active}}active{{/if}}" data-tab="powers" data-group="primary">
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.ForcePowers'}} ({{system.resources.force.value}}/{{system.resources.force.max}} {{sw5eLabel 'SW5E.PointsRecoverLong'}} — {{system.resources.force.known.value}}/{{system.resources.force.known.max}} {{sw5eLabel 'SW5E.Known'}})
+      <a data-action="itemCreate" data-type="power"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.forcePowers as |i|}}
+      <li>
+        <span class="level">{{i.system.level}}</span>
+        <span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span>
+        <span class="school">{{sw5eLabel (lookup ../config.powerSchools i.system.school)}}</span>
+        <a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a>
+        <a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a>
+      </li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.TechPowers'}} ({{system.resources.tech.value}}/{{system.resources.tech.max}} {{sw5eLabel 'SW5E.PointsRecoverShort'}} — {{system.resources.tech.known.value}}/{{system.resources.tech.known.max}} {{sw5eLabel 'SW5E.Known'}})
+      <a data-action="itemCreate" data-type="power"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.techPowers as |i|}}
+      <li>
+        <span class="level">{{i.system.level}}</span>
+        <span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span>
+        <a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a>
+        <a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a>
+      </li>
+      {{/each}}
+    </ul>
+  </fieldset>
+  <fieldset>
+    <legend>{{sw5eLabel 'SW5E.Maneuvers'}} ({{system.resources.superiority.value}}/{{system.resources.superiority.max}} {{system.resources.superiority.die}} — {{system.resources.superiority.known.value}}/{{system.resources.superiority.known.max}} {{sw5eLabel 'SW5E.Known'}})
+      <a data-action="itemCreate" data-type="maneuver"><i class="fas fa-plus"></i></a>
+    </legend>
+    <ul class="item-list">
+      {{#each items.maneuvers as |i|}}
+      <li><span class="name" data-action="itemRoll" data-item-id="{{i.id}}">{{i.name}}</span><a data-action="itemEdit" data-item-id="{{i.id}}"><i class="fas fa-edit"></i></a><a data-action="itemDelete" data-item-id="{{i.id}}"><i class="fas fa-trash"></i></a></li>
+      {{/each}}
+    </ul>
+  </fieldset>
+</section>

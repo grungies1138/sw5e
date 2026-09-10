@@ -1,0 +1,29 @@
+{
+  "_id": "cLZASbs75btD0C8P",
+  "name": "Enhanced Blaster Scope",
+  "type": "gear",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "description": {
+      "value": "<p><strong>Enhanced Item.</strong> This precision-milled scope attachment fits any blaster with a rail mount. Its targeting computer compensates for range and drop automatically: while attuned, you ignore the disadvantage normally imposed by attacking beyond a weapon's normal range, up to its long range.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 500,
+      "denomination": "credits"
+    },
+    "weight": 0.5,
+    "quantity": 1,
+    "isEnhanced": true,
+    "rarity": "standard",
+    "attuned": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

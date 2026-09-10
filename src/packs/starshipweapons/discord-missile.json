@@ -1,0 +1,50 @@
+{
+  "_id": "d6WM9IP4aqzA3OkF",
+  "name": "Discord Missile",
+  "type": "starshipweapon",
+  "img": "icons/svg/radiation.svg",
+  "system": {
+    "description": {
+      "value": "<p>An exotic ion-warhead missile whose payload is tuned to cascade through a target's power grid, inflicting an additional level of System Damage on any hit that would otherwise reduce the target's shields to nothing. Rare and expensive to manufacture.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.5 Equipment",
+    "price": {
+      "value": 3800,
+      "denomination": "credits"
+    },
+    "category": "tertiary",
+    "hardpoint": "fixed",
+    "equipped": true,
+    "attackBonus": 0,
+    "damage": {
+      "parts": [
+        {
+          "formula": "2d8",
+          "type": "ion"
+        }
+      ]
+    },
+    "range": {
+      "value": 2500,
+      "long": 5000,
+      "units": "ft"
+    },
+    "properties": [
+      "ion",
+      "spc"
+    ],
+    "ammo": {
+      "value": 4,
+      "max": 4
+    },
+    "constitution": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

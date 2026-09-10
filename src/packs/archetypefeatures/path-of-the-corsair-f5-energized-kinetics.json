@@ -1,0 +1,24 @@
+{
+  "_id": "8o0i7c9Tq8O5Vehz",
+  "_key": "!items!8o0i7c9Tq8O5Vehz",
+  "name": "Energized Kinetics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Once per turn, when you deal damage through a Force-Empowered Detonator or your Double Strike feature, you may add extra damage equal to your Kinetic Combat die, choosing force, lightning, necrotic, or psychic as the damage type.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Path of the Corsair",
+    "className": "Sentinel",
+    "level": 13
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

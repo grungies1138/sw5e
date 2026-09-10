@@ -1,0 +1,22 @@
+{
+  "_id": "qtMM4Y3VXG9Sk4MP",
+  "_key": "!items!qtMM4Y3VXG9Sk4MP",
+  "name": "Physician Pursuit",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Physicians turn their scholarly instincts toward flesh and bone, treating anatomy and biochemistry as sciences to be mastered rather than mysteries to endure. What begins as textbook study becomes, in their hands, the difference between a squad's survival and its slow collapse.</p><p>In the field, this expertise sharpens into something almost surgical: healing delivered with the same precision as a blade finds a weak point in armor. A Physician reads a wound as fluently as a diagnosis chart, mending allies and exploiting the same fragile places in an enemy.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Scholar"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

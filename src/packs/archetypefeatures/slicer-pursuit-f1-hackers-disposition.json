@@ -1,0 +1,24 @@
+{
+  "_id": "aWnz5mUzpgdMsRkd",
+  "_key": "!items!aWnz5mUzpgdMsRkd",
+  "name": "Hacker's Disposition",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with slicer's kits and in the Technology skill; checks made with either are never rolled at disadvantage.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Slicer Pursuit",
+    "className": "Scholar",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

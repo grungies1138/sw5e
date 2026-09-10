@@ -1,0 +1,24 @@
+{
+  "_id": "9iWjOaWC7gNdQJnL",
+  "_key": "!items!9iWjOaWC7gNdQJnL",
+  "name": "Inquisitor's Wrath",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You can cast force suppression and sever force at 3rd level against the creature marked by your Ranger's Quarry without spending tech points; if it is within 30 feet, you have advantage on the forcecasting ability check for these powers. You can use this five times, gaining one more use at 17th level, and regain all uses on finishing a long rest. This feature's radius grows to 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Inquisitor Technique",
+    "className": "Scout",
+    "level": 15
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

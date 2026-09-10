@@ -1,0 +1,45 @@
+{
+  "_id": "gT86qulpp7pJLrce",
+  "_key": "!items!gT86qulpp7pJLrce",
+  "name": "Force Concealment",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>By touch, you mask the Force aura of a willing creature or of an unattended object, causing force-based detection to read it falsely. Choose one or both effects below when you cast the power; the chosen effect(s) last for the duration, but if you cast this power on the same target with the same effect(s) every day for 30 days, it becomes permanent until dispelled.</p><p><em>False Aura.</em> You alter how the target registers to Force-detection powers and effects, such as sense force. A Force-inert target can be made to appear as though it radiates a Force aura, or a Force-active target can be made to appear inert; when used on an object, you may make this false reading apparent to anyone who handles it.</p><p><em>Cloak.</em> You may disguise the target's apparent alignment within the Force to the force sight power, letting a creature deeply immersed in the dark side appear to have only faint, light-leaning Force strength, or the reverse.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Universal Powers, Level 2",
+    "school": "universal",
+    "level": 2,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": 0,
+      "units": "touch"
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

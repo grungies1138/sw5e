@@ -1,0 +1,22 @@
+{
+  "_id": "TFttKHfWAFHEfXR9",
+  "_key": "!items!TFttKHfWAFHEfXR9",
+  "name": "Performance Practice",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Performance Practice operatives learned to fight the way they learned to dance, by feeling the rhythm of the moment and moving before conscious thought catches up. A blade or blaster is just another instrument, and combat itself becomes a routine to be performed flawlessly.</p><p>Audiences find them mesmerizing; opponents find them impossible to pin down. Every spin and step serves double duty, equally at home closing a show or closing the distance to a target's throat.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Operative"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "phN158F7VzU997SR",
+  "_key": "!items!phN158F7VzU997SR",
+  "name": "Form Basics",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn either the Vonil or Ishu lightsaber form, found in the Lightsaber Forms section of the Expanded Content Customization Options document. If you already know the one you pick, choose a different lightsaber form instead.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Vonil/Ishu Form",
+    "className": "Guardian",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

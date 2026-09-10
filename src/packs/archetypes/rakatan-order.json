@@ -1,0 +1,22 @@
+{
+  "_id": "gTp6tVKKdzX93DiB",
+  "_key": "!items!gTp6tVKKdzX93DiB",
+  "name": "Rakatan Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Rakatan monks believe true harmony emerges from the union of self and machine, using technology to carry their bodies past their natural limits.</p><p>Where other orders look inward or to the Force, these disciples turn to schematics and circuitry, translating raw data into effects as versatile as any power drawn from mysticism, all channeled through a trusted wristpad.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "eWMcRjtOSun1PtCZ",
+  "_key": "!items!eWMcRjtOSun1PtCZ",
+  "name": "Potent Integration",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>When your droid makes an attack roll, you can use your reaction and spend one use of your Potent Aptitude to boost it, adding the die's result to both the attack roll and, if it hits, the damage roll.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Astrotech Engineering (Companion)",
+    "className": "Engineer",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

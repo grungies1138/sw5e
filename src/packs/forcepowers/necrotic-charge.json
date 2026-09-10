@@ -1,0 +1,50 @@
+{
+  "_id": "JNg0FmYJfVsA8Ohc",
+  "_key": "!items!JNg0FmYJfVsA8Ohc",
+  "name": "Necrotic Charge",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your strike is laced with dark side energy. As part of the action you use to cast this power, you make a melee weapon attack against a creature within your reach — if you don't, the power is wasted. If your attack hits, the target suffers the weapon's normal effects, and you may inflict up to 1d8 additional necrotic damage on it, an amount you also suffer yourself. This self-inflicted harm cannot be lessened or negated by any means.</p><p>The necrotic damage grows as you advance: at 5th level the weapon attack itself gains an extra 1d8 necrotic damage and the optional secondary damage rises to 2d8; both dice increase again at 11th and 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "1",
+      "units": "round"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "necrotic"
+        }
+      ]
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

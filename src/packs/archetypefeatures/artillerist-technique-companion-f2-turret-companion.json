@@ -1,0 +1,24 @@
+{
+  "_id": "PUVM6xP6iiCYjlnt",
+  "_key": "!items!PUVM6xP6iiCYjlnt",
+  "name": "Turret Companion",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You learn to build and bond with a portable turret companion, created following the rules for companions in the Customization Options document for Expanded Content; you must have artillerist's implements to build it.</p><p>Beyond its usual traits and features, your bonded turret gains these additional benefits:</p><ul><li>It is a valid target for the tracker droid interface tech power.</li><li>It gains two extra traits, plus one more at 11th level. Each trait beyond your proficiency bonus reduces your tech point maximum by 1. During a long rest, you may install, swap, or remove a number of traits equal to half your Intelligence modifier (rounded up, minimum 1).</li><li>You may let your turret make a weapon attack in place of one you would make.</li></ul><p>Additionally, while your turret is bonded, within 10 feet of you, and marked by your tracker droid interface tech power, you can cast a tech power with a range of 5 feet or more as though you occupied your turret's space, with the range extended to at least 10 feet. Both this range and the earlier 10-foot proximity requirement grow to 30 feet at 11th level and 60 feet at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Artillerist Technique (Companion)",
+    "className": "Scout",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

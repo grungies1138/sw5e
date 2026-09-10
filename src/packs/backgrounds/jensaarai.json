@@ -1,0 +1,47 @@
+{
+  "_id": "UIBmSWEoXsPOdPCp",
+  "_key": "!items!UIBmSWEoXsPOdPCp",
+  "name": "Jensaarai",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are Jensaarai, a Force tradition that rejects both the Jedi's passivity and the Sith's malevolence in favor of something more pragmatic. You wield a lightsaber like either order, but your true mark of mastery is the suit of armor you crafted yourself, unique to you and often shaped after an animal you feel a kinship with.</p><p>You train in the dark side when the situation calls for it without letting it consume you, walking a line neither purely heroic nor villainous &mdash; and you're just as comfortable reaching for a blaster or a vibroblade as you are a lightsaber.</p>",
+      "chat": ""
+    },
+    "source": "EC Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "ins",
+        "itm",
+        "lor",
+        "prc"
+      ]
+    },
+    "toolProficiencies": [
+      "Armormech's implements"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Empathic",
+        "Threatening",
+        "Loremaster",
+        "Perceptive",
+        "Crafter",
+        "Linguist",
+        "Alert",
+        "Observant"
+      ]
+    },
+    "equipment": "A set of common clothes including a robe, a sturdy knife, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

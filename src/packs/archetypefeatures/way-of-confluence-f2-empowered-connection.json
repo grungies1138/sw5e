@@ -1,0 +1,24 @@
+{
+  "_id": "MTXWLKM8pCSzlQ6c",
+  "_key": "!items!MTXWLKM8pCSzlQ6c",
+  "name": "Empowered Connection",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>As long as you currently have temporary hit points, you can add half your Wisdom or Charisma modifier (your choice, minimum of 1) to any damage or healing dealt by your force powers, provided that modifier isn't already part of the total.</p>",
+      "chat": ""
+    },
+    "source": "EC Archetypes",
+    "archetypeName": "Way of Confluence",
+    "className": "Consular",
+    "level": 6
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

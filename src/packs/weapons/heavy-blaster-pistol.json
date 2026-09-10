@@ -1,0 +1,55 @@
+{
+  "_id": "E2YhEOwgLHBCKQIO",
+  "name": "Heavy Blaster Pistol",
+  "type": "weapon",
+  "img": "icons/svg/pistol.svg",
+  "system": {
+    "description": {
+      "value": "<p>An oversized pistol with a widened barrel and a beefed-up power cell, hitting harder than a standard sidearm at the cost of a fiercer kick and a heavier housing.</p>",
+      "chat": ""
+    },
+    "source": "",
+    "price": {
+      "value": 450,
+      "denomination": "credits"
+    },
+    "weight": 2,
+    "quantity": 1,
+    "equipped": false,
+    "proficient": true,
+    "category": "blaster",
+    "proficiencyTier": "martial",
+    "actionType": "rwak",
+    "ability": "",
+    "attackBonus": 0,
+    "critThreshold": 20,
+    "damage": {
+      "parts": [
+        {
+          "formula": "1d8",
+          "type": "energy"
+        }
+      ],
+      "versatile": ""
+    },
+    "range": {
+      "value": 30,
+      "long": 90,
+      "units": "ft"
+    },
+    "properties": [
+      "heavy"
+    ],
+    "ammo": {
+      "type": "power cell",
+      "value": null
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

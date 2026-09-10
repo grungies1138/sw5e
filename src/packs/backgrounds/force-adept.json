@@ -1,0 +1,47 @@
+{
+  "_id": "eeW8aMeyBiK5HxFG",
+  "_key": "!items!eeW8aMeyBiK5HxFG",
+  "name": "Force Adept",
+  "type": "background",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>You are keenly attuned to the Force, whether or not you have ever had the training to name what you feel. Perhaps you have unnervingly quick reflexes, an intuitive read on the people around you, or a knack for being in exactly the right place at the right time &mdash; small things, easy to write off, that have quietly shaped your life.</p><p>Something may have woken that sensitivity fully: a brush with another Force-user, or a relic steeped in the Force's currents. Whatever the cause, you have learned to trust the quiet nudges the galaxy gives you.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.4 Backgrounds",
+    "skillProficiencies": {
+      "number": 2,
+      "options": [
+        "dec",
+        "ins",
+        "prc",
+        "per"
+      ]
+    },
+    "toolProficiencies": [
+      "Two of your choice of artisan's implements, gaming sets, or musical instruments"
+    ],
+    "grantedFeat": {
+      "number": 1,
+      "options": [
+        "Silver-Tongued",
+        "Empathic",
+        "Perceptive",
+        "Charmer",
+        "Crafter",
+        "Competitor",
+        "Entertainer",
+        "Force-Sensitive"
+      ]
+    },
+    "equipment": "A set of common clothes, a sturdy knife, and a belt pouch containing 150 credits."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

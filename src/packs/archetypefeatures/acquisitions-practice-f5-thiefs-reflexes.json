@@ -1,0 +1,24 @@
+{
+  "_id": "cDkv9aDXk17TPmFW",
+  "_key": "!items!cDkv9aDXk17TPmFW",
+  "name": "Thief's Reflexes",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>In the opening round of a fight, you act twice: once on your normal initiative count, and again ten points lower. This doesn't work if you were surprised.</p><p>You've also learned to turn a fall into a weapon: whenever you drop at least 50 feet and come down within 5 feet of an enemy, you can use your reaction to make one weapon attack against it. If that attack qualifies as a Sneak Attack, you add three extra weapon damage dice to it, and the target must succeed on a Dexterity save against your Deft Hands save DC or be knocked prone.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Acquisitions Practice",
+    "className": "Operative",
+    "level": 17
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "yBJ7oJ88buQjHrdA",
+  "_key": "!items!yBJ7oJ88buQjHrdA",
+  "name": "Echani Order",
+  "type": "archetype",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>The Echani Order treats weapon and warrior as a single instrument, drilling until blade and body move as one. What began centuries ago as a swordsman's tradition has since broadened to embrace a far wider arsenal of arms.</p><p>Its disciples do not merely wield their chosen tools—they think through them, reacting to danger and opportunity with the same reflexive certainty other monks reserve for their bare hands.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "className": "Monk"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

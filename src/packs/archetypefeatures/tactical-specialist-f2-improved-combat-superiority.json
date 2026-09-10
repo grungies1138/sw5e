@@ -1,0 +1,24 @@
+{
+  "_id": "4wNQqKXVy0KUyyXm",
+  "_key": "!items!4wNQqKXVy0KUyyXm",
+  "name": "Improved Combat Superiority",
+  "type": "archetypeFeature",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your tactical acumen sharpens, boosting your Combat Superiority.</p><p><strong>Improved Maneuvers.</strong> You start out knowing four maneuvers rather than two, and gain further maneuvers as you level up, per the Maneuvers Known column of the Tactical Superiority table.</p><p><strong>Improved Superiority Dice.</strong> Your pool starts at four superiority dice instead of two, growing at higher levels per the Superiority Dice Quantity column of the same table.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.3 Classes — Archetypes",
+    "archetypeName": "Tactical Specialist",
+    "className": "Fighter",
+    "level": 3
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

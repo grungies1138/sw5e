@@ -1,0 +1,25 @@
+{
+  "_id": "aZyTGqdmHQmHzQrF",
+  "name": "I Need More Power!",
+  "type": "shipmaneuver",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a bonus action, expend a Power Die from the Shields pool and roll it. Add the result to the Shield Points regained by the next Regenerate Shields action or passive shield regeneration your ship benefits from this round.</p>",
+      "chat": ""
+    },
+    "source": "SotG Ch.6 Customization — Technician Stratagems",
+    "deployment": "technician",
+    "rankRequired": 1,
+    "activation": "bonus",
+    "expendsPowerDie": true,
+    "formula": "@powerDie"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

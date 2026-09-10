@@ -1,0 +1,45 @@
+{
+  "_id": "j72CV1uRuk8FGfhK",
+  "_key": "!items!j72CV1uRuk8FGfhK",
+  "name": "Lightning Charge",
+  "type": "power",
+  "img": "icons/svg/light.svg",
+  "system": {
+    "description": {
+      "value": "<p>You channel disruptive force lightning into your weapon. As part of casting this power, you must make a melee weapon attack against a creature within your reach, or the power fails. On a hit, the attack deals its normal damage, and the lightning arcs to a second creature of your choice within 5 feet of the target, dealing lightning damage equal to your forcecasting ability modifier.</p><p>At 5th level, the melee attack instead deals an extra 1d8 lightning damage, and the arcing damage becomes 1d8 plus your forcecasting ability modifier; both rolls grow by an additional 1d8 at 11th level and again at 17th level.</p>",
+      "chat": ""
+    },
+    "source": "PHB Ch.14 Casting — Dark Side Powers, At-Will",
+    "school": "darkside",
+    "level": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1
+    },
+    "range": {
+      "value": null,
+      "units": "spec"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "concentration": false,
+    "requiresFocus": false,
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "scaling": "power"
+    },
+    "prepared": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}
