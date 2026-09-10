@@ -1,5 +1,6 @@
 {
   "_id": "RimoCq81L92RWjIR",
+  "_key": "!items!RimoCq81L92RWjIR",
   "name": "Engineer",
   "type": "class",
   "img": "icons/svg/cog.svg",
@@ -12,6 +13,7 @@
     "levels": 1,
     "hitDice": "d8",
     "casterProgression": "full",
+    "castingSchool": "tech",
     "castingAbility": "int",
     "primaryAbility": [
       "int"

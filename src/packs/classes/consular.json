@@ -1,5 +1,6 @@
 {
   "_id": "va4UDvqpih65VyMm",
+  "_key": "!items!va4UDvqpih65VyMm",
   "name": "Consular",
   "type": "class",
   "img": "icons/svg/aura.svg",
@@ -12,6 +13,7 @@
     "levels": 1,
     "hitDice": "d6",
     "casterProgression": "full",
+    "castingSchool": "force",
     "castingAbility": "wis",
     "primaryAbility": [
       "wis",

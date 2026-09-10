@@ -1,5 +1,6 @@
 {
   "_id": "kgRQK66mNyK4VTEs",
+  "_key": "!items!kgRQK66mNyK4VTEs",
   "name": "Scholar",
   "type": "class",
   "img": "icons/svg/book.svg",
@@ -11,7 +12,8 @@
     "source": "PHB Ch.3 Classes",
     "levels": 1,
     "hitDice": "d6",
-    "casterProgression": "maneuver",
+    "casterProgression": "threequarters",
+    "castingSchool": "tech",
     "castingAbility": "int",
     "primaryAbility": [
       "int"

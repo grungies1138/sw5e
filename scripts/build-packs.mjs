@@ -23,25 +23,53 @@ function randomId(length = 16) {
   return id;
 }
 
-/** Walk every *.json file directly inside a pack source directory and ensure it has a stable `_id`. */
-function assignIds(dir) {
+// Foundry's LevelDB compendium keys are prefixed by the collection name for
+// the pack's document type (e.g. "!items!<id>"), not the type itself --
+// this is the standard, version-stable mapping (see CONST.COMPENDIUM_DOCUMENT_TYPES
+// in Foundry's own source). Extend this if a future pack uses another type.
+const COLLECTION_BY_DOC_TYPE = {
+  Actor: "actors", Item: "items", JournalEntry: "journal", Scene: "scenes",
+  RollTable: "tables", Macro: "macros", Playlist: "playlists", Cards: "cards",
+  Adventure: "adventures"
+};
+
+/**
+ * Walk every *.json file directly inside a pack source directory and ensure
+ * it has a stable `_id` AND a `_key` ("!<collection>!<id>"). `compilePack`
+ * silently SKIPS any document missing `_key` with no warning or error --
+ * every source doc in this project was hand-authored without one, so a
+ * naive first run of this script silently produced empty compendiums for
+ * every pack except the handful whose files had already picked up a `_key`
+ * from some earlier export. Assigning it here, once, permanently fixes the
+ * source files the same way `_id` assignment already does.
+ */
+function assignIds(dir, docType) {
   const used = new Set();
+  const collection = COLLECTION_BY_DOC_TYPE[docType];
+  if (!collection) throw new Error(`Unknown compendium document type "${docType}" for pack at ${dir}`);
   const files = fs.readdirSync(dir).filter(f => f.endsWith(".json"));
   let assigned = 0;
   for (const file of files) {
     const full = path.join(dir, file);
     const raw = fs.readFileSync(full, "utf8");
     const doc = JSON.parse(raw);
+    let changed = false;
     if (!doc._id) {
       let id = randomId();
       while (used.has(id)) id = randomId();
       doc._id = id;
-      used.add(id);
+      changed = true;
+    }
+    used.add(doc._id);
+    const expectedKey = `!${collection}!${doc._id}`;
+    if (doc._key !== expectedKey) {
+      doc._key = expectedKey;
+      changed = true;
+    }
+    if (changed) {
       assigned++;
-      const ordered = { _id: doc._id, ...doc };
+      const ordered = { _id: doc._id, _key: doc._key, ...doc };
       fs.writeFileSync(full, JSON.stringify(ordered, null, 2) + "\n");
-    } else {
-      used.add(doc._id);
     }
   }
   return { total: files.length, assigned };
@@ -54,6 +82,9 @@ async function main() {
   }
   fs.mkdirSync(OUT_PACKS, { recursive: true });
 
+  const systemJson = JSON.parse(fs.readFileSync(path.join(ROOT, "system.json"), "utf8"));
+  const docTypeByPack = new Map(systemJson.packs.map(p => [p.name, p.type]));
+
   const dirs = fs.readdirSync(SRC_PACKS, { withFileTypes: true })
     .filter(d => d.isDirectory() && !d.name.startsWith("_"))
     .map(d => d.name);
@@ -61,9 +92,11 @@ async function main() {
   console.log(`Found ${dirs.length} pack source directories.`);
 
   for (const name of dirs) {
+    const docType = docTypeByPack.get(name);
+    if (!docType) throw new Error(`No entry for pack "${name}" found in system.json's "packs" list`);
     const srcDir = path.join(SRC_PACKS, name);
-    const { total, assigned } = assignIds(srcDir);
-    console.log(`  [${name}] ${total} documents (${assigned} newly assigned ids)`);
+    const { total, assigned } = assignIds(srcDir, docType);
+    console.log(`  [${name}] ${total} documents (${assigned} newly assigned ids/keys)`);
 
     const outDir = path.join(OUT_PACKS, name);
     fs.rmSync(outDir, { recursive: true, force: true });

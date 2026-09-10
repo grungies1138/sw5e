@@ -1,5 +1,6 @@
 {
   "_id": "0UYYZTD8lSXshxXh",
+  "_key": "!items!0UYYZTD8lSXshxXh",
   "name": "Scout",
   "type": "class",
   "img": "icons/svg/target.svg",
@@ -12,6 +13,7 @@
     "levels": 1,
     "hitDice": "d8",
     "casterProgression": "half",
+    "castingSchool": "tech",
     "castingAbility": "int",
     "primaryAbility": [
       "dex",

@@ -1,5 +1,6 @@
 {
   "_id": "qb3eKitJPBCpli7j",
+  "_key": "!items!qb3eKitJPBCpli7j",
   "name": "Guardian",
   "type": "class",
   "img": "icons/svg/shield.svg",
@@ -12,6 +13,7 @@
     "levels": 1,
     "hitDice": "d10",
     "casterProgression": "half",
+    "castingSchool": "force",
     "castingAbility": "wis",
     "primaryAbility": [
       "str",

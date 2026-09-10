@@ -1,5 +1,6 @@
 {
   "_id": "UV9PNVqr6TeFAkYx",
+  "_key": "!items!UV9PNVqr6TeFAkYx",
   "name": "Sentinel",
   "type": "class",
   "img": "icons/svg/lightning.svg",
@@ -11,7 +12,8 @@
     "source": "PHB Ch.3 Classes",
     "levels": 1,
     "hitDice": "d8",
-    "casterProgression": "twothirds",
+    "casterProgression": "threequarters",
+    "castingSchool": "force",
     "castingAbility": "wis",
     "primaryAbility": [
       "wis",
