@@ -126,6 +126,33 @@
   color: var(--sw5e-color-accent);
 }
 
+/* ---------- Scrolling ----------
+   Declaring `scrollable` in an ApplicationV2 PARTS entry only tells Foundry
+   which element's scroll position to remember/restore across re-renders --
+   it does NOT itself add the CSS needed to actually scroll. Every sheet
+   part here (each PART's own root element, e.g. `.wizard-body` or the tab
+   `<section>`s) becomes a direct child of Foundry's own `.window-content`,
+   so we make window-content a bounded flex column and let every part
+   except the fixed header/tab-nav rows grow to fill and scroll
+   independently. Without this, long lists (a big power/maneuver picker in
+   the Character Wizard, a full inventory, etc.) just overflowed the fixed-
+   height window with no way to reach the rest -- no scrollbar ever
+   appeared because nothing in this file declared `overflow-y: auto`. */
+
+.sw5e.sheet .window-content {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.sw5e.sheet .window-content > [data-application-part] {
+  flex: 0 0 auto;
+}
+.sw5e.sheet .window-content > [data-application-part]:not([data-application-part="header"]):not([data-application-part="tabs"]) {
+  flex: 1 1 auto;
+  overflow-y: auto;
+  min-height: 0;
+}
+
 /* ---------- Header ---------- */
 
 .sw5e .sheet-header {

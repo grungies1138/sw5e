@@ -40,12 +40,12 @@ export default class SW5eStarshipSheet extends HandlebarsApplicationMixin(ActorS
   static PARTS = {
     header: { template: "systems/sw5e/templates/actor/parts/starship-header.hbs" },
     tabs: { template: "templates/generic/tab-navigation.hbs" },
-    main: { template: "systems/sw5e/templates/actor/parts/starship-main.hbs" },
-    power: { template: "systems/sw5e/templates/actor/parts/starship-power.hbs" },
-    crew: { template: "systems/sw5e/templates/actor/parts/starship-crew.hbs" },
-    actions: { template: "systems/sw5e/templates/actor/parts/starship-actions.hbs" },
-    inventory: { template: "systems/sw5e/templates/actor/parts/starship-inventory.hbs" },
-    biography: { template: "systems/sw5e/templates/actor/parts/biography.hbs" }
+    main: { template: "systems/sw5e/templates/actor/parts/starship-main.hbs", scrollable: [""] },
+    power: { template: "systems/sw5e/templates/actor/parts/starship-power.hbs", scrollable: [""] },
+    crew: { template: "systems/sw5e/templates/actor/parts/starship-crew.hbs", scrollable: [""] },
+    actions: { template: "systems/sw5e/templates/actor/parts/starship-actions.hbs", scrollable: [""] },
+    inventory: { template: "systems/sw5e/templates/actor/parts/starship-inventory.hbs", scrollable: [""] },
+    biography: { template: "systems/sw5e/templates/actor/parts/biography.hbs", scrollable: [""] }
   };
 
   tabGroups = { primary: "main" };

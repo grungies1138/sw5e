@@ -33,7 +33,7 @@ export default class SW5eCharacterSheet extends HandlebarsApplicationMixin(Actor
     inventory: { template: "systems/sw5e/templates/actor/parts/character-inventory.hbs", scrollable: [""] },
     powers: { template: "systems/sw5e/templates/actor/parts/character-powers.hbs", scrollable: [""] },
     features: { template: "systems/sw5e/templates/actor/parts/character-features.hbs", scrollable: [""] },
-    biography: { template: "systems/sw5e/templates/actor/parts/biography.hbs" }
+    biography: { template: "systems/sw5e/templates/actor/parts/biography.hbs", scrollable: [""] }
   };
 
   tabGroups = { primary: "main" };
