@@ -2,6 +2,6 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# Compiled compendium packs (LevelDB) -- generated from src/packs/*.json
-# via `npm run build:packs`. Keep the JSON source tracked; not the build output.
-/packs/
+# LevelDB's own process-lock sentinel file, held open (unreadable) while
+# Foundry has a pack loaded -- not meaningful content, recreated on open.
+packs/**/LOCK
