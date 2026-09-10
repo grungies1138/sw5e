@@ -2,7 +2,7 @@
   "id": "sw5e",
   "title": "Star Wars 5e",
   "description": "An unofficial, from-scratch Foundry Virtual Tabletop implementation of Star Wars 5e (sw5e.com) — a Star Wars conversion of the 5th edition ruleset. Features deep, first-class starship combat: routed power dice, six crew deployment roles, hull/shield mechanics, system damage, and crew-based ship initiative.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest": "https://github.com/grungies1138/sw5e/releases/latest/download/system.json",
   "download": "https://github.com/grungies1138/sw5e/releases/latest/download/system.zip",
   "compatibility": {
