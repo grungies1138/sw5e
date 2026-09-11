@@ -103,6 +103,7 @@ Hooks.once("init", () => {
   DocumentSheetConfig.registerSheet(Item, "sw5e", SW5eItemSheet, { makeDefault: true, label: "SW5E.SheetClassItem" });
 
   registerHandlebarsHelpers();
+  registerSheetThemeSetting();
 });
 
 /* -------------------------------------------- */
@@ -231,4 +232,62 @@ function registerHandlebarsHelpers() {
     if (!max) return 0;
     return Math.round((Number(value) / Number(max)) * 100);
   });
+}
+
+/* -------------------------------------------- */
+/*  Sheet Theme                                  */
+/* -------------------------------------------- */
+
+/**
+ * Every selectable value for the "Sheet Theme" client setting, keyed to the
+ * matching `body[data-sw5e-theme="<key>"]` block in styles/sw5e.css -- see
+ * that file for what each one actually looks like and (for the
+ * character-inspired themes) which real reference photos its colors were
+ * checked against.
+ */
+const SHEET_THEMES = {
+  holo: "SW5E.ThemeHolo",
+  "holo-light": "SW5E.ThemeHoloLight",
+  broadside: "SW5E.ThemeBroadside",
+  trench: "SW5E.ThemeTrench",
+  vitrine: "SW5E.ThemeVitrine",
+  forge: "SW5E.ThemeForge",
+  vader: "SW5E.ThemeVader",
+  solo: "SW5E.ThemeSolo",
+  leia: "SW5E.ThemeLeia",
+  poe: "SW5E.ThemePoe",
+  r2d2: "SW5E.ThemeR2D2",
+  threepio: "SW5E.ThemeThreepio",
+  fett: "SW5E.ThemeFett",
+  yoda: "SW5E.ThemeYoda",
+  ahsoka: "SW5E.ThemeAhsoka",
+  palpatine: "SW5E.ThemePalpatine",
+  jabba: "SW5E.ThemeJabba",
+  lando: "SW5E.ThemeLando",
+  windu: "SW5E.ThemeWindu"
+};
+
+/** Stamp the chosen theme's key onto <body> -- every sheet window is a direct child of it, so this re-themes every open sheet live, no re-render needed. */
+function applySheetTheme(theme) {
+  document.body.dataset.sw5eTheme = theme in SHEET_THEMES ? theme : "holo";
+}
+
+/**
+ * A client-scoped setting (each player picks their own, independent of
+ * everyone else at the table) rendered as a dropdown in Settings > Configure
+ * Settings > Star Wars 5e, since Foundry auto-renders a `choices`-bearing
+ * setting that way -- no bespoke UI needed for "a dropdown to pick a theme".
+ */
+function registerSheetThemeSetting() {
+  game.settings.register("sw5e", "sheetTheme", {
+    name: "SW5E.SettingSheetThemeName",
+    hint: "SW5E.SettingSheetThemeHint",
+    scope: "client",
+    config: true,
+    type: String,
+    choices: SHEET_THEMES,
+    default: "holo",
+    onChange: applySheetTheme
+  });
+  applySheetTheme(game.settings.get("sw5e", "sheetTheme"));
 }

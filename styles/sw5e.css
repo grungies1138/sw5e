@@ -1,25 +1,39 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700;800&family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700;800&family=Share+Tech+Mono&family=Anton&family=Space+Mono:wght@400;700&family=Barlow+Condensed:wght@400;500;600;700&family=VT323&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Cutive+Mono&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Big+Shoulders+Stencil+Display:wght@700;800&family=IBM+Plex+Mono:wght@400;500;600&family=Saira+Condensed:wght@400;500;600&family=Bruno+Ace&family=Red+Hat+Mono:wght@400;500;600&family=Titillium+Web:wght@400;600;700&family=Rye&family=Cousine:wght@400;700&family=Libre+Franklin:wght@400;500;600&family=Italiana&family=Jost:wght@400;500;600&family=Michroma&family=JetBrains+Mono:wght@400;500&family=Chakra+Petch:wght@400;500;600&family=Nunito+Sans:wght@400;600;700&family=Cinzel:wght@500;600;700&family=Bebas+Neue&family=Fira+Mono:wght@400;500&family=Barlow+Semi+Condensed:wght@400;500;600&family=Fraunces:ital,wght@0,500;0,600;1,400&family=Courier+Prime:wght@400;700&family=Lora:ital,wght@0,400;0,500;1,400&family=League+Spartan:wght@600;700&family=Ubuntu+Mono:wght@400;700&family=Karla:wght@400;500;600&family=Vidaloka&family=Crimson+Pro:ital,wght@0,400;0,500;1,400&family=Almendra&family=PT+Mono&family=Vollkorn:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&family=Overpass+Mono:wght@400;600&family=Manrope:wght@400;500;600&family=Marcellus&family=Anonymous+Pro:wght@400;700&family=Source+Serif+4:ital,wght@0,400;0,500;1,400&display=swap');
 
 /* ============================================================
    SW5E — Star Wars 5e system styling
-   "Holo-terminal" theme: a starship-computer / holoprojector
-   console look — glowing cyan readouts, angular HUD framing.
-   Original sci-fi styling, not a reproduction of any specific
-   franchise logo or trademark.
+
+   Nineteen selectable sheet themes, chosen per-player via a client
+   setting (Settings > Configure Settings > Star Wars 5e > Sheet
+   Theme) rather than baked into the system. Four are built around
+   an in-universe OBJECT (a recruitment print, a targeting computer,
+   a museum vitrine, an armorer's forge); the other fifteen borrow a
+   voice and a palette from a person WITHOUT reproducing an actual
+   likeness, crest, or single prop specific enough to double as a
+   trademark on its own (no Vader mask, no Mythosaur skull, no
+   T-visor, no astromech body proportions) -- color, type, and
+   material only, and sampled from real reference photos wherever
+   one was available (credited per-theme below).
+
+   Every rule below reads its colors/fonts from the --sw5e-* custom
+   properties, never a literal value, so a full theme swap only ever
+   means redefining ~24 tokens in ONE block -- see applySheetTheme()
+   in sw5e.mjs, which stamps the chosen theme's key as
+   `data-sw5e-theme` on <body> (every sheet window is a direct child
+   of <body>) and updates it live with no reload/re-render needed.
+   This supersedes Foundry's own light/dark UI toggle for sw5e sheets
+   specifically -- "Holo Terminal — Light" is offered as its own
+   selectable theme instead of following that separate OS-level
+   setting, so the one dropdown is the single source of truth.
 
    Lands in Foundry's "system" CSS cascade layer automatically
    (declared via system.json's `styles`), which already outranks
    core's built-in layers, so no !important hacks are needed.
-
-   Follows Foundry's own light/dark UI theme toggle (Configure
-   Settings > Interface): Foundry stamps `theme-dark` or
-   `theme-light` on <body>, and every sheet window is a direct
-   child of <body>, so the dark palette below is the default and
-   the `body.theme-light` block near the bottom re-points the same
-   custom properties to a bright "daylight console" variant instead
-   of hand-overriding every rule twice.
    ============================================================ */
 
+/* Fallback so a sheet rendered before the client setting resolves
+   still gets a real theme instead of unstyled text -- mirrors the
+   "holo" theme below exactly. */
 :root {
   --sw5e-color-accent: #35e0f2;
   --sw5e-color-accent-dark: #14838f;
@@ -45,6 +59,540 @@
   --sw5e-font-mono: "Share Tech Mono", "Consolas", monospace;
   --sw5e-font-body: "Signika", sans-serif;
   --sw5e-corner: 9px;
+}
+
+/* ---------- 01 Holo Terminal (dark) — the original default ---------- */
+body[data-sw5e-theme="holo"] {
+  --sw5e-color-accent: #35e0f2;
+  --sw5e-color-accent-dark: #14838f;
+  --sw5e-color-accent-dim: rgba(53, 224, 242, 0.35);
+  --sw5e-color-danger: #ff5252;
+  --sw5e-color-danger-dim: rgba(255, 82, 82, 0.35);
+  --sw5e-color-warn: #ffb454;
+  --sw5e-color-warn-dim: rgba(255, 180, 84, 0.35);
+  --sw5e-color-bg: #060a10;
+  --sw5e-color-panel: #0c141c;
+  --sw5e-color-panel-raised: #101b24;
+  --sw5e-color-border: #1f4750;
+  --sw5e-color-border-bright: #2d7d8a;
+  --sw5e-color-text: #d9f6fb;
+  --sw5e-color-text-muted: #6e94a0;
+  --sw5e-color-shield: #6a4fd6;
+  --sw5e-color-shield-bright: #9d8cf0;
+  --sw5e-bg-scanline: rgba(53, 224, 242, 0.02);
+  --sw5e-bg-glow: rgba(53, 224, 242, 0.06);
+  --sw5e-bg-hover: rgba(53, 224, 242, 0.04);
+  --sw5e-radius: 2px;
+  --sw5e-font-display: "Orbitron", "Segoe UI", sans-serif;
+  --sw5e-font-mono: "Share Tech Mono", "Consolas", monospace;
+  --sw5e-font-body: "Signika", sans-serif;
+  --sw5e-corner: 9px;
+}
+
+/* ---------- 02 Holo Terminal — Light ---------- */
+body[data-sw5e-theme="holo-light"] {
+  --sw5e-color-accent: #0f8fa3;
+  --sw5e-color-accent-dark: #0b6b7a;
+  --sw5e-color-accent-dim: rgba(15, 143, 163, 0.18);
+  --sw5e-color-danger: #c23b3b;
+  --sw5e-color-danger-dim: rgba(194, 59, 59, 0.16);
+  --sw5e-color-warn: #a8671f;
+  --sw5e-color-warn-dim: rgba(168, 103, 31, 0.16);
+  --sw5e-color-bg: #eef3f5;
+  --sw5e-color-panel: #ffffff;
+  --sw5e-color-panel-raised: #e1edf0;
+  --sw5e-color-border: #b7ccd1;
+  --sw5e-color-border-bright: #1c8494;
+  --sw5e-color-text: #10262b;
+  --sw5e-color-text-muted: #587480;
+  --sw5e-color-shield: #5b3fc0;
+  --sw5e-color-shield-bright: #8b74e0;
+  --sw5e-bg-scanline: rgba(15, 143, 163, 0.02);
+  --sw5e-bg-glow: rgba(15, 143, 163, 0.05);
+  --sw5e-bg-hover: rgba(15, 143, 163, 0.06);
+  --sw5e-radius: 2px;
+  --sw5e-font-display: "Orbitron", "Segoe UI", sans-serif;
+  --sw5e-font-mono: "Share Tech Mono", "Consolas", monospace;
+  --sw5e-font-body: "Signika", sans-serif;
+  --sw5e-corner: 9px;
+}
+
+/* ---------- 03 Rebel Broadside — screen-printed recruitment poster ---------- */
+body[data-sw5e-theme="broadside"] {
+  --sw5e-color-accent: #b8342a;
+  --sw5e-color-accent-dark: #8a241c;
+  --sw5e-color-accent-dim: rgba(184, 52, 42, 0.35);
+  --sw5e-color-danger: #8a1a14;
+  --sw5e-color-danger-dim: rgba(138, 26, 20, 0.3);
+  --sw5e-color-warn: #a8641f;
+  --sw5e-color-warn-dim: rgba(168, 100, 31, 0.3);
+  --sw5e-color-bg: #ece2c8;
+  --sw5e-color-panel: #f5eed9;
+  --sw5e-color-panel-raised: #e3d6b0;
+  --sw5e-color-border: #c9b98c;
+  --sw5e-color-border-bright: #1c1712;
+  --sw5e-color-text: #1c1712;
+  --sw5e-color-text-muted: #6b5c40;
+  --sw5e-color-shield: #3c6e78;
+  --sw5e-color-shield-bright: #5f9aa4;
+  --sw5e-bg-scanline: rgba(184, 52, 42, 0.03);
+  --sw5e-bg-glow: rgba(184, 52, 42, 0.05);
+  --sw5e-bg-hover: rgba(184, 52, 42, 0.05);
+  --sw5e-radius: 0px;
+  --sw5e-font-display: "Anton", sans-serif;
+  --sw5e-font-mono: "Space Mono", monospace;
+  --sw5e-font-body: "Barlow Condensed", sans-serif;
+  --sw5e-corner: 10px;
+}
+
+/* ---------- 04 Trench Run — phosphor-green vector targeting computer ---------- */
+body[data-sw5e-theme="trench"] {
+  --sw5e-color-accent: #39ff6a;
+  --sw5e-color-accent-dark: #1f9c47;
+  --sw5e-color-accent-dim: rgba(57, 255, 106, 0.35);
+  --sw5e-color-danger: #ff5252;
+  --sw5e-color-danger-dim: rgba(255, 82, 82, 0.3);
+  --sw5e-color-warn: #ffb000;
+  --sw5e-color-warn-dim: rgba(255, 176, 0, 0.3);
+  --sw5e-color-bg: #050604;
+  --sw5e-color-panel: #0c0f0a;
+  --sw5e-color-panel-raised: #12160f;
+  --sw5e-color-border: #1f6b3a;
+  --sw5e-color-border-bright: #2f9c52;
+  --sw5e-color-text: #8fe6a8;
+  --sw5e-color-text-muted: #3f7a55;
+  --sw5e-color-shield: #4fc3f7;
+  --sw5e-color-shield-bright: #7fd4ff;
+  --sw5e-bg-scanline: rgba(57, 255, 106, 0.045);
+  --sw5e-bg-glow: rgba(57, 255, 106, 0.06);
+  --sw5e-bg-hover: rgba(57, 255, 106, 0.05);
+  --sw5e-radius: 2px;
+  --sw5e-font-display: "Share Tech Mono", monospace;
+  --sw5e-font-mono: "VT323", monospace;
+  --sw5e-font-body: "Share Tech Mono", monospace;
+  --sw5e-corner: 8px;
+}
+
+/* ---------- 05 Relic Vitrine — museum spotlight on glass ---------- */
+body[data-sw5e-theme="vitrine"] {
+  --sw5e-color-accent: #c9a15a;
+  --sw5e-color-accent-dark: #9a7a3f;
+  --sw5e-color-accent-dim: rgba(201, 161, 90, 0.3);
+  --sw5e-color-danger: #a8453a;
+  --sw5e-color-danger-dim: rgba(168, 69, 58, 0.3);
+  --sw5e-color-warn: #b8873f;
+  --sw5e-color-warn-dim: rgba(184, 135, 63, 0.3);
+  --sw5e-color-bg: #17181b;
+  --sw5e-color-panel: #1d1e21;
+  --sw5e-color-panel-raised: #23242a;
+  --sw5e-color-border: #33322d;
+  --sw5e-color-border-bright: #c9a15a;
+  --sw5e-color-text: #e5e0d3;
+  --sw5e-color-text-muted: #8a8677;
+  --sw5e-color-shield: #3c5568;
+  --sw5e-color-shield-bright: #5c7c94;
+  --sw5e-bg-scanline: rgba(201, 161, 90, 0.02);
+  --sw5e-bg-glow: rgba(201, 161, 90, 0.05);
+  --sw5e-bg-hover: rgba(201, 161, 90, 0.05);
+  --sw5e-radius: 1px;
+  --sw5e-font-display: "Cormorant Garamond", serif;
+  --sw5e-font-mono: "Cutive Mono", monospace;
+  --sw5e-font-body: "EB Garamond", serif;
+  --sw5e-corner: 6px;
+}
+
+/* ---------- 06 The Mandalorian & Grogu — lightened gunmetal, a second green accent ---------- */
+body[data-sw5e-theme="forge"] {
+  --sw5e-color-accent: #e0672a;
+  --sw5e-color-accent-dark: #a84d1f;
+  --sw5e-color-accent-dim: rgba(224, 103, 42, 0.3);
+  --sw5e-color-danger: #c23b3b;
+  --sw5e-color-danger-dim: rgba(194, 59, 59, 0.3);
+  --sw5e-color-warn: #d99a3f;
+  --sw5e-color-warn-dim: rgba(217, 154, 63, 0.3);
+  --sw5e-color-bg: #21251f;
+  --sw5e-color-panel: #2c3028;
+  --sw5e-color-panel-raised: #363b31;
+  --sw5e-color-border: #5c6355;
+  --sw5e-color-border-bright: #7a8272;
+  --sw5e-color-text: #dde3d5;
+  --sw5e-color-text-muted: #8b9483;
+  --sw5e-color-shield: #8bb279;
+  --sw5e-color-shield-bright: #a9cc9a;
+  --sw5e-bg-scanline: rgba(224, 103, 42, 0.02);
+  --sw5e-bg-glow: rgba(139, 178, 121, 0.06);
+  --sw5e-bg-hover: rgba(224, 103, 42, 0.04);
+  --sw5e-radius: 3px;
+  --sw5e-font-display: "Big Shoulders Stencil Display", sans-serif;
+  --sw5e-font-mono: "IBM Plex Mono", monospace;
+  --sw5e-font-body: "Saira Condensed", sans-serif;
+  --sw5e-corner: 8px;
+}
+
+/* ---------- 07 Darth Vader — obsidian black, one slow red pulse ---------- */
+body[data-sw5e-theme="vader"] {
+  --sw5e-color-accent: #c81e2c;
+  --sw5e-color-accent-dark: #8a121c;
+  --sw5e-color-accent-dim: rgba(200, 30, 44, 0.35);
+  --sw5e-color-danger: #c81e2c;
+  --sw5e-color-danger-dim: rgba(200, 30, 44, 0.35);
+  --sw5e-color-warn: #b5501f;
+  --sw5e-color-warn-dim: rgba(181, 80, 31, 0.3);
+  --sw5e-color-bg: #0a0a0c;
+  --sw5e-color-panel: #0e0e11;
+  --sw5e-color-panel-raised: #131316;
+  --sw5e-color-border: #24252a;
+  --sw5e-color-border-bright: #3a3d42;
+  --sw5e-color-text: #c7c9cc;
+  --sw5e-color-text-muted: #5a5d62;
+  --sw5e-color-shield: #5a6d8a;
+  --sw5e-color-shield-bright: #7c93b0;
+  --sw5e-bg-scanline: rgba(200, 30, 44, 0.02);
+  --sw5e-bg-glow: rgba(200, 30, 44, 0.06);
+  --sw5e-bg-hover: rgba(200, 30, 44, 0.04);
+  --sw5e-radius: 0px;
+  --sw5e-font-display: "Bruno Ace", sans-serif;
+  --sw5e-font-mono: "Red Hat Mono", monospace;
+  --sw5e-font-body: "Titillium Web", sans-serif;
+  --sw5e-corner: 10px;
+}
+
+/* ---------- 08 Han Solo — worn leather, one bloodstripe of red ---------- */
+body[data-sw5e-theme="solo"] {
+  --sw5e-color-accent: #c9974a;
+  --sw5e-color-accent-dark: #96702f;
+  --sw5e-color-accent-dim: rgba(201, 151, 74, 0.3);
+  --sw5e-color-danger: #b5262a;
+  --sw5e-color-danger-dim: rgba(181, 38, 42, 0.3);
+  --sw5e-color-warn: #c9974a;
+  --sw5e-color-warn-dim: rgba(201, 151, 74, 0.3);
+  --sw5e-color-bg: #241a10;
+  --sw5e-color-panel: #2e2015;
+  --sw5e-color-panel-raised: #3a2818;
+  --sw5e-color-border: #4a3822;
+  --sw5e-color-border-bright: #c9974a;
+  --sw5e-color-text: #e8ddc9;
+  --sw5e-color-text-muted: #a68e6b;
+  --sw5e-color-shield: #6b8a99;
+  --sw5e-color-shield-bright: #8fadbb;
+  --sw5e-bg-scanline: rgba(201, 151, 74, 0.02);
+  --sw5e-bg-glow: rgba(181, 38, 42, 0.05);
+  --sw5e-bg-hover: rgba(201, 151, 74, 0.04);
+  --sw5e-radius: 2px;
+  --sw5e-font-display: "Rye", cursive;
+  --sw5e-font-mono: "Cousine", monospace;
+  --sw5e-font-body: "Libre Franklin", sans-serif;
+  --sw5e-corner: 9px;
+}
+
+/* ---------- 09 Leia Organa — ivory & rebel orange, a braided rule ---------- */
+body[data-sw5e-theme="leia"] {
+  --sw5e-color-accent: #c3611f;
+  --sw5e-color-accent-dark: #8a4415;
+  --sw5e-color-accent-dim: rgba(195, 97, 31, 0.3);
+  --sw5e-color-danger: #a8342a;
+  --sw5e-color-danger-dim: rgba(168, 52, 42, 0.3);
+  --sw5e-color-warn: #c3611f;
+  --sw5e-color-warn-dim: rgba(195, 97, 31, 0.3);
+  --sw5e-color-bg: #f1ece1;
+  --sw5e-color-panel: #faf6ec;
+  --sw5e-color-panel-raised: #e8dfc9;
+  --sw5e-color-border: #d6cbb4;
+  --sw5e-color-border-bright: #2c3a52;
+  --sw5e-color-text: #2a2018;
+  --sw5e-color-text-muted: #8a7c68;
+  --sw5e-color-shield: #2c3a52;
+  --sw5e-color-shield-bright: #4a5f80;
+  --sw5e-bg-scanline: rgba(195, 97, 31, 0.02);
+  --sw5e-bg-glow: rgba(195, 97, 31, 0.04);
+  --sw5e-bg-hover: rgba(195, 97, 31, 0.04);
+  --sw5e-radius: 8px;
+  --sw5e-font-display: "Italiana", serif;
+  --sw5e-font-mono: "Space Mono", monospace;
+  --sw5e-font-body: "Jost", sans-serif;
+  --sw5e-corner: 6px;
+}
+
+/* ---------- 10 Poe Dameron — cockpit charcoal, HUD brackets ---------- */
+body[data-sw5e-theme="poe"] {
+  --sw5e-color-accent: #d9541e;
+  --sw5e-color-accent-dark: #a03f16;
+  --sw5e-color-accent-dim: rgba(217, 84, 30, 0.3);
+  --sw5e-color-danger: #d9541e;
+  --sw5e-color-danger-dim: rgba(217, 84, 30, 0.3);
+  --sw5e-color-warn: #c9962f;
+  --sw5e-color-warn-dim: rgba(201, 150, 47, 0.3);
+  --sw5e-color-bg: #1c1d1f;
+  --sw5e-color-panel: #212325;
+  --sw5e-color-panel-raised: #262829;
+  --sw5e-color-border: #383a3d;
+  --sw5e-color-border-bright: #d9541e;
+  --sw5e-color-text: #eef0ea;
+  --sw5e-color-text-muted: #8d9093;
+  --sw5e-color-shield: #3f7fa6;
+  --sw5e-color-shield-bright: #5f9fc6;
+  --sw5e-bg-scanline: rgba(217, 84, 30, 0.02);
+  --sw5e-bg-glow: rgba(63, 127, 166, 0.05);
+  --sw5e-bg-hover: rgba(217, 84, 30, 0.04);
+  --sw5e-radius: 0px;
+  --sw5e-font-display: "Michroma", sans-serif;
+  --sw5e-font-mono: "JetBrains Mono", monospace;
+  --sw5e-font-body: "Titillium Web", sans-serif;
+  --sw5e-corner: 8px;
+}
+
+/* ---------- 11 R2-D2 — white chassis, astromech blue ---------- */
+body[data-sw5e-theme="r2d2"] {
+  --sw5e-color-accent: #2f6fb0;
+  --sw5e-color-accent-dark: #1f4d80;
+  --sw5e-color-accent-dim: rgba(47, 111, 176, 0.3);
+  --sw5e-color-danger: #a8342a;
+  --sw5e-color-danger-dim: rgba(168, 52, 42, 0.3);
+  --sw5e-color-warn: #b8873f;
+  --sw5e-color-warn-dim: rgba(184, 135, 63, 0.3);
+  --sw5e-color-bg: #e7eaec;
+  --sw5e-color-panel: #f4f6f7;
+  --sw5e-color-panel-raised: #d7dce0;
+  --sw5e-color-border: #c2c9cd;
+  --sw5e-color-border-bright: #2f6fb0;
+  --sw5e-color-text: #1c2733;
+  --sw5e-color-text-muted: #7c8896;
+  --sw5e-color-shield: #2f6fb0;
+  --sw5e-color-shield-bright: #5f9fd6;
+  --sw5e-bg-scanline: rgba(47, 111, 176, 0.02);
+  --sw5e-bg-glow: rgba(47, 111, 176, 0.04);
+  --sw5e-bg-hover: rgba(47, 111, 176, 0.04);
+  --sw5e-radius: 10px;
+  --sw5e-font-display: "Chakra Petch", sans-serif;
+  --sw5e-font-mono: "Chakra Petch", sans-serif;
+  --sw5e-font-body: "Nunito Sans", sans-serif;
+  --sw5e-corner: 8px;
+}
+
+/* ---------- 12 C-3PO — brass gold sampled from an on-set photo; the silver
+   leg and red arm from later films become the shield/danger colors ---------- */
+body[data-sw5e-theme="threepio"] {
+  --sw5e-color-accent: #c6984e;
+  --sw5e-color-accent-dark: #8f6a30;
+  --sw5e-color-accent-dim: rgba(198, 152, 78, 0.3);
+  --sw5e-color-danger: #a13a2e;
+  --sw5e-color-danger-dim: rgba(161, 58, 46, 0.3);
+  --sw5e-color-warn: #c6984e;
+  --sw5e-color-warn-dim: rgba(198, 152, 78, 0.3);
+  --sw5e-color-bg: #1b1408;
+  --sw5e-color-panel: #2b1f0f;
+  --sw5e-color-panel-raised: #3a2a14;
+  --sw5e-color-border: #4a3a1e;
+  --sw5e-color-border-bright: #c6984e;
+  --sw5e-color-text: #f5e9c8;
+  --sw5e-color-text-muted: #8a7a5c;
+  --sw5e-color-shield: #9aa0a6;
+  --sw5e-color-shield-bright: #b8bcc0;
+  --sw5e-bg-scanline: rgba(198, 152, 78, 0.02);
+  --sw5e-bg-glow: rgba(198, 152, 78, 0.05);
+  --sw5e-bg-hover: rgba(198, 152, 78, 0.04);
+  --sw5e-radius: 6px;
+  --sw5e-font-display: "Cinzel", serif;
+  --sw5e-font-mono: "Cutive Mono", monospace;
+  --sw5e-font-body: "EB Garamond", serif;
+  --sw5e-corner: 7px;
+}
+
+/* ---------- 13 Boba Fett — weathered olive armor, one rust pauldron
+   (colors cross-checked against an actual costume photo) ---------- */
+body[data-sw5e-theme="fett"] {
+  --sw5e-color-accent: #c9a256;
+  --sw5e-color-accent-dark: #96773a;
+  --sw5e-color-accent-dim: rgba(201, 162, 86, 0.3);
+  --sw5e-color-danger: #7a2e28;
+  --sw5e-color-danger-dim: rgba(122, 46, 40, 0.3);
+  --sw5e-color-warn: #c9a256;
+  --sw5e-color-warn-dim: rgba(201, 162, 86, 0.3);
+  --sw5e-color-bg: #1c1f16;
+  --sw5e-color-panel: #262b1c;
+  --sw5e-color-panel-raised: #333a26;
+  --sw5e-color-border: #565f45;
+  --sw5e-color-border-bright: #c9a256;
+  --sw5e-color-text: #ded4bc;
+  --sw5e-color-text-muted: #8a9075;
+  --sw5e-color-shield: #5f7050;
+  --sw5e-color-shield-bright: #7a8f60;
+  --sw5e-bg-scanline: rgba(201, 162, 86, 0.02);
+  --sw5e-bg-glow: rgba(122, 46, 40, 0.05);
+  --sw5e-bg-hover: rgba(201, 162, 86, 0.04);
+  --sw5e-radius: 2px;
+  --sw5e-font-display: "Bebas Neue", sans-serif;
+  --sw5e-font-mono: "Fira Mono", monospace;
+  --sw5e-font-body: "Barlow Semi Condensed", sans-serif;
+  --sw5e-corner: 8px;
+}
+
+/* ---------- 14 Yoda — moss green, old cane-wood brown ---------- */
+body[data-sw5e-theme="yoda"] {
+  --sw5e-color-accent: #9bc078;
+  --sw5e-color-accent-dark: #6b8f4e;
+  --sw5e-color-accent-dim: rgba(155, 192, 120, 0.3);
+  --sw5e-color-danger: #a8453a;
+  --sw5e-color-danger-dim: rgba(168, 69, 58, 0.3);
+  --sw5e-color-warn: #b8944a;
+  --sw5e-color-warn-dim: rgba(184, 148, 74, 0.3);
+  --sw5e-color-bg: #1e1a10;
+  --sw5e-color-panel: #2c2416;
+  --sw5e-color-panel-raised: #332b1a;
+  --sw5e-color-border: #4a3f28;
+  --sw5e-color-border-bright: #7fa05e;
+  --sw5e-color-text: #e2d9c2;
+  --sw5e-color-text-muted: #8a7f62;
+  --sw5e-color-shield: #6b8fa0;
+  --sw5e-color-shield-bright: #8fadbb;
+  --sw5e-bg-scanline: rgba(127, 160, 94, 0.02);
+  --sw5e-bg-glow: rgba(127, 160, 94, 0.05);
+  --sw5e-bg-hover: rgba(127, 160, 94, 0.04);
+  --sw5e-radius: 10px;
+  --sw5e-font-display: "Fraunces", serif;
+  --sw5e-font-mono: "Courier Prime", monospace;
+  --sw5e-font-body: "Lora", serif;
+  --sw5e-corner: 6px;
+}
+
+/* ---------- 15 Ahsoka Tano — orange skin, white/blue lekku stripes ---------- */
+body[data-sw5e-theme="ahsoka"] {
+  --sw5e-color-accent: #e08a42;
+  --sw5e-color-accent-dark: #a8632c;
+  --sw5e-color-accent-dim: rgba(224, 138, 66, 0.3);
+  --sw5e-color-danger: #a8342a;
+  --sw5e-color-danger-dim: rgba(168, 52, 42, 0.3);
+  --sw5e-color-warn: #e08a42;
+  --sw5e-color-warn-dim: rgba(224, 138, 66, 0.3);
+  --sw5e-color-bg: #16191c;
+  --sw5e-color-panel: #1c2024;
+  --sw5e-color-panel-raised: #242a2f;
+  --sw5e-color-border: #33393f;
+  --sw5e-color-border-bright: #4fc9e0;
+  --sw5e-color-text: #e4e7e9;
+  --sw5e-color-text-muted: #7a8a94;
+  --sw5e-color-shield: #3fa0c9;
+  --sw5e-color-shield-bright: #4fc9e0;
+  --sw5e-bg-scanline: rgba(224, 138, 66, 0.02);
+  --sw5e-bg-glow: rgba(63, 160, 201, 0.05);
+  --sw5e-bg-hover: rgba(224, 138, 66, 0.04);
+  --sw5e-radius: 4px;
+  --sw5e-font-display: "League Spartan", sans-serif;
+  --sw5e-font-mono: "Ubuntu Mono", monospace;
+  --sw5e-font-body: "Karla", sans-serif;
+  --sw5e-corner: 8px;
+}
+
+/* ---------- 16 Emperor Palpatine — corpse-pale, black hood, blue lightning ---------- */
+body[data-sw5e-theme="palpatine"] {
+  --sw5e-color-accent: #6ad1ff;
+  --sw5e-color-accent-dark: #3a9dc9;
+  --sw5e-color-accent-dim: rgba(106, 209, 255, 0.3);
+  --sw5e-color-danger: #8a8f8a;
+  --sw5e-color-danger-dim: rgba(138, 143, 138, 0.3);
+  --sw5e-color-warn: #a5a091;
+  --sw5e-color-warn-dim: rgba(165, 160, 145, 0.25);
+  --sw5e-color-bg: #08090a;
+  --sw5e-color-panel: #0d0d0e;
+  --sw5e-color-panel-raised: #131415;
+  --sw5e-color-border: #232527;
+  --sw5e-color-border-bright: #3a3d3a;
+  --sw5e-color-text: #a5a091;
+  --sw5e-color-text-muted: #5c5f5c;
+  --sw5e-color-shield: #6ad1ff;
+  --sw5e-color-shield-bright: #8fdfff;
+  --sw5e-bg-scanline: rgba(106, 209, 255, 0.02);
+  --sw5e-bg-glow: rgba(106, 209, 255, 0.05);
+  --sw5e-bg-hover: rgba(106, 209, 255, 0.03);
+  --sw5e-radius: 4px;
+  --sw5e-font-display: "Vidaloka", serif;
+  --sw5e-font-mono: "JetBrains Mono", monospace;
+  --sw5e-font-body: "Crimson Pro", serif;
+  --sw5e-corner: 8px;
+}
+
+/* ---------- 17 Jabba the Hutt — olive-brown, gold, palace burgundy ---------- */
+body[data-sw5e-theme="jabba"] {
+  --sw5e-color-accent: #c9973f;
+  --sw5e-color-accent-dark: #96712d;
+  --sw5e-color-accent-dim: rgba(201, 151, 63, 0.3);
+  --sw5e-color-danger: #8a342a;
+  --sw5e-color-danger-dim: rgba(138, 52, 42, 0.3);
+  --sw5e-color-warn: #c9973f;
+  --sw5e-color-warn-dim: rgba(201, 151, 63, 0.3);
+  --sw5e-color-bg: #1a1108;
+  --sw5e-color-panel: #2a1c12;
+  --sw5e-color-panel-raised: #3a2c1a;
+  --sw5e-color-border: #6b5636;
+  --sw5e-color-border-bright: #c9973f;
+  --sw5e-color-text: #e6d7bc;
+  --sw5e-color-text-muted: #8a7a5c;
+  --sw5e-color-shield: #5c1f24;
+  --sw5e-color-shield-bright: #8a3540;
+  --sw5e-bg-scanline: rgba(201, 151, 63, 0.02);
+  --sw5e-bg-glow: rgba(92, 31, 36, 0.08);
+  --sw5e-bg-hover: rgba(201, 151, 63, 0.04);
+  --sw5e-radius: 10px;
+  --sw5e-font-display: "Almendra", serif;
+  --sw5e-font-mono: "PT Mono", monospace;
+  --sw5e-font-body: "Vollkorn", serif;
+  --sw5e-corner: 8px;
+}
+
+/* ---------- 18 Lando Calrissian — blue cape, mustard shirt, suave ---------- */
+body[data-sw5e-theme="lando"] {
+  --sw5e-color-accent: #c9962f;
+  --sw5e-color-accent-dark: #96702a;
+  --sw5e-color-accent-dim: rgba(201, 150, 47, 0.3);
+  --sw5e-color-danger: #a8342a;
+  --sw5e-color-danger-dim: rgba(168, 52, 42, 0.3);
+  --sw5e-color-warn: #c9962f;
+  --sw5e-color-warn-dim: rgba(201, 150, 47, 0.3);
+  --sw5e-color-bg: #14171f;
+  --sw5e-color-panel: #1c2030;
+  --sw5e-color-panel-raised: #232840;
+  --sw5e-color-border: #37405a;
+  --sw5e-color-border-bright: #5c7bc9;
+  --sw5e-color-text: #e4e6ee;
+  --sw5e-color-text-muted: #7c88a6;
+  --sw5e-color-shield: #3a5aa0;
+  --sw5e-color-shield-bright: #5c7bc9;
+  --sw5e-bg-scanline: rgba(201, 150, 47, 0.02);
+  --sw5e-bg-glow: rgba(58, 90, 160, 0.05);
+  --sw5e-bg-hover: rgba(201, 150, 47, 0.04);
+  --sw5e-radius: 8px;
+  --sw5e-font-display: "Playfair Display", serif;
+  --sw5e-font-mono: "Overpass Mono", monospace;
+  --sw5e-font-body: "Manrope", sans-serif;
+  --sw5e-corner: 6px;
+}
+
+/* ---------- 19 Mace Windu — Jedi brown, the one purple blade ---------- */
+body[data-sw5e-theme="windu"] {
+  --sw5e-color-accent: #9457c2;
+  --sw5e-color-accent-dark: #6b3a94;
+  --sw5e-color-accent-dim: rgba(148, 87, 194, 0.3);
+  --sw5e-color-danger: #a8342a;
+  --sw5e-color-danger-dim: rgba(168, 52, 42, 0.3);
+  --sw5e-color-warn: #b8874a;
+  --sw5e-color-warn-dim: rgba(184, 135, 74, 0.3);
+  --sw5e-color-bg: #17140f;
+  --sw5e-color-panel: #241f16;
+  --sw5e-color-panel-raised: #2e2818;
+  --sw5e-color-border: #453c2a;
+  --sw5e-color-border-bright: #9457c2;
+  --sw5e-color-text: #e6ddc9;
+  --sw5e-color-text-muted: #8a8172;
+  --sw5e-color-shield: #5c6b8a;
+  --sw5e-color-shield-bright: #7c8fb0;
+  --sw5e-bg-scanline: rgba(148, 87, 194, 0.02);
+  --sw5e-bg-glow: rgba(148, 87, 194, 0.05);
+  --sw5e-bg-hover: rgba(148, 87, 194, 0.03);
+  --sw5e-radius: 2px;
+  --sw5e-font-display: "Marcellus", serif;
+  --sw5e-font-mono: "Anonymous Pro", monospace;
+  --sw5e-font-body: "Source Serif 4", serif;
+  --sw5e-corner: 8px;
 }
 
 /* ---------- Base ---------- */
@@ -384,41 +932,6 @@
 
 .sw5e .editor-content, .sw5e .editor-content p { color: var(--sw5e-color-text); line-height: 1.5; }
 .sw5e .editor-content strong { color: var(--sw5e-color-accent); }
-
-/* ============================================================
-   Light theme — "daylight console" variant
-   Foundry stamps `theme-light` on <body> when the user's
-   Interface setting (or their OS, on "Automatic") resolves to
-   light mode. Every sheet window is a direct child of <body>,
-   so this one block re-points the same custom properties used
-   everywhere above to a bright, high-contrast palette instead
-   of restating every rule. Glows are dialed way down here —
-   a bright cyan blur that reads as a "holo" glow on a near-black
-   panel just looks like a smudge on white, so the dim/glow
-   tokens below use much lower alpha than their dark-theme values.
-   ============================================================ */
-
-body.theme-light .sw5e.sheet {
-  --sw5e-color-accent: #0f8fa3;
-  --sw5e-color-accent-dark: #0b6b7a;
-  --sw5e-color-accent-dim: rgba(15, 143, 163, 0.18);
-  --sw5e-color-danger: #c23b3b;
-  --sw5e-color-danger-dim: rgba(194, 59, 59, 0.16);
-  --sw5e-color-warn: #a8671f;
-  --sw5e-color-warn-dim: rgba(168, 103, 31, 0.16);
-  --sw5e-color-bg: #eef3f5;
-  --sw5e-color-panel: #ffffff;
-  --sw5e-color-panel-raised: #e1edf0;
-  --sw5e-color-border: #b7ccd1;
-  --sw5e-color-border-bright: #1c8494;
-  --sw5e-color-text: #10262b;
-  --sw5e-color-text-muted: #587480;
-  --sw5e-color-shield: #5b3fc0;
-  --sw5e-color-shield-bright: #8b74e0;
-  --sw5e-bg-scanline: rgba(15, 143, 163, 0.02);
-  --sw5e-bg-glow: rgba(15, 143, 163, 0.05);
-  --sw5e-bg-hover: rgba(15, 143, 163, 0.06);
-}
 
 /* -------------------------------------------- */
 /*  Character Wizard                             */
